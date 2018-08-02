@@ -9,6 +9,8 @@
 - title: MEDIA CENTRE
   url: /media-centre/
   sub-links:
+  - title: All
+    url: /media-centre/
   - title: Parliamentary Replies
     url: /media-centre/parliamentary-replies/
   - title: Press Releases
