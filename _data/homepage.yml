@@ -1,0 +1,40 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Agency logo
+agency-logo: /images/agency-logo.gif
+
+# Hero Banner
+hero-title: Strategy Group Singapore
+hero-subtitle: Driving whole-of-government strategic planning by identifying key priorities and emerging issues over the medium to long-term.
+hero-banner: /images/banner_GardenBay.png
+
+# key-highlights:
+#   - title: Highlight A
+#     description: Important highlight A is important
+#     url: https://google.com
+#     external: true
+#   - title: Highlight B
+#     description: Important highlight B is equally important
+#     url: https://yahoo.com
+#     external: true
+#   - title: Page A
+#     description: Page A is important too
+#     url: /page-A/
+#   - title: Dropdown A Content C
+#     description: Dropdown A Content C is v important
+#     url: /dropdown-A/content-C/
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+# Resources Section
+resources-title: Media Centre
+resources-subtitle: Latest News
+resources-more-button: More Media
+resources-more-button-url: media-centre/
