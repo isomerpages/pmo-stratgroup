@@ -19,8 +19,8 @@ The first prize in the Secondary Schools and Junior Colleges category was presen
 
 The top entry in the Institutes of Higher Learning category was submitted by ITE College East. Their animation depicts how a climate-friendly Singapore looks like in 2030 with buildings fitted with energy saving lifts and rooftop gardens to reduce urban heat, more accessible public transport options, as well as factories running on sustainable energy sources.
 
-A Viewers’ Choice contest was conducted separately on NCCS’ <a href="https://www.facebook.com/ClimateChangeSG/">Climate Change SG Facebook page</a> where members of the public voted for their favourite videos. The teams whose videos gathered the most votes in each category also received their prizes from DPM Teo.
+A Viewers’ Choice contest was conducted separately on NCCS’ <a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">Climate Change SG Facebook page</a> where members of the public voted for their favourite videos. The teams whose videos gathered the most votes in each category also received their prizes from DPM Teo.
 
-The complete list of winning videos for NCCC 2016 is at the <a href="https://www.strategygroup.gov.sg/docs/default-source/Annex/hackathon_annexa771b845b617a6d73a304ff0000443480.pdf?sfvrsn=0">Annex</a>.
+The complete list of winning videos for NCCC 2016 is at the <a href="https://www.strategygroup.gov.sg/docs/default-source/Annex/hackathon_annexa771b845b617a6d73a304ff0000443480.pdf?sfvrsn=0" target="_blank">Annex</a>.
 
 <sup>1 Emissions Intensity is a measure of how efficient Singapore is using fossil fuels.</sup>
