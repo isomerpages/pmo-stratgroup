@@ -5,13 +5,28 @@
 ##################################
 
 # Agency logo
-agency-logo: /images/csf-logo.png
+agency-logo: /images/agency-logo.gif
 
 # Hero Banner
-hero-title: Centre for Strategic Futures
-hero-subtitle: Building a strategically agile public service ready to manage a complex and fast-changing environment
+hero-title: Strategy Group Singapore
+hero-subtitle: Driving whole-of-government strategic planning by identifying key priorities and emerging issues over the medium to long-term.
 hero-banner: /images/banner_GardenBay.png
 
+# key-highlights:
+#   - title: Highlight A
+#     description: Important highlight A is important
+#     url: https://google.com
+#     external: true
+#   - title: Highlight B
+#     description: Important highlight B is equally important
+#     url: https://yahoo.com
+#     external: true
+#   - title: Page A
+#     description: Page A is important too
+#     url: /page-A/
+#   - title: Dropdown A Content C
+#     description: Dropdown A Content C is v important
+#     url: /dropdown-A/content-C/
 
 #Call to Action Button
 button:

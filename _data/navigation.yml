@@ -4,25 +4,24 @@
 #                                #
 ##################################
 
-- title: Who We Are
+- title: WHO WE ARE
   url: /who-we-are/
-- title: Our Work
-  url: /our-work/our-approach/
-  sub-links:
-  - title: Our Approach
-    url: /our-work/our-approach/
-  - title: Foresight Conference
-    url: /our-work/our-approach/
-  - title: Networks
-    url: /our-work/networks/
-- title: Media Centre
+- title: MEDIA CENTRE
   url: /media-centre/
   sub-links:
   - title: All
     url: /media-centre/
+  - title: Parliamentary Replies
+    url: /media-centre/parliamentary-replies/
+  - title: Press Releases
+    url: /media-centre/press-releases/
   - title: Publications
     url: /media-centre/publications/
   - title: Speeches
     url: /media-centre/speeches/
-- title: Contact Us
+- title: CAREERS
+  url: /careers/
+- title: FAQ
+  url: /faq/
+- title: CONTACT US
   url: /contact-us/
