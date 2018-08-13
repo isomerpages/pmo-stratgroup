@@ -56,5 +56,9 @@ homepage_resources: true
 # Feedback Form URL
 feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
 
+# FAQ URL
+faq_url: "/faq/"
+faq_url_external: false
+
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
