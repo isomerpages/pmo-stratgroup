@@ -198,7 +198,7 @@ This is why, each year, we take in a carefully balanced number of new immigrants
 
 Mr Gan Thiam Poh asked if our immigration policy will change given our low TFR. If our current citizen population were able to replace itself with a TFR of 2.1, we can have a stable citizen population well into the future. But at current TFR and if there was no immigration at all, our citizen population will shrink in the long term. At around the current rates of immigration, we are close to achieving the same effect as if we had full-replacement TFR. Therefore, we do not expect any major changes to our immigration policy presently. In other words, with a moderate level of immigration, we can prevent the citizen population from shrinking in the long term.
 
-_![Immigration]({{"/images/cos-4.jpg" | absolute_url }})
+_![Immigration]({{"/images/cos-4.jpg" | absolute_url }})_
 
 We have also taken in a steady number of Permanent Residents each year, many of whom take up citizenship eventually. The PR population remains largely stable at around 530,000, with 31,849 PRs granted last year.
 
@@ -247,8 +247,14 @@ Our strategies have Singaporeans’ interests at heart. We are well prepared for
 Thank you.
 
 
-<sup>[1]</sup> Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.</br>
-<sup>[2]</sup> Based on latest available data from OECD Stat database.</br>
-<sup>[3]</sup> Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.</br>
-<sup>[4]</sup> A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)</br>
+
+
+<sup>[1]</sup> Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.
+
+<sup>[2]</sup> Based on latest available data from OECD Stat database.
+
+<sup>[3]</sup> Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.
+
+<sup>[4]</sup> A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)
+
 <sup>[5]</sup> Ministry of Manpower, Labour Force in Singapore 2017 Report.
