@@ -247,8 +247,8 @@ Our strategies have Singaporeans’ interests at heart. We are well prepared for
 Thank you.
 
 
-<sup>[1]</sup> Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.
-<sup>[2]</sup> Based on latest available data from OECD Stat database.
-<sup>[3]</sup> Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.
-<sup>[4]</sup> A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)
+<sup>[1]</sup> Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.</br>
+<sup>[2]</sup> Based on latest available data from OECD Stat database.</br>
+<sup>[3]</sup> Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.</br>
+<sup>[4]</sup> A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)</br>
 <sup>[5]</sup> Ministry of Manpower, Labour Force in Singapore 2017 Report.
