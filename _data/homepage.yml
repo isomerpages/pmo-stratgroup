@@ -30,7 +30,7 @@ hero-banner: /images/Aerial view of Singapore.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
+  - text: Read More
     url: /who-we-are/
 
 # Resources Section
