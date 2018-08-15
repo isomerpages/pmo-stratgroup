@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speech by Minister Josephine Teo on Population at Committee of Supply 2018"
+title: <font size=10>"Speech by Minister Josephine Teo on Population at Committee of Supply 2018"</font>
 date:   2018-03-01
 permalink: "/media-centre/speeches/2018-03-01-speech-by-minister-josephine-teo-population"
 topics: "population"
