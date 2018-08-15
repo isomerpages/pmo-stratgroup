@@ -8,7 +8,7 @@ topics: "population"
 
 _“Together, We Can Be Well-Prepared For Our Future”_
 
-**Preamble**
+##### **Preamble**
 
 Mr Chairman, I thank Members for their questions and suggestions.
 
@@ -24,15 +24,15 @@ Mr Gan Thiam Poh and Mr Henry Kwek asked about the Government’s strategies to 
 
 In this debate, I will provide an update on our population strategies and outlook, how we are planning ahead, as well as further measures to support marriage and parenthood. 
 
-**Our Population Strategies**
+##### **Our Population Strategies**
 
 Mr Chairman, we have three broad strategies to shape a healthy population profile. First, to enable all Singaporeans to age with purpose and grace; second, to make Singapore a Great Place for Families where marriage and parenthood are achievable, enjoyable and celebrated; and third, to maintain a careful balance in our foreign worker as well as immigrant flows.
 
-##### **Enable All Singaporeans to Age with Purpose and Grace**
+**Enable All Singaporeans to Age with Purpose and Grace**
 
 Let me start with the first strategy, which relates to a motion debated in Parliament last month. Members will recall that the debate reaffirmed that “seniors are a gift to society”, and we need a “whole-of-Singapore effort” to build a “Nation for All Ages”. Our ambition is to enable all Singaporeans to age confidently with purpose, grace and dignity.
 
-We are making good progress. Today, Singaporeans are living an average of 74 years in good health, compared to 67 years, three decades ago [1]. Many who wish to continue working past the legal retirement age of 62 have been able to do so with our re-employment policies. More than 4 in 10 residents aged 65 to 69 are employed. This is the 5th highest employment rate when compared against the 35 OECD countries [2].
+We are making good progress. Today, Singaporeans are living an average of 74 years in good health, compared to 67 years, three decades ago <sup>[1]</sup>. Many who wish to continue working past the legal retirement age of 62 have been able to do so with our re-employment policies. More than 4 in 10 residents aged 65 to 69 are employed. This is the 5th highest employment rate when compared against the 35 OECD countries <sup>[2]</sup>.
 
 About 6 in 10 of active CPF members are now able to set aside the Basic Retirement Sum in their Retirement Accounts when they turn 55.  By 2020, this proportion is expected to increase to 7 in 10. But as SMS Amy Khor shared last month, we must continue to deepen our efforts at three levels.
 
@@ -46,7 +46,7 @@ We also recognise that with extended longevity, families worry about their abili
 
 We will continue supporting Singaporeans to lead active lives well into their silver years, contributing to the economy and society, while enjoying strong bonds with their families and communities.
 
-##### **Singapore: A Great Place for Families**
+**Singapore: A Great Place for Families**
 
 At the same time, we should find meaningful ways to support families who are bringing up the next generation. 
 
@@ -58,11 +58,11 @@ But as Mr Melvin Yong and Mr Gan Thiam Poh highlighted, our TFR has remained low
 
 With your permission, Chairman, may I display a slide on the LED screens?
 
-![Citizen Population by Age Group]({{"/images/cos-1.jpg" | absolute_url }})
+_![Citizen Population by Age Group]({{"/images/cos-1.jpg" | absolute_url }})_
 
 This chart shows our citizen population by 5-year age groups. From the 1950s to mid-1960s, we experienced a “baby boom”, where births reached elevated levels. These birth cohorts are now in their mid-50s to 60s. When many of these “Baby Boomers” married and started having children, we saw an echo effect in the late 1980s and 1990s where births also reached elevated levels. These are the cohorts which Mr Alex Yam spoke about.
 
-Today, many of these “echo baby boomers” would be about 20 to 30 years old. They are included in the denominator used for calculating TFR. But they are only just entering the peak childbearing ages [3]. Compared to earlier cohorts, more of them are not yet married or have not started having children.   When they do, we can expect the numerator, which is the number of births to increase further. TFR could then also increase.
+Today, many of these “echo baby boomers” would be about 20 to 30 years old. They are included in the denominator used for calculating TFR. But they are only just entering the peak childbearing ages <sup>[3]</sup>. Compared to earlier cohorts, more of them are not yet married or have not started having children.   When they do, we can expect the numerator, which is the number of births to increase further. TFR could then also increase.
 
 Like Mr Melvin Yong, Members may wonder if our TFR will further decline, as parenthood competes with other priorities. Or could this dip be more like that of the year 2010, where it appeared to have been due to couples holding back parenthood plans in 2009 because of the global financial crisis?
 
@@ -82,7 +82,7 @@ Just like Kenny and Peiru, young Singaporeans today have many opportunities to p
 
 These factors have contributed to Singaporeans marrying and having children later. Two decades ago, the median age of Singaporean women at first marriage was around 26 years. Today, it is around 28 years. The median age of mothers at first birth has accordingly increased from 28.6 to 30.5 years.
 
-However, couples who marry later are more likely to face difficulties conceiving.  Medically, it is well-established that one’s chances of conceiving diminish sharply after the age of 35 [4]. 
+However, couples who marry later are more likely to face difficulties conceiving.  Medically, it is well-established that one’s chances of conceiving diminish sharply after the age of 35 <sup>[4]</sup>. 
 
 For some couples, it is not that they set out to marry late. It is just how their lives unfold. The Government cannot interfere with how people go about finding a partner, or whether, and when, they start trying to have children. These are personal decisions. But we can help those who are ready to settle down.  
 
@@ -152,7 +152,7 @@ We will continue to strongly support Singaporeans to start families sooner rathe
 
 Making Singapore a Great Place for Families is a continuous effort.  The Government will do its part, and work with employers and community organisations to keep up the momentum.
 
-##### **A Balanced Flow of Foreign Workers and Immigrants**
+**A Balanced Flow of Foreign Workers and Immigrants**
 
 Mr Vikram Nair and Mr Henry Kwek asked about our foreign workforce and immigration policies. Our third strategy to achieve a healthy population profile is to maintain a careful balance in foreign worker as well as immigrant flows.
 
@@ -160,16 +160,13 @@ Our total population growth has slowed considerably.  Growth was 1% per year ove
 
 Mr Chairman, I would like to show one slide and this has to do with our working-age citizen population.
 
-Number of citizens projected to decline
+_![Number of citizens projected to decline]({{"/images/cos-2.jpg" | absolute_url }})_
 
 Our working-age citizen population will soon shrink.
 
 Even with immigrants, the number of Singaporeans aged 20 to 64 is projected to peak at 2.2M around 2020, and then it will decline thereafter.
 
 Without immigration, it would have started to shrink earlier and decline at a much faster rate.
-
-
-Balanced Inflow of Complementary Foreign Workers
 
 Recognising this trend, we have started transforming our economy towards lower manpower reliance and more productivity-driven growth.  Recent results are encouraging. As Minister for Finance shared last week, last year’s productivity growth was the highest since 2010.
 
@@ -187,15 +184,13 @@ A new Capability Transfer Programme will support businesses, associations and pr
 
 By focusing on local-foreign workforce complementarity, we continue to see good employment outcomes for Singaporeans.
 
-Employment rates for those aged 25 to 64 are on an upward trend [5]. Unemployment rates have generally remained low. And over the last five years from 2012 to 2017, real income at the median and 20th percentile of full-time employed citizens grew by 3.9% and 4.3% per annum.
+Employment rates for those aged 25 to 64 are on an upward trend <sup>[5]</sup>. Unemployment rates have generally remained low. And over the last five years from 2012 to 2017, real income at the median and 20th percentile of full-time employed citizens grew by 3.9% and 4.3% per annum.
 
 There’s more to be done. For example, we can better match local jobseekers to occupations with significant vacancies, and help them access new jobs that are being created. This will benefit both businesses and the local workforce. The Ministry of Manpower will provide a fuller update later in the debate.
 
 From now till 2020, workforce growth will be around 1% to 2% a year. This is significantly less than in the past. Having said that, we think that it is a more sustainable pace going forward. We appreciate businesses’ efforts to make adjustments, and the economic agencies will continue to provide strong support through various schemes and programmes.
 
-Total workforce growth
-
-Carefully Managed Immigration Flows and Quality
+_![Carefully Managed Immigration Flows and Quality]({{"/images/cos-4.jpg" | absolute_url }})_
 
 While managing foreign workforce flows to complement the local workforce, it is also important that we carefully manage immigration flows. Without immigration, not only will our working age population shrink rapidly, the total number of citizens will eventually decline.
 
@@ -203,7 +198,7 @@ This is why, each year, we take in a carefully balanced number of new immigrants
 
 Mr Gan Thiam Poh asked if our immigration policy will change given our low TFR. If our current citizen population were able to replace itself with a TFR of 2.1, we can have a stable citizen population well into the future. But at current TFR and if there was no immigration at all, our citizen population will shrink in the long term. At around the current rates of immigration, we are close to achieving the same effect as if we had full-replacement TFR. Therefore, we do not expect any major changes to our immigration policy presently. In other words, with a moderate level of immigration, we can prevent the citizen population from shrinking in the long term.
 
-Immigration
+({{"/images/cos-4.jpg" | absolute_url }})
 
 We have also taken in a steady number of Permanent Residents each year, many of whom take up citizenship eventually. The PR population remains largely stable at around 530,000, with 31,849 PRs granted last year.
 
@@ -213,7 +208,7 @@ We are selective about the profile of our immigrants, because it affects how we 
 
 Kenny, whom I mentioned earlier, was born in Malaysia, and came here to study when he was 18.  There are many examples like him and Peiru, where a Singaporean marries a foreigner and both have chosen to settle in Singapore to raise their young ones.
 
-An Open and Cohesive Society
+_An Open and Cohesive Society_
 
 Mr Darryl David and Ms Rahayu Mahzam asked what more can be done to strengthen integration. It starts with how we see ourselves, and how our nation was built up. 
 
@@ -229,7 +224,7 @@ Over the past 3 years, the Council under the leadership of Minister Grace Fu has
 
 Integration will always be a work-in-progress and take time. As Ms Rahayu correctly points out, while we seek to preserve the character of our society, we must also maintain a sense of openness to those joining us. This duality must firmly remain embedded in our DNA. It is the foundation on which we can build a harmonious, multi-racial and multi-cultural society that stands the test of time.
 
-Planning Ahead for the Future
+##### **Planning Ahead for the Future**
 
 Mr Chairman, I have outlined our approach for achieving a healthy population profile.
 
@@ -241,7 +236,7 @@ The size of our population will be an important input for planning. Given recent
 
 Our long-term infrastructure plans are well in place and being steadily implemented. The respective Ministers will update on the progress of the plans under their charge.
 
-Together, We Can Be Well-Prepared for Our Future
+##### **Together, We Can Be Well-Prepared for Our Future**
 
 Mr Chairman, to conclude, we have planned ahead to address our long term challenges of an ageing population and low TFR, to ensure a healthy population profile that improves the lives of each generation. 
 
@@ -252,8 +247,12 @@ Our strategies have Singaporeans’ interests at heart. We are well prepared for
 Thank you.
 
 
-[1] Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.
-[2] Based on latest available data from OECD Stat database.
-[3] Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.
-[4] A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)
-[5] Ministry of Manpower, Labour Force in Singapore 2017 Report.
+<sup>[1]</sup> Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.
+
+<sup>[2]</sup> Based on latest available data from OECD Stat database.
+
+<sup>[3]</sup> Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.
+
+<sup>[4]</sup> A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)
+
+<sup>[5]</sup> Ministry of Manpower, Labour Force in Singapore 2017 Report.
