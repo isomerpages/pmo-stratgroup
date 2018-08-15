@@ -2,7 +2,7 @@
 layout: post
 title: "Statement in response to media queries on the US' withdrawal from the Paris Agreement"
 date:   2017-06-02
-permalink: "/media-centre/speeches/2017-06-02-statement-test-2"
+permalink: "/media-centre/speeches/2017-06-02-statement-US-withdrawal"
 topics: "topicA, topicB"
 ---
 
