@@ -198,7 +198,7 @@ This is why, each year, we take in a carefully balanced number of new immigrants
 
 Mr Gan Thiam Poh asked if our immigration policy will change given our low TFR. If our current citizen population were able to replace itself with a TFR of 2.1, we can have a stable citizen population well into the future. But at current TFR and if there was no immigration at all, our citizen population will shrink in the long term. At around the current rates of immigration, we are close to achieving the same effect as if we had full-replacement TFR. Therefore, we do not expect any major changes to our immigration policy presently. In other words, with a moderate level of immigration, we can prevent the citizen population from shrinking in the long term.
 
-({{"/images/cos-4.jpg" | absolute_url }})
+_![Immigration]({{"/images/cos-4.jpg" | absolute_url }})
 
 We have also taken in a steady number of Permanent Residents each year, many of whom take up citizenship eventually. The PR population remains largely stable at around 530,000, with 31,849 PRs granted last year.
 
