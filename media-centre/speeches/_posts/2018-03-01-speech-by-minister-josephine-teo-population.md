@@ -3,18 +3,12 @@ layout: post
 title: "Speech by Minister Josephine Teo on Population at Committee of Supply 2018"
 date:   2018-03-01
 permalink: "/media-centre/speeches/2018-03-01-speech-by-minister-josephine-teo-population"
-topics: "topicA, topicB"
+topics: "population"
 ---
 
+_“Together, We Can Be Well-Prepared For Our Future”_
 
-Mar 1, 2018
-Speech by Minister Josephine Teo on Population at Committee of Supply 2018
- 
-1 March 2018 - Speech by Minister Josephine Teo at Committee of Supply Debate
-
-“Together, We Can Be Well-Prepared For Our Future”
-
-### **Preamble**
+**Preamble**
 
 Mr Chairman, I thank Members for their questions and suggestions.
 
@@ -30,11 +24,11 @@ Mr Gan Thiam Poh and Mr Henry Kwek asked about the Government’s strategies to 
 
 In this debate, I will provide an update on our population strategies and outlook, how we are planning ahead, as well as further measures to support marriage and parenthood. 
 
-### **Our Population Strategies**
+**Our Population Strategies**
 
 Mr Chairman, we have three broad strategies to shape a healthy population profile. First, to enable all Singaporeans to age with purpose and grace; second, to make Singapore a Great Place for Families where marriage and parenthood are achievable, enjoyable and celebrated; and third, to maintain a careful balance in our foreign worker as well as immigrant flows.
 
-#### **Enable All Singaporeans to Age with Purpose and Grace**
+##### **Enable All Singaporeans to Age with Purpose and Grace**
 
 Let me start with the first strategy, which relates to a motion debated in Parliament last month. Members will recall that the debate reaffirmed that “seniors are a gift to society”, and we need a “whole-of-Singapore effort” to build a “Nation for All Ages”. Our ambition is to enable all Singaporeans to age confidently with purpose, grace and dignity.
 
@@ -52,7 +46,7 @@ We also recognise that with extended longevity, families worry about their abili
 
 We will continue supporting Singaporeans to lead active lives well into their silver years, contributing to the economy and society, while enjoying strong bonds with their families and communities.
 
-Singapore: A Great Place for Families
+##### **Singapore: A Great Place for Families**
 
 At the same time, we should find meaningful ways to support families who are bringing up the next generation. 
 
@@ -64,6 +58,7 @@ But as Mr Melvin Yong and Mr Gan Thiam Poh highlighted, our TFR has remained low
 
 With your permission, Chairman, may I display a slide on the LED screens?
 
+![My Logo]({{"/images/cos-1.jpg" | absolute_url }})
 Citizen Population by Age Group
 
 This chart shows our citizen population by 5-year age groups. From the 1950s to mid-1960s, we experienced a “baby boom”, where births reached elevated levels. These birth cohorts are now in their mid-50s to 60s. When many of these “Baby Boomers” married and started having children, we saw an echo effect in the late 1980s and 1990s where births also reached elevated levels. These are the cohorts which Mr Alex Yam spoke about.
@@ -158,7 +153,7 @@ We will continue to strongly support Singaporeans to start families sooner rathe
 
 Making Singapore a Great Place for Families is a continuous effort.  The Government will do its part, and work with employers and community organisations to keep up the momentum.
 
-A Balanced Flow of Foreign Workers and Immigrants
+##### **A Balanced Flow of Foreign Workers and Immigrants**
 
 Mr Vikram Nair and Mr Henry Kwek asked about our foreign workforce and immigration policies. Our third strategy to achieve a healthy population profile is to maintain a careful balance in foreign worker as well as immigrant flows.
 
@@ -257,3 +252,9 @@ Our strategies have Singaporeans’ interests at heart. We are well prepared for
 
 Thank you.
 
+
+[1] Global, regional and national disability-adjusted life-years (DALY) for 333 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, Global Burden of Disease Study, 2016. Lancet 2017.
+[2] Based on latest available data from OECD Stat database.
+[3] Since 2002, the resident age-specific fertility rate is highest for the 30-34 years age group, followed by 25-29 years.
+[4] A normal healthy couple in their 20s has about a 20% chance of conceiving in any particular month. At age 35, the chance is only 15%. After age 40, the chance is even slimmer at around <10%. (Source: KKH)
+[5] Ministry of Manpower, Labour Force in Singapore 2017 Report.
