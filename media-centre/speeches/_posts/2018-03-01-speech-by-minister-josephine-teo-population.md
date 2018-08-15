@@ -58,8 +58,7 @@ But as Mr Melvin Yong and Mr Gan Thiam Poh highlighted, our TFR has remained low
 
 With your permission, Chairman, may I display a slide on the LED screens?
 
-![My Logo]({{"/images/cos-1.jpg" | absolute_url }})
-Citizen Population by Age Group
+![Citizen Population by Age Group]({{"/images/cos-1.jpg" | absolute_url }})
 
 This chart shows our citizen population by 5-year age groups. From the 1950s to mid-1960s, we experienced a “baby boom”, where births reached elevated levels. These birth cohorts are now in their mid-50s to 60s. When many of these “Baby Boomers” married and started having children, we saw an echo effect in the late 1980s and 1990s where births also reached elevated levels. These are the cohorts which Mr Alex Yam spoke about.
 
