@@ -7,8 +7,6 @@ title: FAQ
 
 ### **Frequently Asked Questions**
 
-### Frequently Asked Questions
-
 #### **Where can I find out more about career opportunities within Strategy Group?**
 
 You can visit our [Careers page]({{site.baseurl}}/careers/) for more information on the available vacancies within Strategy Group. Job vacancies will also be posted on [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=strategy%20group&job-mail-subscribe-privacy=agree).
