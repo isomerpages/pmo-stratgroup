@@ -63,11 +63,11 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
 </table>
 
 
-**Leo Yip**
-*Head, Civil Service
+**Leo Yip** <br />
+*Head, Civil Service*
 
-**Jacqueline Poh**
-*Deputy Secretary
+**Jacqueline Poh** <br />
+*Deputy Secretary*
 
 * Strategic Planning & Futures
 * Economic
@@ -83,8 +83,8 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
 * Organisational Development
 * Corporate Communications
 
-**Tan Kok Yam**
-*Deputy Secretary
+**Tan Kok Yam** <br />
+*Deputy Secretary*
 
 * Strategic Issues (Climate Change)
 * Policy and Planning (Climate Change)
