@@ -21,7 +21,7 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
             <td colspan="2" style="text-align: center; vertical-align: top;">
                 Leo Yip
             <br />
-                <em>Head, Civil Service</em></h4>
+                <em>Head, Civil Service</em>
             </td>
         </tr>
         <tr>
