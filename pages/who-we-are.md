@@ -19,14 +19,14 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
     <tbody>
         <tr>
             <td colspan="2" style="text-align: center; vertical-align: top;">
-                Leo Yip
+                <strong>Leo Yip</strong>
             <br />
                 <em>Head, Civil Service</em>
             </td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: top;">
-               Jacqueline Poh<br />
+                <strong>Jacqueline Poh</strong><br />
             <em>Deputy Secretary</em><br />
             <br />
             <ul>
@@ -46,7 +46,7 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
             </ul>
             </td>
             <td style="text-align: center; vertical-align: top;">
-                Tan Kok Yam<br />
+                <strong>Tan Kok Yam</strong><br />
                 <em>Deputy Secretary<br />
             </em>
             <br />
