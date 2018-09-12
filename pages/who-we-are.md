@@ -13,7 +13,7 @@ The Strategy Group in the Prime Minister’s Office was set up in July 2015 to s
 Strategy Group leads and organises the Public Service to develop and implement Government's strategic priorities. 
 
 ### **Organisational Structure**
-Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and two Deputy Secretaries.
+Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and two Deputy Secretaries. 
 
 <table border="0" style="border-style: none;">
     <tbody>
