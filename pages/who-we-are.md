@@ -30,17 +30,16 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
             <em>Deputy Secretary</em><br />
             <br />
          <ul>
-                <li style="text-align: left;">National Population and Talent Division</li>
-                <li style="text-align: left;">Strategic Planning &amp; Futures</li>
                 <li style="text-align: left;">Economic</li>
-                <li style="text-align: left;">Social</li>
-                <li style="text-align: left;">Land &amp; Liveability</li>
+                <li style="text-align: left;">Land &amp; Liveability &amp; Technology</li>
+                <li style="text-align: left;">National Population and Talent Division</li>
                 <li style="text-align: left;">Security &amp; Resilience</li>
-                <li style="text-align: left;">Technology</li>
-                <li style="text-align: left;">Human Capital</li>
-                <li style="text-align: left;">Corporate Services</li>
-                <li style="text-align: left;">Organisational Development</li>
+                <li style="text-align: left;">Social</li>
+                <li style="text-align: left;">Strategic Planning &amp; Futures</li>
                 <li style="text-align: left;">Corporate Communications</li>
+                <li style="text-align: left;">Corporate Services</li>
+                <li style="text-align: left;">Human Capital</li>
+                <li style="text-align: left;">Organisational Development</li>
                 </ul>
             </td>
             <td style="text-align: center; vertical-align: top;">
@@ -50,8 +49,8 @@ Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy
             <br />
             <ul>
                 <li style="text-align: left;">National Climate Change Secretariat</li>
-                <li style="text-align: left;">Information Technology</li>
                 <li style="text-align: left;">Corporate Communications</li>
+                <li style="text-align: left;">Information Technology</li>
             </ul>
             </td>
         </tr>
