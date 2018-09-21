@@ -9,10 +9,10 @@ breadcrumb: Who We Are
 
 The Strategy Group in the Prime Minister’s Office was set up in July 2015 to strengthen strategic alignment across Government. It expanded in August 2016 to include the National Population and Talent Division (NPTD) and National Climate Change Secretariat (NCCS).
 
-#### **Mission Statement**
+#### Mission Statement
 Strategy Group leads and organises the Public Service to develop and implement Government's strategic priorities. <br   />
 
-Organisational Structure <br  />
+#### Organisational Structure
 Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and two Deputy Secretaries. 
 
 ##### Senior Management 
