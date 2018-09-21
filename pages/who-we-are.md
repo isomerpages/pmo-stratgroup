@@ -10,50 +10,33 @@ breadcrumb: Who We Are
 The Strategy Group in the Prime Minister’s Office was set up in July 2015 to strengthen strategic alignment across Government. It expanded in August 2016 to include the National Population and Talent Division (NPTD) and National Climate Change Secretariat (NCCS).
 
 #### **Mission Statement**
-Strategy Group leads and organises the Public Service to develop and implement Government's strategic priorities. 
+Strategy Group leads and organises the Public Service to develop and implement Government's strategic priorities. <br   />
 
 #### **Organisational Structure**
 Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and two Deputy Secretaries. 
 
-<table border="0" style="border-style: none;">
-    <tbody>
-        <tr>
-            <td colspan="2" style="text-align: center; vertical-align: top;">
-                <strong>Leo Yip</strong>
-            <br />
-                <em>Head, Civil Service</em>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center; vertical-align: top;">
-                <strong>Jacqueline Poh</strong><br />
-            <em>Deputy Secretary</em><br />
-            <br />
-         <ul>
-                <li style="text-align: left;">Economic</li>
-                <li style="text-align: left;">Land &amp; Liveability</li>
-                <li style="text-align: left;">National Population and Talent Division</li>
-                <li style="text-align: left;">Security &amp; Resilience</li>
-                <li style="text-align: left;">Social</li>
-                <li style="text-align: left;">Strategic Planning &amp; Futures</li>
-                <li style="text-align: left;">Technology</li>
-                <li style="text-align: left;">Corporate Communications</li>
-                <li style="text-align: left;">Corporate Services</li>
-                <li style="text-align: left;">Human Capital</li>
-                <li style="text-align: left;">Organisational Development</li>
-                </ul>
-            </td>
-            <td style="text-align: center; vertical-align: top;">
-                <strong>Tan Kok Yam</strong><br />
-                <em>Deputy Secretary<br />
-            </em>
-            <br />
-            <ul>
-                <li style="text-align: left;">National Climate Change Secretariat</li>
-                <li style="text-align: left;">Corporate Communications</li>
-                <li style="text-align: left;">Information Technology</li>
-            </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
+##### Senior Management 
+
+Leo Yip<br  />
+Head, Civil Service
+
+Jacqueline Poh<br  />
+Deputy Secretary
+
+Tan Kok Yam<br  />
+Deputy Secretary
+
+##### Directorates 
+
+•	Economic Strategy<br  />
+•	Land & Liveability Strategy<br  />
+•	Security & Resilience Strategy<br  />
+•	Social Strategy<br  />
+•	Strategic Planning & Futures<br  />
+•	Technology Strategy<br  />
+•	National Climate Change Secretariat<br  />
+•	National Population and Talent Division<br  />
+•	Corporate Communications<br  />
+•	Corporate Services<br  />
+•	Human Capital<br  />
+•	Organisational Development<br  />
