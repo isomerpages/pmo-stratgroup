@@ -12,11 +12,10 @@ The Strategy Group in the Prime Minister’s Office was set up in July 2015 to s
 #### **Mission Statement**
 Strategy Group leads and organises the Public Service to develop and implement Government's strategic priorities. <br   />
 
-#### **Organisational Structure**
+Organisational Structure <br  />
 Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and two Deputy Secretaries. 
 
 ##### Senior Management 
-
 Leo Yip<br  />
 Head, Civil Service
 
@@ -27,7 +26,6 @@ Tan Kok Yam<br  />
 Deputy Secretary
 
 ##### Directorates 
-
 •	Economic Strategy<br  />
 •	Land & Liveability Strategy<br  />
 •	Security & Resilience Strategy<br  />
