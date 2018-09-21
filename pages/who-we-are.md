@@ -12,7 +12,6 @@ The Strategy Group in the Prime Minister’s Office was set up in July 2015 to s
 #### Mission Statement ####
 Strategy Group leads and organises the Public Service to develop and implement Government's strategic priorities. <br   />
 
-## Organisational Structure ##
 
 
 #### Organisation Structure ####
