@@ -4,6 +4,9 @@
 #                                #
 ##################################
 
+# Favicon
+favicon: /images/favicon-stratgroup.ico
+
 # Agency logo
 agency-logo: /images/agency-logo.gif
 
