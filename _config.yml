@@ -44,6 +44,10 @@ breadcrumbs:
 # Site configuration
 ####################
 
+collections:
+  population-trends:
+    output: true
+
 # Resource Room and Pagination
 resources_name: "media-centre"
 paginate: 12
