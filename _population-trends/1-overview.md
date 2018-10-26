@@ -7,7 +7,7 @@ collection_name: population-trends
 ---
 
 # Population Trends
-#### Facts and figures on Singapore’s population in 2018
+##### Facts and figures on Singapore’s population in 2018
 <table class="table-h">
   <tr>
   	<td><strong>Total population</strong></td>
