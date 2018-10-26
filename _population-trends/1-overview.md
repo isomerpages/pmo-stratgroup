@@ -13,29 +13,33 @@ collection_name: population-trends
 ###### Facts and figures on Singapore’s population in 2018
 
    
- ###### Total population:  
- * ## 5.64 million
+<table class="table-v">
+  <tr>
+    <td>Total population</td>
+    <td>5.64 million</td>
+  </tr>
+  <tr>
+    <td>Population density</td>
+    <td>7,796 per km<sup>2</sup></td>
+  </tr>
+    <tr>
+    <td>Median age</td>
+    <td>41.7 years</td>
+  </tr>
+    <tr>
+    <td>Life expectancy at birth</td>
+    <td>83.1 years</td>
+  </tr>
+  <tr>
+    <td>Gross monthly income</td>
+    <td>4,232 $<sup>3</sup></td>
+  </tr>
+</table>
 
-###### Population density:    
- * ## 7,796 per sq km 
-
-######  Median age
-* ## 41.7 years
-
-######  Life expectancy at birth
-* ## 83.1 years2
-
-######  Gross monthly income
-* ## 4,232 $3 
+<iframe width="600" height="400" src="https://data.gov.sg/dataset/hdb-resale-price-index/resource/52e93430-01b7-4de0-80df-bc83d0afed40/view/14c47d07-1395-4661-8466-728abce27f5f" frameBorder="0"> </iframe>
 
 ###### Source: Department of Statistics and Ministry of Manpower
 ###### 1 More information on Singapore's population data and trends can be found in the Population in Brief 2018. 
 ###### 2 Life expectancy at birth data is for 2017.
 ###### 3 Income data is median gross monthly income (including employer CPF contributions) of full-time employed Residents, and is for 2017. 
 
-### **What is Lorem Ipsum?**
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book:
-
-* It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-* It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
