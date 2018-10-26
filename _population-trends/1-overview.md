@@ -7,7 +7,24 @@ collection_name: population-trends
 ---
 
 # Population Trends
-###### Facts and figures on Singapore’s population in 2018
+#### Facts and figures on Singapore’s population in 2018
+<table class="table-h">
+  <tr>
+  	<td><strong>Total population</strong></td>
+    <td><strong>Population density</strong></td>
+    <td><strong>Median age</strong></td>
+    <td><strong>Life expectancy at birth</strong></td>
+    <td><strong>Gross monthly income</strong></td>
+  </tr>
+  <tr>
+    <td>5.64 million</td>
+    <td>7,796 per km<sup>2</sup></td>
+    <td>41.7 years</td>
+    <td>83.1 years</td>
+    <td>4,232 $<sup>3</sup></td>
+  </tr>
+</table>
+
 
    
 <table class="table-v">
