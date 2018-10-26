@@ -6,9 +6,9 @@ title: Demographics
 collection_name: population-trends
 ---
 
-### **What is Lorem Ipsum?**
+### **Population**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book:
+Our total population is made up of Singapore citizens, Permanent Residents (PRs) and non-residents. The non-resident population is a diverse group who are here for work, study or family reasons. As of June 2018, the total population size is 5.64 million.
 
 * It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 * It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
