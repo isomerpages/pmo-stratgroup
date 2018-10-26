@@ -6,9 +6,6 @@ title: Population Trends Overview
 collection_name: population-trends
 ---
 
-![Population Trends]({{"/images/population-trends/population-trends.png" | absolute_url }})
-
-
 # Population Trends
 ###### Facts and figures on Singapore’s population in 2018
 
