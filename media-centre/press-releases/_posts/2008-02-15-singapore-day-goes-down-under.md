@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore day 2008 goes Down Under"
-date:   2016-11-04
+date:   2008-02-15
 permalink: "/media-centre/press-releases/2008-02-15-singapore-day-goes-down-under"
 ---
 
