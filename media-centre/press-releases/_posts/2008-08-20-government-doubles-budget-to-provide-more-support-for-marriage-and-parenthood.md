@@ -72,4 +72,4 @@ For more details of the measures, the public can visit the M&P website www.famil
 **SUMMARY OF ENHANCED M&P PACKAGE**
 
 <table class="table-h">  <tr>    <th>Measures</th>    <th>What it means</th> <th>Effective date</th> </tr>  <tr>    <td>GETTING MARRIED</td></tr>  <tr>    <td>Finding a partner</td><td>SDU and SdS will merge to deliver enhanced services, while continuing to develop the private dating industry</td>    <td>1 Jan 2009</td>  </tr>  <tr>    <td>CPF Housing Top- Up Grant</td>  <td>Singles Grant recipients who subsequently marry can enjoy a top-up grant to the prevailing CPF Housing Grant for Family</td>  <td>Existing</td>  </tr>
-<tr>    <td>HAVING CHILDREN</td></tr>
+<tr>    <td>HAVING CHILDREN</td></tr></table>
