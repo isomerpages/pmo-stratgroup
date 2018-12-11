@@ -94,7 +94,7 @@ Singapore is a modern and cosmopolitan city too; we can and must continue to ope
 What are some of the immigration changes that the government has introduced so far? What are the results?
 
 The number of foreigners who have been granted citizenship from 2001 to 2005 are as follows:
-<table class="table-h">  <tr>    <th>Year</th>    <th>No. of citizenships granted</th>  </tr>  <tr>    <td>2001</td>    <td>6,500</td>  </tr>  <tr>    <td>2002</td>    <td>7,600</td>  </tr>  <tr>    <td>2003</td>    <td>6,800</td>  </tr>  <tr>. <td>2004</td>    <td>7,600</td>  </tr>  <tr>    <td>2005</td>    <td>12,900</td>  </tr></table>
+<table class="table-h">  <tr>    <th>Year</th>    <th>No. of citizenships granted</th>  </tr>  <tr>    <td>2001</td>    <td>6,500</td>  </tr>  <tr>    <td>2002</td>    <td>7,600</td>  </tr>  <tr>    <td>2003</td>    <td>6,800</td>  </tr>  <tr> <td>2004</td>    <td>7,600</td>  </tr>  <tr>    <td>2005</td>    <td>12,900</td>  </tr></table>
 
 For the first six months of 2006, about 6,800 foreigners have been granted Singapore citizenship.
 
