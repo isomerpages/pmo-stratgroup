@@ -199,7 +199,7 @@ THE MARRIAGE AND PARENTHOOD STUDIES 2004 AND 2007**
 Marriage remains desirable 
 (Source: Marriage and Parenthood Studies 2004 and 2007)
 
-![chart1](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart1.png)
+![chart1](/images/Press%20Release%20images/chart1.png)
 
 <table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying(Top five reasons)</th>   <th>2004(Rank)</th>  <th>2007(Rank)</th> </tr>  <tr>    <td>I have not met a suitable partner* yet</td> <td> 1</td> <td>1</td>    
 </tr>
