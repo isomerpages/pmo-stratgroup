@@ -101,7 +101,7 @@ Female: 27.2 years</td>  </tr>
 </table>
 
 
-![slide1](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide1.jpg "Slide 1 Jpeg")
+![slide1](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide1.jpg)
 
 ![slide2](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide2.jpg)
 
