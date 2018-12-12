@@ -101,43 +101,43 @@ Female: 27.2 years</td>  </tr>
 </table>
 
 
-![slide1](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide1.jpg)
+![slide1](/images/Press%20Release%20images/slide1.jpg)
 
-![slide2](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide2.jpg)
+![slide2](/images/Press%20Release%20images/slide2.jpg)
 
-![slide3](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide3.jpg)
+![slide3](/images/Press%20Release%20images/slide3.jpg)
 
-![slide4](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide4.jpg)
+![slide4](/images/Press%20Release%20images/slide4.jpg)
 
-![slide5](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide5.jpg)
+![slide5](/images/Press%20Release%20images/slide5.jpg)
 
-![slide5](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide5.jpg)
+![slide5](/images/Press%20Release%20images/slide5.jpg)
 
-![slide6](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide6.jpg)
+![slide6](/images/Press%20Release%20images/slide6.jpg)
 
-![slide7](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide7.jpg)
+![slide7](/images/Press%20Release%20images/slide7.jpg)
 
-![slide8](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide8.jpg)
+![slide8](/images/Press%20Release%20images/slide8.jpg)
 
-![slide9](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide9.jpg)
+![slide9](/images/Press%20Release%20images/slide9.jpg)
 
-![slide10](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide10.jpg)
+![slide10](/images/Press%20Release%20images/slide10.jpg)
 
-![slide11](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide11.jpg)
+![slide11](/images/Press%20Release%20images/slide11.jpg)
 
-![slide12](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide12.jpg)
+![slide12](/images/Press%20Release%20images/slide12.jpg)
 
-![slide13](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide13.jpg)
+![slide13](/images/Press%20Release%20images/slide13.jpg)
 
-![slide14](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide14.jpg)
+![slide14](/images/Press%20Release%20images/slide14.jpg)
 
-![slide15](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide15.jpg)
+![slide15](/images/Press%20Release%20images/slide15.jpg)
 
-![slide16](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide16.jpg)
+![slide16](/images/Press%20Release%20images/slide16.jpg)
 
-![slide17](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide17.jpg)
+![slide17](/images/Press%20Release%20images/slide17.jpg)
 
-![slide18](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide18.jpg)
+![slide18](/images/Press%20Release%20images/slide18.jpg)
 
 
 **MARRIAGE AND PARENTHOOD STUDY 2007**
@@ -218,10 +218,9 @@ Marriage remains desirable
 **Home ownership closely associated with marriage
 (Source: Marriage and Parenthood Study 2007)**
 
-![chart2](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart2.png)
-
-![chart3](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart3.png)
-![chart4](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart4.png)
+![chart2](/images/Press%20Release%20images/chart2.png)
+![chart3](/images/Press%20Release%20images/chart3.png)
+![chart4](/images/Press%20Release%20images/chart4.png)
 
 <table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended (total)* </td>  <td> Actual(total)</td> <td>Intended(Total)</td>    <td> Actual (total) </td>    </tr>
 <tr>    <td>0</td>    <td> 7% </td>  <td> 22%</td> <td>2%</td>    <td> 19% </td>    </tr>
@@ -259,8 +258,8 @@ Marriage remains desirable
 
 **Diagram 5 (For Married Respondents)**
 
-![chart5](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart5.png)
-![chart6](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart%206.png)
+![chart5](/images/Press%20Release%20images/chart5.png)
+![chart6](/images/Press%20Release%20images/chart%206.png)
 
 **Parenthood viewed as a shared responsibility**
 **(Source: Marriage and Parenthood Studies 2004 and 2007)**
@@ -293,12 +292,12 @@ Marriage remains desirable
 <sub> *Figures have been rounded up.
   
 **Diagram 7 (For Married Women)**  
-![chart7](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart7.png)
+![chart7](/images/Press%20Release%20images/chart7.png)
 
 **Parents want reliable, affordable, accessible and quality child care
 (Source: Marriage and Parenthood Study 2007)**
 
-![chart8](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart8.png)
+![chart8](/images/Press%20Release%20images/chart8.png)
 
 **Impact of marriage and parenthood measures
 (Source: Marriage and Parenthood Study 2007)**
