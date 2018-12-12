@@ -247,3 +247,91 @@ Marriage remains desirable
 <tr>    <td>4 or more</td>    <td> 4% </td>  <td> 5%</td> <td>3%</td>    <td> 3% </td> <td> 6% </td>  <td> 7%</td> <td>3%</td>    <td> 5% </td>     </tr>
 <tr>    <td>Mean</td>    <td> 2.0 </td>  <td> 2.1</td> <td>1.4</td>    <td> 1.6 </td> <td>2.2</td>  <td>2.1</td> <td>1.5</td>    <td>1.7</td>     </tr>
 </table>
+
+<sub>* A small percentage of non-responses had been excluded from these columns.
+<sub>** Figures in Tables 2, 3 and 4 have been rounded up.
+
+**Diagram 5 (For Married Respondents)**
+
+![chart5](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart5.png)
+![chart6](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart%206.png)
+
+**Parenthood viewed as a shared responsibility**</br>
+**(Source: Marriage and Parenthood Studies 2004 and 2007)**
+
+**Table 5**
+
+<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying</br>(Top five reasons)</th>   <th>2004</br>(Rank)</th>  <th>2007</br>(Rank)</th> </tr>  <tr>    <td>Financial Situation</td> <td>1</td>
+<td> 1</td>  </tr>  
+<tr>    <td>Spouse's Wish</td>    <td>2</td>  <td>2</td>  </tr>
+<tr>    <td>Own / Spouse's Age</td>    <td>3</td>  <td>3</td>  </tr>
+<tr>    <td>Time Factor</td>    <td>4</td>  <td>4</td>  </tr>
+<tr>    <td>Others</td>    <td>5</td>  <td>5</td>  </tr></table>
+
+**Women want both family and work at the same time** </br>
+**(Source: Marriage and Parenthood Studies 2004 and 2007)**
+
+**Table 6**
+
+<table class="table-h">  <tr>    <th> </th>   <th colspan="2">2004(%)</th>  <th colspan="2">2007(%)</th> </tr>  
+  <tr> <td></td> <td>Single (2004)</td> <td>Single (2007)</td> <td> Married (2004)</td> <td> Married (2007)</td>  </tr>  
+  <tr> <td>A full time job and no children</td> <td>7</td> <td>4</td> <td>8</td> <td>3</td>  </tr> 
+  <tr><td> A full time job and one or more children </td> <td>60</td> <td>61</td> <td>41</td> <td>43</td>  </tr> 
+  <tr><td> A part time job and no children</td> <td>3</td> <td>0+</td> <td>2</td> <td>3</td>  </tr> 
+  <tr><td> A part time job and one or more children</td> <td>19</td> <td>20</td> <td>21</td> <td>19</td>  </tr>
+  <tr><td> No job as long as the children are young</td> <td>9</td> <td>13</td> <td>17</td> <td>18</td>  </tr>
+  <tr><td> No job at all when there are children</td> <td>3</td> <td>2</td> <td>12</td> <td>16</td>  </tr>
+  <tr><td> Total</td> <td>100</td> <td>100</td> <td>100</td> <td>100</td>  </tr>
+</table>
+
+<sub> *Figures have been rounded up.
+  
+**Diagram 7 (For Married Women)**  
+![chart7](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart7.png)
+
+**Parents want reliable, affordable, accessible and quality child care</br>
+(Source: Marriage and Parenthood Study 2007)**
+
+![chart8](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart8.png)
+
+**Impact of marriage and parenthood measures</br>
+(Source: Marriage and Parenthood Study 2007)**
+
+<table class="table-h">  <tr>    <th> </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married(%)</th> </tr>  
+  <tr> <td></td> <td>Yes</td> <td>No</td> <td> Yes</td> <td>No</td>  </tr>  
+  <tr> <td>Has the current package created a friendlier environment for having and raising children in Singapore?</td> <td>83</td> <td>17</td> <td>83</td> <td>17</td>  </tr> 
+  <tr><td> On the whole, do you feel that the current package is user-friendly?</td> <td>76</td> <td>24</td> <td>72</td> <td>28</td>  </tr> </table>
+  
+**Table 8**
+
+<table class="table-h">  <tr>    <th>Scheme</br>(Top 3) </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married with No Children(%)</th>  <th colspan="2">Married withChildren(%)</th> </tr> 
+  <tr> <td></td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td>  </tr>  
+<tr> <td>Baby Bonus</td> <td>78</td> <td>67</td> <td>77</td> <td>73</td> <td>50</td> <td>54</td>   </tr> 
+<tr> <td>Paid Maternity Leave</td> <td>71</td> <td>60</td> <td>65</td> <td>65</td> <td>42</td> <td>41</td>   </tr>
+tr> <td>Parenthood Tax Rebate</td> <td>24</td> <td>19</td> <td>41</td> <td>39</td> <td>29</td> <td>27</td>   </tr>
+</table>
+
+**ANNEX B**
+
+**2004 MARRIAGE AND PARENTHOOD PACKAGE**
+
+**(i) Promoting Marriage**
+
+_**CPF Housing Top-Up Grant (or Top-Up Grant):**_ The CPF Housing Top-Up Grant Scheme gives a housing subsidy to Singles Grant recipients (i.e. those who have taken a CPF housing grant for singles previously in their purchase of a resale flat) who subsequently marry. They can apply for the Top-Up Grant for their existing flat or when they buy another resale flat, if they meet the eligibility criteria. The amount of Top-Up Grant is based on the difference between the prevailing Family Grant ($30,000 or $40,000) and the Singles Grant received earlier.
+
+**ii) Making Child Birth More Affordable**
+
+_**Use of Medisave for 4th and Higher Order Births and Pre-Delivery Expenses.**_ Singaporeans can use their Medisave to pay for pre-delivery medical expenses (e.g. ultrasound scans) in addition to delivery expenses, for all their children. These measures apply to parents of babies born on or after 1 August 2004.
+
+_**Use of Medisave for Assisted Conception Procedures.**_ Couples who face difficulty conceiving have been able to use more from their Medisave accounts to pay for Assisted Conception Procedures (ACP), such as In-Vitro Fertilisations, Intra-Uterine Inseminations and Gamete Intra- Fallopian tube Transfers. Couples who start their ACP treatment cycles on or after 1 August 2004 are able to use up to $6,000, $5,000 and $4,000 from Medisave for the 1st, 2nd and 3rd ACP treatment cycle respectively. This is an increase from the previous limit of $4,000 per treatment cycle, up to a maximum of 3 cycles.
+
+**(iii) Providing Financial Support for Raising Children**
+
+_**The Baby Bonus Scheme.**_ The Baby Bonus Scheme supports parents’ decision to have more children by helping to lighten the financial costs of raising children. It was first introduced in April 2001 for the second and third child, and further enhanced in 2004, with benefits extended to the first and fourth child born on or after 1 August 2004. Parents of eligible Singapore Citizen babies enjoy a Baby Bonus of $3,000 cash for their first child, up to $9,000 in cash and matching contributions for their second child, and up to $18,000 in cash and matching contributions each for their third and fourth children. The cash and co-savings disbursement are summarised in Table 1 below.
+
+**Table 1: Overview of Cash and Co-savings Disbursement**
+<table class="table-h">  <tr>    <th> </th>   <th>1st Child</th>  <th>2nd Child</th> <th>3rd Child</th> <th>4th Child</th></tr>  
+  <tr> <td>Cash Gift</td> <td>$3,000</td> <td>$3,000</td> <td>$6,000</td> <td> $6,000</td>  </tr>  
+  <tr> <td>Co-Savings Component (CDA)</td> <td>N.A.</td> <td>Up to $6,000</td> <td>Up to $12,000</td> <td>Up to $12,000</td>  </tr> 
+  <tr><td>Total Government Contribution</td> <td>$3,000</td> <td>Up to $9,000</td> <td>Up to $18,000</td> <td>Up to $18,000</td>  </tr> 
+</table>
