@@ -228,3 +228,11 @@ Marriage remains desirable
 
 **Table 3**
 
+<table class="table-h">  <tr>    <th>No. of Children Born</br> (Actual)</th>    <th colspan="8">Total married respondents(%)</th>  </tr>  <tr>    <td> </td>    <td colspan="4">2004 </td> <td colspan="4">2007</td>   </tr>  <tr>    <td> </td>    <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td> <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td>    </tr>
+<tr>    <td>0</td>    <td> 51% </td>  <td> 28%</td> <td>16%</td>    <td> 10% </td> <td> 63% </td>  <td> 19%</td> <td>7%</td>    <td> 4% </td>   </tr>
+<tr>    <td>1</td>    <td> 30% </td>  <td> 32%</td> <td>20%</td>    <td> 18% </td> <td> 28% </td>  <td> 38%</td> <td>28%</td>    <td> 18% </td>     </tr> 
+<tr>    <td>2</td>    <td> 16% </td>  <td> 30%</td> <td>43%</td>    <td> 43% </td> <td> 8% </td>  <td> 34%</td> <td>46%</td>    <td> 48% </td>     </tr>
+<tr>    <td>3</td>    <td> 3% </td>  <td> 8%</td> <td>17%</td>    <td> 23% </td> <td> 1% </td>  <td> 7%</td> <td>15%</td>    <td> 22% </td>    </tr>
+<tr>    <td>4 or more</td>    <td> 1% </td>  <td> 2%</td> <td>4%</td>    <td> 6% </td> <td> 1% </td>  <td> 2%</td> <td>4%</td>    <td> 8% </td>     </tr>
+<tr>    <td>Mean</td>    <td> 0.5 </td>  <td> 1.2</td> <td>1.7</td>    <td> 1.9 </td> <td>0.5</td>  <td>1.4</td> <td>1.8</td>    <td>2.1</td>     </tr>
+</table>
