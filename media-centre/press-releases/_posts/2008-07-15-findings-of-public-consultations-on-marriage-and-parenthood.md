@@ -212,7 +212,7 @@ Marriage remains desirable
 
 ![chart1](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart1.png)
 
-<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying</br>(Top five reasons)</th>   <th>2004</br>(Rank)</th>  <th>2007</br> (Rank)</th> </tr>  <tr>    <td>I have not met a suitable partner* yet</td> <td> 1</td> <td>1</td>    
+<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying(Top five reasons)</th>   <th>2004(Rank)</th>  <th>2007(Rank)</th> </tr>  <tr>    <td>I have not met a suitable partner* yet</td> <td> 1</td> <td>1</td>    
 </tr>
 <tr>    <td>I still want to concentrate on my job/studies</td> <td> 2</td> <td>2</td>    
 </tr>
@@ -234,7 +234,7 @@ Marriage remains desirable
 ![chart3](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart3.png)
 ![chart4](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart4.png)
 
-<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended</br> (total)* </td>  <td> Actual</br>(total)</td> <td>Intended</br> (Total)</td>    <td> Actual</br> (total) </td>    </tr>
+<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended (total)* </td>  <td> Actual(total)</td> <td>Intended(Total)</td>    <td> Actual (total) </td>    </tr>
 <tr>    <td>0</td>    <td> 7% </td>  <td> 22%</td> <td>2%</td>    <td> 19% </td>    </tr>
 <tr>    <td>1</td>    <td> 14% </td>  <td> 24%</td> <td>15%</td>    <td> 28% </td>    </tr>
 <tr>    <td>2</td>    <td> 43% </td>  <td> 36%</td> <td>53%</td>    <td> 37% </td>    </tr>
@@ -245,7 +245,7 @@ Marriage remains desirable
 
 **Table 3**
 
-<table class="table-h">  <tr>    <th>No. of Children Born</br> (Actual)</th>    <th colspan="8">Total married respondents(%)</th>  </tr>  <tr>    <td> </td>    <td colspan="4">2004 </td> <td colspan="4">2007</td>   </tr>  <tr>    <td> </td>    <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td> <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td>    </tr>
+<table class="table-h">  <tr>    <th>No. of Children Born (Actual)</th>    <th colspan="8">Total married respondents(%)</th>  </tr>  <tr>    <td> </td>    <td colspan="4">2004 </td> <td colspan="4">2007</td>   </tr>  <tr>    <td> </td>    <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td> <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td>    </tr>
 <tr>    <td>0</td>    <td> 51% </td>  <td> 28%</td> <td>16%</td>    <td> 10% </td> <td> 63% </td>  <td> 19%</td> <td>7%</td>    <td> 4% </td>   </tr>
 <tr>    <td>1</td>    <td> 30% </td>  <td> 32%</td> <td>20%</td>    <td> 18% </td> <td> 28% </td>  <td> 38%</td> <td>28%</td>    <td> 18% </td>     </tr> 
 <tr>    <td>2</td>    <td> 16% </td>  <td> 30%</td> <td>43%</td>    <td> 43% </td> <td> 8% </td>  <td> 34%</td> <td>46%</td>    <td> 48% </td>     </tr>
@@ -256,7 +256,7 @@ Marriage remains desirable
 
 **Table 4**
 
-<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="8">Total married respondents(%)</th>  </tr>  <tr>    <td> </td>    <td colspan="4">2004 </td> <td colspan="4">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended</br>(Male)*</td>  <td> Intended (Female)* </td> <td>Actual (Male)</td>    <td> Actual (Female)</td> <td> Intended</br>(Male)*</td>  <td> Intended (Female)* </td> <td>Actual (Male)</td>    <td> Actual (Female)</td>     </tr>
+<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="8">Total married respondents(%)</th>  </tr>  <tr>    <td> </td>    <td colspan="4">2004 </td> <td colspan="4">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended(Male)*</td>  <td> Intended (Female)* </td> <td>Actual (Male)</td>    <td> Actual (Female)</td> <td> Intended(Male)*</td>  <td> Intended (Female)* </td> <td>Actual (Male)</td>    <td> Actual (Female)</td>     </tr>
 <tr>    <td>0</td>    <td> 9% </td>  <td> 6%</td> <td>23%</td>    <td> 22% </td> <td> 2% </td>  <td> 2%</td> <td>20%</td>    <td> 184% </td>   </tr>
 <tr>    <td>1</td>    <td> 14% </td>  <td> 14%</td> <td>26%</td>    <td> 23% </td> <td> 17% </td>  <td> 13%</td> <td>31%</td>    <td> 26% </td>     </tr> 
 <tr>    <td>2</td>    <td> 42% </td>  <td> 14%</td> <td>26%</td>    <td> 23% </td> <td> 17% </td>  <td> 13%</td> <td>31%</td>    <td> 26% </td>     </tr>
@@ -273,19 +273,19 @@ Marriage remains desirable
 ![chart5](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart5.png)
 ![chart6](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart%206.png)
 
-**Parenthood viewed as a shared responsibility**</br>
+**Parenthood viewed as a shared responsibility**
 **(Source: Marriage and Parenthood Studies 2004 and 2007)**
 
 **Table 5**
 
-<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying</br>(Top five reasons)</th>   <th>2004</br>(Rank)</th>  <th>2007</br>(Rank)</th> </tr>  <tr>    <td>Financial Situation</td> <td>1</td>
+<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying(Top five reasons)</th>   <th>2004(Rank)</th>  <th>2007(Rank)</th> </tr>  <tr>    <td>Financial Situation</td> <td>1</td>
 <td> 1</td>  </tr>  
 <tr>    <td>Spouse's Wish</td>    <td>2</td>  <td>2</td>  </tr>
 <tr>    <td>Own / Spouse's Age</td>    <td>3</td>  <td>3</td>  </tr>
 <tr>    <td>Time Factor</td>    <td>4</td>  <td>4</td>  </tr>
 <tr>    <td>Others</td>    <td>5</td>  <td>5</td>  </tr></table>
 
-**Women want both family and work at the same time** </br>
+**Women want both family and work at the same time** 
 **(Source: Marriage and Parenthood Studies 2004 and 2007)**
 
 **Table 6**
@@ -306,12 +306,12 @@ Marriage remains desirable
 **Diagram 7 (For Married Women)**  
 ![chart7](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart7.png)
 
-**Parents want reliable, affordable, accessible and quality child care</br>
+**Parents want reliable, affordable, accessible and quality child care
 (Source: Marriage and Parenthood Study 2007)**
 
 ![chart8](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart8.png)
 
-**Impact of marriage and parenthood measures</br>
+**Impact of marriage and parenthood measures
 (Source: Marriage and Parenthood Study 2007)**
 
 <table class="table-h">  <tr>    <th> </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married(%)</th> </tr>  
@@ -321,7 +321,7 @@ Marriage remains desirable
   
 **Table 8**
 
-<table class="table-h">  <tr>    <th>Scheme</br>(Top 3) </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married with No Children(%)</th>  <th colspan="2">Married withChildren(%)</th> </tr> 
+<table class="table-h">  <tr>    <th>Scheme(Top 3) </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married with No Children(%)</th>  <th colspan="2">Married withChildren(%)</th> </tr> 
   <tr> <td></td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td>  </tr>  
 <tr> <td>Baby Bonus</td> <td>78</td> <td>67</td> <td>77</td> <td>73</td> <td>50</td> <td>54</td>   </tr> 
 <tr> <td>Paid Maternity Leave</td> <td>71</td> <td>60</td> <td>65</td> <td>65</td> <td>42</td> <td>41</td>   </tr>
