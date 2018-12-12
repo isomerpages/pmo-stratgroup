@@ -72,6 +72,7 @@ Email: adeline_kwok@pmo.gov.sg
 1.26 in 2004 & 2005
 
 1.28 in 2006 </td>
+
 <td> 1.29 in 2007</td>  </tr>  <tr>    <td>Number of babies</td>    
 <td> 45,356 in 1997
 35,135 in 2004
@@ -84,18 +85,18 @@ Email: adeline_kwok@pmo.gov.sg
 Age 30-34</td> <td> Male: 30.9%
 Female: 19.9%</td>
 <td> Male: 34.7%
-Female: 22.2%</td>  </tr>  <tr>    <td>Singlehood:</br>
+Female: 22.2%</td>  </tr>  <tr>    <td>Singlehood:
 Age 35-39</td>    
 <td> Male: 18.9% 
 Female: 14.5%</td>  <td> Male: 19.0%</br>
 Female: 15.5%</td>  </tr>
-<td>Median age at first marriage</td> <td> Male: 28.3 years</br>
+<tr> <td>Median age at first marriage</td> <td> Male: 28.3 years
 Female: 25.7 years</td>
 <td> Male: 29.7 years
 Female: 27.2 years</td>  </tr> 
-<td>Median age of females at first birth</td> <td> 28.3 years</td>
+<tr><td>Median age of females at first birth</td> <td> 28.3 years</td>
 <td>29.5 years</td>  </tr> 
-<td>Average number of children born to evermarried females aged 40-49</td> <td> 2.8 in 1990</br>
+<tr><td>Average number of children born to evermarried females aged 40-49</td> <td> 2.8 in 1990
 2.2 in 1997</td>
 <td>2.1</td>  </tr> 
 </table>
