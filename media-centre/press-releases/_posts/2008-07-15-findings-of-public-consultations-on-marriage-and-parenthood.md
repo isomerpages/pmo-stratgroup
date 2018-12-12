@@ -320,7 +320,7 @@ Marriage remains desirable
   <tr> <td></td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td>  </tr>  
 <tr> <td>Baby Bonus</td> <td>78</td> <td>67</td> <td>77</td> <td>73</td> <td>50</td> <td>54</td>   </tr> 
 <tr> <td>Paid Maternity Leave</td> <td>71</td> <td>60</td> <td>65</td> <td>65</td> <td>42</td> <td>41</td>   </tr>
-tr> <td>Parenthood Tax Rebate</td> <td>24</td> <td>19</td> <td>41</td> <td>39</td> <td>29</td> <td>27</td>   </tr>
+<tr> <td>Parenthood Tax Rebate</td> <td>24</td> <td>19</td> <td>41</td> <td>39</td> <td>29</td> <td>27</td>   </tr>
 </table>
 
 **ANNEX B**
