@@ -77,17 +77,17 @@ Email: adeline_kwok@pmo.gov.sg
 **Trends in Marriage and Parenthood**
 
 <table class="table-h">  <tr>    <th>Indicator</th>   <th>1997</th>  <th>2007</th> </tr>  <tr>    <td>Singlehood:</br>
-Age 30-34</td> <td> Male: 30.9%</br>
+Age 30-34</td> <td> Male: 30.9%
 Female: 19.9%</td>
-<td> Male: 34.7%</br>
+<td> Male: 34.7%
 Female: 22.2%</td>  </tr>  <tr>    <td>Singlehood:</br>
 Age 35-39</td>    
-<td> Male: 18.9% </br>
+<td> Male: 18.9% 
 Female: 14.5%</td>  <td> Male: 19.0%</br>
 Female: 15.5%</td>  </tr>
 <td>Median age at first marriage</td> <td> Male: 28.3 years</br>
 Female: 25.7 years</td>
-<td> Male: 29.7 years</br>
+<td> Male: 29.7 years
 Female: 27.2 years</td>  </tr> 
 <td>Median age of females at first birth</td> <td> 28.3 years</td>
 <td>29.5 years</td>  </tr> 
