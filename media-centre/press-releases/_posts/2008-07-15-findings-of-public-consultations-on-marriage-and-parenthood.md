@@ -69,13 +69,13 @@ Email: adeline_kwok@pmo.gov.sg
 <td>Total fertility rate</td>
   
 <td> 
-2.1 in 1976
+- 2.1 in 1976
   
-1.61 in 1997
+- 1.61 in 1997
 
-1.26 in 2004 & 2005
+- 1.26 in 2004 & 2005
 
-1.28 in 2006 </td>
+- 1.28 in 2006 </td>
 
 <td> 1.29 in 2007</td>  </tr>
   
