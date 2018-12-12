@@ -90,7 +90,8 @@ Email: adeline_kwok@pmo.gov.sg
 
 <p> 35,528 in 2005
 
-<p> 36,272 in 2006</td>  <td> 37,074 in 2007</td>  </tr> </table>
+<p> 36,272 in 2006</td>  <td> 37,074 in 2007</td>
+</tr> </table>
 
 **Trends in Marriage and Parenthood**
 
