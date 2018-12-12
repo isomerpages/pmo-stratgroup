@@ -69,31 +69,21 @@ Email: adeline_kwok@pmo.gov.sg
 <td>Total fertility rate</td>
   
 <td>
-  
 <p> 2.1 in 1976
-  
 <p> 1.61 in 1997
-
 <p> 1.26 in 2004 & 2005
-
 <p> 1.28 in 2006 </td>
-
 <td> 1.29 in 2007</td>  </tr>
   
 <tr>
 <td>Number of babies</td>
-   
-<td> 
-45,356 in 1997
-  
-35,135 in 2004
+   <td> 
+<p>45,356 in 1997
+<p>35,135 in 2004
+<p>35,528 in 2005
+<p>36,272 in 2006 </td>  
 
-35,528 in 2005
-
-36,272 in 2006</td>  
-
-<td> 37,074 in 2007</td>
-</tr> </table>
+<td> 37,074 in 2007</td> </tr> </table>
 
 **Trends in Marriage and Parenthood**
 
