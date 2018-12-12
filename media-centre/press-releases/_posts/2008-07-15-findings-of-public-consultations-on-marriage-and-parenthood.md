@@ -194,3 +194,28 @@ Marriage remains desirable
 (Source: Marriage and Parenthood Studies 2004 and 2007)
 
 ![chart1](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart1.png)
+
+<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying</br>(Top five reasons)</th>   <th>2004</br>(Rank)</th>  <th>2007</br> (Rank)</th> </tr>  <tr>    <td>I have not met a suitable partner* yet</td> <td> 1</td> <td>1</td>    
+</tr>
+<tr>    <td>I still want to concentrate on my job/studies</td> <td> 2</td> <td>2</td>    
+</tr>
+<tr>    <td>I do not want to lose my freedom and comfort</td> <td> 3</td> <td>3</td>    
+</tr>
+<tr>    <td>I am too young to marry</td> <td> 5</td> <td>4</td>    
+</tr>
+<tr>    <td>I do not have enough money</td> <td> 4</td> <td>5</td>    
+</tr>
+</table>
+
+<sub>*“suitable partner” refers to compatibility and of good character
+
+**Home ownership closely associated with marriage
+(Source: Marriage and Parenthood Study 2007)**
+
+![chart2](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart2.png)
+
+![chart3](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart3.png)
+![chart4](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart4.png)
+
+<table class="table-h">  <tr>    <th colspan="2">Indicator</th>    <th>Past</th>  <th>Present</th> </tr>  <tr>    <td>Total fertility rate</td>    <td>Number of babies</td> <td>Data type 2</td> <td>Data type 3</td>  </tr>  <tr>    <td>Test data</td>    <td> Test Data</td>  <td> Test Data</td>  <td> Test Data</td> </tr></table>
+  </tr>
