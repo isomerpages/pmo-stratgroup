@@ -220,5 +220,11 @@ Marriage remains desirable
 <table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended</br> (total)* </td>  <td> Actual</br>(total)</td> <td>Intended</br> (Total)</td>    <td> Actual</br> (total) </td>    </tr>
 <tr>    <td>0</td>    <td> 7% </td>  <td> 22%</td> <td>2%</td>    <td> 19% </td>    </tr>
 <tr>    <td>1</td>    <td> 14% </td>  <td> 24%</td> <td>15%</td>    <td> 28% </td>    </tr>
-
+<tr>    <td>2</td>    <td> 43% </td>  <td> 36%</td> <td>53%</td>    <td> 37% </td>    </tr>
+<tr>    <td>3</td>    <td> 19% </td>  <td> 13%</td> <td>24%</td>    <td> 13% </td>    </tr>
+<tr>    <td>4 or more</td>    <td> 5% </td>  <td> 4%</td> <td>7%</td>    <td> 4% </td>    </tr>
+<tr>    <td>mean</td>    <td> 2.0 </td>  <td> 1.5</td> <td>2.2</td>    <td> 1.6 </td>    </tr>
 </table>
+
+**Table 3**
+
