@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Singapore Day 2008 goes to Melbourne, Australia!"
-date:   2008-08-26
-permalink: "/media-centre/press-releases/"singapore-day-2008-goes-to-melbourne-australia!"
+title:  "Singapore day 2008 goes to melbourne australia!"
+date:   2006-08-16
+permalink: "/media-centre/press-releases/singapore-day-2008-goes-to-melbourne-australia!"
 ---
+
 
 Singaporeans in Australia will get to enjoy a full day of fun with Singaporean sights, sounds and tastes at Singapore Day 2008 on 4 October in Melbourne, Australia, at the Sidney Myer Music Bowl. Register today at www.singaporeday.sg for entry and get a special collector’s item goodie bag!
 
