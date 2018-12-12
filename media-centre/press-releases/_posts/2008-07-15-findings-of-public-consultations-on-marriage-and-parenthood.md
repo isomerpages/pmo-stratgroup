@@ -217,6 +217,8 @@ Marriage remains desirable
 ![chart3](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart3.png)
 ![chart4](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart4.png)
 
-<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended total </td>  <td> Actual total</td> <td>Intended Total</td>    <td> Actual total </td>    </tr></table>
-  </tr>
+<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended</br> (total)* </td>  <td> Actual</br>(total)</td> <td>Intended</br> (Total)</td>    <td> Actual</br> (total) </td>    </tr>
+<tr>    <td>0</td>    <td> 7% </td>  <td> 22%</td> <td>2%</td>    <td> 19% </td>    </tr>
+<tr>    <td>1</td>    <td> 14% </td>  <td> 24%</td> <td>15%</td>    <td> 28% </td>    </tr>
+
 </table>
