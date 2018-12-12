@@ -335,3 +335,26 @@ _**The Baby Bonus Scheme.**_ The Baby Bonus Scheme supports parents’ decision 
   <tr> <td>Co-Savings Component (CDA)</td> <td>N.A.</td> <td>Up to $6,000</td> <td>Up to $12,000</td> <td>Up to $12,000</td>  </tr> 
   <tr><td>Total Government Contribution</td> <td>$3,000</td> <td>Up to $9,000</td> <td>Up to $18,000</td> <td>Up to $18,000</td>  </tr> 
 </table>
+
+
+For couples who wish to use Medisave for their fifth or subsequent child; they should have at least a combined total of $15,000 in their Medisave accounts.
+
+The cash gift is disbursed over 2 years from the child's birth and the matching contributions are made into a special savings account called the Children Development Account (CDA). Parents may use the funds in their child’s CDA to pay for fees at Approved Institutions (AIs) for any of their children. Currently, these AIs include MCYS-licensed childcare centres, MOE-registered kindergartens and special education schools, NCSS-registered early intervention centres and healthcare institutions licensed under the Private Hospitals and Medical Clinics (PHMC) Act. CDA funds may also be used to purchase MediShield or Medisave-approved private integrated plans.
+
+_**Parenthood Tax Rebate and Working Mother’s Child Relief.**_ Parents of Singaporean children also benefit from enhanced income tax benefits. The Parenthood Tax Rebate – without age requirements or qualifying claim periods - will provide tax rebates of $10,000 to $20,000, depending on the birth order of the child ($10,000 for 2nd child; $20,000 for 3rd and 4th child). The Working Mother’s Child Relief - without qualifying educational criteria - will provide working mothers a tax relief of 5% to 25% of their earned income for each child, depending on the number of children they have (5%, 15%, 20% and 25% for 1st to 4th child respectively). These tax measures apply to parents of Singapore Citizen babies born on or after 1 January 2004 (for Year of Assessment 2005).
+
+**(iv) Enhancing Child Care Options**
+
+_**Longer Maternity Leave.**_ Working mothers of Singapore Citizen babies now have a total of 12 weeks paid Maternity Leave. The additional 4 weeks’ leave (after the first 8 weeks of en bloc leave) may be taken any time within 6 months from birth. Employers will continue to pay for 8 weeks of maternity leave taken for the first and second child, while the Government will pay for the additional 4 weeks for the first and second child, and the entire 12 weeks for the third and fourth child, subject to a cap of $10,000 per 4 weeks. The extension in maternity leave was legislated on 1 October 2004. For mothers of Singaporean babies born during the period 1 August 2004 to 30 September 2004, the Government has paid the extended maternity leave if it was given by their employers, subject to a cap of $10,000 per 4 weeks.
+
+_**Childcare Leave.**_ An employee covered under the Employment Act is entitled to 2 days of childcare leave per year if the child (including legally adopted children or stepchildren) is below seven years of age; and the employee has worked for the employer for at least three months. Childcare leave for each parent is capped at 2 days per year.  
+
+_**Infant Care Subsidy.**_ Parents of Singapore Citizen infants, aged 2 to 18 months and attending licensed infant or child care centres, receive an infant care subsidy of up to $400 per month, from 1 August 2004.
+
+_**Foreign Domestic Worker Levy Concession.**_ Families employing foreign domestic workers enjoy a Foreign Domestic Worker Levy Concession of $95 if they have a Singapore Citizen child aged below 12 years staying in the same household. The concession is also available to families which have a Singaporean parent, parent-in-law, grandparent or grandparent-in-law aged 65 years and above staying in the same household, or if the employer or spouse is a Singaporean aged 65 years and above. This concession has taken effect from 1 August 2004.
+
+_**Grandparent Caregiver Tax Relief.**_ Working mothers whose child is being cared for by his or her grandparents get a Grandparent Caregiver tax relief of $3,000. This applies to working mothers of Singapore Citizen children aged 12 years and below as at 1 January 2004 (Year of Assessment 2005).
+
+**(v) Encouraging Better Work-Life Balance**  
+
+_**WoW! (Work-life Works!)**_ Fund. Many Singaporeans have said that their decisions to have another child depend heavily on whether they can have a healthy balance between work and family life. To help create a workplace environment that helps Singaporeans harmonise family and work commitments, the Government has introduced a $10 million WoW! Fund. The first $10 million was fully committed by April 2007 and the Government has decided to top-up the Fund with another $10 million. This fund provides financial support to companies to develop and implement work practices that facilitate work-life harmony, such as flexible work arrangements for staff.
