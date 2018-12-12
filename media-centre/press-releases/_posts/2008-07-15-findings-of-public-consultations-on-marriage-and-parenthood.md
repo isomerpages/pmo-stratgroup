@@ -84,13 +84,15 @@ Email: adeline_kwok@pmo.gov.sg
 <td>Number of babies</td>
    
 <td> 
-<p> 45,356 in 1997
+45,356 in 1997
   
-<p> 35,135 in 2004
+35,135 in 2004
 
-<p> 35,528 in 2005
+35,528 in 2005
 
-<p> 36,272 in 2006</td>  <td> 37,074 in 2007</td>
+36,272 in 2006</td>  
+
+<td> 37,074 in 2007</td>
 </tr> </table>
 
 **Trends in Marriage and Parenthood**
@@ -152,6 +154,7 @@ Female: 27.2 years</td>  </tr>
 ![slide17](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide17.jpg)
 
 ![slide18](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/slide18.jpg)
+
 
 **MARRIAGE AND PARENTHOOD STUDY 2007**
 
