@@ -83,13 +83,14 @@ Email: adeline_kwok@pmo.gov.sg
 <tr>
 <td>Number of babies</td>
    
-<td> 45,356 in 1997
+<td> 
+<p> 45,356 in 1997
   
-35,135 in 2004
+<p> 35,135 in 2004
 
-35,528 in 2005
+<p> 35,528 in 2005
 
-36,272 in 2006</td>  <td> 37,074 in 2007</td>  </tr></table>
+<p> 36,272 in 2006</td>  <td> 37,074 in 2007</td>  </tr> </table>
 
 **Trends in Marriage and Parenthood**
 
