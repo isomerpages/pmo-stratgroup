@@ -217,6 +217,6 @@ Marriage remains desirable
 ![chart3](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart3.png)
 ![chart4](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Press%20Release%20images/chart4.png)
 
-<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="3">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended total </td>  <td> Actual total</td> <td>Intended Total</td>    <td> Actual total </td>    </tr></table>
+<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended total </td>  <td> Actual total</td> <td>Intended Total</td>    <td> Actual total </td>    </tr></table>
   </tr>
 </table>
