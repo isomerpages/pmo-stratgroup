@@ -61,7 +61,6 @@ Email: adeline_kwok@pmo.gov.sg
 
 **STATISTICS ON MARRIAGE AND PARENTHOOD** 
 
-
 **Parenthood Indicators**
 <table class="table-h">  
   <tr>    
@@ -73,36 +72,49 @@ Email: adeline_kwok@pmo.gov.sg
     <td> 1.29 in 2007</td>  
   </tr>
   <tr>
-<td>Number of babies</td>
-   <td> 
-<p>45,356 in 1997
-<p>35,135 in 2004
-<p>35,528 in 2005
-<p>36,272 in 2006 </td>  
-
-<td> 37,074 in 2007</td> </tr> 
+    <td>Number of babies</td>
+    <td> 
+      <p>45,356 in 1997</P>
+      <p>35,135 in 2004</P>
+      <p>35,528 in 2005</P>
+      <p>36,272 in 2006</P>
+    </td>  
+    <td> 37,074 in 2007</td> 
+   </tr> 
 </table>
 
 **Trends in Marriage and Parenthood**
 
-<table class="table-h">  <tr>    <th>Indicator</th>   <th>1997</th>  <th>2007</th> </tr>  <tr>    <td>Singlehood:
-Age 30-34</td> <td> Male: 30.9%
-Female: 19.9%</td>
-<td> Male: 34.7%
-Female: 22.2%</td>  </tr>  <tr>    <td>Singlehood:
-Age 35-39</td>    
-<td> Male: 18.9% 
-Female: 14.5%</td>  <td> Male: 19.0%</br>
-Female: 15.5%</td>  </tr>
-<tr> <td>Median age at first marriage</td> <td> Male: 28.3 years
-Female: 25.7 years</td>
-<td> Male: 29.7 years
-Female: 27.2 years</td>  </tr> 
-<tr><td>Median age of females at first birth</td> <td> 28.3 years</td>
-<td>29.5 years</td>  </tr> 
-<tr><td>Average number of children born to evermarried females aged 40-49</td> <td> 2.8 in 1990
-2.2 in 1997</td>
-<td>2.1</td>  </tr> 
+<table class="table-h">  
+  <tr>    
+    <th>Indicator</th>   
+    <th>1997</th>  
+    <th>2007</th> 
+  </tr>  
+  <tr>    
+    <td>Singlehood: Age 30-34</td> 
+    <td> Male: 30.9% Female: 19.9%</td>
+    <td> Male: 34.7% Female: 22.2%</td>  
+  </tr>  
+  <tr>    
+    <td>Singlehood: Age 35-39</td>    
+    <td> Male: 18.9% Female: 14.5%</td>  
+    <td> Male: 19.0%</br> Female: 15.5%</td>  
+  </tr>
+  <tr> 
+    <td>Median age at first marriage</td> 
+    <td> Male: 28.3 years Female: 25.7 years</td>
+    <td> Male: 29.7 years Female: 27.2 years</td>  
+  </tr> 
+  <tr>
+    <td>Median age of females at first birth</td> <td> 28.3 years</td>
+    <td>29.5 years</td>  
+  </tr> 
+  <tr>
+    <td>Average number of children born to evermarried females aged 40-49</td> 
+    <td> 2.8 in 1990 2.2 in 1997</td>
+    <td>2.1</td>  
+  </tr> 
 </table>
 
 
@@ -206,19 +218,39 @@ Marriage remains desirable
 
 ![chart1](/images/Press%20Release%20images/chart1.png)
 
-<table class="table-h">  <tr>    <th>Most Important Factor For Not Marrying(Top five reasons)</th>   <th>2004(Rank)</th>  <th>2007(Rank)</th> </tr>  <tr>    <td>I have not met a suitable partner* yet</td> <td> 1</td> <td>1</td>    
-</tr>
-<tr>    <td>I still want to concentrate on my job/studies</td> <td> 2</td> <td>2</td>    
-</tr>
-<tr>    <td>I do not want to lose my freedom and comfort</td> <td> 3</td> <td>3</td>    
-</tr>
-<tr>    <td>I am too young to marry</td> <td> 5</td> <td>4</td>    
-</tr>
-<tr>    <td>I do not have enough money</td> <td> 4</td> <td>5</td>    
-</tr>
+<table class="table-h">  
+  <tr>    
+    <th>Most Important Factor For Not Marrying(Top five reasons)</th>   
+    <th>2004(Rank)</th>  <th>2007(Rank)</th> 
+  </tr>  
+  <tr>    
+    <td>I have not met a suitable partner* yet</td> 
+    <td> 1</td> 
+    <td>1</td>    
+  </tr>
+  <tr>    
+    <td>I still want to concentrate on my job/studies</td> 
+    <td> 2</td> 
+    <td>2</td>    
+  </tr>
+  <tr>    
+    <td>I do not want to lose my freedom and comfort</td> 
+    <td> 3</td> 
+    <td>3</td>    
+  </tr>
+  <tr>    
+    <td>I am too young to marry</td> 
+    <td> 5</td> 
+    <td>4</td>    
+  </tr>
+  <tr>    
+    <td>I do not have enough money</td> 
+    <td> 4</td> 
+    <td>5</td>    
+  </tr>
 </table>
 
-<sub>*“suitable partner” refers to compatibility and of good character
+<sub>*“suitable partner” refers to compatibility and of good character</sub>
 
 **Home ownership closely associated with marriage
 (Source: Marriage and Parenthood Study 2007)**
@@ -227,24 +259,141 @@ Marriage remains desirable
 ![chart3](/images/Press%20Release%20images/chart3.png)
 ![chart4](/images/Press%20Release%20images/chart4.png)
 
-<table class="table-h">  <tr>    <th>No. of Children</th>    <th colspan="4">Total married respondents</th>  </tr>  <tr>    <td> </td>    <td colspan="2">2004 </td> <td colspan="2">2007</td>   </tr>  <tr>    <td> </td>    <td> Intended (total)* </td>  <td> Actual(total)</td> <td>Intended(Total)</td>    <td> Actual (total) </td>    </tr>
-<tr>    <td>0</td>    <td> 7% </td>  <td> 22%</td> <td>2%</td>    <td> 19% </td>    </tr>
-<tr>    <td>1</td>    <td> 14% </td>  <td> 24%</td> <td>15%</td>    <td> 28% </td>    </tr>
-<tr>    <td>2</td>    <td> 43% </td>  <td> 36%</td> <td>53%</td>    <td> 37% </td>    </tr>
-<tr>    <td>3</td>    <td> 19% </td>  <td> 13%</td> <td>24%</td>    <td> 13% </td>    </tr>
-<tr>    <td>4 or more</td>    <td> 5% </td>  <td> 4%</td> <td>7%</td>    <td> 4% </td>    </tr>
-<tr>    <td>mean</td>    <td> 2.0 </td>  <td> 1.5</td> <td>2.2</td>    <td> 1.6 </td>    </tr>
+<table class="table-h">
+  <tr>    
+    <th>No. of Children</th>    
+    <th colspan="4">Total married respondents</th>  
+  </tr>  
+  <tr>    
+    <td></td>    
+    <td colspan="2">2004 </td> 
+    <td colspan="2">2007</td>   
+  </tr>  
+  <tr>    
+    <td> </td>    
+    <td> Intended (total)* </td>  
+    <td> Actual(total)</td> <td>Intended(Total)</td>    
+    <td> Actual (total) </td>    
+  </tr>
+  <tr>    
+    <td>0</td>    
+    <td> 7% </td>  
+    <td> 22%</td> 
+    <td>2%</td>    
+    <td> 19% </td>    
+  </tr>
+  <tr>    
+    <td>1</td>    
+    <td> 14% </td>  
+    <td> 24%</td> 
+    <td>15%</td>    
+    <td> 28% </td>    
+  </tr>
+  <tr>    
+    <td>2</td>    
+    <td> 43% </td>  
+    <td> 36%</td> 
+    <td>53%</td>    
+    <td> 37% </td>    
+  </tr>
+  <tr>    
+    <td>3</td>    
+    <td> 19% </td>  
+    <td> 13%</td> 
+    <td>24%</td>    
+    <td> 13% </td>    
+  </tr>
+  <tr>    
+    <td>4 or more</td>    
+    <td> 5% </td>  
+    <td> 4%</td> 
+    <td>7%</td>    
+    <td> 4% </td>    
+  </tr>
+  <tr>    
+    <td>mean</td>    
+    <td> 2.0 </td>  
+    <td> 1.5</td> 
+    <td>2.2</td>    
+    <td> 1.6 </td>    
+  </tr>
 </table>
 
 **Table 3**
 
-<table class="table-h">  <tr>    <th>No. of Children Born (Actual)</th>    <th colspan="8">Total married respondents(%)</th>  </tr>  <tr>    <td> </td>    <td colspan="4">2004 </td> <td colspan="4">2007</td>   </tr>  <tr>    <td> </td>    <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td> <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td>    </tr>
-<tr>    <td>0</td>    <td> 51% </td>  <td> 28%</td> <td>16%</td>    <td> 10% </td> <td> 63% </td>  <td> 19%</td> <td>7%</td>    <td> 4% </td>   </tr>
-<tr>    <td>1</td>    <td> 30% </td>  <td> 32%</td> <td>20%</td>    <td> 18% </td> <td> 28% </td>  <td> 38%</td> <td>28%</td>    <td> 18% </td>     </tr> 
-<tr>    <td>2</td>    <td> 16% </td>  <td> 30%</td> <td>43%</td>    <td> 43% </td> <td> 8% </td>  <td> 34%</td> <td>46%</td>    <td> 48% </td>     </tr>
-<tr>    <td>3</td>    <td> 3% </td>  <td> 8%</td> <td>17%</td>    <td> 23% </td> <td> 1% </td>  <td> 7%</td> <td>15%</td>    <td> 22% </td>    </tr>
-<tr>    <td>4 or more</td>    <td> 1% </td>  <td> 2%</td> <td>4%</td>    <td> 6% </td> <td> 1% </td>  <td> 2%</td> <td>4%</td>    <td> 8% </td>     </tr>
-<tr>    <td>Mean</td>    <td> 0.5 </td>  <td> 1.2</td> <td>1.7</td>    <td> 1.9 </td> <td>0.5</td>  <td>1.4</td> <td>1.8</td>    <td>2.1</td>     </tr>
+<table class="table-h">  
+  <tr>    
+    <th>No. of Children Born (Actual)</th>    
+    <th colspan="8">Total married respondents(%)</th>  
+  </tr>  
+  <tr>    
+    <td> </td>    
+    <td colspan="4">2004 </td> <td colspan="4">2007</td>   
+  </tr>  
+  <tr>    
+    <td> </td>    
+    <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td> <td> Below 30 </td>  <td> 30-34</td> <td>35-39</td>    <td> 40-44</td>    
+  </tr>
+  <tr>    
+    <td>0</td>    
+    <td> 51% </td>  <td> 28%</td> <td>16%</td>    <td> 10% </td> <td> 63% </td>  <td> 19%</td> <td>7%</td>    
+    <td> 4% </td>   
+  </tr>
+  <tr>    
+    <td>1</td>    
+    <td> 30% </td>  
+    <td> 32%</td> 
+    <td>20%</td>    
+    <td> 18% </td> 
+    <td> 28% </td>  
+    <td> 38%</td> 
+    <td>28%</td>    
+    <td> 18% </td>     
+  </tr> 
+  <tr>    
+    <td>2</td>    
+    <td> 16% </td>  
+    <td> 30%</td> 
+    <td>43%</td>    
+    <td> 43% </td> 
+    <td> 8% </td>  
+    <td> 34%</td> 
+    <td>46%</td>    
+    <td> 48% </td>     
+  </tr>
+  <tr>    
+    <td>3</td>    
+    <td> 3% </td>  
+    <td> 8%</td> 
+    <td>17%</td>    
+    <td> 23% </td> 
+    <td> 1% </td>  
+    <td> 7%</td> 
+    <td>15%</td>   
+    <td> 22% </td>    
+  </tr>
+  <tr>    
+    <td>4 or more</td>   
+    <td> 1% </td>  
+    <td> 2%</td> 
+    <td>4%</td>    
+    <td> 6% </td> 
+    <td> 1% </td>  
+    <td> 2%</td> 
+    <td>4%</td>    
+    <td> 8% </td>     
+  </tr>
+  <tr>    
+    <td>Mean</td>   
+    <td> 0.5 </td>  
+    <td> 1.2</td> 
+    <td>1.7</td>    
+    <td> 1.9 </td> 
+    <td>0.5</td>  
+    <td>1.4</td> 
+    <td>1.8</td>    
+    <td>2.1</td>     
+  </tr>
 </table>
 
 **Table 4**
@@ -307,18 +456,72 @@ Marriage remains desirable
 **Impact of marriage and parenthood measures
 (Source: Marriage and Parenthood Study 2007)**
 
-<table class="table-h">  <tr>    <th> </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married(%)</th> </tr>  
-  <tr> <td></td> <td>Yes</td> <td>No</td> <td> Yes</td> <td>No</td>  </tr>  
-  <tr> <td>Has the current package created a friendlier environment for having and raising children in Singapore?</td> <td>83</td> <td>17</td> <td>83</td> <td>17</td>  </tr> 
-  <tr><td> On the whole, do you feel that the current package is user-friendly?</td> <td>76</td> <td>24</td> <td>72</td> <td>28</td>  </tr> </table>
+<table class="table-h">  
+  <tr>    
+    <th></th>   
+    <th colspan="2">Single(%)</th>  
+    <th colspan="2">Married(%)</th> 
+  </tr>  
+  <tr> 
+    <td></td> 
+    <td>Yes</td> 
+    <td>No</td> 
+    <td> Yes</td> 
+    <td>No</td>  
+  </tr>  
+  <tr> 
+    <td>Has the current package created a friendlier environment for having and raising children in Singapore?</td> 
+    <td>83</td> 
+    <td>17</td> 
+    <td>83</td> 
+    <td>17</td>  
+  </tr> 
+  <tr>
+    <td> On the whole, do you feel that the current package is user-friendly?</td> 
+    <td>76</td> 
+    <td>24</td> 
+    <td>72</td> 
+    <td>28</td>  
+  </tr>
+</table>
   
 **Table 8**
 
-<table class="table-h">  <tr>    <th>Scheme(Top 3) </th>   <th colspan="2">Single(%)</th>  <th colspan="2">Married with No Children(%)</th>  <th colspan="2">Married withChildren(%)</th> </tr> 
-  <tr> <td></td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td>  </tr>  
-<tr> <td>Baby Bonus</td> <td>78</td> <td>67</td> <td>77</td> <td>73</td> <td>50</td> <td>54</td>   </tr> 
-<tr> <td>Paid Maternity Leave</td> <td>71</td> <td>60</td> <td>65</td> <td>65</td> <td>42</td> <td>41</td>   </tr>
-<tr> <td>Parenthood Tax Rebate</td> <td>24</td> <td>19</td> <td>41</td> <td>39</td> <td>29</td> <td>27</td>   </tr>
+<table class="table-h">  
+  <tr>    
+    <th>Scheme(Top 3)</th>   
+    <th colspan="2">Single(%)</th>  
+    <th colspan="2">Married with No Children(%)</th>  
+    <th colspan="2">Married withChildren(%)</th> 
+  </tr> 
+  <tr> 
+    <td></td> 
+    <td>Will Influence to have (more) children</td> 
+    <td>Will Influence to have children earlier</td> 
+    <td>Will Influence to have (more) children</td> 
+    <td>Will Influence to have children earlier</td> <td>Will Influence to have (more) children</td> <td>Will Influence to have children earlier</td>  
+  </tr>  
+  <tr> 
+    <td>Baby Bonus</td> 
+    <td>78</td> <td>67</td> 
+    <td>77</td> <td>73</td> 
+    <td>50</td> <td>54</td>   
+  </tr> 
+  <tr> 
+    <td>Paid Maternity Leave</td> 
+    <td>71</td> <td>60</td> 
+    <td>65</td> <td>65</td> 
+    <td>42</td> <td>41</td>   
+  </tr>
+  <tr> 
+    <td>Parenthood Tax Rebate</td> 
+    <td>24</td> 
+    <td>19</td> 
+    <td>41</td> 
+    <td>39</td> 
+    <td>29</td> 
+    <td>27</td>   
+  </tr>
 </table>
 
 **ANNEX B**
@@ -340,12 +543,34 @@ _**Use of Medisave for Assisted Conception Procedures.**_ Couples who face diffi
 _**The Baby Bonus Scheme.**_ The Baby Bonus Scheme supports parents’ decision to have more children by helping to lighten the financial costs of raising children. It was first introduced in April 2001 for the second and third child, and further enhanced in 2004, with benefits extended to the first and fourth child born on or after 1 August 2004. Parents of eligible Singapore Citizen babies enjoy a Baby Bonus of $3,000 cash for their first child, up to $9,000 in cash and matching contributions for their second child, and up to $18,000 in cash and matching contributions each for their third and fourth children. The cash and co-savings disbursement are summarised in Table 1 below.
 
 **Table 1: Overview of Cash and Co-savings Disbursement**
-<table class="table-h">  <tr>    <th> </th>   <th>1st Child</th>  <th>2nd Child</th> <th>3rd Child</th> <th>4th Child</th></tr>  
-  <tr> <td>Cash Gift</td> <td>$3,000</td> <td>$3,000</td> <td>$6,000</td> <td> $6,000</td>  </tr>  
-  <tr> <td>Co-Savings Component (CDA)</td> <td>N.A.</td> <td>Up to $6,000</td> <td>Up to $12,000</td> <td>Up to $12,000</td>  </tr> 
-  <tr><td>Total Government Contribution</td> <td>$3,000</td> <td>Up to $9,000</td> <td>Up to $18,000</td> <td>Up to $18,000</td>  </tr> 
+<table class="table-h">  
+  <tr>    
+    <th> </th>   
+    <th>1st Child</th>  
+    <th>2nd Child</th> 
+    <th>3rd Child</th> 
+    <th>4th Child</th>
+  </tr>  
+  <tr> 
+    <td>Cash Gift</td> 
+    <td>$3,000</td>
+    <td>$3,000</td> 
+    <td>$6,000</td> 
+    <td> $6,000</td>  
+  </tr>  
+  <tr> 
+    <td>Co-Savings Component (CDA)</td> 
+    <td>N.A.</td> <td>Up to $6,000</td> 
+    <td>Up to $12,000</td> 
+    <td>Up to $12,000</td>  
+  </tr> 
+  <tr>
+    <td>Total Government Contribution</td> 
+    <td>$3,000</td> <td>Up to $9,000</td> 
+    <td>Up to $18,000</td> 
+    <td>Up to $18,000</td>  
+  </tr> 
 </table>
-
 
 For couples who wish to use Medisave for their fifth or subsequent child; they should have at least a combined total of $15,000 in their Medisave accounts.
 
