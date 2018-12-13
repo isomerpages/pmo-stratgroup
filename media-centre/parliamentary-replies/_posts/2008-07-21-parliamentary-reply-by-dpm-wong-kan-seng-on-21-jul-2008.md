@@ -72,12 +72,12 @@ Indeed, the societal belief in gender equality and balancing work and family are
 
 As a society, Singaporeans must want to encourage and support marriage and parenthood, and to facilitate parents who want to work to continue to do so even after they have children. Such a societal mindset is necessary before any measure can take effect. The Government is committed to fostering a pro-family environment in Singapore. However, we have to cut our clothes according to the size of the cloth we have and also fashion it in a way that fits our culture. 
 
-<sub>[1]</sub> <sub>Ever-married refers to married, separated/divorced or widowed.</sub>
+<sub>[1]</sub> Ever-married refers to married, separated/divorced or widowed.
 
-<sub>[2]</sub> <sub> VAT is known as MOMS in Sweden, for mervärdesskatt.</sub>
+<sub>[2]</sub>  VAT is known as MOMS in Sweden, for mervärdesskatt.
 
-<sub>[3]</sub> <sub>TFR in 2006 for Portugal and Italy was 1.35, Greece was 1.39 and Spain was 1.38.</sub>
+<sub>[3]</sub> TFR in 2006 for Portugal and Italy was 1.35, Greece was 1.39 and Spain was 1.38.
 
-<sub>Handout 1 -  [Statistical Trends] ("https://www.strategygroup.gov.sg/docs/default-source/default-document-library/20080721-parliamentary-reply-dpm-wong-statistical-trends-handout.pdf).
+<sub>Handout 1 -  [Statistical Trends] (https://www.strategygroup.gov.sg/docs/default-source/default-document-library/20080721-parliamentary-reply-dpm-wong-statistical-trends-handout.pdf).
 
 <sub>Handout 2 - [Comparison of M&P Benefits and Taxes](https://www.strategygroup.gov.sg/docs/default-source/default-document-library/20080721-parliamentary-reply-dpm-wong-comparison-marriage-and-parenthood-benefits-and-taxes-handout.pdf).
