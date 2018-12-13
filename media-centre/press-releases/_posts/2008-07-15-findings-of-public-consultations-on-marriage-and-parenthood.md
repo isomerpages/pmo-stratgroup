@@ -64,20 +64,27 @@ Email: adeline_kwok@pmo.gov.sg
 **Parenthood Indicators**
 <table class="table-h">  
   <tr>    
-    <th>Indicator</th>   <th>Past</th>  <th>Present</th> 
+    <th>Indicator</th>   
+    <th>Past</th>  
+    <th>Present</th> 
   </tr>  
   <tr>    
     <td>Total fertility rate</td> 
-    <td><p> 2.1 in 1976 <p> 1.61 in 1997 <p> 1.26 in 2004 & 2005 <p> 1.28 in 2006</td> 
+    <td>
+      <p> 2.1 in 1976 </p>
+      <p> 1.61 in 1997 </p>
+      <p> 1.26 in 2004 & 2005 </p>
+      <p> 1.28 in 2006 </p>
+    </td> 
     <td> 1.29 in 2007</td>  
   </tr>
   <tr>
     <td>Number of babies</td>
     <td> 
-      <p>45,356 in 1997</P>
-      <p>35,135 in 2004</P>
-      <p>35,528 in 2005</P>
-      <p>36,272 in 2006</P>
+      <p>45,356 in 1997</p>
+      <p>35,135 in 2004</p>
+      <p>35,528 in 2005</p>
+      <p>36,272 in 2006</p>
     </td>  
     <td> 37,074 in 2007</td> 
    </tr> 
