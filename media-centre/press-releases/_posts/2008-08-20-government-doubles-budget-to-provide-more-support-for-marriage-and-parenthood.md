@@ -11,7 +11,7 @@ According to Mr Wong, “The enhanced Marriage and Parenthood Package seeks to f
 
 Emphasising the importance of raising the total fertility rate, Mr Wong said, “We must treat the problem of low fertility seriously, and try to raise our total fertility rate. Although getting married and having children is a personal choice, the Government is committed to fostering an overall family-friendly environment so that Singaporeans can have more support in getting married and having and raising children. We are also mindful that for all that we do, Singaporeans must desire to get married and have children in the first place. Societal attitude towards this needs to change, and we hope to facilitate the change with the enhanced Package.”
 
-**ENHANCED TAX BENEFITS**
+#### **ENHANCED TAX BENEFITS**
 
 The existing tax benefits will be substantially enhanced to provide greater financial support to parents in raising children.
 
@@ -20,7 +20,7 @@ The existing tax benefits will be substantially enhanced to provide greater fina
 * c. **Combined QCR/HCR and WMCR:** The total amount of QCR/HCR and WMCR claimable will be capped at $50,000 per child, twice the current cap of $25,000. Parents will be able to claim the enhanced QCR/HCR and WMCR from Year of Assessment 2009.
 * d. **Parenthood Tax Rebate (PTR):** Currently, PTR is only available for the second to fourth qualifying Singaporean child in a family. Going forward, PTR will be extended to the first child and beyond the fourth child. The PTR will be $5,000 for the first child, $10,000 for the second, and $20,000 for each subsequent child. Both the father and the mother may use the PTR to offset their income tax payable. Parents of children born or legally adopted on or after 1 Jan 2008 will be able to claim the enhanced PTR from Year of Assessment 2009.
 
-**ENHANCED BABY BONUS**
+#### **ENHANCED BABY BONUS**
 
 Both elements of the Baby Bonus, i.e. cash gift and dollar-for-dollar government matching contribution for the Children Development Account (CDA), will be enhanced. With the enhancements, the Baby Bonus will be up to $10,000 for each of the first two children and up to $18,000 for each subsequent child. The enhanced Baby Bonus applies to Singaporean babies born on or after 1 Jan 2009.
 
@@ -35,11 +35,11 @@ The quality, affordability and accessibility of centre-based care will be enhanc
 * b. **Affordability:** From 1 Jan 2009, the subsidy for working mothers sending their Singaporean children to centre-based childcare will increase from $150 to a maximum of $300 per month per child and the subsidy for centrebased infant care will increase from $400 to a maximum of $600 per month per child.
 * c. **Accessibility:** The Ministry of Community Development, Youth and Sports will also facilitate the development of 200 new childcare centres over the next five years to increase the number of childcare places.
 
-**ENHANCED QUALITY OF KINDERGARTEN EDUCATION**
+#### **ENHANCED QUALITY OF KINDERGARTEN EDUCATION**
 
 In order to further improve teacher quality and enhance teacher-pupil interactions in kindergartens, the Ministry of Education will increase recurrent funding for eligible kindergarten operators. The total recurrent grant to be provided is expected to reach up to $62.5 million per year in five years’ time, compared to the current $17 million a year. The additional grant will allow the operators to recruit better qualified teachers and principals, engage more teachers to improve teacher-pupil interactions and provide more support to children who are weak in English. The Ministry of Education will also provide bursaries and scholarships for existing kindergarten teachers to upgrade their professional qualifications in approved institutions.
 
-**ENHANCED LEAVE MEASURES**
+#### **ENHANCED LEAVE MEASURES**
 
 Leave measures for working fathers and mothers will be enhanced to give parents more time to spend with their children.
 
@@ -49,27 +49,27 @@ Leave measures for working fathers and mothers will be enhanced to give parents 
 
 **The qualifying period for maternity leave will be halved.** Pregnant women will have to work for at least 90 days before confinement to qualify for maternity leave. In order to further **enhance the protection for pregnant employees,** employers will be required from 1 Jan 2009 to pay employees their maternity leave benefits if the employees are dismissed without sufficient cause within the last six months of pregnancy or retrenched within the last three months.
 
-**SUPPORT FOR COUPLES WITH DIFFICULTIES CONCEIVING**
+#### **SUPPORT FOR COUPLES WITH DIFFICULTIES CONCEIVING**
 
 For couples who have difficulties conceiving, the Government will **co-fund Assisted Reproduction Technology (ART) treatments received at the public hospitals.** Singaporean couples can receive 50% co-funding (up to $3,000) for each ART treatment cycle for a maximum of three cycles. This will be introduced from 1 Sep 2008.
 
-**MERGING SDU & SDS**
+#### **MERGING SDU & SDS**
 
 The Social Development Unit (SDU), which currently caters to graduate singles, and the Social Development Service (SdS), which currently caters to non-graduate singles, will be merged to deliver enhanced dating and matchmaking services for all singles. The enlarged database would provide more opportunities for matches among members of SDU and SdS. The merged entity will also help to set standards for the dating/matchmaking industry in terms of quality and affordability. The merged entity will continue the SDU’s current efforts in developing and accrediting suitable private agencies to offer singles more choices and a wider range of services.
 
 As part of the merger, the network of Social Development Officers (SDO) will be set up to facilitate opportunities for social interaction among singles. The SDOs will be deployed at public sector organisations and community clubs, and will work with interested private firms to enhance opportunities for social interaction across organisations. The merged entity will also provide funding for other programmes that encourage social interaction among singles, and introduce relationship modules and programmes to educational institutions such as junior colleges and Institutes of Technical Education.
 
-**CONCLUSION**
+#### **CONCLUSION**
 
 The enhanced 2008 M&P Package aims to address the key challenges that Singaporeans face in getting married and starting and raising families through: (a) facilitating better work-life balance, especially for working couples; (b) providing quality, affordable and accessible centre-based childcare options; and, (c) providing financial support for parents to raise and care for their children.
 
 The NPC, through the National Population Secretariat (NPS) in the Prime Minister’s Office, led a whole-of-government review of existing M&P measures to come up with the new and enhanced measures. The review took into accountlearning points from existing programmes and overseas study trips, analyses of local and international fertility outcomes, and the views of the public obtained through surveys, public consultation sessions and other feedback channels. In all, about 7,000 Singaporeans were consulted, polled and/or provided feedback and suggestions.
 
-**MORE INFORMATION**  
+#### **MORE INFORMATION**  
 
 For more details of the measures, the public can visit the M&P website www.family.gov.sg/MnP or call the M&P Hotline at **1800-233-2229.** More information on the leave measures will also be available at www.profamilyleave.gov.sg from 1 Jan 2009.
 
-**SUMMARY OF ENHANCED M&P PACKAGE**
+#### **SUMMARY OF ENHANCED M&P PACKAGE**
 
 <table class="table-h">  <tr>    <th>Measures</th>    <th>What it means</th> <th>Effective date</th> </tr>  <tr>    <td>GETTING MARRIED</td></tr>  <tr>    <td>Finding a partner</td><td>SDU and SdS will merge to deliver enhanced services, while continuing to develop the private dating industry</td>    <td>1 Jan 2009</td>  </tr>  <tr>    <td>CPF Housing Top- Up Grant</td>  <td>Singles Grant recipients who subsequently marry can enjoy a top-up grant to the prevailing CPF Housing Grant for Family</td>  <td>Existing</td>  </tr>
 <tr>    <td>HAVING CHILDREN</td></tr> <tr>    <td>Parenthood Tax Rebate (PTR)</td><td>Medisave can be used to help pay for delivery and pre-delivery expenses</td>    <td>Existing</td>  </tr>  <tr>    <td>Government Co- Funding for Assisted Reproduction Technology (ART) Treatment</td>  <td>Government will co-fund 50% of ART treatment received at the public hospitals, up to $3,000 per treatment cycle, for a maximum of three cycles per Singaporean couple</td>  <td>1 Sep 2008</td>  </tr> <tr>    <td>Medisave for Assisted Conception Procedures</td><td>Up to $6,000, $5,000 and $4,000 can be used from Medisave for the 1st, 2nd and 3rd time respectively that Medisave is used for ACP</td>    <td>Existing</td>  </tr> 
