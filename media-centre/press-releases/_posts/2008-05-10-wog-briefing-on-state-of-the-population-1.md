@@ -50,5 +50,15 @@ Ministry of Manpower : www.mom.gov.sg
 <tr>    <th> Qualifying Child Relief/Handicapped Child Relief</th>    <td> </td> <td> </td> </tr>  
 <tr>    <td> Number of Claimants For Year of Assesment</td> <td>470,000</td> <td>Not available</td> </tr>
 <tr>    <th> Grandparent Caregiver Relief</th>    <td> </td> <td> </td> </tr>  
-<tr>    <td> Number of Claimants For Year of Assesment</td> <td>32,900</td> <td>Not available</td> </tr>  
+<tr>    <td> Number of Claimants For Year of Assesment</td> <td>32,900</td> <td>Not available</td> </tr>
+<tr>    <th> Baby Bonus Cash Gift</th>    <td> </td> <td> </td> </tr>  
+<tr>    <td> Number of Children Born in Period and Received Baby Bonus Cash Gift</td> <td>31,500</td> <td>13,200</td> </tr>
+<tr>    <td> Baby Bonus Cash Gift Take-up Rate for Children Born in Period (%)<sup>[1]</sup></td> <td colspan="2">Take up rate for 2001 cohort : 99.4</td>  </tr> 
+<tr>    <th> Baby Bonus Children Development Account (CDA)</th>    <td> </td> <td> </td> </tr>
+<tr>    <td> Number of Children Born in Period and Opened CDA</td> <td>13,900</td> <td>4,100</td> </tr>
+<tr>    <td>Number of Children Born in Period and Opened CDA with Deposit</td> <td>10,700</td> <td>2,300</td> </tr>  
+<tr>    <td> Take-up Rate for Opening of CDA for Children Born in Period (%)<sup>[2]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 98.2</td>  </tr>  
+<tr>    <td> Take-up Rate for Opening of CDA with Deposit for Children Born in Period (%)<sup>[3]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 91.1</td>  </tr>
+Infant Care Subsidy</th>    <td> </td> <td> </td> </tr>
+
 </table>
