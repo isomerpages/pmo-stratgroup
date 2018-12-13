@@ -37,6 +37,18 @@ Ministry of Manpower : www.mom.gov.sg
 
 ---
 <table class="table-h">  <tr>    <th> </th>    <th>2007</th> <th>2008(January-June)</th> </tr>  
-<tr>    <td> _**CPF TOP UP GRANT**_ </td>    <td> </td> <td> </td> </tr>    
+<tr>    <td> CPF TOP UP GRANT </td>    <td> </td> <td> </td> </tr>    
 <tr>    <td> Number of Applicants During Period</td> <td>26</td> <td>8 </td> </tr>
+<tr>    <td> MEDISAVE MATERNITY PACKAGE </td>    <td> </td> <td> </td> </tr>  
+<tr>    <td> Number of Claimants During Period</td> <td>35,600</td> <td>18,400</td> </tr>
+<tr>    <td> MEDISAVE FOR ASSISTED CONCEPTION PROCEDURES</td>    <td> </td> <td> </td> </tr> 
+<tr>    <td> Number of Claimants During Period</td> <td>1,400</td> <td>800</td> </tr>
+<tr>    <td> PARENTHOOD TAX REBATE</td>    <td> </td> <td> </td> </tr>
+<tr>    <td> Number of Claimants For Year of Assesment</td> <td>57,500</td> <td>Not available</td> </tr>
+<tr>    <td> WORKING MOTHER'S CHILD RELIEF</td>    <td> </td> <td> </td> </tr>
+<tr>    <td> Number of Claimants For Year of Assesment</td> <td>147,000</td> <td>Not available</td> </tr>
+<tr>    <td> QUALIFYING CHILD RELIEF/HANDICAPPED CHILD RELIEF</td>    <td> </td> <td> </td> </tr>  
+<tr>    <td> Number of Claimants For Year of Assesment</td> <td>470,000</td> <td>Not available</td> </tr>
+<tr>    <td> GRANDPARENT CAREGIVER RELIEF</td>    <td> </td> <td> </td> </tr>  
+<tr>    <td> Number of Claimants For Year of Assesment</td> <td>32,900</td> <td>Not available</td> </tr>  
 </table>
