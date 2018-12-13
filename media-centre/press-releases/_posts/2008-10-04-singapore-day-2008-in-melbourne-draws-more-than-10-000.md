@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore Day 2008 in Melbourne draws 11,000!"
-date:   2004-10-4
+date:   2008-10-4
 permalink: "/media-centre/press-releases/singapore-day-2008-in-melbourne-draws-more-than-11-000"
 ---
 
