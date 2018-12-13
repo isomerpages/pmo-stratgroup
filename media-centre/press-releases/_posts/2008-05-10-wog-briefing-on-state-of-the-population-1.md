@@ -37,7 +37,7 @@ Ministry of Manpower : www.mom.gov.sg
 
 ---
 <table class="table-h">  <tr>    <th> </th>    <th>2007</th> <th>2008(January-June)</th> </tr>  
-<tr>    <td> CPF TOP UP GRANT </td>    <td> </td> <td> </td> </tr>    
+<tr>    <th> CPF TOP UP GRANT </th>    <td> </td> <td> </td> </tr>    
 <tr>    <td> Number of Applicants During Period</td> <td>26</td> <td>8 </td> </tr>
 <tr>    <td> MEDISAVE MATERNITY PACKAGE </td>    <td> </td> <td> </td> </tr>  
 <tr>    <td> Number of Claimants During Period</td> <td>35,600</td> <td>18,400</td> </tr>
