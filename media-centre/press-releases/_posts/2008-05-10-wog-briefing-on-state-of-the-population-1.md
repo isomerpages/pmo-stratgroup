@@ -61,4 +61,24 @@ Ministry of Manpower : www.mom.gov.sg
 <tr>    <td> Take-up Rate for Opening of CDA with Deposit for Children Born in Period (%)<sup>[3]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 91.1</td>  </tr>
 <th>Infant Care Subsidy</th>    <td> </td> <td> </td> </tr>
 <tr>    <td> Number of Infants Who Benefited During Period</td> <td>700 (For the month of December)</td> <td>700 (For the month of June)</td> </tr>
+<tr>    <th> Childcare Subsidy</th>    <td> </td> <td> </td> </tr>
+<tr>    <td>Number of Children Who Benefited During Period</td>    <td>38,700 
+(For the month of December)</td> <td>38,700 
+(For the month of June)</td> </tr>
+<tr>    <th>Foreign Domestic Worker Levy Concession</th>    <td> </td> <td> </td> </tr>
+<tr>    <td> Number of Households with Children Below 12 Years Old that Benefited During Period</td> <td>83,300 (For the month of December)</td> <td>84,200 (For the month of June)</td> </tr>
+<tr>    <td>GPML Take-up Rate for Mothers Who Gave Birth During Period (%)<sub>[4]</sub></td>    <td colspan="2">Take up rate for 2005: 68.6 
+Take up rate for 2006: 68.9</td> </tr>
+
+<tr>    <th>Adoption Leave</th>    <td> </td> <td> </td> </tr>
+<tr>    <td> Number of Mothers Who Went on Adoption Leave During Period</td> <td>31</td> <td>17</td> </tr>
 </table>
+
+Notes
+
+<table class="table-h">  <tr> <td>1</td>    <td>Parents can apply for the Baby Bonus cash gift any time before the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr>
+<td>2</td>    <td>Parents can open a CDA any time before the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr> 
+<td>3</td>    <td>Parents can make a deposit in the CDA at any time until 31 December in the year the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr>
+<td>4</td>    <td>Mothers have six months from the birth of their child to utilise their leave, while their employers have three months thereafter to submit their claims. Hence, for a complete take-up rate, only data from women who had children in 2005 and 2006 are available.</td> </tr> </table>
+
+[Download as PDF]({{site.baseurl}}/files/press-releases/GetPdf/wog-briefing-on-state-of-the-population-1)
