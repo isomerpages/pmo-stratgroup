@@ -59,7 +59,7 @@ Ministry of Manpower : www.mom.gov.sg
 <tr>    <td>Number of Children Born in Period and Opened CDA with Deposit</td> <td>10,700</td> <td>2,300</td> </tr>  
 <tr>    <td> Take-up Rate for Opening of CDA for Children Born in Period (%)<sup>[2]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 98.2</td>  </tr>  
 <tr>    <td> Take-up Rate for Opening of CDA with Deposit for Children Born in Period (%)<sup>[3]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 91.1</td>  </tr>
-<th>Infant Care Subsidy</th>    <td> </td> <td> </td> </tr>
+<tr> <th>Infant Care Subsidy</th>    <td> </td> <td> </td> </tr>
 <tr>    <td> Number of Infants Who Benefited During Period</td> <td>700 (For the month of December)</td> <td>700 (For the month of June)</td> </tr>
 <tr>    <th> Childcare Subsidy</th>    <td> </td> <td> </td> </tr>
 <tr>    <td>Number of Children Who Benefited During Period</td>    <td>38,700 
