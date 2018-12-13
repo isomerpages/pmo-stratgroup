@@ -217,8 +217,8 @@ Ministry of Community Development, Youth and Sports
 
 **ANNEX A**
 
-#### **DETAILED BREAKDOWN OF FINDINGS FROM 
-#### THE MARRIAGE AND PARENTHOOD STUDIES 2004 AND 2007**
+#### **DETAILED BREAKDOWN OF FINDINGS FROM** 
+#### **THE MARRIAGE AND PARENTHOOD STUDIES 2004 AND 2007**
 
 Marriage remains desirable 
 (Source: Marriage and Parenthood Studies 2004 and 2007)
