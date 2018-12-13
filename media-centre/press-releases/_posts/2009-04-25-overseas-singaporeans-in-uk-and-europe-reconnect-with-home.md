@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Singapore Day 2008 in Melbourne draws 11,000!"
+title:  "Overseas Singaporeans in UK and Europe Reconnect with Home!"
 date:   2009-04-25
 permalink: "/media-centre/press-releases/overseas-singaporeans-in-uk-and-europe-reconnect-with-home"
 ---
