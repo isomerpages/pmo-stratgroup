@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "State of the Population"
-date:   2018-05-10
+date:   2008-05-10
 permalink: "/media-centre/press-releases/wog-briefing-on-state-of-the-population-1"
 ---
 
