@@ -77,8 +77,8 @@ Take up rate for 2006: 68.9</td> </tr>
 Notes
 
 <table class="table-h">  <tr> <td>1</td>    <td>Parents can apply for the Baby Bonus cash gift any time before the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr>
-<td>2</td>    <td>Parents can open a CDA any time before the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr> 
-<td>3</td>    <td>Parents can make a deposit in the CDA at any time until 31 December in the year the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr>
-<td>4</td>    <td>Mothers have six months from the birth of their child to utilise their leave, while their employers have three months thereafter to submit their claims. Hence, for a complete take-up rate, only data from women who had children in 2005 and 2006 are available.</td> </tr> </table>
+<tr><td>2</td>    <td>Parents can open a CDA any time before the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr> 
+<tr><td>3</td>    <td>Parents can make a deposit in the CDA at any time until 31 December in the year the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr>
+<tr><td>4</td>    <td>Mothers have six months from the birth of their child to utilise their leave, while their employers have three months thereafter to submit their claims. Hence, for a complete take-up rate, only data from women who had children in 2005 and 2006 are available.</td> </tr> </table>
 
 [Download as PDF]({{site.baseurl}}/files/press-releases/GetPdf/wog-briefing-on-state-of-the-population-1)
