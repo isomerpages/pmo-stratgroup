@@ -16,7 +16,7 @@ To ask the Prime Minister what lessons can be learnt from countries such as Denm
 **Mr Wong Kan Seng (for the Prime Minister):**
 
 #### **CURRENT SITUATION**
-The proportion of childless ever-married1 women has been increasing over the years. The percentage of childless ever-married female residents aged 30-39 increased from 14.1% in 2000 to 19.7% in 2007. For those aged 40-49, the percentage increased from 6.4% in 2000 to 7.7% in 2007. The number of childless ever-married women is one of the factors behind our low total fertility rate (TFR) of 1.29 in 2007, which is among the lowest in the world.
+The proportion of childless ever-married<sub>1</sub> women has been increasing over the years. The percentage of childless ever-married female residents aged 30-39 increased from 14.1% in 2000 to 19.7% in 2007. For those aged 40-49, the percentage increased from 6.4% in 2000 to 7.7% in 2007. The number of childless ever-married women is one of the factors behind our low total fertility rate (TFR) of 1.29 in 2007, which is among the lowest in the world.
 
 The other causes of low TFR are that more Singaporeans are not getting married or marrying later. And for those who marry later, they tend to have children later and have fewer children.
 
