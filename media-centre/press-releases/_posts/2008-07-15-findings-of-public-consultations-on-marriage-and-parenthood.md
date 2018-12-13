@@ -59,7 +59,7 @@ Email: adeline_kwok@pmo.gov.sg
 
 **ANNEX A**
 
-**STATISTICS ON MARRIAGE AND PARENTHOOD** 
+#### **STATISTICS ON MARRIAGE AND PARENTHOOD** 
 
 **Parenthood Indicators**
 <table class="table-h">  
@@ -164,7 +164,7 @@ Email: adeline_kwok@pmo.gov.sg
 ![slide18](/images/Press%20Release%20images/slide18.jpg)
 
 
-**MARRIAGE AND PARENTHOOD STUDY 2007**
+#### **MARRIAGE AND PARENTHOOD STUDY 2007**
 
 The Marriage and Parenthood (M&P) Study 2007 is a survey commissioned by the Ministry of Community Development, Youth and Sports (MCYS) which seeks to understand the attitudes and perceptions of Singapore residents towards marriage and parenthood.  
 
@@ -217,8 +217,8 @@ Ministry of Community Development, Youth and Sports
 
 **ANNEX A**
 
-**DETAILED BREAKDOWN OF FINDINGS FROM 
-THE MARRIAGE AND PARENTHOOD STUDIES 2004 AND 2007**
+#### **DETAILED BREAKDOWN OF FINDINGS FROM 
+#### THE MARRIAGE AND PARENTHOOD STUDIES 2004 AND 2007**
 
 Marriage remains desirable 
 (Source: Marriage and Parenthood Studies 2004 and 2007)
