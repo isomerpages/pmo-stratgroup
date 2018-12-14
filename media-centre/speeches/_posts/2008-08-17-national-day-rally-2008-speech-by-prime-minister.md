@@ -64,7 +64,7 @@ Hottest issue for Singaporeans is the rising cost of living
 * a. Inflation is a worldwide problem
 * * i. Price of oil (Slide 1)
 * * * 1. 8 years ago – US$20 per barrel
-* * * 2.Today – around US$110 per barrel
+* * * 2. Today – around US$110 per barrel
 * * ii. Price of rice (Slide 2)
 * * * 1. 8 years ago – US$200 per ton
 * * * 2. Today – around US$800 per ton
