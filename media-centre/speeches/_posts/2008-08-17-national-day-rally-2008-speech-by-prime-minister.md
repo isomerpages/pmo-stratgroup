@@ -107,8 +107,8 @@ We have not fixed electricity price; instead, we have given U-Save
 
 * a. e. top up your SingPower account with cash
 * b. Help you directly
-c. Lower-income households get more – this year’s U-Save is equal to 3-6 months of their utility bills
-d. If you can cut down and use less electricity (or gas or water), then the U-Save money will offset your bills for an even longer time
+* c. Lower-income households get more – this year’s U-Save is equal to 3-6 months of their utility bills
+* d. If you can cut down and use less electricity (or gas or water), then the U-Save money will offset your bills for an even longer time
 
 This year we have done more to help Singaporeans
 
@@ -418,19 +418,473 @@ Let me summarise the main learning points
 We will do more to help singles get married
 
 * a. SDU and SdS are working on this
-They now cater to different markets – graduates and nongraduates
-We should be more flexible
-Will merge SDU and SdS
-Together they will have more critical mass, more activities, and hopefully more pairing up and marriages
-Some young people prefer to use private dating agencies
-But they want quality assurance, e.g. to know that it is a reputable dating agency
-SDU will go into a new business
-Certify private agencies that meet quality standards
-“SDU Trust” mark to distinguish them (Slide 8)
+* * i. They now cater to different markets – graduates and nongraduates
+* * ii. We should be more flexible
+* * iii. Will merge SDU and SdS
+* * iv. Together they will have more critical mass, more activities, and hopefully more pairing up and marriages
+* b. Some young people prefer to use private dating agencies
+* * i. But they want quality assurance, e.g. to know that it is a reputable dating agency
+* * ii. SDU will go into a new business
+* 1. Certify private agencies that meet quality standards
+* 2. “SDU Trust” mark to distinguish them (Slide 8)
+
 Young people themselves should take the first step, and not leave it too late
 
-Make time to go out and meet new friends
-Join a dating agency, be it SDU/SdS or a private agency
-You may find someone you are attracted to
-Then you can marry the person you love, and love the person you marry
-PARENTHOOD
+* a. Make time to go out and meet new friends
+* b. Join a dating agency, be it SDU/SdS or a private agency
+* c. You may find someone you are attracted to
+* d. Then you can marry the person you love, and love the person you marry
+
+#### **PARENTHOOD**
+
+8. Once couples are married, we would like them to have children
+
+* a. We used to think this would follow naturally
+* b. But no longer always the case
+* * i. Couples are having fewer children or having them later
+* * ii. Some even prefer not to have any children at all
+* * iii. Why?
+* c. We looked at other countries
+* i. Happening all over East Asia
+* 1. Confucian societies with similar cultural values
+* 2. Undergoing rapid social and economic change
+* 3. So some powerful social and cultural forces at work
+* * ii. Happening in Western societies too
+* 1. Australia
+* * a. Government is working hard to encourage couples to have more children
+* * b. Slogan: “one for Dad, one for Mum, and one for the Country”
+* 2. Europe
+* * a. Many countries facing a dearth of babies
+* * b. But something interesting in their experience
+* * c. Southern Europe (Portugal, Italy, Greece, Spain)
+* * i. More macho culture
+* * ii. Women are more likely to stay at home
+* * iii. Fewer babies
+* * d. Northern Europe (Netherlands, Scandinavia)
+* * i. Gender roles are more equal
+* * ii. Women are more likely to work
+* * iii.  More babies
+* d. What about Singapore?
+* * i. I discussed this with a group of Singapore women, married and single, young and not so young
+* * ii. They agree that gender roles and helping mothers to work are important
+* * ii. Gave me many ideas on how we can facilitate this
+
+First, shared responsibilities for child raising
+
+* a. Tradition that husbands go out to work and wives stay at home to look after the children
+* * i. Women do have a better touch with children
+* b. But situation today is different
+* * i. If husbands leave everything to the wives, or women are forced to choose between work and family, the women will go on strike
+* * ii. Husbands must share duties in the home
+* * iii. Men can change nappies too
+* c. Mindsets are beginning to shift, but still not fast enough
+* * i. We cannot overcome this by making speeches
+* * ii. But can encourage greater shared responsibility in child raising and parenting
+* * 1. Introduced childcare leave in 2004 which can be claimed by either parent – will extend this from two to six days per year
+* * 2. In addition, will now introduce one week of unpaid infant-care leave per year – also can be claimed by either parent, until the child turns two
+
+ Second, work-life balance
+ 
+ * a. Flexible work arrangements are crucial to make it easier for women to both work and have children
+* b. Family-friendly employers play an important role
+* * i. If they are supportive and understanding, it will make a big difference to their female staff
+* * ii. Can do a lot with some imagination
+* * 1. Many provide space for nursing mothers to express milk
+* * 2. Others allow telecommuting, and very flexible hours, so long as the work gets done
+* * 3. One catering company equips its duty officers with Blackberries and walkie-talkies, so they can enjoy weekends with their families and still coordinate catering services
+* * iii. Will recognise and thank such employers publicly
+* c. Government can help share the burden on employers
+* * i. Maternity leave – extended by four weeks in 2004 (paid for by government), to 12 weeks
+* * 1. Welcomed by many mothers
+* * 2. Will extend by another four weeks, e. from 12 to 16 weeks, also paid for by government
+* * 3. Can claim anytime in the year from the birth of the child
+* d. Ultimately parents must make a personal choice
+* * i. Work 110%, or set aside time for other priorities?
+* * ii. Each has to decide her own point of balance
+* * iii. Recall own experience
+* * 1. My mother came home everyday to have lunch with the children
+* * 2.She avoided going out for evening functions
+* * 3. It meant taking on less work as a lawyer, but she decided that the children were more important
+* * iv. Today harder to do this
+* * 1. “Office” hours are longer
+* * 2. The pace is more intense
+* * 3. But still must maintain a balanced, fulfilling life
+* e. Work-life balance also applies to the children
+* * i. Many parents complain about the stress on their children, especially because of education system
+* * ii. We have trimmed the school syllabi – teach less, learn more
+* * 1. But parents still send children for tuition, enrichment etc
+* * 2. Feed them chicken essence before exams
+* * iii. Some pressure is inevitable
+* * 1. Part of Singapore’s competitive spirit
+* * 2. Other East Asian societies are even more ruthlessly competitive
+* * 3. But we should manage it, and take it in our stride
+* * iv. Natural for parents to worry about children, and encourage them to work hard and do better
+* * 1. But also need to understand them – each child has different aptitudes and talents
+* * 2. Give them space to grow up
+* * 3. They will learn and mature in their own time
+
+Third, the financial cost
+
+* a. Significant expense to bring up children
+* * i. Direct child-raising expenses, e.g. milk-powder, pram, paediatrician etc
+* * ii. Also a high opportunity cost for working mothers – forgoing income at work or sacrificing their careers
+* * iii. Hence often the professional women who say that it is expensive to bring up children
+* b. Financial considerations cannot be the motive for having children
+* * i. Many couples are indignant at this suggestion
+* * ii. But right for us to help lighten the burden of those with children
+* * 1. Hence the Baby Bonus and tax incentives
+* * iii. We will enhance these schemes
+* * 1. Baby Bonus – improve it for first-time parents
+* * 2. Tax incentives – will do more, to encourage mothers to work
+
+Fourth, early childhood arrangements
+
+* a. Major concern of parents, especially if both are working
+* b. Critical period – from birth to 6 years (before formal schooling)
+* c. Most families take care of children at home, e. with grandparents, extended family, or maids
+* d. But many working mothers depend on formal childcare arrangements
+* * i. 25% of children are in childcare centres
+* * ii. More popular centres have queues
+* * iii. Visited one NTUC Childcare Centre in Jurong
+* * 1. Talked to some of the parents
+* * 2. They were very happy to put their kids there
+* * * a. Good growing-up environment for their children
+* * * b. Give them peace of mind while they are working
+* * iv. So we will build up the childcare sector
+* * 1. More centres – 200 in 5 years, or 20,000 places
+* * 2. More affordable – significantly increasing subsidy per child
+* * 3. Enhance quality
+* * * a. Train and provide scholarships for childcare teachers
+* * * b. Build up some childcare centre operators to set higher benchmarks for the industry
+* e. Most parents send their children to kindergarten
+* * i. Early childhood education is important
+* * 1. Helps prepare children for school
+* * 2. But don’t make it more stressful for them!
+* * ii. Broad range of kindergartens
+* * 1. Top-end – they can take care of themselves
+* * 2. Mass market for lower- and middle-income families, like PCF
+* * * a. Standards have gradually improved
+* * * b. But we need to do much more
+* * iii. Government already supports those that meet MOE criteria
+* * 1. So far support is quite small
+* * 2. We will increase this substantially, on condition they upgrade themselves
+* * * a. Not just better trained staff
+* * * b. But improving the whole system – curriculum, supervision, staff ratios
+* f. All these improvements will take a few years
+* * i. Cannot be done overnight
+* * ii. But this will give our children better care in their critical early years
+* * iii. Give them a more equal start in life
+* * iv. Also ease the concern of many parents
+
+Two more measures that do not affect a lot of people, but I think we should do
+
+Couples who want to have children but cannot conceive
+Some go for IVF treatment which is expensive
+We will offer financial support to lower the cost
+Those with many children
+We will extend incentives like tax reliefs, childcare subsidies etc. to the 5th and subsequent child
+Numbers are very small, but I hope the incentives will encourage those who can afford it to have more
+
+Measures add up to a substantial package
+
+* a. Around $700 million per year – almost double what we are spending today
+* b. Altogether, will spend about $1.6 bn or 0.6% of GDP
+8 c. DPM Wong Kan Seng (in charge of our population policies) will give the full picture later this week
+
+Package will make a difference to many couples
+
+* a. But I cannot guarantee that it will solve our problem
+* b. This is a deep problem, which we will have to revisit periodically
+* c. Finally, it is about mindsets, personal choices and values
+* d. Please put emphasis on marriage and family, and make these your priorities in life
+
+**Our Future**
+
+Our children will grow up in a completely different world
+
+* a. We have to prepare them and our society for this
+One of the biggest changes that will affect us– the internet
+
+* a. New media is pervasive and fast-moving
+* b. Everyone is plugged in and connected
+* c. People are blogging, engaging one another, organising themselves online, and doing politics online
+* d. From “Grassroots” to “Netroots”
+* e. Happening worldwide
+
+America
+
+* a. Current US election campaign
+* b. John McCain is present on the internet, even though he says he does not know how to use a computer (Slide 1)
+* c. Barack Obama – internet is a key part of his campaign
+* * i. Home page – “Change we can believe in” (Slide 2)
+* * ii. Younger Americans are highly energised
+* * iii. They are helping him to run the system
+* * 1. e.g. Chris Hughes (24, a founder of Facebook) joined Obama’s campaign
+* * 2. Using Facebook technology to link up, mobilise and organise supporters all over the country (Slide 3)
+* * iv. Raising funds online
+* * 1. “Donate now” (Slide 3 – zoom in)
+* * 2. More than 1.5 million people have donated – small amounts individually, but cumulatively a huge boost to his campaign
+* * v. Rebutting attackers on “Fight the Smears” (Slide 4)
+
+Korea – world’s most wired country
+
+* a. Internet has had a major impact on Korean politics
+* b. Empowered new groups
+* * i. e.g. mass access to the internet helped President Lee Myung-bak to win resoundingly in Dec 2007
+* c.But also created rapidly changing moods in the population
+* * i. Within a few months, President Lee was under siege
+* * ii. Mass demonstrations and protests (Slide 5)
+* d. One issue – mad cow disease
+* * i. Fanned by rumours on the internet
+* * 1. “94% of Koreans have a gene which predisposes them to mad cow disease”
+* * 2. “Cow products are used to make pampers, which gives babies who wear them mad cow disease”
+* * ii. Videos and pictures circulated online and worked people up (Slide 6)
+* e. President Lee calls it “infodemics”
+* * i. Anonymous false information on the internet
+* * ii. Creating discontent and unhappiness which spread like an epidemic in the real world
+* f. One Korean newspaper called this “mad cow madness”
+
+Malaysia
+
+* a. Internet has become an active space for information and engagement
+* * i. Lively debate and serious contributions, together with more doubtful stuff
+* * 1. On blogs and chatrooms
+* * 2. On alternative news sites, e.g. Malaysiakini (Slide 7)
+* * ii. Politicians themselves participate actively in cyberspace
+* * 1. Cyberspace personalities entered politics, e.g. Jeff Ooi
+* * iii. In recent elections
+* * 1. Mass of materials circulated through blogs, SMS and YouTube
+* * 2. Public went into cyberspace to get what they could not get in mainstream media
+* * 3. Opposition campaigned widely in cyberspace (Slide 8 – website of Parti Keadilan Rakyat)
+* * 4. BN was also present, although not to the same extent (Slide 9)
+* b. Election was not just about the new media
+* * ii. It was about real life politics
+* * 1. Opposition raised many hot issues in ceramahs
+* * 2. e.g. rising costs of living, poor public service delivery, and perceived inequalities in the government’s policies
+8 * ii. But these issues were picked up in the new media, and amplified through viral distribution
+
+Even in China
+
+* a. World’s largest number of internet users – more than America
+* b. After Sichuan earthquake, netizens mobilised to collect funds and show support (Slide 10)
+* c. Leaders are engaging on the new media
+* * i. President Hu Jintao held his first web chat recently (Slide 11)
+
+In Singapore too, the new media is a big thing
+
+* a. Talked about this two years ago
+* b. We have moved further on since then
+* * i. More than 80% of homes have broadband access
+* * ii. 6 million handphone accounts – more handphone accounts than babies per person!
+* c. Young people are totally immersed in this medium
+* * i. Reading print newspapers less
+* * 1. Getting information and discussing issues online, e.g. ST, CNA and omy websites
+* * ii. Organising interest groups
+* * iii. Writing their own content and sharing it with others
+* d. All this has changed how the Government works
+* * i. Many services online, 24/7
+* * 1. From passport renewals to incorporating a new business
+* * ii. Communicating with and engaging Singaporeans online
+* * 1. Not just putting out video clips (Slide 12)
+* * 2. Two way process
+* * iii. REACH
+* * 1. At the forefront of this
+* * 2. Lively exchanges on its website – blogs, online chats etc (Slide 13)
+* * 3. Also active participation on Facebook
+* * 4. Lots of discussion on cost of living, ERP, babies etc – useful feedback for this NDR (Slide 13 – zoom in)
+
+It will also change the way we conduct our politics
+
+* a. We have to adapt, get used to it, and turn it to positive effect
+* b. Use it to inform, educate, debate and engage
+* c. Each of us must learn how to be savvy cyber-citizens
+* * i. Be discerning about what you see on the net
+* * ii. Distinguish between what is true and false
+* * iii. Set prudent limits to flag problems and avoid excesses
+* * iv. Participate actively but do not get swept away
+* * v. Do not catch mad cow madness
+* d. Our rules governing politics must keep up to date too
+
+First, party political films
+
+* a. Presently totally banned
+* * i. Politics is a serious matter
+* * ii. Voters should consider issues rationally and coolly, and make considered decisions on their future
+* * iii. Concern that films are an emotive medium
+* * 1. Impact of watching a film is different from reading something in cold print
+* * 2. It can stir up passions and cause people to get carried away
+* b. oncern still valid, but an outright ban is no longer sensible
+* * i. This is how people communicate on the web, and in daily life
+* * ii. Many make videos, e.g. the clips you saw earlier
+* * iii. Even my NDR has become a multi-media event
+* * 1. The speech itself
+* * 2. After the speech, many video and blog responses
+* iv. Anyone can do this, anytime, anywhere
+* 1. Let me show you
+* * * a. I have a handphone here
+* * * b. It has a software loaded called “Qik”
+* * * c. Let me run the programme
+* * * d. Turn on the video camera
+* * * e. Now I am recording a video of you “live”
+* * * f. Stream this onto the PMO website
+* * * g. After a short delay, you will see yourself on the net
+* * * h. Wave – you’re on candid camera!
+* 2. Just like that, I have made our first (non-political) video
+* c. So we must allow political videos, but with some safeguards
+* * i. Some things are obviously alright – factual footage, documentaries, recordings of live events
+* * ii. But some things should still be off limits – political commercials, partisan material, footage distorted to create a slanted impression
+* * iii. In between there will be some grey areas
+* * 1. But we can deal with this
+* * 2. e.g. for non-political films, censorship and classification standards rely on subjective judgment, yet we have worked out a workable system
+*  * iv.Ovverriding consideration – preserve integrity and quality of our political discourse
+
+Second, rules for political material on the internet during elections
+
+* a. Current rules settled before last GE
+* * i. e.g. podcasts and videocasts are not allowed
+* * ii. Most people cannot post election materials – only limited to political parties, candidates and their agents
+* b. By next GE, 5 years will have passed
+* * i. Cyber years are like dog years, so 5 years in cyberspace, is like 35 years in the real world!
+* c. We must update these rules
+* * i. Liberalise and allow people to participate more actively and flexibly, e.g.
+* * 1. Allow podcasts and videocasts
+* * 2. Allow others to post election materials too
+* * ii. But maintain accountability and responsibility
+
+Have sketched out my views broadly
+
+* a. Advisory Council on the Impact of New Media on Society (AIMS) led by Cheong Yip Seng is studying these issues in detail
+* b. Look forward to their recommendations
+
+Beyond cyberspace, politics is about people’s lives in the real world
+
+* a. Have to get a direct feel for the person – Can he be trusted? Does he care for people? Is he capable?
+* b. Have to talk, argue, persuade, and work together for what we believe in
+* c. Cannot do this purely online
+* d. We do this all the time
+* * i. At grassroots sessions, dialogues, meetings etc
+* * ii. Small society – possible for us to interact and get to know one another in real life
+* e. A few restraints – cannot afford to take chances with race and religion
+* f. Even then, Singaporeans are free to do nearly everything
+
+One remaining restriction – outdoor demonstrations
+
+* a. Still not allowed
+* * i. Concern is law and order, and security
+* * ii. One incident could undermine our racial harmony, and confidence in Singapore
+* b. Concern is still valid, but total ban is too rigid
+* * i. We should find ways to allow people to express themselves safely
+* * ii. Speakers’ Corner at Hong Lim Park is a model
+* * iii. Well defined location, accessible, safe
+* * iv. Not many speak there, but anyone can who wants to
+* c. We should allow outdoor public demonstrations, also at the Speakers’ Corner
+* * i. Still subject to basic rules of law and order
+* * ii. Still stay away from race, language or religion
+* * iii. We will manage with a light touch
+* * 1. No need for Police to be involved
+* * 2. NParks has agreed to be in charge of Speakers’ Corner
+
+Overall thrust of all these changes
+
+* a. To liberalise, widen the space for expression and participation
+* b. Encourage more citizens to engage in debate, to participate in building our shared future
+* c. We will progressively open up our system
+* * i. Much more open today compared to ten or even five years ago
+* * ii. Will continue to feel our way forward
+* * iii. Cannot progress just by copying others
+* * iv. Must think through our problems ourselves and find the right path for Singapore
+
+But please remember that even in the cyber-age, some things do not change
+
+* a. In 50 years’ time, Singapore will still be a little red dot
+* b. To thrive as a nation, we will still need the cohesion to stay united, the ability to outperform others, and the will to survive and excel, and occasionally win medals
+* c. That means:
+* * i. A hardworking and well-educated population
+* * ii. A capable and effective government
+* * iii. Outstanding people at all levels, totally committed to Singapore
+* d. Then however the world changes, our children will still have a bright future
+
+Before I leave this section on new media, I have one more demonstration
+
+* a. Hello, Team Singapore
+* b. [Eng Liang will give an update]
+* c. Thank you. All of us here in Singapore are behind the team and cheering you on from home. We salute the men and women of Team Singapore, especially our paddlers Jiawei, Tianwei and Yuegu. All of you have done us proud and carried our flag high
+
+**Conclusion**
+
+Have discussed some key issues that affect our future
+
+* a. Immediate concerns like inflation and cost of living
+* b. Long-term issues like living graciously, raising families and opening up our society
+* c. Must get these right to keep on growing our economy, year after year
+
+Sometimes, people criticise us for over-emphasising economic performance, because GDP growth, employment, productivity, etc. are all just so many statistics
+
+* a. In fact, growth is critical
+* b. It gives us the resources to solve our problems
+* c. It creates opportunities
+* * i. For our workers to secure better jobs
+* * ii. For our young to receive a first class education
+* * iii. For all of us to improve our lives and fulfil our dreams
+* d. Growth is not just abstract numbers
+* * i. It is changing our people’s lives for the better
+* * ii. It is about the Singapore story, as lived in the lives of each one of us
+
+Older generation of Singaporeans have experienced this
+
+* a. e.g. Mr Arumugam Jeyapal – working in PSA (Slide 1)
+* * i. Only had two years of vocation training after his PSLE
+* * ii. Started out as a prime-mover driver, earning $250 a month
+* * iii. Worked his way up, and now is a mentor to yard-crane operators, earning $3,000 a month, and is active in the SPWU
+* * iv. Upgraded from 3-room to a 5-room HDB flat
+* * v. Three children are also doing well in different fields – a soccer coach, a lawyer (DPP), and a daughter studying in NIE to become a teacher
+* * vi. Now 58, he says, “I have lived the Singapore story…I am grateful for what the Government has provided”
+
+Middle-aged Singaporeans too
+
+* a. e.g. Mdm Lim Hui Bin, wafer fab specialist (Slide 2)
+* * i. Quit her job in 1999 to help daughter who was not doing well in school
+* * ii. When her daughter’s studies improved, she returned to work full-time as a machine operator at Seagate – was on night shift and had to work OT to supplement her low pay
+* * iii. Friends told her that she could earn more in a wafer fab
+* * iv. She resigned to find a job in the wafer fab industry but had no skills and no “lobang”
+* * v. Responded to an ad by NTUC’s Employment and Employability Institute (e2i) to equip herself with relevant skills
+* * vi. Joined STMicroelectronics as a wafer fab specialist, earning $1,400 a month, nearly one-third more than before
+* * vii. At 45, she has made a successful career switch to a new job with brighter prospects; daughter is now at Singapore Poly studying to become an Optometrist
+
+Young Singaporeans are writing their own Singapore stories
+
+* a. Enjoy far more opportunities than what their parents ever did
+* b. e.g. Crystaline Tan, Neng Abdul Rashid, David Aw – three SMU graduates (Slide 3)
+* * i. Fresh out of school
+* * ii. Recruited by Fullerton Financial Holdings (a Temasek company)
+* * iii. Now happily working in Dubai
+* * iv. They are taking risks, venturing out, and seizing opportunities, and launching off on exciting international careers
+* c. e.g. Muhammad Fadzuli, computer games enthusiast (Slide 4)
+* * i. Addicted to computer games as a boy
+* * ii. Did a Diploma in Entertainment Technology in Nanyang Poly and topped his class
+* * iii. Applied to Carnegie Mellon University
+* * 1. They gave him advanced standing
+* * 2. Waived requirement for a Bachelor’s degree
+* * 3. Allowed him to pursue his Masters directly
+* * iv. Won an MDA-ST Electronics scholarship
+* * v. Now on 3-month attachment at Disney (a collaboration with the university) helping to develop a new computer game
+* d. e.g. Brenda Tan, marketing manager (Slide 5)
+* * i. Was “playful and lazy” in school
+* * ii. O-levels results were not good
+* * iii. Went to ITE, and then to Ngee Ann Poly for a Diploma in Business
+* * iv. Got a job in Citibank as a tele-sales officer
+* * 1. Did well, was promoted, and posted to Malaysia to help set up a new unit there
+* * 2. Became manager of the unit, overseeing a staff of 80
+* * 3. Now back in Singapore and progressing in her career
+* * v. She says, “ITE has given many opportunities to people [like me] who are less academically incline..this is something unique about our education system and about the openness and acceptance of our society”
+
+This is what we mean when we talk about growth, about investing in our people, about thinking long-term
+
+This is what drives us to do the best for Singapore, whatever the uncertainties and difficulties
+
+* a. Let us look beyond our immediate problems
+* b. Work hard to grow our economy and transform our nation
+* c. Then we will create even more extraordinary opportunities for a new generation
+* d. Together, our children will write more glorious chapters of the Singapore story
+ 
+[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/national-day-rally-2008-speech-by-prime-minister/)
