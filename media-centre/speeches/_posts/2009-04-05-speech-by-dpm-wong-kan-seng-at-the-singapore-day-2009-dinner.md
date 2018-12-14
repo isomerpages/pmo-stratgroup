@@ -5,9 +5,9 @@ date:   2009-04-05
 permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2009-dinner"
 ---
 
-<span>Distinguished Guests,</span>
-<span>Fellow Singaporeans,</span>
-<span>A very good evening to all of you.</span>
+<p>Distinguished Guests,</br>
+Fellow Singaporeans,</br>
+A very good evening to all of you.<br></p>
 
 #### **INTRODUCTION**
 
