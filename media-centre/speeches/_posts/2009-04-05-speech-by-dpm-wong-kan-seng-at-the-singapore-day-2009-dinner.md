@@ -6,7 +6,7 @@ permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-
 ---
 
 <span>Distinguished Guests,</span>
-<span>Fellow Singaporeans,</span
+<span>Fellow Singaporeans,</span>
 <span>A very good evening to all of you.</span>
 
 #### **INTRODUCTION**
