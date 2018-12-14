@@ -44,7 +44,7 @@ Going forward, in line with the ESC’s recommendation for our economy to keep t
 To sum up, transient foreign workers are here to work and they will eventually go home. Most of them do not sink roots. We should appreciate their contributions to Singapore as they have helped us to grow our economy. In turn, with economic growth, we have the resources to develop infrastructure and support programmes which have raised the quality of life for all Singaporeans. Economic growth has also enabled us to accumulate reserves in good times, which we have been able to rely on to sustain and support Singaporeans during lean and tough times. 
 
 
-ENHANCING OUR IMMIGRATION POLICIES – ENSURING QUALITY AND ASSIMILABILITY 
+#### **ENHANCING OUR IMMIGRATION POLICIES – ENSURING QUALITY AND ASSIMILABILITY** 
 
 The second category of foreigners in our midst is not transient but stays on to become PRs and citizens. I know that this is a matter which Singaporeans care very deeply about, and rightly so, as it concerns the value of our citizenship. 
 
