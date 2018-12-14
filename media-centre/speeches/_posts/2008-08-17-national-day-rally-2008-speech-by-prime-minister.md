@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Speech by Prime Minister Lee Hsien Loong at the UNFCCC Conference in Bali, 12 December 2007"
+title:  "National Day Rally 2008 Speech by Prime Minister"
 date:   2008-08-17
-permalink: "/media-centre/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-unfccc-conference-in-bali-12-december-2007"
+permalink: "/media-centre/speeches/national-day-rally-2008-speech-by-prime-minister"
 ---
 
 NDR 2008
