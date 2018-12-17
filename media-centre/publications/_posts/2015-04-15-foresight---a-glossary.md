@@ -5,7 +5,7 @@ date:   2015-04-15
 permalink: /media-centre/publications/foresight---a-glossary
 ---
 
-![foresight-a-glossary](/images/PublicationImages/foresight-a-glossary.jpg =105x150)
+![foresight-a-glossary](/images/PublicationImages/foresight-a-glossary.jpg height="300" width="210")
 
    
 Foresight: A Glossary is a guide to the concepts, tools and methodologies commonly used in the Singapore Government foresight space.
