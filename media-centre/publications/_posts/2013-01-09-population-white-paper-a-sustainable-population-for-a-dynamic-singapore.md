@@ -9,8 +9,8 @@ The Population White Paper sets out the key considerations and roadmap for Singa
 
 Download:
 
-[Population White Paper (2mb, pdf)](isomerpages-stratgroup/images/PublicationImages/chart7.png.pdf)
-[Executive Summary - English (276kb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-english.pdf)
-[Executive Summary - Chinese (1mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-chinese.pdf)
-[Executive Summary - Malay (2mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-malay.pdf)
-[Executive Summary - Tamil (17mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-tamil.pdf)
+* [Population White Paper (2mb, pdf)](isomerpages-stratgroup/images/PublicationImages/chart7.png.pdf)
+* [Executive Summary - English (276kb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-english.pdf)
+* [Executive Summary - Chinese (1mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-chinese.pdf)
+* [Executive Summary - Malay (2mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-malay.pdf)
+* [Executive Summary - Tamil (17mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-tamil.pdf)
