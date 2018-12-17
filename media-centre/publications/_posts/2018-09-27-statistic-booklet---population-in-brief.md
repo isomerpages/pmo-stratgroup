@@ -2,7 +2,7 @@
 layout: post
 title:  "Population In Brief"
 date:   2018-09-27
-permalink: /media-centre/publications/statistic-booklet---population-in-brief
+permalink: /media-centre/publications/population-in-brief
 ---
 
 ![pib2018-cover](/images/PublicationImages/pib2018-cover.jpg)
