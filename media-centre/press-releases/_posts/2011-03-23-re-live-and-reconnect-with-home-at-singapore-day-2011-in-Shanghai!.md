@@ -35,3 +35,5 @@ Assistant Director, Corporate Communications
 National Population and Talent Division
 Tel: 6325 3251 Fax: 6325 3200
 Email: <a href="mailto:tania_koh@nptd.gov.sg">tania_koh@nptd.gov.sg</a>
+
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/re-live-and-reconnect-with-home-at-singapore-day-2011-in-shanghai!.pdf)
