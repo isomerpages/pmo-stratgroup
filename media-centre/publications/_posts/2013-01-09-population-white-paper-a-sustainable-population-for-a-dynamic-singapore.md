@@ -13,4 +13,4 @@ Download:
 * [Executive Summary - English (276kb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-english.pdf)
 * [Executive Summary - Chinese (1mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-chinese.pdf)
 * [Executive Summary - Malay (2mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-malay.pdf)
-* [Executive Summary - Tamil (17mb, pdf)](isomerpages-stratgroup/images/PublicationImages/exec-summary-tamil.pdf)
+* [Executive Summary - Tamil (17mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/exec-summary-tamil.pdf)
