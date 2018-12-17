@@ -11,6 +11,7 @@ Population in Brief is an annual publication that provides key updates and trend
 Download:
 
 * [Population in Brief 2018 (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2018.pdf)
+
 * [Population in Brief 2017 (2mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2017.pdf)
 * [Population in Brief 2016 (1mb, pdf)](isomerpages-stratgroup/images/PublicationImages/population-in-brief-2016.pdf)
 * [Population in Brief 2015 (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2015.pdf)
