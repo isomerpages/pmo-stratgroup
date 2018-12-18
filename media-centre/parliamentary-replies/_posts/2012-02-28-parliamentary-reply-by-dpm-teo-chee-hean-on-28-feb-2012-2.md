@@ -6,7 +6,7 @@ permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012
 ---
 
 #### **WRITTEN ANSWER**
-#### **TUESDAY, 28 FEBRUARY 2012**
+**TUESDAY, 28 FEBRUARY 2012**
 
 **Mr Gan Thiam Poh:**
 To ask the Prime Minister (a) what is the percentage breakdown of our 1.39 million nonresident population in terms of (i) ;foreign professionals (ii) mid-level skilled foreigners (iii) skilled and semi-skilled foreigners (iv) foreigners' dependants and (v) foreign students; and (b) what is the percentage breakdown by country of origin for (i) the 1.39 million nonresidents; and (ii) the 0.53 million permanent residents.
@@ -58,5 +58,77 @@ Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011)
   
 </table>
 
+
+Note 1: Includes foreign domestic workers.
+Note 2: Holders of Dependant Passes and Long Term Visit Passes
+Note 3: Student Pass holders in MOE schools/ post-secondary education institutions, foreign system schools and private education institutions
+Note 4: Excludes Work Passes that are in process.
+
+Foreign domestic workers and construction workers make up the majority of Work Permit holders. 
+
+(b) The percentage breakdown by country of origin of the 1.39 million non-residents and 0.53 million permanent residents is in Table 2 and Table 3 respectively.
+
+Table 2: Percentage Breakdown by Country of Origin of Non-Resident Population (As at June 2011)
+
+<table class="table-h">
+  <tr>
+    <th>Non-Residents</th>
+    <th>Jun 2011 (%)</th>
+    
+ </tr>
+ 
+  <tr>
+    <td>Southeast Asia countries</td>
+    <td>46%</td>
+  </tr>
+  
+  <tr>
+    <td>Other Asian countries</td>
+    <td>47%</td>
+  </tr>
+  
+  <tr>
+    <td>Other countries</td>
+    <td>7%</td>
+  </tr>  
+
+<tr>
+    <td>Total</td>
+    <td>100%</td>
+  </tr>  
+  
+  </table>
+  
+Table 3: Percentage Breakdown by Country of Origin of Permanent Resident 
+Population (As at June 2011)
+
+<table class="table-h">
+  <tr>
+    <th>Permamnent Residents</th>
+    <th>Jun 2011 (%)</th>
+    
+ </tr>
+ 
+  <tr>
+    <td>Southeast Asia countries</td>
+    <td>59%</td>
+  </tr>
+  
+  <tr>
+    <td>Other Asian countries</td>
+    <td>34%</td>
+  </tr>
+  
+  <tr>
+    <td>Other countries</td>
+    <td>7%</td>
+  </tr>  
+
+<tr>
+    <td>Total</td>
+    <td>100%</td>
+  </tr>  
+  
+  </table>
 
 [Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012-2.pdf)
