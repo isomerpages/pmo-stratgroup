@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parliamentary Reply by DPM Teo Chee Hean on programmes by OSU"
-date:   2012-07-09
+date:   2012-05-14
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-programmes-by-osu
 ---
 
@@ -43,4 +43,4 @@ About 60% of the Singapore Day budget this year went into the three main compone
 
 While we strive to make Singapore the best home for our citizens, we know that with globalisation, Singaporeans will continue to venture abroad for various reasons. As such, keeping overseas Singaporeans connected with home is one important pillar of our population strategy to sustain a strong citizen core. Over the last five years, the Government has set aside about S$7 million annually to fund engagement programmes by OSU and other government agencies, including supporting overseas Singaporean clubs, talks by prominent Singaporeans including businessmen, and artists.  OSU will continue to review, on a regular basis, the effectiveness of its programmes and ensure fiscal prudence in achieving its mission.
 
-[Download as PDF]([Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-programmes-by-osu.pdf)
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-programmes-by-osu.pdf)
