@@ -19,12 +19,17 @@ Singapore faces the challenge of declining birth rates. The last time that the r
 
 Ever married females are having fewer children over time. From 1996 to 2011, the average number of children born to ever-married citizen females aged 30-39 declined from 1.89 to 1.52. Over the same period, the average number of children born to ever-married citizen females aged 40-49 has declined from 2.32 to 2.06. (Please refer to Chart 1.)
 
-Chart 1: Average number of children born to ever-married citizen females aged 30-49 years  
-![birth-graph](images/parliamentary%20files/birth-graph.jpg)
+Chart 1: Average number of children born to ever-married citizen females aged 30-49 years
+
+![birth-graph](/parliamentary files/birth-graph.jpg)
 
 Source: Department of Statistics 
-*Note: 1995 data is not available, as this was not collected in the General Household Survey 1995.
+Note: 1995 data is not available, as this was not collected in the General Household Survey 1995.
 
 The proportion of single Singaporeans has been rising. Among Singaporean men aged 30-34, the proportion of singles rose from 35% in 1995 to 44% in 2011. Among Singaporean women aged 30-34, the proportion of singles rose from 21% in 1995 to 31% in 2011. (Please refer to Chart 2.)
 
 Chart 2: Proportion of singles among citizens aged 30-39 (%)
+
+![singles](/images/parliamentary files/singlesd5e4835b617a6d73a304ff0000443480.jpg)
+
+Source: Department of Statistics
