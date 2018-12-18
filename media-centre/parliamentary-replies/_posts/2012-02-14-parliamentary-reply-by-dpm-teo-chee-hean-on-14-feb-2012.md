@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on foreign spouses"
 date:   2012-02-14
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jan-2012
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-14-feb-2012
 ---
 
 #### **WRITTEN ANSWER**
