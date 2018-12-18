@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on emigration"
+title:  "Parliamentary reply by DPM Teo Chee Hean on TFR"
 date:   2012-05-14
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-tfr
 ---
