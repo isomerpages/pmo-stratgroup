@@ -61,7 +61,7 @@ Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011)
 Note 1: Includes foreign domestic workers.  
 Note 2: Holders of Dependant Passes and Long Term Visit Passes  
 Note 3: Student Pass holders in MOE schools/ post-secondary education institutions, foreign system schools and private education institutions  
-Note 4: Excludes Work Passes that are in process.
+Note 4: Excludes Work Passes that are in process  
 
 Foreign domestic workers and construction workers make up the majority of Work Permit holders. 
 
