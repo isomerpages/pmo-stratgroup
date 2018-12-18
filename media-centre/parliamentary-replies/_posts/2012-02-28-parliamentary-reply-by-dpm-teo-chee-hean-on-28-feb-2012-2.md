@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on breakdown of non-resident population"
 date:   2012-02-28
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jan-2012
+permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012-2
 ---
 
 #### **WRITTEN ANSWER
