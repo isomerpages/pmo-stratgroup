@@ -5,12 +5,12 @@ date:   2012-07-09
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jan-2012
 ---
 
-<p>
-TWELFTH PARLIAMENT OF SINGAPORE
-(FIRST SESSION)
-WRITTEN ANSWER
-MONDAY, 9 JANUARY 2012
-</p>
+
+**TWELFTH PARLIAMENT OF SINGAPORE  
+(FIRST SESSION)  
+WRITTEN ANSWER  
+MONDAY, 9 JANUARY 2012**  
+
 
 #### **REASONS FOR EMIGRATION**
 
