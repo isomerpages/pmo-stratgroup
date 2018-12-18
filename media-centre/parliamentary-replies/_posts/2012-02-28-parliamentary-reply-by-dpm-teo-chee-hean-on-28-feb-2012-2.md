@@ -8,10 +8,10 @@ permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012
 #### **WRITTEN ANSWER**
 **TUESDAY, 28 FEBRUARY 2012**
 
-**Mr Gan Thiam Poh:**
+**Mr Gan Thiam Poh:**  
 To ask the Prime Minister (a) what is the percentage breakdown of our 1.39 million nonresident population in terms of (i) ;foreign professionals (ii) mid-level skilled foreigners (iii) skilled and semi-skilled foreigners (iv) foreigners' dependants and (v) foreign students; and (b) what is the percentage breakdown by country of origin for (i) the 1.39 million nonresidents; and (ii) the 0.53 million permanent residents.
 
-**Mr Teo Chee Hean (for the Prime Minister):**
+**Mr Teo Chee Hean (for the Prime Minister):**  
 (a) Our non-resident population was 1.39 million as at June 2011. The percentage breakdown of the non-resident population by pass types is in Table 1. 
 
 Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011) 
@@ -20,7 +20,7 @@ Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011)
 <table class="table-h">
   <tr>
     <th>Non-Residents</th>
-    <th>Jun 2011 (%)</th>
+    <th>Jun 2011(%)</th>
     
  </tr>
  
@@ -59,8 +59,8 @@ Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011)
 
 
 Note 1: Includes foreign domestic workers.  
-Note 2: Holders of Dependant Passes and Long Term Visit Passes. 
-Note 3: Student Pass holders in MOE schools/ post-secondary education institutions, foreign system schools and private education institutions. 
+Note 2: Holders of Dependant Passes and Long Term Visit Passes  
+Note 3: Student Pass holders in MOE schools/ post-secondary education institutions, foreign system schools and private education institutions  
 Note 4: Excludes Work Passes that are in process.
 
 Foreign domestic workers and construction workers make up the majority of Work Permit holders. 
