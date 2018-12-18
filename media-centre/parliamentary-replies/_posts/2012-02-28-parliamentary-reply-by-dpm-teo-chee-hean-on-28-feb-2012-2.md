@@ -20,8 +20,7 @@ Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011)
 <table class="table-h">
   <tr>
     <th>Non-Residents</th>
-    <th>Jun 2011  
-(%)</th>
+    <th>Jun 2011 (%)</th>
     
  </tr>
  
@@ -68,7 +67,8 @@ Foreign domestic workers and construction workers make up the majority of Work P
 
 (b) The percentage breakdown by country of origin of the 1.39 million non-residents and 0.53 million permanent residents is in Table 2 and Table 3 respectively.
 
-Table 2: Percentage Breakdown by Country of Origin of Non-Resident Population (As at June 2011)
+Table 2: Percentage Breakdown by Country of Origin of Non-Resident Population  
+(As at June 2011)
 
 <table class="table-h">
   <tr>
@@ -99,8 +99,8 @@ Table 2: Percentage Breakdown by Country of Origin of Non-Resident Population (A
   
   </table>
   
-Table 3: Percentage Breakdown by Country of Origin of Permanent Resident 
-Population (As at June 2011)
+Table 3: Percentage Breakdown by Country of Origin of Permanent Resident Population  
+(As at June 2011)
 
 <table class="table-h">
   <tr>
