@@ -6,7 +6,7 @@ permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012
 ---
 
 #### **ORAL ANSWER**
-#### **TUESDAY, 28 FEBRUARY 2012**
+**TUESDAY, 28 FEBRUARY 2012**
 
 **Mrs Lina Chiam:**    
 To ask the Prime Minister (a) what are the criteria for granting Singapore citizenship and permanent residency; (b) whether there is a rigorous system in place to ensure that the right people are given these status; (c) for the past four years, how many foreigners gave up their Singapore citizenship; and (d) whether these foreigners are required to sell their HDB flats and properties when they leave the country or are they allowed to profit from renting them out.
