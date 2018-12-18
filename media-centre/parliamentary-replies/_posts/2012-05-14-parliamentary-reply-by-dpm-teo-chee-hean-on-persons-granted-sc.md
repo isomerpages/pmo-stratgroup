@@ -5,11 +5,11 @@ date:   2012-05-14
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-persons-granted-sc
 ---
 
-**TWELFTH PARLIAMENT OF SINGAPORE
-WRITTEN ANSWER
-MONDAY, 14 MAY 2012**
+**TWELFTH PARLIAMENT OF SINGAPORE  
+WRITTEN ANSWER   
+MONDAY, 14 MAY 2012**   
        
-#### **PERSONS GRANTED SINGAPORE CITIZENSHIP (Breakdown in Figures for PRs and Foreigners)**
+#### **PERSONS GRANTED SINGAPORE CITIZENSHIP  (Breakdown in Figures for PRs and Foreigners)**
 
 **Mrs Lina Chiam:**  
 To ask the Prime Minister of the number of persons granted Singapore citizenship annually from 1980 to 2011, what are the annual breakdown figures in terms of (i) permanent residents; and (ii) foreigners.
