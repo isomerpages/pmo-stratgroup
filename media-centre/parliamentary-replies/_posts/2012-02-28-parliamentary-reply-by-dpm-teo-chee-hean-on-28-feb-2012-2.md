@@ -5,8 +5,8 @@ date:   2012-02-28
 permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012-2
 ---
 
-#### **WRITTEN ANSWER
-#### TUESDAY, 28 FEBRUARY 2012**
+#### **WRITTEN ANSWER**
+#### **TUESDAY, 28 FEBRUARY 2012**
 
 **Mr Gan Thiam Poh:**
 To ask the Prime Minister (a) what is the percentage breakdown of our 1.39 million nonresident population in terms of (i) ;foreign professionals (ii) mid-level skilled foreigners (iii) skilled and semi-skilled foreigners (iv) foreigners' dependants and (v) foreign students; and (b) what is the percentage breakdown by country of origin for (i) the 1.39 million nonresidents; and (ii) the 0.53 million permanent residents.
