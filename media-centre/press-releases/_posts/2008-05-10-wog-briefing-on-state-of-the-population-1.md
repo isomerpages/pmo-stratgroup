@@ -37,7 +37,7 @@ Ministry of Manpower : [www.mom.gov.sg](www.mom.gov.sg)
 
 **ANNEX A**  
 
-**M&P PAckage Indicators**
+**M&P Package Indicators**
 
 ---
 <table class="table-h">  <tr>    <th> </th>    <th>2007</th> <th>2008(January-June)</th> </tr>  
@@ -58,7 +58,7 @@ Ministry of Manpower : [www.mom.gov.sg](www.mom.gov.sg)
 <tr>    <th> Baby Bonus Cash Gift</th>    <td> </td> <td> </td> </tr>  
 <tr>    <td> Number of Children Born in Period and Received Baby Bonus Cash Gift</td> <td>31,500</td> <td>13,200</td> </tr>
 <tr>    <td> Baby Bonus Cash Gift Take-up Rate for Children Born in Period (%)<sup>[1]</sup></td> <td colspan="2">Take up rate for 2001 cohort : 99.4</td>  </tr> 
-<tr>    <th colspan="3"> Baby Bonus Children Development Account (CDA)</th>    <td> </td> </tr>
+<tr>    <th colspan="3"> Baby Bonus Children Development Account (CDA)</th> </tr>
 <tr>    <td> Number of Children Born in Period and Opened CDA</td> <td>13,900</td> <td>4,100</td> </tr>
 <tr>    <td>Number of Children Born in Period and Opened CDA with Deposit</td> <td>10,700</td> <td>2,300</td> </tr>  
 <tr>    <td> Take-up Rate for Opening of CDA for Children Born in Period (%)<sup>[2]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 98.2</td>  </tr>  
@@ -74,7 +74,7 @@ Ministry of Manpower : [www.mom.gov.sg](www.mom.gov.sg)
 <tr>    <td>GPML Take-up Rate for Mothers Who Gave Birth During Period (%)<sub>[4]</sub></td>    <td colspan="2">Take up rate for 2005: 68.6 
 Take up rate for 2006: 68.9</td> </tr>
 
-<tr>    <th colspan="3">Adoption Leave</th>    <td> </td> <td> </td> </tr>
+<tr>    <th colspan="3">Adoption Leave</th>  </tr>
 <tr>    <td> Number of Mothers Who Went on Adoption Leave During Period</td> <td>31</td> <td>17</td> </tr>
 </table>
 
