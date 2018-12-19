@@ -5,11 +5,11 @@ date:   2008-10-04
 permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2008-dinner"
 ---
 
-Distinguished Guests,
-Fellow Singaporeans,
-Friends, 
+Distinguished Guests,  
+Fellow Singaporeans,  
+Friends,  
 
-A very good evening to all of you. 
+A very good evening to all of you.  
 
 #### **INTRODUCTION** 
 
@@ -45,7 +45,7 @@ Like I said earlier, the list is not exhaustive. You will see behind me, the nam
 
 #### **STAYING CONNECTED**
 
-Aside from Singapore Day, there are a number of other programmes and initiatives to help our OS stay connected with home. Last year in New York, I mooted the idea of a Singapore Club for Singaporeans to gather and network while overseas. I am pleased to say that over the past year, we have launched eight1 OS Clubs, housed in Singaporean-owned hotels, in Australia, China and the UK. We expect to launch at least as many2 in the year ahead, in major cities in the US as well as in the Asia Pacific region. In fact, the first two OS Clubs in the world were launched in Australia – Stamford Plaza Melbourne and Sir Stamford at Circular Quay in Sydney. We have since added two more in Australia – the Stamford Plaza Adelaide and Stamford Plaza Brisbane. I urge all of you to register as members – it is free – and make full use of the facilities and benefits on offer, including access to Singapore newspapers and magazines such as The Straits Times, and 8 Days. 
+Aside from Singapore Day, there are a number of other programmes and initiatives to help our OS stay connected with home. Last year in New York, I mooted the idea of a Singapore Club for Singaporeans to gather and network while overseas. I am pleased to say that over the past year, we have launched eight<sup>1</sup> OS Clubs, housed in Singaporean-owned hotels, in Australia, China and the UK. We expect to launch at least as many<sup>2</sup> in the year ahead, in major cities in the US as well as in the Asia Pacific region. In fact, the first two OS Clubs in the world were launched in Australia – Stamford Plaza Melbourne and Sir Stamford at Circular Quay in Sydney. We have since added two more in Australia – the Stamford Plaza Adelaide and Stamford Plaza Brisbane. I urge all of you to register as members – it is free – and make full use of the facilities and benefits on offer, including access to Singapore newspapers and magazines such as The Straits Times, and 8 Days. 
 
 #### **CONCLUSION**
 
