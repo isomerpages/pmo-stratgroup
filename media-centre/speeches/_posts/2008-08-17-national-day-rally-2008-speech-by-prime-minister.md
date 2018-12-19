@@ -17,7 +17,7 @@ NDR 2008
 
 **Our Economy**  
 
-1. Start by talking about the economy
+1. Start by talking about the economy. 
 
 * a. Have not done so in detail in the last few years
 * b. Economy was doing well, so focused on social issues, e.g. income gap and ageing population
