@@ -7,7 +7,7 @@ permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-kk-women's-and
 
 **27 JULY 2008 AT 8.10 PM**
 
-Professor Ivy Ng, 
+Professor Ivy Ng,  
 Ladies and gentlemen. 
 
 Good evening. First, let me congratulate all past and present staff and management who have contributed to the growth of the KK Women’s and Children’s Hospital through the years, as we celebrate the 150th anniversary of this iconic institution in Singapore. As Minister-in-Charge of population matters, I have a strong interest in KK Hospital, particularly in the number of babies that are delivered each year in Singapore.
@@ -18,7 +18,7 @@ KK or “Tekka” Hospital is a household name in Singapore. It is now widely re
 
 * a. 1858: This was the year that KK was founded as a general hospital;
 
-* b. One million: KK Hospital is the birthplace of more than a million Singaporeans1 , including my two sons and two grandchildren;
+* b. One million: KK Hospital is the birthplace of more than a million Singaporeans<sup>1</sup> , including my two sons and two grandchildren;
 
 * c. 500,000: Every year, the hospital serves about 500,000 women and children;
 
