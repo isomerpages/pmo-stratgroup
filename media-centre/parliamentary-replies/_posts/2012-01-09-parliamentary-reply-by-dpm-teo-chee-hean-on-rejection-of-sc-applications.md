@@ -5,7 +5,7 @@ date:   2012-01-09
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-rejection-of-sc-applications"
 ---
 
-**TWELFTH PARLIAMENT OF SINGAPORE. 
+**TWELFTH PARLIAMENT OF SINGAPORE  
 (FIRST SESSION)  
 WRITTEN ANSWER  
 MONDAY, 9 JANUARY 2012**
