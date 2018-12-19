@@ -5,8 +5,7 @@ date:   2013-01-09
 permalink: /media-centre/population-white-paper-a-sustainable-population-for-a-dynamic-singapore
 ---
 
-![population-white-paper-cover-tmb-small](/images/PublicationImages/population-white-paper-cover-tmb-small.jpg)
-<!-- .element height="50%" width="50%" -->
+![population-white-paper-cover-tmb-small](/images/PublicationImages/population-white-paper-cover-tmb-small.jpg)<!-- .element height="50%" width="50%" -->
 
 The Population White Paper sets out the key considerations and roadmap for Singapore's population policies to address its demographic challenge.
 
