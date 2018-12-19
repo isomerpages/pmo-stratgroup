@@ -5,9 +5,9 @@ date:   2012-01-09
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-on-nrs-and-prs"
 ---
 
-**TWELFTH PARLIAMENT OF SINGAPORE
-(FIRST SESSION)
-WRITTEN ANSWER
+**TWELFTH PARLIAMENT OF SINGAPORE  
+(FIRST SESSION)  
+WRITTEN ANSWER  
 MONDAY, 9 JANUARY 2012**
 
 #### **INCREASE IN NON-RESIDENTS AND PERMANENT RESIDENTS**
@@ -23,8 +23,8 @@ However, companies may go out of business or decide not to invest in Singapore i
 
 The Government remains committed to our goal of sustainable and inclusive economic growth for Singaporeans, and we will manage and moderate the flow of foreign workers so that Singapore can continue to develop and prosper.
 
-<sub>1</sub>The total population size was 5.08 million as at June 2010.
+<sub><sup>1</sup>The total population size was 5.08 million as at June 2010.</sub>
 
-<sub>2</sub>Our total employment grew by 115,900 in 2010, of which resident employment grew by 56,200 in 2010 over 2009.
+<sub><sup>2</sup>Our total employment grew by 115,900 in 2010, of which resident employment grew by 56,200 in 2010 over 2009.</sub>
 
 [Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-on-nrs-and-prs/)
