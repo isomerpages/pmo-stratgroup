@@ -6,8 +6,8 @@ permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-
 ---
 
 
-**TWELFTH PARLIAMENT OF SINGAPORE
-ORAL ANSWER
+**TWELFTH PARLIAMENT OF SINGAPORE  
+ORAL ANSWER  
 MONDAY, 13 AUG 2012**
 
 **Ms Tan Su Shan:**  
