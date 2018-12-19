@@ -17,6 +17,6 @@ MONDAY, 9 JANUARY 2012**
 **Mr Teo Chee Hean (for the Prime Minister):** 
 From 2006 to 2010, about 3,000 second generation Permanent Residents who served National Service (NS) subsequently applied for Singapore citizenship.1 60 of the 3,000 citizenship applications (about 2%) were rejected. This was due to the applicant’s adverse record and/or because the applicant did not qualify for citizenship on his own merits. 
 
-<sub><sub>1</sub>A further ~3,200 second generation Permanent Residents became Singapore Citizens prior to serving NS during this period.</sub>
+<sub><sup>1</sup>A further ~3,200 second generation Permanent Residents became Singapore Citizens prior to serving NS during this period.</sub>
 
 [Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-by-dpm-teo-chee-hean-on-rejection-of-sc-applications/)
