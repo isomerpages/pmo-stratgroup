@@ -11,30 +11,33 @@ Mr Roy Quek, Director of the NPS, said: “There is much greater interest in pop
 
 #### **STATE OF SINGAPORE’S POPULATION**
 
-Growing total population. As of June 2008, Singapore’s total population stood at 4.84 million, higher than 4.59 million as at June 2007. All three segments of the population – citizens, Permanent Residents (PR) and non-residents – recorded absolute growth in the past year. The number of citizens, for example, grew from 3.13 million to 3.16 million. This is attributed to a slightly higher number of citizen babies as well as more PRs taking up Singapore citizenship.
+_**Growing total population.**_ As of June 2008, Singapore’s total population stood at 4.84 million, higher than 4.59 million as at June 2007. All three segments of the population – citizens, Permanent Residents (PR) and non-residents – recorded absolute growth in the past year. The number of citizens, for example, grew from 3.13 million to 3.16 million. This is attributed to a slightly higher number of citizen babies as well as more PRs taking up Singapore citizenship.
 
 #### **FERTILITY**
 
-Total fertility rate still low but more births were registered. Singapore’s resident total fertility rate (TFR) rose slightly from 1.28 in 2006 to 1.29 in 2007. There were 18,032 resident births registered in the first six months of 2008, compared with 17,325 births during the same period a year ago. The increase is primarily due to more first-order births. With the recent enhancement of the Marriage and Parenthood (M&P) Package, the Government hopes to support more Singaporeans in getting married and having and raising children. (See Annex A for the M&P Package take-up rates.)
+_**Total fertility rate still low but more births were registered.**_ Singapore’s resident total fertility rate (TFR) rose slightly from 1.28 in 2006 to 1.29 in 2007. There were 18,032 resident births registered in the first six months of 2008, compared with 17,325 births during the same period a year ago. The increase is primarily due to more first-order births. With the recent enhancement of the Marriage and Parenthood (M&P) Package, the Government hopes to support more Singaporeans in getting married and having and raising children. (See Annex A for the M&P Package take-up rates.)
 
 #### **IMMIGRATION**
 
-More new permanent residents and new citizens. There were more foreigners becoming PRs and citizens, with 34,800 granted PRs and 9,600 granted citizenship in the first six months of 2008, compared to 28,500 and 7,300 in the first six months in 2007 respectively. 77% of the new PRs aged 20 years and over had post-secondary qualifications; the corresponding figure was 62% for new citizens aged 20 and over. This compares favourably with the 36% among our existing citizen stock aged 20 years and over. The Government will continue to exercise discretion and facilitate the naturalisation of suitable foreigners who can add value and contribute to Singapore socially and economically.
+_**More new permanent residents and new citizens.**_ There were more foreigners becoming PRs and citizens, with 34,800 granted PRs and 9,600 granted citizenship in the first six months of 2008, compared to 28,500 and 7,300 in the first six months in 2007 respectively. 77% of the new PRs aged 20 years and over had post-secondary qualifications; the corresponding figure was 62% for new citizens aged 20 and over. This compares favourably with the 36% among our existing citizen stock aged 20 years and over. The Government will continue to exercise discretion and facilitate the naturalisation of suitable foreigners who can add value and contribute to Singapore socially and economically.
 
 #### **OVERSEAS SINGAPOREANS**
 
-More Singaporeans going overseas for work and study. As of June 2008, there were about 153,500 overseas Singaporeans (OS) compared with 147,500 a year ago. The countries with a high concentration of OS are Australia, the UK, the US and China. Mr Quek, who also heads the Overseas Singaporean Unit (OSU), noted that “having more Singaporeans go overseas is not a problem per se, so long as they stay engaged and connected with Singapore. The fact that many Overseas Singaporeans have done well in other countries attests to the success of the Singaporean system in producing top students, professionals and entrepreneurs who can succeed outside of Singapore. We should celebrate their successes and help them stay connected to home, so that they remain Singaporeans in their hearts and minds even when they are physically away from the rest of us”.
+_**More Singaporeans going overseas for work and study.**_ As of June 2008, there were about 153,500 overseas Singaporeans (OS) compared with 147,500 a year ago. The countries with a high concentration of OS are Australia, the UK, the US and China. Mr Quek, who also heads the Overseas Singaporean Unit (OSU), noted that “having more Singaporeans go overseas is not a problem per se, so long as they stay engaged and connected with Singapore. The fact that many Overseas Singaporeans have done well in other countries attests to the success of the Singaporean system in producing top students, professionals and entrepreneurs who can succeed outside of Singapore. We should celebrate their successes and help them stay connected to home, so that they remain Singaporeans in their hearts and minds even when they are physically away from the rest of us”.
 
 #### **FOR MORE INFORMATION**
 
-The new statistical publication, “Population in Brief”, can be downloaded from www.nps.gov.sg (hardcopies can be obtained from the agencies below). Other population-related information is also available on the following websites:
+The new statistical publication, “Population in Brief”, can be downloaded from [www.nps.gov.sg](www.nps.gov.sg) (hardcopies can be obtained from the agencies below). Other population-related information is also available on the following websites:
 
-Singapore Department of Statistics : www.singstat.gov.sg
-Ministry of Community Development, Youth and Sports : www.mcys.gov.sg 
-Ministry of Home Affairs : www.mha.gov.sg 
-Immigration and Checkpoints Authority : www.ica.gov.sg
-Ministry of Manpower : www.mom.gov.sg
+Singapore Department of Statistics : [www.singstat.gov.sg](www.singstat.gov.sg)  
+Ministry of Community Development, Youth and Sports : [www.mcys.gov.sg](www.mcys.gov.sg)  
+Ministry of Home Affairs : [www.mha.gov.sg](www.mha.gov.sg)  
+Immigration and Checkpoints Authority : [www.ica.gov.sg](www.ica.gov.sg)  
+Ministry of Manpower : [www.mom.gov.sg](www.mom.gov.sg)  
 
+**ANNEX A**  
+
+**M&P PACKAGE INDICATORS**
 ---
 <table class="table-h">  <tr>    <th> </th>    <th>2007</th> <th>2008(January-June)</th> </tr>  
 <tr>    <th> Cpf Top Up Grant </th>    <td> </td> <td> </td> </tr>    
@@ -54,7 +57,7 @@ Ministry of Manpower : www.mom.gov.sg
 <tr>    <th> Baby Bonus Cash Gift</th>    <td> </td> <td> </td> </tr>  
 <tr>    <td> Number of Children Born in Period and Received Baby Bonus Cash Gift</td> <td>31,500</td> <td>13,200</td> </tr>
 <tr>    <td> Baby Bonus Cash Gift Take-up Rate for Children Born in Period (%)<sup>[1]</sup></td> <td colspan="2">Take up rate for 2001 cohort : 99.4</td>  </tr> 
-<tr>    <th> Baby Bonus Children Development Account (CDA)</th>    <td> </td> <td> </td> </tr>
+<tr>    <th colspan="2"> Baby Bonus Children Development Account (CDA)</th>    <td> </td> </tr>
 <tr>    <td> Number of Children Born in Period and Opened CDA</td> <td>13,900</td> <td>4,100</td> </tr>
 <tr>    <td>Number of Children Born in Period and Opened CDA with Deposit</td> <td>10,700</td> <td>2,300</td> </tr>  
 <tr>    <td> Take-up Rate for Opening of CDA for Children Born in Period (%)<sup>[2]</sup></td> <td colspan="2">Take up rate for 2001 cohort: 98.2</td>  </tr>  
@@ -70,7 +73,7 @@ Ministry of Manpower : www.mom.gov.sg
 <tr>    <td>GPML Take-up Rate for Mothers Who Gave Birth During Period (%)<sub>[4]</sub></td>    <td colspan="2">Take up rate for 2005: 68.6 
 Take up rate for 2006: 68.9</td> </tr>
 
-<tr>    <th>Adoption Leave</th>    <td> </td> <td> </td> </tr>
+<tr>    <th colspan="2">Adoption Leave</th>    <td> </td> <td> </td> </tr>
 <tr>    <td> Number of Mothers Who Went on Adoption Leave During Period</td> <td>31</td> <td>17</td> </tr>
 </table>
 
