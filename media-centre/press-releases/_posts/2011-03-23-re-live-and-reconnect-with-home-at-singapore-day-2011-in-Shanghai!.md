@@ -23,17 +23,17 @@ Singapore Day is a signature event to engage Overseas Singaporeans and help them
 
 **For media enquiries, please contact:**
 
-Ng Xiuling
-Executive, Corporate Communications
-National Population and Talent Division
-Tel: 6325 3217 Fax: 6325 3200
+Ng Xiuling  
+Executive, Corporate Communications  
+National Population and Talent Division  
+Tel: 6325 3217 Fax: 6325 3200  
 Email: <a href="mailto:ng_xiuling@nptd.gov.sg">ng_xiuling@nptd.gov.sg</a>
 
 
-Tania Koh
-Assistant Director, Corporate Communications
-National Population and Talent Division
-Tel: 6325 3251 Fax: 6325 3200
-Email: <a href="mailto:tania_koh@nptd.gov.sg">tania_koh@nptd.gov.sg</a>
+Tania Koh  
+Assistant Director, Corporate Communications  
+National Population and Talent Division  
+Tel: 6325 3251 Fax: 6325 3200  
+Email: <a href="mailto:tania_koh@nptd.gov.sg">tania_koh@nptd.gov.sg</a>  
 
 [Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/re-live-and-reconnect-with-home-at-singapore-day-2011-in-shanghai!.pdf)
