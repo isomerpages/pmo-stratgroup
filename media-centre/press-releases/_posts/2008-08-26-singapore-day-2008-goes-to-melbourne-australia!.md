@@ -6,7 +6,7 @@ permalink: "/media-centre/press-releases/singapore-day-2008-goes-to-Melbourne-Au
 ---
 
 
-Singaporeans in Australia will get to enjoy a full day of fun with Singaporean sights, sounds and tastes at Singapore Day 2008 on 4 October in Melbourne, Australia, at the Sidney Myer Music Bowl. Register today at www.singaporeday.sg for entry and get a special collector’s item goodie bag!
+Singaporeans in Australia will get to enjoy a full day of fun with Singaporean sights, sounds and tastes at Singapore Day 2008 on 4 October in Melbourne, Australia, at the Sidney Myer Music Bowl. Register today at[www.singaporeday.sg](www.singaporeday.sg) for entry and get a special collector’s item goodie bag!
 
 With the theme of “Rekindle and Rediscover”, Overseas Singaporeans in Australia will get a slice of home away from home and experience the old and the new that Singapore offers. A line-up of prominent home-grown artistes such as Dick Lee, Hady Mirza, the Phua Chu Kang family, Electrico and many more will perform for their fellow Singaporeans in Australia. The attendees can also look forward to authentic culinary delights presented by hawkers specially chosen by Food Republic. A wide selection of local favourites ranging from Hainanese Chicken Rice, Char Kway Teow, Satay to Ice Kacang will be prepared and served right in the heart of Melbourne for our Overseas Singaporeans.
 
