@@ -5,9 +5,9 @@ date:   2011-02-18
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-18-feb-2011"
 ---
 
-TWELFTH PARLIAMENT OF SINGAPORE
-ORAL ANSWER
-FRIDAY, 18 FEBRUARY 2011
+**TWELFTH PARLIAMENT OF SINGAPORE
+ORAL ANSWER  
+FRIDAY, 18 FEBRUARY 2011**    
 
 #### **STRATEGIES TO INCREASE CITIZEN BIRTH RATE**
 
