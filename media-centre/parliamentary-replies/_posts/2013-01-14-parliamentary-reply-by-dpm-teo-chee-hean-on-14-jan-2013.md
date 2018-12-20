@@ -23,7 +23,13 @@ Table 1: Average Number of Children Born to Ever-Married Females by Age Group an
 
 <table class="table-h">  <tr>    <th>Age Group</th>    <th>30-39</th> <th>40-49</th> </tr>  
 <tr>    <th>Residents</th>    <th>1.46</th> <th>1.99</th>  </tr>  
-<tr>    <td>-Citizens</td>    <td>1.52</td> <td>2.06</td>   </tr>
-<tr>    <td>-PRs</td>    <td>1.37</td> <td>1.71</td>   </tr>
+<tr>    <td>- Citizens</td>    <td>1.52</td> <td>2.06</td>   </tr>
+<tr>    <td>- PRs</td>    <td>1.37</td> <td>1.71</td>   </tr>
 
 </table>
+
+Birth trends are influenced by many factors, such as economic conditions, age profile, educational profile, labour force participation, as well as personal decisions and societal mindsets. As such, we are unable to accurately predict how the fertility rates of different population segments would develop over time.
+
+<sub><sup>1</sup></sub> It is different from the TFR which is based on the number of children born to females (single or married) aged 15-49 in a particular year.
+
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-14-jan-2013.pdf)
