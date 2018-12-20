@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on new immigrants and their impact to society and prices of local housing; as well as infrastructure and population density"
-date:   2012-10-15
+date:   2012-11-15
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-15-nov-2012"
 ---
 
@@ -22,4 +22,4 @@ Issues such as our societal makeup and cohesion, our living environment, and eco
 
 Over the course of this year, the Government has been engaging the public widely on these issues and is preparing to release a White Paper on Population in January 2013 which will address them. We have invited Singaporeans, including all Members of Parliament, to provide their views. We have met with numerous stakeholders such as the business federations, labour unions, students and various civic and community groups. And in the process, we have received well over 2,000 pieces of feedback from individuals, groups and organisations, and I wish to thank everyone who has sent in their views and proposals, most of which were substantial and which require much time, energy and effort to put together. We are taking these inputs into consideration as we formulate and review our population policies for the White Paper which will address these issues as well as other important issues in a holistic way.
 
-Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-15-nov-2012.pdf)
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-15-nov-2012.pdf)
