@@ -10,10 +10,10 @@ permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-c
 ORAL ANSWER  
 WEDNESDAY, 6 MAR 2013**  
 
-**Asst Prof Tan Kheng Boon Eugene:** 
+**Asst Prof Tan Kheng Boon Eugene:**   
 To ask the Prime Minister (a) what is the Government's strategy in seeking Singaporeans' buy-in for the Population White Paper and land use plan; and (b) whether the Government will issue regular updates on progress made in the key areas in order to build trust and confidence in the roadmap to address Singapore's demographic challenge.
 
-**Mr Teo Chee Hean (for the Prime Minister):**
+**Mr Teo Chee Hean (for the Prime Minister):**  
 Following an extensive debate on the Population White Paper and land
 use plan, Parliament passed an amended motion that reflects the concerns of
 Singaporeans, and calls on the Government to work on 5 key areas: 
