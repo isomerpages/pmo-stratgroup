@@ -5,7 +5,7 @@ date:   2017-05-08
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-min-josephine-teo-on-8-may-2017"
 ---
 
-**THIRTEENTH PARLIAMENT OF SINGAPORE
+**THIRTEENTH PARLIAMENT OF SINGAPORE  
 ORAL ANSWER  
 MONDAY, 8 MAY 2017**
 
