@@ -40,3 +40,6 @@ Table 1: Characteristics of Citizen Population under Various Scenarios
 While a calibrated pace of immigration can help to delay the decline and ageing of our citizen population, supporting Singaporeans in getting married and having children is our key priority, and it will continue to be so.
 
 <sub><sup>1</sup> The resident population comprises Singapore Citizens and permanent residents.<sub>
+  
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-immigration-and-tfr-issues.pdf)
+
