@@ -28,3 +28,5 @@ Having said that, there are about 50% of applications being rejected. Usually, a
 In the interim, we have the Long-Term Visit Pass and the Long-Term Visit Pass-Plus which allow them to seek employment and also to be entitled to some medical subsidies, just as a PR would. So it actually provides a good way to tide over this period - work on their income and marriage, keep the family intact - and then they will be in a very good position.
 
 This is to satisfy the issue raised by Dr Lily Neo. That they are not a strain on society, and that they settle down first, spend some time to understand our local culture and learn our language as well.
+
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-minister-grace-fu-on-25-feb-2013.pdf)
