@@ -5,8 +5,8 @@ date:   2012-10-15
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-15-oct-2012"
 ---
 
-**TWELFTH PARLIAMENT OF SINGAPORE
-WRITTEN ANSWER
+**TWELFTH PARLIAMENT OF SINGAPORE  
+WRITTEN ANSWER  
 MONDAY, 15 OCTOBER 2012**  
 
 **Mr Pritam Singh:**  
