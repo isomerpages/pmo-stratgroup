@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on the Government's strategy in seeking Singaporeans buy-in for the Population White Paper and land use plan"
-date:   2010-04-26
+date:   2013-03-06
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-6-mar-2013"
 ---
 
