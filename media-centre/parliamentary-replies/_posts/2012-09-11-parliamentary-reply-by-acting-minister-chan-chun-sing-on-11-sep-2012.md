@@ -14,7 +14,7 @@ To ask the Acting Minister for Community Development, Youth and Sports with rega
 
 **Mr Chan Chun Sing:**
 
-_CIF Programmes and Activities Funded_
+_CIF Programmes and Activities Funded_  
 The Community Integration Fund (CIF) was launched by the National Integration Council (NIC) in September 2009 to co-fund and support ground-up integration initiatives.   
 We have since engaged more than 150 organisations and disbursed $5.1 million to support around 220 projects. Another $3.1 million has also been committed to ongoing and upcoming projects. These efforts have brought the people, private and public sectors together to foster integration across all levels of our society.
 
@@ -22,7 +22,7 @@ The CIF projects are typically organised by students, companies and community an
 
 For example, in Project One Heart organised by Republic Polytechnic in May this year, 230 local and international students from our five polytechnics got to know each other better as they teamed up to engage and provide assistance to elderly residents in the community.
 
-_Assessing Outcomes and Plans Moving Forward_
+_Assessing Outcomes and Plans Moving Forward_  
 The CIF has resourced individuals and organisations who are interested in playing their part in integration. Many have thus recognised the importance of integration and will continue to find common ground so that we can remain a cohesive society.  
    
 All CIF initiatives and programmes have different KPIs, depending on the desired outcomes.  These may include measurements tied to the participation rate, profile of participants and a project’s longer-term sustainability. While we continue to monitor these KPIs, we will also raise awareness of the CIF so that worthy projects receive the support that they deserve.
