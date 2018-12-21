@@ -57,7 +57,7 @@ I hope all of us will continue to work together to ensure that Singapore remains
 Thank you and I wish everyone a fulfilling and enjoyable Conference. 
 
 
-Footnotes:
+<sub>Footnotes:</sub>
 <sub><sup>1</sup> World Meteorological Organization, “WMO statement on the status of the global climate in 2011”, March 2012 [http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf](http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf)</sub>
 
 <sub><sup>2</sup> The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7).</sub>
