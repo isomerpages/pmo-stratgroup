@@ -65,7 +65,7 @@ As more citizens retire and with fewer entering the working-age band, the number
 
 The effect on our citizen population will be dramatic. Post 2030, our population will start to decline sharply, and our median age will rise steadily. (See [Chart 6](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/charts-201203016.pdf)). The median age of our citizens will rise to 53 in 2050 from 39 today.
 
-We can already see this happening in Japan. Japan’s population has been in decline since 2005. Between 2000 and 2010, Japan’s workforce shrank by 0.3% a year and will decline even more sharply in the coming decades.<sup>2</su> By 2060, Japan’s population is projected to shrink by a third from the current 128 million to 87 million.<sup>3</sup> These are the grim realities Japan faces as it grapples with the effects of a fast ageing society.
+We can already see this happening in Japan. Japan’s population has been in decline since 2005. Between 2000 and 2010, Japan’s workforce shrank by 0.3% a year and will decline even more sharply in the coming decades.<sup>2</sup> By 2060, Japan’s population is projected to shrink by a third from the current 128 million to 87 million.<sup>3</sup> These are the grim realities Japan faces as it grapples with the effects of a fast ageing society.
 
 _A Sustainable Population Strategy_
 
