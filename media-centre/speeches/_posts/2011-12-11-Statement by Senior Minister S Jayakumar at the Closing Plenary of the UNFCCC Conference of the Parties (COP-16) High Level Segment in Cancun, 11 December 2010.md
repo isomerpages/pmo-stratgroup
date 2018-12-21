@@ -17,4 +17,4 @@ The text that we have before us represents a delicate balance of competing inter
 
 In our view, this document before us builds on the principles and provisions of the UN Framework Convention on Climate Change and the Bali Action Plan. It will lay a strong foundation for our work in 2011 as we strive towards an agreed legally binding outcome at Durban. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/singapore's-national-statement-by-senior-minister-s-jayakumar-at-the-unfccc-conference-of-the-parties-(cop-16)-high-level-segment-cancun-8-december-2010.pdf)
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/statement-by-senior-minister-s-jayakumar-at-the-closing-plenary-of-the-unfccc-conference-of-the-parties-(cop-16)-high-level-segment-in-cancun-11-december-201.pdf)
