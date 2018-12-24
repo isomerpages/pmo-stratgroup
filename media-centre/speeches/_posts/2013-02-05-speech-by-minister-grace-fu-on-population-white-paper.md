@@ -5,7 +5,7 @@ date:   2013-02-05
 permalink: "/media-centre/speeches/speech-by-minister-grace-fu-on-population-white-paper"
 ---
 
-_ **Sustaining a Strong Singaporean Core** _
+_**Sustaining a Strong Singaporean Core**_
 
 **Introduction**
 
