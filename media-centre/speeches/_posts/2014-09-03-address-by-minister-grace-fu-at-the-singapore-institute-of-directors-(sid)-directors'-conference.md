@@ -73,22 +73,22 @@ With the concrete steps that the Government has taken and is taking, the growth 
 
 Companies must seize opportunities by practising responsive and responsible capitalism – underpinned by the principles of adaptability, diversity and sustainability. This conference platform provides a good opportunity to discuss these issues further, and I wish everyone here a very fruitful discussion. Thank you for your attention. 
 
-<sup><sub>1</sup> Source: Urban World: Mapping the Economic Power of Cities. McKinsey Global Institute, 2012.</sub> 
+<sub><sup>1</sup> Source: Urban World: Mapping the Economic Power of Cities. McKinsey Global Institute, 2012.</sub> 
 
-<sup><sub>2</sup> Source: Financial Globalisation: Retreat of Reset? McKinsey Global Institute, 2013. </sub>
+<sub><sup>2</sup> Source: Financial Globalisation: Retreat of Reset? McKinsey Global Institute, 2013. </sub>
 
-<sup><sub>3</sup> Source: UN World Population Prospects: The 2010 Revision.</sub>
+<sub><sup>3</sup> Source: UN World Population Prospects: The 2010 Revision.</sub>
 
-<sup><sub>4</sup> Source: An Aging World. National Institute on Ageing and US Census Bureau, 2009.</sub>
+<sub><sup>4</sup> Source: An Aging World. National Institute on Ageing and US Census Bureau, 2009.</sub>
 
-<sup><sub>5</sup> Source: US Energy Information Administration. Dec 2013</sub> 
+<sub><sup>5</sup> Source: US Energy Information Administration. Dec 2013</sub> 
 
-<sup><sub>6</sup> Source: Disruptive technologies: Advances that will transform life, business, and the global economy. McKinsey Global Institute, 2013.</sub>
+<sub><sup>6</sup> Source: Disruptive technologies: Advances that will transform life, business, and the global economy. McKinsey Global Institute, 2013.</sub>
 
-<sup><sub>7</sup> Source: Findings of the Diversity Task Force regarding Women on Boards. Apr 2013.</sub>
+<sub><sup>7</sup> Source: Findings of the Diversity Task Force regarding Women on Boards. Apr 2013.</sub>
 
-<sup><sub>8</sup> Source: Women on Boards Survey. GMI Ratings, 2013.</sub> 
+<sub><sup>8</sup> Source: Women on Boards Survey. GMI Ratings, 2013.</sub> 
 
-<sup><sub>9</sup> Source: Companies Websites. 2 Sep 2014</sub>
+<sub><sup>9</sup> Source: Companies Websites. 2 Sep 2014</sub>
 
 [Download as PDF](empty)
