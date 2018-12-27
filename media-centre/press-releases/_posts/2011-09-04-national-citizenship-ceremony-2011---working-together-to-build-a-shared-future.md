@@ -17,16 +17,16 @@ New citizen Muhamed Eusuff Rahamathulla, who was previously from Chennai, India,
 
 Organised by the National Integration Council and supported by the People’s Association, the NCC is an annual event where new Singapore citizens receive their National Registration Identification Cards (NRICs) and certificates of citizenship. Held since 2007, the ceremony highlights the significance of citizenship, where new citizens commit themselves to a shared future with fellow Singaporeans. The NCC is rotated among the Group Representation Constituencies annually. This year, new citizens from the Moulmein-Kallang GRC and Whampoa Single Member Constituency participated in NCC 2011.
 
-For media enquiries, please contact:
+**For media enquiries, please contact:**
 
-Ng Xiuling 
-Executive, Corporate Communications 
-National Population and Talent Division 
+Ng Xiuling   
+Executive, Corporate Communications   
+National Population and Talent Division   
 Email: [ng_xiuling@nptd.gov.sg](mailto:ng_xiuling@nptd.gov.sg)
 
-Chung Cui Yi 
-Executive, Corporate Communications 
-National Population and Talent Division 
+Chung Cui Yi   
+Executive, Corporate Communications   
+National Population and Talent Division   
 Email: [chung_cui_yi@nptd.gov.sg](mailto:chung_cui_yi@nptd.gov.sg)
 
 [Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-citizenship-ceremony-2011---working-together-to-build-a-shared-future.pdf)
