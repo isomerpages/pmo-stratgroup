@@ -23,16 +23,16 @@ The only way for this to happen is to ensure continued economic growth. To do th
 
 Singaporeans are indeed able and willing. But, there is just one problem – there aren’t enough of us and our population is fast ageing. We have not been replacing ourselves through local births since 1976 – 31 years ago. Even assuming current immigration trends with an average of 8,000 new citizens a year between 2001 and 2005, the number of deaths each year could outstrip births as early as 2030. In fact, if we do not have an inflow of new immigrants, our population will start to decline even earlier, by 2020, like Japan’s in 2005. This is why we have decided that encouraging immigration has to be a key strategy in tackling our population challenge. 
 
-Indeed, we are now in what I call a “BBC” world, one that is “Boundless, Borderless and Competitive”. There will be “Boundless” opportunities for many in an increasingly “Borderless” world; at the same time, the stakes are much higher and a lot more “Competitive”. Many countries are trying hard to attract people to sink roots in their country. Why? The answer is simple – immigrants have helped many economies grow beyond their inherent potential. 
+Indeed, we are now in what I call a “BBC” world, one that is “Boundless, Borderless and Competitive”. There will be “**B**oundless” opportunities for many in an increasingly “**B**orderless” world; at the same time, the stakes are much higher and a lot more “Competitive”. Many countries are trying hard to attract people to sink roots in their country. Why? The answer is simple – immigrants have helped many economies grow beyond their inherent potential. 
 
 
 * a. The US has attracted waves of immigrants since the 17th century. Europeans, Africans, Latin Americans and in the last few decades, Asians – they have all come to call the US home over the years. What have they brought to the US
 
-* * First, more jobs – a Pew report found that in most states in the US where immigration levels were high, employment prospects were above national average.
+*  First, more jobs – a Pew report found that in most states in the US where immigration levels were high, employment prospects were above national average.
 
-* * Second, a stronger economy – back in 1997, the National Academy of Science had already concluded in its report for the US Congress that immigration had brought a net benefit of US$10 billion to the US economy.
+*  Second, a stronger economy – back in 1997, the National Academy of Science had already concluded in its report for the US Congress that immigration had brought a net benefit of US$10 billion to the US economy.
 
-* * Third, more births – the US Centre for Immigration Studies estimated that 23% of all babies born in the US in 2002 had a foreign-born mother.
+*  Third, more births – the US Centre for Immigration Studies estimated that 23% of all babies born in the US in 2002 had a foreign-born mother.
 
 * b. Australia’s net overseas immigration has accounted for more than 45% of its population growth since 1998. In 2005, 24% of Australians were born overseas. Yet in the same year, it embarked on its biggest recruitment drive for skilled workers such as hairdressers, mechanics, pharmacists and accountants, in more than 40 cities worldwide, including Chennai, Seoul, Manila, Bangkok and even Singapore – targeting not only our university or polytechnic graduates, but also our ITE graduates.
 
@@ -133,9 +133,9 @@ However, some worrying trends remain:
 * d. Singaporeans are having fewer babies:
 On average, a married Singaporean woman had 2.2 children in 2005, down from 2.8 in 1990. While it is still above the replacement level of 2.1, it is on a clear downward trend.
 
-* * Among ever-married female Singaporeans aged 40-49 years, 6.6% of them were childless in 2005, up from 4.4% in 1990.
+*  Among ever-married female Singaporeans aged 40-49 years, 6.6% of them were childless in 2005, up from 4.4% in 1990.
 
-* * Having to juggle work and family life, and the cost of raising a child, remain the key considerations for many in deciding whether to have children.
+*  Having to juggle work and family life, and the cost of raising a child, remain the key considerations for many in deciding whether to have children.
 
 From the statistics, it seems that a typical Singaporean has a high probability of staying single, and if he or she does get married, is getting married later, and will have his/her first child at a later age (if at all) and have fewer children. 
 
@@ -151,4 +151,4 @@ I think we can do this through a more targeted effort in three areas – better 
 
 Mr Speaker, Sir. We have an enormous strategic challenge ahead of us. Our population challenge is not to be taken lightly. It is easy to be lulled into complacency; our economy is doing well, many Singaporeans are better off today than they were 10 years ago. We need to look forward, but only if we are able to keep going as a vibrant and productive community. We know what needs to be done. Three things. One, get married and have more babies. Two, welcome suitable immigrants and help them integrate into our society. And, three, keep our Overseas Singaporeans connected. I hope our people will work together with the Government to get the job done.
 
-[Statistics on Parenthood](https://www.strategygroup.gov.sg/docs/default-source/Population/cos-2007-statistics-on-marriage-and-parenthood.pdf)
+[Statistics on Parenthood](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2007-statistics-on-marriage-and-parenthood.pdf)
