@@ -16,15 +16,15 @@ Good evening. First, let me congratulate all past and present staff and manageme
 
 KK or “Tekka” Hospital is a household name in Singapore. It is now widely regarded as the leading women’s and children’s hospital in the region too. This reputation did not come about by chance, but built up through years of sustained growth and development. In the past 150 years, KK has witnessed many significant milestones. Let me recount the major ones with five key numbers: 1858, one million, 500,000, 40,000 and 1983. 
 
-* a. 1858: This was the year that KK was founded as a general hospital;
+a. 1858: This was the year that KK was founded as a general hospital;
 
-* b. One million: KK Hospital is the birthplace of more than a million Singaporeans<sup>1</sup> , including my two sons and two grandchildren;
+b. One million: KK Hospital is the birthplace of more than a million Singaporeans<sup>1</sup> , including my two sons and two grandchildren;
 
-* c. 500,000: Every year, the hospital serves about 500,000 women and children;
+c. 500,000: Every year, the hospital serves about 500,000 women and children;
 
-* d. 40,000: At its peak in 1966, KK’s doctors delivered a record 40,000 babies from 39,856 deliveries. This is more than all the resident births we had in Singapore last year! KK was consistently cited in the Guinness Book of World Records in the 1950s to 1970s as the world’s busiest maternity hospital. Today, KK still delivers about one-third of all babies born in Singapore; and,
+d. 40,000: At its peak in 1966, KK’s doctors delivered a record 40,000 babies from 39,856 deliveries. This is more than all the resident births we had in Singapore last year! KK was consistently cited in the Guinness Book of World Records in the 1950s to 1970s as the world’s busiest maternity hospital. Today, KK still delivers about one-third of all babies born in Singapore; and,
 
-* e. 1983: 1983 was the year when KK delivered Asia’s first in-vitro fertilisation (IVF) baby.
+e. 1983: 1983 was the year when KK delivered Asia’s first in-vitro fertilisation (IVF) baby.
 
 Indeed, KK has grown from a general hospital in 1858 to a maternity hospital in 1924 with just 30 beds, and to become the largest and leading medical facility in Singapore specialising in obstetrics and gynaecology, neonatology and paediatrics today. It has also opened one of the largest paediatric children’s cancer centres in Southeast Asia last year. 
 
