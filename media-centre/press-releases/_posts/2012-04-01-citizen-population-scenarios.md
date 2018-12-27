@@ -18,9 +18,9 @@ permalink: "/media-centre/press-releases/citizen-population-scenarios"
 This paper discusses the demographic characteristics of our citizen population under various scenarios.
 The population scenarios are not predictions or forecasts, but are illustrations of the growth and change in population that would occur if certain assumptions about future demographic trends were to prevail over the projection period. These assumptions may or may not be realised<sup>1</sup>.
 Our citizen population demography is dependent on the following key factors:
-i. Total Fertility Rate (TFR)
-ii. Life expectancy
-iii. Migration
+i. Total Fertility Rate (TFR)  
+ii. Life expectancy  
+iii. Migration  
 
 **Total Fertility Rate (TFR)**
 
