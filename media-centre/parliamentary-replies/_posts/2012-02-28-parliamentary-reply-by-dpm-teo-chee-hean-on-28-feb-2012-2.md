@@ -5,7 +5,7 @@ date:   2012-02-28
 permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012-2
 ---
 
- **WRITTEN ANSWER**
+ **WRITTEN ANSWER**  
 **TUESDAY, 28 FEBRUARY 2012**
 
 **Mr Gan Thiam Poh:**  
