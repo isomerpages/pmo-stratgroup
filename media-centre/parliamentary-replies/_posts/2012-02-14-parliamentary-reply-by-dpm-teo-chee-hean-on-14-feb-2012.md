@@ -5,7 +5,7 @@ date:   2012-02-14
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-14-feb-2012
 ---
 
-**WRITTEN ANSWER**
+**WRITTEN ANSWER**  
 **TUESDAY, 14 FEBRUARY 2012**    
 
 **Dr Intan Azura Mokhtar:**  
