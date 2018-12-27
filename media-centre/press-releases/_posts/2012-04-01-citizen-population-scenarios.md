@@ -63,10 +63,14 @@ Table 1: Summary of scenarios
   <tr>
     <td> </td>
     <td>A  Replacement TFR 2.1</td>
-    <td>B  No immigration, current fertility</td>
-    <td>C  15K new SC, current fertility</td>
-    <td>D  20K new SC, current fertility</td>
-    <td>E  25K new SC, current fertility</td>
+    <td>B  
+     No immigration, current fertility</td>
+    <td>C    
+     15K new SC, current fertility</td>
+    <td>D  
+     20K new SC, current fertility</td>
+    <td>E  
+     25K new SC, current fertility</td>
    </tr>
  
  <tr>
