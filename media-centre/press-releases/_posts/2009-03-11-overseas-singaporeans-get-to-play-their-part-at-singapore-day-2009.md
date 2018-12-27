@@ -19,4 +19,4 @@ Register today at [www.SingaporeDay.sg](www.SingaporeDay.sg) for entry and get a
 
 Singapore Day is a signature event to engage Overseas Singaporeans and help them stay connected with one another and with Singapore. It is organised in cities with a significant number of Overseas Singaporeans. The inaugural Singapore Day held in New York in 2007 attracted 6,000 attendees, while the second in Melbourne in 2008 had 11,000 participants. There are an estimated 40,000 Singaporeans in the United Kingdom.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/wog-briefing-on-state-of-the-population.pdf)
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/overseas-singaporeans-get-to-play-their-part-at-singapore-day-2009.pdf)
