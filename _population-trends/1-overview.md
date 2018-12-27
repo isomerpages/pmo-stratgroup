@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 permalink: /population-trends/overview/
-breadcrumb: Population Overview
+breadcrumb: Population Trends/Population Overview
 title: Population Overview
 collection_name: population-trends
 ---
 
-# Population Facts and figures
+# Population Facts and Figures
 ##### Facts and figures on Singapore’s population in 2018
 <table class="table-h">
   <tr>
