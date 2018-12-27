@@ -10,4 +10,4 @@ citizens (SCs) and non-Singapore citizens (termed “SC/non-SC marriages”) ove
 1998-2008.
 
 Download:  
-[An occasional paper on Marriages Between Singapore Citizens and Non-Singapore Citizens, 1998 - 2008 (414kb, pdf)](https://www.strategygroup.gov.sg/docs/default-source/Marriage-Parenthood/occ-paper---marriages-between-citizens-and-non-citizens-1998-2008---fin.pdf)
+[An occasional paper on Marriages Between Singapore Citizens and Non-Singapore Citizens, 1998 - 2008 (414kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/occ-paper---marriages-between-citizens-and-non-citizens-1998-2008---fin.pdf)
