@@ -16,4 +16,4 @@ Singaporeans will also get to see and participate in interactive multi-media dis
 
 Singapore Day is an annual signature event organised by the Overseas Singaporean Unit for Overseas Singaporeans (OS). It is held in a different major city with a significant community of OS. The inaugural Singapore Day 2007 in New York attracted 6,000 attendees. Each Singapore Day is specially created for the Singaporeans in that country and aims to update them on the latest developments and various aspects of life in Singapore. There is an estimated 40,000 Singaporeans in Australia.
 
-[Download as PDF]({{site.baseurl}}/files/press-releases/GetPdf/singapore-day-2008-goes-to-melbourne-australia!/)
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-day-2008-goes-to-melbourne-australia!.pdf)
