@@ -5,7 +5,7 @@ date:   2012-02-28
 permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012
 ---
 
-#### **ORAL ANSWER**
+**ORAL ANSWER**  
 **TUESDAY, 28 FEBRUARY 2012**
 
 **Mrs Lina Chiam:**    
