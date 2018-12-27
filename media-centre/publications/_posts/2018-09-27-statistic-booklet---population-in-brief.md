@@ -5,7 +5,6 @@ date:   2018-09-27
 permalink: /media-centre/publications/population-in-brief
 ---
 
-![pib2018-cover](/images/PublicationImages/pib2018-cover.jpg)
 
 Population in Brief is an annual publication that provides key updates and trends on Singapore's population landscape.
 
