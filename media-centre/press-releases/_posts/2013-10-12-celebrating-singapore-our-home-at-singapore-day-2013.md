@@ -133,7 +133,7 @@ OSU Facebook is at [http://www.facebook.com/OverseasSingaporean.](https://www.fa
 
 **ANNEX B**
 
-**<Checked against delivery>**
+< Checked against delivery > 
 
 **WELCOME REMARKS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND MINISTER IN-CHARGE OF NATIONAL POPULATION AND TALENT DIVISION AT SINGAPORE DAY 2013, 12 OCTOBER 2013, THE DOMAIN, ROYAL BOTANIC GARDENS, SYDNEY, AUSTRALIA**
 
