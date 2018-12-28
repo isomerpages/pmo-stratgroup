@@ -28,21 +28,21 @@ _Prizes : Top Videos in Each Category_
     <td>Post Secondary</td>
     <td><p>1st prize: $2,500</p> 
 <p>2nd prize: $2,000</p>   
-<p>3rd prize: $1,500</p.   
+      <p>3rd prize: $1,500</p>   
 Merit prizes (x2): $800 each</td>
   </tr>
   <tr>
     <td>Secondary schools & Junior Colleges</td>
     <td><p>1st prize: $1,500</p> 
-<p>2nd prize: $1,200</p>   
-<p>3rd prize: $900</p.   
+    <p>2nd prize: $1,200</p>   
+      <p>3rd prize: $900</p>   
 Merit prizes (x2): $500 each</td>
   </tr>
   <tr>
     <td>Primary schools</td>
     <td><p>1st prize: $1,000</p> 
 <p>2nd prize: $800</p>   
-<p>3rd prize: $500</p.   
+      <p>3rd prize: $500</p>   
 Merit prizes (x2): $300 each</td>
   </tr>
   <tr>
