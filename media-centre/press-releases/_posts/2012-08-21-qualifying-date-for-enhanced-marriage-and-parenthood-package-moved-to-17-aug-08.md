@@ -26,48 +26,63 @@ A summary table showing the various measures in the enhanced M&P Package and the
     <th>What it means</th>
     <th>Qualifying date</th>
   </tr>
+  
   <tr>
     <td>Parenthood Tax Rebate (PTR)</td>
     <td>Working parents can claim the PTR of $5,000 for the 1st child, $10,000 for the 2nd child, and $20,000 per child for all subsequent children</td>
     <td>1 Jan 2008</td>
   </tr>
+  
   <tr>
     <td>Qualifying Child Relief (QCR) and Handicapped Child Relief (HCR)</td>
     <td>Working parents can claim $4,000 per child under the QCR or $5,500 per child under the HCR</td>
     <td>Year of Assessment 2009</td>
   </tr>
+  
   <tr>
     <td>Working Mother’s Child relief (WMCR)</td>
     <td>Working mothers can claim the WMCR at 15% of their earned income for the 1st child, 20% for the 2nd and 25% per child for all subsequent children</td>
     <td>Year of Assessment 2009</td>
   </tr>
+  
   <tr>
     <td>Enhanced Baby Bonus</td>
     <td>Parents can get a cash gift of $4,000 for the 1st and 2nd child, and $6,000 for the 3rd and 4th child  
 Savings to the child’s Children Development Account will be matched dollar for dollar up to $6,000 for the 1st and 2nd child, up to $12,000 for the 3rd and 4th child, and up to $18,000 per child from the 5th child onwards</td>
     <td>17 Aug 2008<sup>1</sup></td>
   </tr>
+  
+  <tr>
   <td>Subsidies for centre-based infant care and childcare</td>
     <td>Working mothers will enjoy a monthly subsidy of up to $600 and up to $300 for infant care and childcare respectively</td>
     <td>17 Aug 2008<sup>1</sup></td>
   </tr>
+  
+  <tr>
   <td>Extended maternity leave</td>
     <td>Working mothers can enjoy longer maternity leave of 16 weeks</td>
     <td>17 Aug 2008<sup>2</sup></td>
   </tr>
+  
+  <tr>
   <td>Paid childcare leave</td>
     <td>Working parents will get six days of paid childcare leave per year per parent if one has a child aged below seven years old</td>
     <td>17 Aug 2008<sup>2</sup></td>
   </tr>
+  
+  <tr>
   <td>Unpaid infant care leave</td>
     <td>Working parents will get six days of unpaid infant care leave per year per parent if one has a child aged below two years old</td>
     <td>17 Aug 2008<sup>2</sup></td>
   </tr>
-  </tr>
+  
+  <tr>
   <td>Enhanced protection for pregnant employees</td>
     <td>Employees will still receive maternity leave benefits if they are dismissed without sufficient cause within the last six months of pregnancy or retrenched within the last three months of pregnancy</td>
     <td>17 Aug 2008<sup>2</sup></td>
   </tr>
+  
+  <tr>
   <td>Government Co- Funding for Assisted Reproduction Technology (ART) Treatment</td>
     <td>Government will co-fund 50% of ART treatment received at the public hospitals, up to $3,000 per treatment cycle, for a maximum of three cycles per Singaporean couple</td>
     <td>17 Aug 2008</td>
