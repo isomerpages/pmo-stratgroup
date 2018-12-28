@@ -33,8 +33,9 @@ Chart 2: Proportion of citizen singles by age group and sex
 ![Proportion-of-citizen-singles-by-age-group-and-sex](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-citizen-singles-by-age-group-and-sex.png)
 
 **Singaporeans are marrying and having their first child at a later age**  
-Table 3: Median age of citizens at first marriage, and median age of citizen mothers at first birth
- 	<table class="table-h">
+Table 3: Median age of citizens at first marriage, and median age of citizen mothers at first birth  
+ 
+ <table class="table-h">
   <tr>
     <th> </th>
     <th>2000</th>
@@ -66,7 +67,8 @@ Table 3: Median age of citizens at first marriage, and median age of citizen mot
     <td>29.8</td>
   </tr>
   
-</table>
+</table>  
+
 
 Source: DOS, ICA
 
