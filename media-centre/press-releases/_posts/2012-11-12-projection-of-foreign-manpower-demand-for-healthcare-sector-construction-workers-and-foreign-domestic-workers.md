@@ -33,4 +33,4 @@ National Population and Talent Division
 Tel: 6325 0490   
 Email: teo_yea_shi@nptd.gov.sg  
 
-[Download as PDF]()
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/projection-of-foreign-manpower-demand-for-healthcare-sector-construction-workers-and-foreign-domestic-workers.pdf)
