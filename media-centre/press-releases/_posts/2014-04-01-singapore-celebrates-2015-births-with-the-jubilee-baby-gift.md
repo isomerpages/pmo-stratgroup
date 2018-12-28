@@ -79,7 +79,7 @@ The bios of the panel members are attached below.
 <table class="table-h">
   <tr>
     <td>1</td>
-    <td><strong>Ms Anita Fam</strong>
+    <td><strong>Ms Anita Fam</strong>. 
 Chair, Jubilee Baby Gift Advisory Panel</td>
     <td>Ms Anita Fam serves on the council of Families for Life (FFL). She is a full-time mother and volunteer. FFL aims to promote strong and resilient families in a positive way. As a FFL council member and previous Chairman of Marriage Central, Anita has been an active champion of marriage and parenthood in Singapore for many years.</td>
   </tr>
