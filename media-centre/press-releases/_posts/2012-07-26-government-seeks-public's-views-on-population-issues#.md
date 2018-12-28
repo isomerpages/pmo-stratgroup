@@ -28,7 +28,7 @@ Members of the public can submit their views and suggestions through the followi
 MND Complex,   
 Singapore 069110  
 ---
-**For media enquiries, please contact:** 
+**For media enquiries, please contact:**   
 
 Jenny Foo   
 Senior Executive, Corporate Communications   
