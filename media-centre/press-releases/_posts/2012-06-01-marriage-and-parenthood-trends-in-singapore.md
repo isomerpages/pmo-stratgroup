@@ -26,8 +26,7 @@ b. Married couples are having their first child later and having fewer children.
 
 The proportion of singles has increased across all age groups between 2000 and 2011. Among citizens aged 30 - 34 years, singlehood rates increased from 33% to 44% for males, and from 22 % to 31% for females (see Chart 2). The median ages of citizens at first marriage has also risen, from 28.5 to 30.1 years for grooms and from 26.1 to 27.8 years for brides during this period (see Table 3).
 
-**More Singaporeans are staying single**  
-
+**More Singaporeans are staying single**    
 Chart 2: Proportion of citizen singles by age group and sex
 
 ![Proportion-of-citizen-singles-by-age-group-and-sex](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-citizen-singles-by-age-group-and-sex.png)
@@ -116,7 +115,7 @@ Since implementation in 2001, the families of some 350,000 children have benefit
 ![Singapore’s-Marriage-and-Parenthood-Package](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/singapore-s-marriage-and-parenthood-package.png)
 
 
-**PART II**
+**PART II**  
 **International Demographic Situation**
 
 Most developed societies have TFRs below the replacement rate. Singapore has experienced declining TFR similar to that of other East Asian developed societies such as Hong Kong, Japan, South Korea and Taiwan, which registered TFRs of between 0.90 and 1.39 in 2010 (see Chart 9). These societies are also experiencing later marriages and rising singlehood (see Chart 10), due to factors such as rising levels of educational attainment and better employment opportunities. In Hong Kong, Japan and South Korea, the average age at marriage is 29-30 for women and 31-33 for men.3
