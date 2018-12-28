@@ -66,7 +66,6 @@ Table 3: Median age of citizens at first marriage, and median age of citizen mot
     <td>29.8</td>
     <td>29.8</td>
   </tr>
-  
 </table>  
 
 
