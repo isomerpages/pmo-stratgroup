@@ -25,7 +25,7 @@ National Population and Talent Division
 Tel: 9106 0246   
 Email: [ng_xiuling@nptd.gov.sg](ng_xiuling@nptd.gov.sg)
 
-Teo Yea Shi   
+Teo Yea Shi    
 Executive, Corporate Communications   
 National Population and Talent Division   
 Tel: 9844 1089  
