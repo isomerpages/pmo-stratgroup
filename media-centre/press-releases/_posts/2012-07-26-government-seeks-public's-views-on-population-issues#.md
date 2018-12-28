@@ -19,15 +19,17 @@ Our demographic challenges are complex and have far-reaching implications on Sin
 
 Members of the public can submit their views and suggestions through the following channels from **26 Jul 2012 to 31 Oct 2012:** 
 
-* a. Online: [www.population.sg](www.population.sg)   
-* b. Email: [nptd_contact@nptd.gov.sg](mailto:nptd_contact@nptd.gov.sg)   
-* c. Fax: 6325 3240  
-* d. Mailing address: National Population and Talent Division   
-* 5 Maxwell Road,   
+ a. Online: [www.population.sg](www.population.sg)   
+ b. Email: [nptd_contact@nptd.gov.sg](mailto:nptd_contact@nptd.gov.sg)   
+ c. Fax: 6325 3240  
+ d. Mailing address: National Population and Talent Division   
+5 Maxwell Road,   
 #13-00 Tower Block,  
-MND Complex,   
-Singapore 069110  
+MND Complex,
+Singapore 069110 
+
 ---
+
 **For media enquiries, please contact:**   
 
 Jenny Foo   
