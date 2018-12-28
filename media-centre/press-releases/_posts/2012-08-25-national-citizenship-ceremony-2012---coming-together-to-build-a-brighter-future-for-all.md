@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "National Citizenship Ceremony 2012 - Coming together to build a brighter future for all "
+title:  "National Citizenship Ceremony 2012 - Coming together to build a brighter future for all"
 date:   2012-08-25
 permalink: "/media-centre/press-releases/national-citizenship-ceremony-2012---coming-together-to-build-a-brighter-future-for-all"
 ---
