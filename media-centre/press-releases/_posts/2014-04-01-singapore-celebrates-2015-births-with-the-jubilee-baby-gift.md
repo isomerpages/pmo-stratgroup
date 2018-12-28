@@ -79,19 +79,19 @@ The bios of the panel members are attached below.
 <table class="table-h">
   <tr>
     <td>1</td>
-    <td>Ms Anita Fam
+    <td><strong>Ms Anita Fam</strong>
 Chair, Jubilee Baby Gift Advisory Panel</td>
     <td>Ms Anita Fam serves on the council of Families for Life (FFL). She is a full-time mother and volunteer. FFL aims to promote strong and resilient families in a positive way. As a FFL council member and previous Chairman of Marriage Central, Anita has been an active champion of marriage and parenthood in Singapore for many years.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Mrs Joni Ong
+    <td><strong>Mrs Joni Ong</strong>
 Member, Jubilee Baby Gift Advisory Panel</td>
     <td>Mrs Joni Ong, a HR consultant and a mother of five, is President of I Love Children which advocates early parenthood and exists to encourage, inspire and equip would-be parents for their parenthood journey. Passionate about Singapore, Joni wants to do her part to make our country children-plenty and children-friendly.</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Ms Toh Hwee Tin
+    <td><strong>Ms Toh Hwee Tin</strong>
 Member, Jubilee Baby Gift Advisory Panel</td>
     <td>Ms Toh Hwee Tin is the Director of NTUC’s Family Development Unit and U Family Community. As the voice for working families, U Family advocates the building of strong and happy families by championing work-life harmony.</td>
   </tr>
@@ -103,7 +103,7 @@ Member, Jubilee Baby Gift Advisory Panel</td>
  </tr>
   <tr>
     <td>5</td>
-    <td>Mr Jim Lim
+    <td><strong>Mr Jim Lim</strong>
 Member, Jubilee Baby Gift Advisory Panel</td>
     <td>Mr Jim Lim is a father of three young children and the founder of REAL Academy, a relationship consultancy firm for families, schools and corporations. Jim also has extensive experience as an educator and a social worker.</td>
  </tr>
