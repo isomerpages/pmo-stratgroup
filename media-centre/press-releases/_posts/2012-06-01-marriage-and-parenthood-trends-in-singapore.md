@@ -133,13 +133,13 @@ Chart 10: Proportion of singles aged 30-34 by sex, selected East Asian developed
 
 While many developed countries continue to grapple with low birth rates, a few countries have seen an improvement in their fertility rates in recent years and have TFRs closer to the replacement rate (see Chart 11). For example, Sweden and Denmark have TFRs of 1.90 and 1.76 respectively. In these countries, a greater proportion of women have children, and have their first child at an earlier age (see Chart 12).
 
-**Fertility rates in some developed countries have improved in recent years**
+**Fertility rates in some developed countries have improved in recent years**  
 Chart 11: International TFR comparison of selected developed countries in Europe,
 US, and Australia
 
 ![International-TFR-comparison-of-selected-developed-countries-in-Europe,-US,-and-Australia](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/international-tfr-comparison-of-selected-developed-countries-in-europe--us--and-australia.png)
 
-**Women have children at a younger age in countries with higher fertility rates**
+**Women have children at a younger age in countries with higher fertility rates**  
 Chart 12: Average age at first birth and TFR in selected countries6
 
 ![Average-age-at-first-birth-and-TFR-in-selected-countries](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/average-age-at-first-birth-and-tfr-in-selected-countries.png)
