@@ -14,7 +14,7 @@ Developed in collaboration with industry stakeholders, academic experts and tech
 
 <table class="table-h">
   <tr>
-  	<td> [Solar Photovoltaic](https://app.nccs.gov.sg/data/resources/docs/TechRdmaps/Roadmap_Solar_20140729.pdf) </td>
+  	<td> [Solar Photovoltaic] </td>
     <td>Economic Development Board (EDB), Energy Market Authority (EMA)</td>
     </tr>
     <tr>
@@ -46,4 +46,4 @@ Ms Yong Ying-I, Co-Chairman, Energy Research Development & Demonstration Executi
 
 <sub><sup>1</sup> The roadmaps were developed as a follow-up to the Technology Primers that NCCS and NRF produced in 2011 to assess the potential of climate change change-related technologies and their relevance to Singapore.</sub>
 
-[Download as PDF]()
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges.pdf)
