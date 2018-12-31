@@ -17,7 +17,8 @@ The National Play Day Carnival is a community event to celebrate parenthood and 
 
 MP Tin Pei Ling, who took part as a Special Guest at the inaugural Stroller Walk with her SG50 Baby and spouse, said "As a new mum, I’m glad to see such strong support for young parents – whether it’s through events like the National Play Day that brings the community together, or through more measures in the Marriage & Parenthood Package that were introduced this year. I am particularly glad to see so many hands-on Dads at the Stroller Walk today. With parents working as a team to raise our children and with support from the community, we look forward to an even more family-friendly Singapore in the years to come."
 
-**ANNEX A**
+**ANNEX A**. 
+
 ![anneximage](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/annexImage.jpg)
 
 [Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-play-day-2015.pdf)
