@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Government doubles budget to provide more support for Marriage and Parenthood"
+title:  "More Marriages and Birth in 2014"
 date:   2015-02-16
 permalink: "/media-centre/press-releases/more-marriages-and-birth-in-2014"
 ---
