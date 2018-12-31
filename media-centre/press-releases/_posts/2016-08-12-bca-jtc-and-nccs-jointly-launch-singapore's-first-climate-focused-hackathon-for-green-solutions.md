@@ -29,7 +29,7 @@ Funding and test-bed opportunities are available for teams with promising soluti
     <th>Summary</th>
   </tr>
   <tr>
-    <td>[(a) BCA 2-stage Innovation Grant (i-Grant)](https://www.bca.gov.sg/ResearchInnovation/2stage_innovationgrant.html)</td>
+    <td>(a) BCA 2-stage Innovation Grant (i-Grant)</td>
     <td>The grant aims to help the entire value chain of the building and construction industry to conduct smaller scale R&D projects with near-term commercialisation potential. iGrant has been extended to 31 October 2020 with a total available grant of $3 million.</td>
   </tr>
   <tr>
