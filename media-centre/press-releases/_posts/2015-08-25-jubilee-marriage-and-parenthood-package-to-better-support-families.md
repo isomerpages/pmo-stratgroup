@@ -303,12 +303,12 @@ Paternity Leave</td>
   </tr>
   <tr>
   <td>Shared Parental Leave</td>
-    <td>TWorking fathers are eligible to share 1 week of the 16 weeks of maternity leave, subject to the agreement of the mother.</td>
+    <td>Working fathers are eligible to share 1 week of the 16 weeks of maternity leave, subject to the agreement of the mother.</td>
     <td>1 Jan 2015</td>
   </tr>
   </table>
   
-<sub><sup>1</sup> MediShield will become MediShield Life on 1 November 2015. <sub>
+<sub><sup>1</sup> MediShield will become MediShield Life on 1 November 2015. </sub>
 
 <sub><sup>2</sup> Parents with children in both age groups, i.e. those below 7 years, as well as those between 7 and 12 years, will have a total child care leave entitlement of 6 days per year for each parent.</sub>
 
