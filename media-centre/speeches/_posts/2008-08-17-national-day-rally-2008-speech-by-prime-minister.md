@@ -71,21 +71,23 @@ a. Inflation is a worldwide problem
   2. Today – around US$110 per barrel    
 * ii. Price of rice (Slide 2)    
   1. 8 years ago – US$200 per ton  
-  2. Today – around US$800 per ton      
+  2. Today – around US$800 per ton
+        
 b. People are agitated all over the world  
 * i. Demonstrating and rioting  
     1. In Europe  
 * * a. Truckers in France (Slide 3)    
 * * b. Farmers in Spain (Slide 4)
-   2. In Asia  
+
+    2. In Asia  
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
-* * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)    
+* * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
 * ii. In Singapore  
     1. Fortunately, we have plenty of rice (Slide 8)  
     2. No protests or demonstrations  
     3. But I know people are also unhappy about price increases  
-    4. Many pictures on the internet. My favourite (Slide 9)    
+    4. Many pictures on the internet. My favourite (Slide 9) 
 
 c. Completely understand how Singaporeans feel  
 * i. But we should react rationally  
@@ -147,25 +149,25 @@ Middle-income Singaporeans feel pressured too
 * * ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn
 * f. Car-related taxes
 * * i. Used to be a significant burden, because of high car ownership taxes
-* * ii. Discussed this at the Economic Review Committee
+* *  ii. Discussed this at the Economic Review Committee
 * * iii. Decided on a major policy shift
-* * 1. Reduce ownership charges and taxes, e.g. ARF, excise duties, road tax, and release more COEs  
-* * 2. Enable more people to afford cars  
-* * 3. Increase ERP to control congestion  
+    1. Reduce ownership charges and taxes, e.g. ARF, excise duties, road tax, and release more COEs  
+    2. Enable more people to afford cars  
+    3. Increase ERP to control congestion  
 * * iv. Compare 2000 with 2008 (Slide 10)
-* * 1. Overall, vehicle-related revenues halved – from $6.1 bn in FY2000 to $3.4 bn this FY (2008)  
-* * 2. Reduced ownership charges by a huge amount  
-* * 3. Doubled ERP, but still very small by comparison  
-* v. Hence more households now own cars (Slide 11)
-* 1. Overall figures – number of car owning households increased by 1/3, from 320,000 in 2000 to 430,000 this year  
-* 2. For individuals – big difference when you buy a car  
-* 3. Actual example of a 1.6L Toyota Corolla (Slide 12)  
+    1. Overall, vehicle-related revenues halved – from $6.1 bn in FY2000 to $3.4 bn this FY (2008)  
+    2. Reduced ownership charges by a huge amount  
+    3. Doubled ERP, but still very small by comparison  
+* * v. Hence more households now own cars (Slide 11)
+  1. Overall figures – number of car owning households increased by 1/3, from 320,000 in 2000 to 430,000 this year  
+  2. For individuals – big difference when you buy a car  
+  3. Actual example of a 1.6L Toyota Corolla (Slide 12)  
 * * a. In 2000, paid $110,000 (all in + ownership charges)
 * * b. Today, pay much less – $64,000
 * * c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)
 * vi. Result – more cars around us
-* 1. Can see it in more crowded HDB car parks  
-* 2. And on the roads  
+  1. Can see it in more crowded HDB car parks  
+  2. And on the roads  
 
 Hence need for recent increase in ERP charges
 
@@ -177,18 +179,18 @@ Hence need for recent increase in ERP charges
 * * ii. Raised ERP but also reduced Road Tax at the same time
 * * iii. Overall cost has actually come down
 * * iv. Example of a 1.6L car again
-* * 1. Will pay more ERP per year  
-* * 2. But more than offset by 15% reduction in Road Tax  
-* * 3. On average drivers enjoy net savings  
-* * * a. ERP – pay $76 more
-* * * b. Road Tax – pay $130 less
-* * * c. Savings – $54 every year
+    1. Will pay more ERP per year    
+    2. But more than offset by 15% reduction in Road Tax    
+    3. On average drivers enjoy net savings    
+* *   a. ERP – pay $76 more
+* *   b. Road Tax – pay $130 less
+* *   c. Savings – $54 every year
 * c. People may not realise or remember
 * * i. How much Road Tax they are paying, or paid last year
 * * ii. Sometimes another family member pays the tax
-* * 1. I asked one driver if she had received her Road Tax reduction  
-* * 2. She said she had to check with her husband!  
-* * 3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit  
+    1. I asked one driver if she had received her Road Tax reduction    
+    2. She said she had to check with her husband!    
+    3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit  
 * d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies
 
 Also improving public transport as alternative to cars
@@ -214,9 +216,9 @@ Besides cars and public transport, we must also pay attention to wider needs of 
 * * i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!
 * * ii.For them, rental flats are not the right solution
 * * iii. Instead they should look for other viable alternatives:
-* * 1. Rent out a room or even the whole flat  
-* * 2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
-* * 3. Move into smaller flats or studio apartments  
+    1. Rent out a room or even the whole flat  
+    2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
+    3. Move into smaller flats or studio apartments  
 * g. MND/HDB will review the rental flat scheme
 * * i. Keep rental flats an effective safety net for the minority of genuinely needy families, with no assets or family support
 
@@ -263,9 +265,9 @@ We have done many things over the years to improve ourselves
 * * i. It may be hard for us to tell
 * * ii. But those watching us from afar notice
 * * iii. Letter in ST Forum from a Sri Lankan lady
-* * 1. First visited Singapore in 1968 as a young student on her way to the US  
-* * 2. Visited again 40 years later, needed a wheelchair at Changi airport  
-* * 3. Quote her letter  
+    1. First visited Singapore in 1968 as a young student on her way to the US  
+    2. Visited again 40 years later, needed a wheelchair at Changi airport  
+    3. Quote her letter  
 “From the moment I landed until I left, the city impressed me…Everywhere, I met only kindness….I was in a shopping centre and asked a young girl the way to the MRT station. She offered to show me the way, and taking my shopping bags, led me to the station….shopkeepers gave me water to drink, people waiting for a bus walked with me to the correct bus stop, and people helped me across the street. I have never experienced this sort of kindness anywhere else in the world”
 
 We can do even better
@@ -277,11 +279,11 @@ We can do even better
 * c. But also many things we need to improve
 * * i. Say “please” – not so common
 * * ii. Clear tables and return food trays – need to improve
-* * 1. Trying to inculcate this habit, e.g. at Suntec City  
-* * 2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
-* * 3. Quote email from a lady on making Singapore a more liveable place:  
-* * 4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
-* * 5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”  
+    1. Trying to inculcate this habit, e.g. at Suntec City  
+    2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
+    3. Quote email from a lady on making Singapore a more liveable place:  
+    4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
+    5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”  
 * d. Recently, Mediacorp held a contest on the Morning Express Class 95 FM
 * * i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits
 * * ii. Tremendous response
@@ -309,9 +311,9 @@ That is how other countries have done it
 * b. China – now hosting the Olympics
 * * i. Making a special effort to welcome athletes and visitors
 * * ii. Launched large-scale civility campaigns to educate people
-* * 1. Designated special days in every month to remind them of their social etiquette and manners  
-* * 2. Queuing day on the 11th (because 11 resembles two people lining up)  
-* * 3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)  
+    1. Designated special days in every month to remind them of their social etiquette and manners  
+    2. Queuing day on the 11th (because 11 resembles two people lining up)  
+    3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)  
 * * iii. For the Games, mobilised 100,000 volunteers, mostly young men and women
 * * iv. They have impressed visitors too with their friendliness, enthusiasm and pride
 
@@ -355,9 +357,9 @@ Long story captured in this chart (Slide 1) – shows our Total Fertility Rate, 
 * * ii. 1987 – ”Three if you can afford it” – quite successful
 * * iii. 2001 – Baby Bonus – overwhelmed by economy
 * * iv. 2004 – my contribution, Marriage & Procreation package
-* * 1. Some effect but very small  
-* * 2. Zoom in to see the change, from 1.26 to 1.29 (Slide 7)  
-* * 3.But still way below where it is supposed to be  
+    1. Some effect but very small  
+    2. Zoom in to see the change, from 1.26 to 1.29 (Slide 7)  
+    3.But still way below where it is supposed to be  
 
 Question: what more should we do?
 
@@ -382,25 +384,25 @@ Let me summarise the main learning points
 * b. Some have never dated
 * * i. Once they start work and settle into a routine, no opportunities to socialise and meet new people
 * * ii. Relate conversation one matchmaker had with his client
-* 1. Q: What do you usually do after work?  
-* 2. A: Go to the gym  
-* 3. Q: How about the weekends?  
-* 4. A: Stay at home with family  
-* 5. Q: Do you go out?  
-* 6. A: Yes, bring nieces and nephews out to play  
-* 7. Q: Have you met any new friends in the last week?  
-* 8. A: [Dead silence]  
-* 9. Q: How about the last 1 month?  
-* 10. A: [Dead silence again]  
+  1. Q: What do you usually do after work?  
+  2. A: Go to the gym  
+  3. Q: How about the weekends?  
+  4. A: Stay at home with family  
+  5. Q: Do you go out?  
+  6. A: Yes, bring nieces and nephews out to play  
+  7. Q: Have you met any new friends in the last week?  
+  8. A: [Dead silence]  
+  9. Q: How about the last 1 month?  
+  10. A: [Dead silence again]  
 * c. Some start too late
 * * i. Dating agencies say that women in the late 30s have a serious problem
-* 1. Some men are in their late 30s too  
-* 2. But they are looking for younger women in their 20s  
-* 3. So the older women have difficulties pairing up  
+  1. Some men are in their late 30s too  
+  2. But they are looking for younger women in their 20s  
+  3. So the older women have difficulties pairing up  
 * * ii. Confirmed by what one such lady told me at a dialogue
-* 1. She had put her career first when she was younger  
-* 2. Later when she wanted to settle down she tried the dating agencies, but had no luck  
-* 3. She regrets her decision now, but still hopes to find someone  
+  1. She had put her career first when she was younger  
+  2. Later when she wanted to settle down she tried the dating agencies, but had no luck  
+  3. She regrets her decision now, but still hopes to find someone  
 * d. Good news is that more people are prepared to seek help from dating agencies
 * i. Women are more willing to do so
 * ii. Men tend to be more sensitive about their egos
@@ -409,17 +411,17 @@ Let me summarise the main learning points
 * i. e.g. dating agency arranged for a guy to meet a date
 * ii. Setting was a romantic dinner at a nice restaurant
 * * iii. But he showed up wearing slippers!
-* 1. Asked why he did not dress up for the occasion  
-* 2. His reply – this is me, this is how I am!  
-* 3. After some tactful grooming advice, he made progress and learnt to keep a pair of shoes in the car, and put them on before dates  
-* 4. The couple are now happily married  
+  1. Asked why he did not dress up for the occasion  
+  2. His reply – this is me, this is how I am!  
+  3. After some tactful grooming advice, he made progress and learnt to keep a pair of shoes in the car, and put them on before dates  
+  4. The couple are now happily married  
 * f. Also need to have realistic expectations
 * * i. Have to make an effort for the relationship to work
 * * ii. Easy to get carried away by romantic images in the movies
-* 1. Meet someone of your dreams, instantly fall madly in love, get married, live happily ever after  
+  1. Meet someone of your dreams, instantly fall madly in love, get married, live happily ever after  
 * * iii. But we are ordinary people in real life
-* 1. May not have instant sparks on the first date
-* 2. But take time to discover the person for who he or she is, nurture the relationship, and love may blossom
+  1. May not have instant sparks on the first date
+  2. But take time to discover the person for who he or she is, nurture the relationship, and love may blossom
 
 We will do more to help singles get married
 
@@ -431,8 +433,8 @@ We will do more to help singles get married
 * b. Some young people prefer to use private dating agencies
 * * i. But they want quality assurance, e.g. to know that it is a reputable dating agency
 * * ii. SDU will go into a new business
-* 1. Certify private agencies that meet quality standards  
-* 2. “SDU Trust” mark to distinguish them (Slide 8)  
+  1. Certify private agencies that meet quality standards  
+  2. “SDU Trust” mark to distinguish them (Slide 8)  
 
 Young people themselves should take the first step, and not leave it too late
 
@@ -452,14 +454,14 @@ Young people themselves should take the first step, and not leave it too late
 * * iii. Why?
 * c. We looked at other countries
 * i. Happening all over East Asia
-* 1. Confucian societies with similar cultural values  
-* 2. Undergoing rapid social and economic change  
-* 3. So some powerful social and cultural forces at work  
+  1. Confucian societies with similar cultural values  
+  2. Undergoing rapid social and economic change  
+  3. So some powerful social and cultural forces at work  
 * * ii. Happening in Western societies too
-* 1. Australia  
+  1. Australia  
 * * a. Government is working hard to encourage couples to have more children
 * * b. Slogan: “one for Dad, one for Mum, and one for the Country”
-* 2. Europe  
+  2. Europe  
 * * a. Many countries facing a dearth of babies
 * * b. But something interesting in their experience
 * * c. Southern Europe (Portugal, Italy, Greece, Spain)
@@ -486,8 +488,8 @@ First, shared responsibilities for child raising
 * c. Mindsets are beginning to shift, but still not fast enough
 * * i. We cannot overcome this by making speeches
 * * ii. But can encourage greater shared responsibility in child raising and parenting
-* * 1. Introduced childcare leave in 2004 which can be claimed by either parent – will extend this from two to six days per year  
-* * 2. In addition, will now introduce one week of unpaid infant-care leave per year – also can be claimed by either parent, until the child turns two  
+    1. Introduced childcare leave in 2004 which can be claimed by either parent – will extend this from two to six days per year  
+    2. In addition, will now introduce one week of unpaid infant-care leave per year – also can be claimed by either parent, until the child turns two  
 
  Second, work-life balance
  
@@ -495,39 +497,40 @@ First, shared responsibilities for child raising
 * b. Family-friendly employers play an important role
 * * i. If they are supportive and understanding, it will make a big difference to their female staff
 * * ii. Can do a lot with some imagination
-* * 1. Many provide space for nursing mothers to express milk
-* * 2. Others allow telecommuting, and very flexible hours, so long as the work gets done
-* * 3. One catering company equips its duty officers with Blackberries and walkie-talkies, so they can enjoy weekends with their families and still coordinate catering services
+    1. Many provide space for nursing mothers to express milk
+    2. Others allow telecommuting, and very flexible hours, so long as the work gets done
+    3. One catering company equips its duty officers with Blackberries and walkie-talkies, so they can enjoy weekends with their families and still coordinate catering services
 * * iii. Will recognise and thank such employers publicly
 * c. Government can help share the burden on employers
 * * i. Maternity leave – extended by four weeks in 2004 (paid for by government), to 12 weeks
-* * 1. Welcomed by many mothers  
-* * 2. Will extend by another four weeks, e. from 12 to 16 weeks, also paid for by government  
-* * 3. Can claim anytime in the year from the birth of the child  
+    1. Welcomed by many mothers  
+    2. Will extend by another four weeks, e. from 12 to 16 weeks, also paid for by government  
+    3. Can claim anytime in the year from the birth of the child  
 * d. Ultimately parents must make a personal choice
 * * i. Work 110%, or set aside time for other priorities?
 * * ii. Each has to decide her own point of balance
 * * iii. Recall own experience
-* * 1. My mother came home everyday to have lunch with the children  
-* * 2.She avoided going out for evening functions  
-* * 3. It meant taking on less work as a lawyer, but she decided that the children were more important  
+    
+    1. My mother came home everyday to have lunch with the children  
+  2.She avoided going out for evening functions  
+  3. It meant taking on less work as a lawyer, but she decided that the children were more important  
 * * iv. Today harder to do this
-* * 1. “Office” hours are longer  
-* * 2. The pace is more intense  
-* * 3. But still must maintain a balanced, fulfilling life  
+    1. “Office” hours are longer  
+    2. The pace is more intense  
+    3. But still must maintain a balanced, fulfilling life  
 * e. Work-life balance also applies to the children
 * * i. Many parents complain about the stress on their children, especially because of education system
 * * ii. We have trimmed the school syllabi – teach less, learn more
-* * 1. But parents still send children for tuition, enrichment etc  
-* * 2. Feed them chicken essence before exams  
+    1. But parents still send children for tuition, enrichment etc  
+    2. Feed them chicken essence before exams  
 * * iii. Some pressure is inevitable
-* * 1. Part of Singapore’s competitive spirit  
-* * 2. Other East Asian societies are even more ruthlessly competitive  
-* * 3. But we should manage it, and take it in our stride  
+    1. Part of Singapore’s competitive spirit  
+    2. Other East Asian societies are even more ruthlessly competitive  
+    3. But we should manage it, and take it in our stride  
 * * iv. Natural for parents to worry about children, and encourage them to work hard and do better
-* * 1. But also need to understand them – each child has different aptitudes and talents  
-* * 2. Give them space to grow up  
-* * 3. They will learn and mature in their own time  
+    1. But also need to understand them – each child has different aptitudes and talents  
+    2. Give them space to grow up  
+    3. They will learn and mature in their own time  
 
 Third, the financial cost
 
@@ -538,10 +541,10 @@ Third, the financial cost
 * b. Financial considerations cannot be the motive for having children
 * * i. Many couples are indignant at this suggestion
 * * ii. But right for us to help lighten the burden of those with children
-* * 1. Hence the Baby Bonus and tax incentives  
+    1. Hence the Baby Bonus and tax incentives  
 * * iii. We will enhance these schemes
-* * 1. Baby Bonus – improve it for first-time parents  
-* * 2. Tax incentives – will do more, to encourage mothers to work  
+    1. Baby Bonus – improve it for first-time parents  
+    2. Tax incentives – will do more, to encourage mothers to work  
 
 Fourth, early childhood arrangements
 
