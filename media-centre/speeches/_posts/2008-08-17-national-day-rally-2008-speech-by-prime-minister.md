@@ -81,7 +81,7 @@ b. People are agitated all over the world
 * * a. Truckers in France (Slide 3)    
 * * b. Farmers in Spain (Slide 4)
  
-2.  In Asia    
+  2.    In Asia    
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
 * * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
