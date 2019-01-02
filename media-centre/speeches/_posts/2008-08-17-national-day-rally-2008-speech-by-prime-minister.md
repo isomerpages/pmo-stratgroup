@@ -39,8 +39,8 @@ b. Unemployment rising
 c. Consumers are losing confidence and spending less  
 d. Affecting the rest of the world
 * i. Europe already slowing down sharply  
-*   ii. Must expect impact on Asia too  
- e. These global economic problems will continue at least into next year  
+*   ii. Must expect impact on Asia too    
+e. These global economic problems will continue at least into next year  
 * i. Some experts think even longer
 
 Singapore is starting to feel the impact
@@ -48,14 +48,14 @@ Singapore is starting to feel the impact
 a. Growth has slowed in 2Q  
 b. Manufacturing sector is affected  
 c. Exports are weak    
-d. Tourist arrivals are down – even Asian tourists are travelling less
+d. Tourist arrivals are down – even Asian tourists are travelling less  
 e. Retail stores and restaurants say business is slow  
 
 This year will see 4-5% growth – not bad
 
 Next year expect slow growth, and more uncertainties
 
- a. Not predicting a crisis  
+a. Not predicting a crisis  
 b. We are competitive and investors still want to be here
 c. But we must be vigilant and psychologically prepared for trouble  
 d. When the global economy recovers, we will bounce back up
@@ -65,10 +65,10 @@ d. When the global economy recovers, we will bounce back up
 Hottest issue for Singaporeans is the rising cost of living
 
 a. Inflation is a worldwide problem
-* i. Price of oil (Slide 1)
-* * 1. 8 years ago – US$20 per barrel 
-* * 2. Today – around US$110 per barrel  
-* ii. Price of rice (Slide 2)  
+* i. Price of oil (Slide 1)  
+* * 1. 8 years ago – US$20 per barrel   
+* * 2. Today – around US$110 per barrel    
+* ii. Price of rice (Slide 2)    
 * * 1. 8 years ago – US$200 per ton  
 * * 2. Today – around US$800 per ton  
 b. People are agitated all over the world  
