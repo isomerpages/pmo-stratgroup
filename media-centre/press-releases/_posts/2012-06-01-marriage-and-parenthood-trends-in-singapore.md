@@ -118,7 +118,7 @@ Since implementation in 2001, the families of some 350,000 children have benefit
 **PART II**  
 **International Demographic Situation**
 
-Most developed societies have TFRs below the replacement rate. Singapore has experienced declining TFR similar to that of other East Asian developed societies such as Hong Kong, Japan, South Korea and Taiwan, which registered TFRs of between 0.90 and 1.39 in 2010 (see Chart 9). These societies are also experiencing later marriages and rising singlehood (see Chart 10), due to factors such as rising levels of educational attainment and better employment opportunities. In Hong Kong, Japan and South Korea, the average age at marriage is 29-30 for women and 31-33 for men.3
+Most developed societies have TFRs below the replacement rate. Singapore has experienced declining TFR similar to that of other East Asian developed societies such as Hong Kong, Japan, South Korea and Taiwan, which registered TFRs of between 0.90 and 1.39 in 2010 (see Chart 9). These societies are also experiencing later marriages and rising singlehood (see Chart 10), due to factors such as rising levels of educational attainment and better employment opportunities. In Hong Kong, Japan and South Korea, the average age at marriage is 29-30 for women and 31-33 for men.<sup>3</sup>
 
 **Fertility rates in developed East Asian societies have been on the decline**
 Chart 9: TFR comparison of selected developed societies in East Asia and Singapore
@@ -126,7 +126,7 @@ Chart 9: TFR comparison of selected developed societies in East Asia and Singapo
 ![TFR-comparison-of-selected-developed-societies-in-East-Asia-and-Singapore](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/tfr-comparison-of-selected-developed-societies-in-east-asia-and-singapore.png)
 
 **A rising proportion in developed East Asian societies are staying single**
-Chart 10: Proportion of singles aged 30-34 by sex, selected East Asian developed societies4
+Chart 10: Proportion of singles aged 30-34 by sex, selected East Asian developed societies<sup>4</sup>
 
 ![Proportion-of-singles-aged-30-34-by-sex,-selected-East-Asian-developed-societies](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-singles-aged-30-34-by-sex--selected-east-asian-developed-societies.png)
 
@@ -139,7 +139,7 @@ US, and Australia
 ![International-TFR-comparison-of-selected-developed-countries-in-Europe,-US,-and-Australia](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/international-tfr-comparison-of-selected-developed-countries-in-europe--us--and-australia.png)
 
 **Women have children at a younger age in countries with higher fertility rates**  
-Chart 12: Average age at first birth and TFR in selected countries6
+Chart 12: Average age at first birth and TFR in selected countries<sup>6</sup>
 
 ![Average-age-at-first-birth-and-TFR-in-selected-countries](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/average-age-at-first-birth-and-tfr-in-selected-countries.png)
 
