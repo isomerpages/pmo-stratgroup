@@ -85,8 +85,9 @@ b. People are agitated all over the world
     1. Fortunately, we have plenty of rice (Slide 8)  
     2. No protests or demonstrations  
     3. But I know people are also unhappy about price increases  
-    4. Many pictures on the internet. My favourite (Slide 9)  
-* c. Completely understand how Singaporeans feel  
+    4. Many pictures on the internet. My favourite (Slide 9)    
+
+c. Completely understand how Singaporeans feel  
 * i. But we should react rationally  
 * ii. Understand why it is happening to us, and what we can do about it  
 
