@@ -203,11 +203,11 @@ Hence need for recent increase in ERP charges
 
 Also improving public transport as alternative to cars
 
-  a. Building more rail lines
+  a. Building more rail lines  
   b. Running some 800 more train trips per week – reducing waiting time and overcrowding during peak hours
-  c. Improving bus services
-  d. Making transfers more convenient, and increasing transfer rebates
-  e. Cannot have every household owning a car, but will have a first class public transport system for everyone
+  c. Improving bus services  
+  d. Making transfers more convenient, and increasing transfer rebates  
+  e. Cannot have every household owning a car, but will have a first class public transport system for everyone  
 
 #### **HDB RENTAL FLATS**
 
@@ -218,16 +218,17 @@ Besides cars and public transport, we must also pay attention to wider needs of 
 c. Some hardship cases – we have many schemes to help them  
 d. One worrying trend – more are looking for HDB rental flats
 * i. Applications have tripled in a year
-* ii. Rental appeals now form the bulk of their MPS cases  
-e. HDB is building more rental flats
-f. But not all who apply for rental flats are truly in need  
+* ii. Rental appeals now form the bulk of their MPS cases    
+e. HDB is building more rental flats  
+f. But not all who apply for rental flats are truly in need    
 * i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!
 * ii.For them, rental flats are not the right solution
 * iii. Instead they should look for other viable alternatives:
     1. Rent out a room or even the whole flat  
     2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
-    3. Move into smaller flats or studio apartments    
- g. MND/HDB will review the rental flat scheme
+    3. Move into smaller flats or studio apartments
+    
+g. MND/HDB will review the rental flat scheme  
 * i. Keep rental flats an effective safety net for the minority of genuinely needy families, with no assets or family support
 
 #### **MORE HELP**
