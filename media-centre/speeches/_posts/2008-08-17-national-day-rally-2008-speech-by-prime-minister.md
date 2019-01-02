@@ -69,14 +69,14 @@ a. Inflation is a worldwide problem
   1. 8 years ago – US$20 per barrel   
   2. Today – around US$110 per barrel    
 * ii. Price of rice (Slide 2)    
-..* * 1. 8 years ago – US$200 per ton  
-..* * 2. Today – around US$800 per ton  
+  1. 8 years ago – US$200 per ton  
+  2. Today – around US$800 per ton  
 b. People are agitated all over the world  
 * i. Demonstrating and rioting  
-* * 1. In Europe  
+    1. In Europe  
 * * a. Truckers in France (Slide 3)  
 * * b. Farmers in Spain (Slide 4)  
-* * 2. In Asia  
+    2. In Asia  
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
 * * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
