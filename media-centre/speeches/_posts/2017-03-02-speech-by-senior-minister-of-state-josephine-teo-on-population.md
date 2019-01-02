@@ -33,7 +33,7 @@ This is also why we place priority on Making Singapore a Great Place for Familie
 
 **A boost to family formation** 
 
-Last year, we had 23,873 citizen marriages, an increase from our Golden Jubilee Year. Citizen births fell slightly to 33,161, even though I know some members of the house have done your part. Thank you very much. However, this slightly lower figure is still slightly higher than the average in the past 10 years of about 32,000 babies. Our TFR fell to 1.20 from 1.24 a year ago, due in part to a larger cohort of young Singaporeans who are now entering the peak childbearing ages of 25-39, but who have not yet started having children. 3
+Last year, we had 23,873 citizen marriages, an increase from our Golden Jubilee Year. Citizen births fell slightly to 33,161, even though I know some members of the house have done your part. Thank you very much. However, this slightly lower figure is still slightly higher than the average in the past 10 years of about 32,000 babies. Our TFR fell to 1.20 from 1.24 a year ago, due in part to a larger cohort of young Singaporeans who are now entering the peak childbearing ages of 25-39, but who have not yet started having children. 
 
 **Mr Vikram Nair** asked about the attitudes of young Singaporeans who are approaching the peak marriage and parenthood ages. He will be pleased to know that Singaporean Millennials – those in their mid-teens to early thirties – still have strong aspirations to marry and start families. According to our survey last year, 83% of single Millennials want to get married. Among married respondents, 92% want to have at least two children.
 
