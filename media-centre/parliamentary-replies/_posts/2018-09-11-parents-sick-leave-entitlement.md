@@ -6,8 +6,8 @@ permalink: "/media-centre/parliamentary-replies/parents-sick-leave-entitlement"
 ---
 
 THIRTEENTH PARLIAMENT OF SINGAPORE
-WRITTEN ANSWER
-MONDAY, 11 SEP 2017
+WRITTEN ANSWER  
+MONDAY, 11 SEP 2017  
 
 #### **Mr Louis Ng Kok Kwang:**
 To ask the Prime Minister whether the Ministry will consider allowing parents to use their paid sick leave entitlement to care for their sick children or allowing this at least for parents of premature, multiple births or babies with congenital illness.
@@ -20,3 +20,5 @@ Mr Ng has suggested allowing parents to tap on their own paid sick leave entitle
 In addition, from the employers’ perspective, allowing one leave type to be used for another purpose amounts to increasing overall leave utilisation for selected employees. Therefore, apart from the impact on manpower and operational costs for employers, we should be mindful of the possible impact of such a proposal on the employability of employees with caregiving responsibilities.
 
 Although the number of parents with preterm and multiple births or babies with congenital illnesses remains small, we will seriously consider how we can better support such parents with greater caregiving needs, in addition to existing parental leave provisions which have also been progressively enhanced. I made the same point in my reply to Mr Ng’s Adjournment Motion last month on extending parental leave for parents with preterm babies and multiple births.
+
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-parents-sick-leave-entitlements-for-childcare.pdf)
