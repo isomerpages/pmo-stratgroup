@@ -90,6 +90,8 @@ c. Completely understand how Singaporeans feel
 * i. But we should react rationally  
 * ii. Understand why it is happening to us, and what we can do about it  
 
+We cannot prevent prices from rising in Singapore
+
 * a. We import most of our food, except a few eggs and some fish
 * b. We import all our fuel, and produce all our electricity from imported oil and natural gas
 * c. When world prices go up, how do we keep our rice, petrol, or electricity prices down?
@@ -104,7 +106,7 @@ Singaporeans wish the Government would do something to keep prices from rising, 
 
 * a. But subsidies cost huge sums of money
 * b. Even oil and gas producers find them hard to sustain
-c. Many countries have had to cut their oil subsidies recently, e.g. Indonesia, Malaysia, China and India
+* c. Many countries have had to cut their oil subsidies recently, e.g. Indonesia, Malaysia, China and India
 
 We have not fixed electricity price; instead, we have given U-Save
 
@@ -121,14 +123,14 @@ This year we have done more to help Singaporeans
 * * ii. Growth Dividends, Medisave Top-ups and other relief measures
 * c. Besides the Budget, many other measures to help needy
 * * i. For low-income workers
-* * 1. Workfare to top-up their income and savings  
-* * 2. Special one-off payment in this year’s NWC  
+    1. Workfare to top-up their income and savings  
+    2. Special one-off payment in this year’s NWC  
 * * ii. For the destitute
-* * 1. Higher Public Assistance rates  
-* * 2. ComCare and Medifund (+ Medifund Silver)  
-* * iii. For retirees 
-* * 1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)  
-* * 2. Will help preserve the value of your savings for old age  
+    1. Higher Public Assistance rates  
+    2. ComCare and Medifund (+ Medifund Silver)  
+* * iii. For retirees
+    1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)  
+    2. Will help preserve the value of your savings for old age  
 * d. Overall, $3 bn of help from Government this year
 
 #### **MIDDLE-INCOME SINGAPOREANS**
