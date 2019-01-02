@@ -77,7 +77,7 @@ b. People are agitated all over the world
 * i. Demonstrating and rioting  
     
      
-  1. In Europe   
+<p>     1. In Europe   </p>
 * * a. Truckers in France (Slide 3)    
 * * b. Farmers in Spain (Slide 4)
  
