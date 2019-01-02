@@ -75,11 +75,12 @@ a. Inflation is a worldwide problem
         
 b. People are agitated all over the world  
 * i. Demonstrating and rioting  
-    1. In Europe  
+    
+    1. In Europe   
 * * a. Truckers in France (Slide 3)    
 * * b. Farmers in Spain (Slide 4)
-
-    2. In Asia  
+   
+    2. In Asia    
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
 * * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
@@ -95,76 +96,80 @@ c. Completely understand how Singaporeans feel
 
 We cannot prevent prices from rising in Singapore
 
-* a. We import most of our food, except a few eggs and some fish
-* b. We import all our fuel, and produce all our electricity from imported oil and natural gas
-* c. When world prices go up, how do we keep our rice, petrol, or electricity prices down?
-* d. In terms of dollars, wages have not gone down
-* * i. Most workers are earning more dollars this year
-* * ii. Last year was a good year; wages and bonuses went up
-* * iii. But when we spend money, we find that each dollar has shrunk
-* * iv. With inflation, some of your wage increase went to you, but quite a lot went to the oil producers
-* e. Simply put, oil producers (e.g. Arabs and Russians) are now richer, therefore oil consumers (e. us) are now poorer  
+a. We import most of our food, except a few eggs and some fish  
+b. We import all our fuel, and produce all our electricity from imported oil and natural gas  
+c. When world prices go up, how do we keep our rice, petrol, or electricity prices down?  
+d. In terms of dollars, wages have not gone down  
+* i. Most workers are earning more dollars this year
+* ii. Last year was a good year; wages and bonuses went up
+* iii. But when we spend money, we find that each dollar has shrunk
+* iv. With inflation, some of your wage increase went to you, but quite a lot went to the oil producers
+  
+e. Simply put, oil producers (e.g. Arabs and Russians) are now richer, therefore oil consumers (e. us) are now poorer  
 
 Singaporeans wish the Government would do something to keep prices from rising, e.g. just control prices, and not let them go up
 
-* a. But subsidies cost huge sums of money
-* b. Even oil and gas producers find them hard to sustain
-* c. Many countries have had to cut their oil subsidies recently, e.g. Indonesia, Malaysia, China and India
+  a. But subsidies cost huge sums of money  
+  b. Even oil and gas producers find them hard to sustain  
+  c. Many countries have had to cut their oil subsidies recently, e.g. Indonesia, Malaysia, China and India  
 
 We have not fixed electricity price; instead, we have given U-Save
 
-* a. e. top up your SingPower account with cash
-* b. Help you directly
-* c. Lower-income households get more – this year’s U-Save is equal to 3-6 months of their utility bills
-* d. If you can cut down and use less electricity (or gas or water), then the U-Save money will offset your bills for an even longer time
+  a. e. top up your SingPower account with cash  
+  b. Help you directly  
+  c. Lower-income households get more – this year’s U-Save is equal to 3-6 months of their utility bills  
+  d. If you can cut down and use less electricity (or gas or water), then the U-Save money will offset your bills for an even longer time  
 
 This year we have done more to help Singaporeans
 
-* a. Had foreseen the spike in inflation last year
-* b. Hence made significant distribution in the Budget
-* * i. For all Singaporeans, but targeted at the middle-income and especially the needy
-* * ii. Growth Dividends, Medisave Top-ups and other relief measures
-* c. Besides the Budget, many other measures to help needy
-* * i. For low-income workers
+  a. Had foreseen the spike in inflation last year  
+  b. Hence made significant distribution in the Budget  
+  * i. For all Singaporeans, but targeted at the middle-income and especially the needy
+* ii. Growth Dividends, Medisave Top-ups and other relief measures
+
+c. Besides the Budget, many other measures to help needy
+  * i. For low-income workers
     1. Workfare to top-up their income and savings  
     2. Special one-off payment in this year’s NWC  
-* * ii. For the destitute
+* ii. For the destitute
     1. Higher Public Assistance rates  
     2. ComCare and Medifund (+ Medifund Silver)  
-* * iii. For retirees
+* iii. For retirees
     1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)  
-    2. Will help preserve the value of your savings for old age  
-* d. Overall, $3 bn of help from Government this year
+    2. Will help preserve the value of your savings for old age    
+
+d. Overall, $3 bn of help from Government this year
 
 #### **MIDDLE-INCOME SINGAPOREANS**
 
 Middle-income Singaporeans feel pressured too
 
-* a. Have not forgotten them
-* b. Growth Dividends etc. extended to them
-* c. Helped with education costs, e.g. extended university and poly bursaries and topped up post-secondary education accounts
-* d. Overall strategy to help middle-income – keep taxes low, to minimise your burden
-* e. Personal income tax
-* * i. Already lower than most other countries, including Hong Kong except for the highest income group
-* * ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn
-* f. Car-related taxes
-* * i. Used to be a significant burden, because of high car ownership taxes
-* *  ii. Discussed this at the Economic Review Committee
-* * iii. Decided on a major policy shift
+  a. Have not forgotten them  
+  b. Growth Dividends etc. extended to them  
+  c. Helped with education costs, e.g. extended university and poly bursaries and topped up post-secondary education accounts      
+ d. Overall strategy to help middle-income – keep taxes low, to minimise your burden  
+e. Personal income tax  
+* i. Already lower than most other countries, including Hong Kong except for the highest income group
+* ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn
+
+f. Car-related taxes
+* i. Used to be a significant burden, because of high car ownership taxes
+* ii. Discussed this at the Economic Review Committee
+* iii. Decided on a major policy shift
     1. Reduce ownership charges and taxes, e.g. ARF, excise duties, road tax, and release more COEs  
     2. Enable more people to afford cars  
     3. Increase ERP to control congestion  
-* * iv. Compare 2000 with 2008 (Slide 10)
+* iv. Compare 2000 with 2008 (Slide 10)
     1. Overall, vehicle-related revenues halved – from $6.1 bn in FY2000 to $3.4 bn this FY (2008)  
     2. Reduced ownership charges by a huge amount  
     3. Doubled ERP, but still very small by comparison  
-* * v. Hence more households now own cars (Slide 11)
+* v. Hence more households now own cars (Slide 11)
   1. Overall figures – number of car owning households increased by 1/3, from 320,000 in 2000 to 430,000 this year  
   2. For individuals – big difference when you buy a car  
   3. Actual example of a 1.6L Toyota Corolla (Slide 12)  
-* * a. In 2000, paid $110,000 (all in + ownership charges)
-* * b. Today, pay much less – $64,000
-* * c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)
+* a. In 2000, paid $110,000 (all in + ownership charges)
+* b. Today, pay much less – $64,000
+* c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)
 * vi. Result – more cars around us
   1. Can see it in more crowded HDB car parks  
   2. And on the roads  
