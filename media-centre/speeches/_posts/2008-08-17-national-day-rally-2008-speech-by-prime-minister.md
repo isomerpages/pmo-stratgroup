@@ -81,7 +81,7 @@ b. People are agitated all over the world
 * * a. Truckers in France (Slide 3)    
 * * b. Farmers in Spain (Slide 4)
  
-  2.    In Asia    
+ <p> 2.    In Asia    </p>  
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
 * * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
@@ -585,8 +585,8 @@ Fourth, early childhood arrangements
 * i. 25% of children are in childcare centres
 * ii. More popular centres have queues
 * iii. Visited one NTUC Childcare Centre in Jurong
-* 1. Talked to some of the parents  
-* 2. They were very happy to put their kids there  
+  1. Talked to some of the parents  
+  2. They were very happy to put their kids there  
 * * a. Good growing-up environment for their children
 * * b. Give them peace of mind while they are working
 * iv. So we will build up the childcare sector
@@ -598,8 +598,8 @@ Fourth, early childhood arrangements
 
   e. Most parents send their children to kindergarten  
 * i. Early childhood education is important
-* 1. Helps prepare children for school  
-* 2. But don’t make it more stressful for them!  
+  1. Helps prepare children for school  
+  2. But don’t make it more stressful for them!  
 * ii. Broad range of kindergartens 
     1. Top-end – they can take care of themselves  
     2. Mass market for lower- and middle-income families, like PCF  
@@ -674,7 +674,7 @@ Korea – world’s most wired country
   b. Empowered new groups  
 * i. e.g. mass access to the internet helped President Lee Myung-bak to win resoundingly in Dec 2007  
 
-c.But also created rapidly changing moods in the population
+c. But also created rapidly changing moods in the population
 *   i. Within a few months, President Lee was under siege
 *   ii. Mass demonstrations and protests (Slide 5)
 
