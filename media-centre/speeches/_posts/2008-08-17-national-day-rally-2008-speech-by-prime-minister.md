@@ -48,7 +48,7 @@ Singapore is starting to feel the impact
 a. Growth has slowed in 2Q  
 b. Manufacturing sector is affected  
 c. Exports are weak    
-d. Tourist arrivals are down – even Asian tourists are travelling less  
+d. Tourist arrivals are down – even Asian tourists are travelling less    
 e. Retail stores and restaurants say business is slow  
 
 This year will see 4-5% growth – not bad
@@ -56,9 +56,9 @@ This year will see 4-5% growth – not bad
 Next year expect slow growth, and more uncertainties
 
 a. Not predicting a crisis  
-b. We are competitive and investors still want to be here
+b. We are competitive and investors still want to be here  
 c. But we must be vigilant and psychologically prepared for trouble  
-d. When the global economy recovers, we will bounce back up
+d. When the global economy recovers, we will bounce back up  
 
 #### **INFLATION**
 
