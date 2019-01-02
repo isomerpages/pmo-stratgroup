@@ -39,7 +39,8 @@ b. Unemployment rising
 c. Consumers are losing confidence and spending less  
 d. Affecting the rest of the world
 * i. Europe already slowing down sharply  
-* ii. Must expect impact on Asia too    
+* ii. Must expect impact on Asia too  
+
 e. These global economic problems will continue at least into next year  
 * i. Some experts think even longer
 
@@ -79,7 +80,7 @@ b. People are agitated all over the world
    2. In Asia  
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
-* * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)   
+* * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)    
 * ii. In Singapore  
     1. Fortunately, we have plenty of rice (Slide 8)  
     2. No protests or demonstrations  
