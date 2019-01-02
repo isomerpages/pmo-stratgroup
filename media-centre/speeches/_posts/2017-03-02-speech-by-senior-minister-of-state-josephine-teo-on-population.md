@@ -63,7 +63,7 @@ For couples who do not wish to wait or prefer to live near their parents, a good
 
 With shorter waiting times, more accessible PPHS flats and higher resale grants in place, more couples will be able to enjoy a place of their own faster. But I _urge couples not to delay planning as a result._ There are many worthy pursuits in life and if marriage and parenthood are to feature at all, they have to be prioritised earlier rather than later. And as I have said before, please don’t wait till it’s too late.
 
-**_Pre-school – “Care for our baby, peace of mind for daddy and mummy”_**
+_**Pre-school – “Care for our baby, peace of mind for daddy and mummy”**_ 
 
 Secondly, let me turn to pre-school. It is an area in which we will strengthen support for parents – childcare, and particularly in the care of infants.
 
