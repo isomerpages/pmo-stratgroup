@@ -262,7 +262,7 @@ With MediShield Life, all Singaporeans will be covered regardless of health circ
   <tr>
   	<td rowspan="2">Extended Child Care Leave</td>
 <td>Both parents have 6 days of paid child care leave per year each if they have at least 1 citizen child aged below 7 years</td>
-<td>Both parents have 2 days of paid child care leave per year each if they have at least 1 citizen child aged 7-12 years<srip>2</sup>.</td>
+<td>Both parents have 2 days of paid child care leave per year each if they have at least 1 citizen child aged 7-12 years<sup>2</sup> </td>
 </tr>
 <td>Existing</td>
 <td>Existing</td>
