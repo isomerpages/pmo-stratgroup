@@ -74,12 +74,12 @@ a. Inflation is a worldwide problem
 b. People are agitated all over the world  
 * i. Demonstrating and rioting  
     1. In Europe  
-* * a. Truckers in France (Slide 3)  
-* * b. Farmers in Spain (Slide 4)  
-    2. In Asia  
+* * a. Truckers in France (Slide 3)    
+* * b. Farmers in Spain (Slide 4)
+   2. In Asia  
 * * a. Fuel protests in Indonesia (Slide 5)  
 * * b. Food protests in Pakistan (Slide 6)  
-* * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
+* * c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)   
 * ii. In Singapore  
     1. Fortunately, we have plenty of rice (Slide 8)  
     2. No protests or demonstrations  
