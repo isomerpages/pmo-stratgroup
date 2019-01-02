@@ -5,8 +5,8 @@ date:   2017-09-11
 permalink: "/media-centre/parliamentary-replies/parents-sick-leave-entitlement"
 ---
 
-THIRTEENTH PARLIAMENT OF SINGAPORE
-WRITTEN ANSWER  
+THIRTEENTH PARLIAMENT OF SINGAPORE  
+WRITTEN ANSWER    
 MONDAY, 11 SEP 2017  
 
 #### **Mr Louis Ng Kok Kwang:**
