@@ -198,13 +198,13 @@ Hence need for recent increase in ERP charges
 *   ii. Sometimes another family member pays the tax
     1. I asked one driver if she had received her Road Tax reduction    
     2. She said she had to check with her husband!    
-    3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit  
-  d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies
+    3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit    
+d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies
 
 Also improving public transport as alternative to cars
 
   a. Building more rail lines  
-  b. Running some 800 more train trips per week – reducing waiting time and overcrowding during peak hours
+  b. Running some 800 more train trips per week – reducing waiting time and overcrowding during peak hours  
   c. Improving bus services  
   d. Making transfers more convenient, and increasing transfer rebates  
   e. Cannot have every household owning a car, but will have a first class public transport system for everyone  
