@@ -33,4 +33,4 @@ collection_name: population-trends
 ###### Source: Department of Statistics and Ministry of Manpower
 ###### 1 More information on Singapore's population data and trends can be found in the Population in Brief 2018. 
 ###### 2 Life expectancy at birth data is for 2017.
-###### 3 Income data is median gross monthly income (including employer CPF contributions) of full-time employed Residents, and is for 2017. 
+###### 3 Income data is median gross monthly income (including employer CPF contributions) of full-time employed Residents, and is for 2017. test
