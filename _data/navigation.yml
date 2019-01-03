@@ -20,18 +20,18 @@
   - title: Speeches
     url: /media-centre/speeches/
 - title: Population Trends
-	  url: /population-trends/overview/
-	  sub-links:
-	  - title: Overview
-	    url: /population-trends/overview/
-	  - title: Demographics
-	    url: /population-trends/demographics/
-	  - title: People and Society
-	    url: /population-trends/people-and-society/
-	  - title: Jobs and Economy
-	    url: /population-trends/jobs-and-economy/
-	  - title: Quality of Life
-	    url: /population-trends/quality-of-life/
+  url: /population-trends/overview/
+  sub-links:
+  - title: Overview
+    url: /population-trends/overview/
+  - title: Demographics
+    url: /population-trends/demographics/
+  - title: People and Society
+    url: /population-trends/people-and-society/
+  - title: Jobs and Economy
+    url: /population-trends/jobs-and-economy/
+  - title: Quality of Life
+    url: /population-trends/quality-of-life/
 - title: Careers
   url: /careers/
 - title: FAQ
