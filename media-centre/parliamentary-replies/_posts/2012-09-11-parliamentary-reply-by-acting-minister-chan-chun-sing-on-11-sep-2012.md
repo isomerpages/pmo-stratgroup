@@ -9,7 +9,7 @@ permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-acting-mi
 WRITTEN ANSWER  
 TUESDAY, 11 SEPTEMBER 2012**
    
-**Asst Prof Tan Kheng Boon, Eugene:**
+**Asst Prof Tan Kheng Boon, Eugene:**  
 To ask the Acting Minister for Community Development, Youth and Sports with regard to the Community Integration Fund (CIF) (a) what is (i) the amount that has been disbursed since its inception in September 2009; and (ii) the nature of activities that have been funded; (b) what are the measures, proxy or otherwise, of outcomes from activities funded; (c) whether a comprehensive review will be conducted with a view to improve the funding mechanism, including providing for multi-year programmes; and (d) whether there are plans to renew the CIF and to increase the funding available.
 
 **Mr Chan Chun Sing:**
