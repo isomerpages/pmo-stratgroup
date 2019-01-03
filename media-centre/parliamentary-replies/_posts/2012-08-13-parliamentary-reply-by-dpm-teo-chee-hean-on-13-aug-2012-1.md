@@ -9,10 +9,10 @@ permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-
 WRITTEN ANSWER  
 MONDAY, 13 AUG 2012**  
 
-**Mr Chen Show Mao:**
+**Mr Chen Show Mao:**  
 To ask the Prime Minister as of 31 December 2000, 2005 and 2010 respectively, what is the number of Singapore citizens over the age of 21 years who are resident in Singapore. 
 
-**Mr Teo Chee Hean (for the Prime Minister):**  
+**Mr Teo Chee Hean (for the Prime Minister):**    
 The number of Singapore citizens aged 21 years and over who are resident in 
 Singapore as at end-December 2000, 2005 and 2010 are shown in the table below. 
 
