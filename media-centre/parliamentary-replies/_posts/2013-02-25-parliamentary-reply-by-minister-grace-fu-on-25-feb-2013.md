@@ -5,6 +5,11 @@ date:   2013-02-25
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-25-feb-2013"
 ---
 
+**TWELFTH PARLIAMENT  
+ORAL ANSWER  
+MONDAY, 25 FEB 2013**
+
+
 **Foreign Spouses in Singapore**
 
 **(Numbers granted citizenship and permanent residency)**
