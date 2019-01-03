@@ -1,7 +1,7 @@
 ##################################
 #                                #
 # Feel free to edit this file :) #
-#                                #
+# Population Trends has been unaligned so it is hidden, re-align Population Trends for it to be reflected on isomer webpage #
 ##################################
 
 - title: Who We Are
@@ -19,7 +19,7 @@
     url: /media-centre/publications/
   - title: Speeches
     url: /media-centre/speeches/
-- title: Population Trends
+ - title: Population Trends
   url: /population-trends/overview/
   sub-links:
   - title: Overview
