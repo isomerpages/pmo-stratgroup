@@ -89,3 +89,6 @@ Ladies and gentlemen,
  
 
 22. Thank you, and have a lovely evening!
+
+
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-josephine-teo-at-the-pa-inclusive-awards-presentation-ceremony-on-13-july-2018.pdf)
