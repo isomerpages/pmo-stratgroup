@@ -57,3 +57,5 @@ For example, the Association of Banks in Singapore (ABS) published the Guideline
 I hope this GGBF provides a platform to initiate conversations and exchange ideas on ways to seize the next wave of green growth opportunities. I encourage all stakeholders, whether from Singapore, the UK, or elsewhere, to come to us with innovative solutions and bold ideas. We want Singapore to be the place where the proverbial rubber hits the road: let your idea be piloted here, and if it succeeds, may it have the legs to travel far beyond our shores.
 
 On this note, let me wish you an enjoyable and fruitful discussion at GGBF. Thank you.
+
+[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/GreenGrowth.pdf)
