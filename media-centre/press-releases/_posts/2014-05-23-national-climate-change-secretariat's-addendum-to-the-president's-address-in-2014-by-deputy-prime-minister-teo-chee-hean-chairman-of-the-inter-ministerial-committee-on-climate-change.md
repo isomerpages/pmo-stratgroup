@@ -2,7 +2,7 @@
 layout: post
 title:  "National Climate Change Secretariat's addendum to the President's Address in 2014 by Deputy Prime Minister Teo Chee Hean, Chairman of the Inter-Ministerial Committee on Climate Change"
 date:   2014-05-23
-permalink: "/media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood"
+permalink: "/media-centre/press-releases/national-climate-change-secretariat's-addendum-to-the-president's-address-in-2014-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change"
 ---
 
 **Overview**   
