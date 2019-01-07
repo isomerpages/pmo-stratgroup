@@ -22,3 +22,28 @@ Beyond business cost, companies also take into account factors such as the avail
 
 ![Change-in-business](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2012.21.58%20PM.png)
 
+### **Foreign Workforce**
+
+Concrete steps have been taken to slow foreign employment growth, and businesses will continue to face a tight labour market. But with the Government’s commitment to support businesses to shift towards higher skills and capital-intensive methods, businesses can continue to grow and succeed here, and in turn create good jobs for Singaporeans.
+
+![Foreign-workforce](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%202.07.40%20PM.png)
+
+### **Local Workforce**
+
+We seek to build a strong and quality Singaporean workforce through education and skills upgrading, and encouraging more locals, such as mature workers and women, to stay in the workforce. Our priority is to ensure that Singaporeans continue to enjoy good job opportunities and robust income growth, even amid the tight labour market and slowing economy.
+
+Redundancies have risen in recent years amidst softer economic conditions and ongoing restructuring of the economy. However, the unemployment rate remained low, and job vacancies continued to outnumber job seekers. The Government is working with tripartite partners to strengthen employment support to help displaced locals re-enter employment. Various initiatives have also been rolled out to encourage training and upskilling among locals, for example, the SkillsFuture initiative.
+
+![Local-worforce-1](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%202.11.09%20PM.png)
+
+Our resident labour force participation rate (LFPR) – or the proportion of the population who are employed or actively looking for jobs – has increased gradually over the last decade. With more support for flexible work arrangements and childcare options, the LFPR for females has increased faster than that of males. The LFPR at the older ages has also continued to rise with the ongoing efforts to enhance the employability of mature workers.
+
+![LFPR](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%202.14.13%20PM.png)
+
+There has been a sustained increase in the real wage growth at the median and 20th percentile of residents over the last decade. This means that Singaporeans at the lower and middle-income groups are able to enjoy more goods and services.
+
+![Annualised-growth](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%202.16.10%20PM.png)
+
+**What could this trend mean for our future?** 
+
+Our economy is slowing amidst tight labour market and weaker economic conditions. The slowing local labour force growth due to our ageing population could further limit economic growth. It is important to press on with our efforts to raise productivity, up-skill our local workforce, in order to sustain economic growth and real wage growth. With a vibrant economy, we will be able to create good job opportunities, and improve the standards of living for Singaporeans and future generations.
