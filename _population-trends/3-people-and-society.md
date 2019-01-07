@@ -30,4 +30,12 @@ Our TFR has fallen below the replacement level of 2.1 for four decades since 197
 
 ![Projected-Citizen-Population](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.40.38%20AM.png)
 
+### **Race & Diversity**
+
+The racial composition of our citizen population has remained stable over the decade.
+
+![Racial-Composition](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.46.48%20AM.png)
+
+Trends of inter-ethnic and transnational marriages also add to the diversity of our citizen population, and shape the texture of our society over time. Today, about one in five marriages involving Singaporeans are between couples of different races, and more than one in three is between a Singaporean and non-Singaporean. Our Singaporean families have become more diverse over time.
+
 [Download as PDF](This is a download link)
