@@ -20,5 +20,5 @@ The cost of labour makes up a big part of business cost for companies in the Man
 
 Beyond business cost, companies also take into account factors such as the availability of skilled and suitable workers and the conduciveness of the business environment when deciding where to locate. Hence, it is important to continue ensuring these, for Singapore to remain an attractive investment location for high-value added activities, thereby helping to create good jobs for Singaporeans.
 
-
+![Change-in-business](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2012.21.58%20PM.png)
 
