@@ -52,4 +52,3 @@ Our new citizens and PRs largely originated from the Southeast Asian region, jus
 
 ![Profile-of-new-citizens](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.58.02%20AM.png)
 
-Hopefully this codes works. Test
