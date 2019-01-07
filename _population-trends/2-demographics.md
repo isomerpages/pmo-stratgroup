@@ -10,7 +10,7 @@ collection_name: population-trends
 
 Our total population is made up of Singapore citizens, Permanent Residents (PRs) and non-residents. The non-resident population is a diverse group who are here for work, study or family reasons. As of June 2018, the total population size is 5.64 million.
 
-<iframe width="600" height="400" src="(https://www.population.sg/AmchartModule/chart.aspx?id=4da9698b-7a3f-4ba5-9de2-a9dd57377e45)" frameBorder="0"> </iframe>
+<iframe width="600" height="400" src="https://www.population.sg/AmchartModule/chart.aspx?id=4da9698b-7a3f-4ba5-9de2-a9dd57377e45" frameBorder="0"> </iframe>
 
 With stable growth in the citizen population, our total population grew slightly by 0.5% over the past year.
 ![Population Trends]({{"/images/population-trends/SGTotalPopGrowth2008-2018.PNG" | absolute_url }})
