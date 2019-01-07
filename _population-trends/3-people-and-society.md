@@ -38,4 +38,18 @@ The racial composition of our citizen population has remained stable over the de
 
 Trends of inter-ethnic and transnational marriages also add to the diversity of our citizen population, and shape the texture of our society over time. Today, about one in five marriages involving Singaporeans are between couples of different races, and more than one in three is between a Singaporean and non-Singaporean. Our Singaporean families have become more diverse over time.
 
-[Download as PDF](This is a download link)
+![Inter-Ethnic-Marriages](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.51.14%20AM.png)
+
+### **Immigration**  
+
+Immigration helps to balance our shrinking and ageing citizen population. We have tightened the immigration framework significantly in late-2009 to calibrate the inflow of new Permanent Residents (PRs) and citizens.
+
+We take in 15,000 to 25,000 new citizens each year to keep the citizen population stable in the long term. About 30,000 new PRs are granted each year, ensuring a steady pool of suitable candidates for citizenship.
+
+![New-Citizens-PR](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.54.55%20AM.png)
+
+Our new citizens and PRs largely originated from the Southeast Asian region, just like our forefathers. The majority are in the prime working ages of 40 years and below.
+
+![Profile-of-new-citizens](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.58.02%20AM.png)
+
+Hopefully this codes works. Test
