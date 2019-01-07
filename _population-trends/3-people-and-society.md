@@ -10,4 +10,4 @@ collection_name: population-trends
 
 Singaporeans are marrying later. However, the median age at first marriage has remained relatively stable in recent years.
 
-![https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.12.01%20AM.png](Popuationtrendomage)
+![PopulationImage](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/population-trends/Screenshot%202019-01-07%20at%2011.12.01%20AM.png)
