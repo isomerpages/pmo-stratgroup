@@ -42,7 +42,7 @@ d. Affecting the rest of the world
   ii. Must expect impact on Asia too  
 
 e. These global economic problems will continue at least into next year    
-  i. Some experts think even longer
+&nbsp; i. Some experts think even longer
 
 Singapore is starting to feel the impact
 
@@ -66,26 +66,26 @@ d. When the global economy recovers, we will bounce back up
 Hottest issue for Singaporeans is the rising cost of living
 
 a. Inflation is a worldwide problem  
-  i. Price of oil (Slide 1)  
-    1. 8 years ago – US$20 per barrel   
-    2. Today – around US$110 per barrel    
-  ii. Price of rice (Slide 2)    
-    1. 8 years ago – US$200 per ton  
-    2. Today – around US$800 per ton
+ &nbsp; i. Price of oil (Slide 1)  
+&nbsp; &nbsp; 1. 8 years ago – US$20 per barrel   
+&nbsp; &nbsp; 2. Today – around US$110 per barrel    
+&nbsp; ii. Price of rice (Slide 2)    
+&nbsp; &nbsp; 1. 8 years ago – US$200 per ton  
+&nbsp; &nbsp; 2. Today – around US$800 per ton
         
 b. People are agitated all over the world  
   i. Demonstrating and rioting  
     
      
-<p>     1. In Europe   </p>
-a. Truckers in France (Slide 3)      
-b. Farmers in Spain (Slide 4)
+  <p>     1. In Europe   </p>
+  a. Truckers in France (Slide 3)      
+  b. Farmers in Spain (Slide 4)
  
- <p> 2. In Asia    </p>  
-a. Fuel protests in Indonesia (Slide 5)  
-b. Food protests in Pakistan (Slide 6)  
-c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
-  ii. In Singapore    
+  <p> 2. In Asia    </p>  
+  a. Fuel protests in Indonesia (Slide 5)  
+  b. Food protests in Pakistan (Slide 6)  
+  c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
+ii. In Singapore    
     1. Fortunately, we have plenty of rice (Slide 8)  
     2. No protests or demonstrations  
     3. But I know people are also unhappy about price increases  
