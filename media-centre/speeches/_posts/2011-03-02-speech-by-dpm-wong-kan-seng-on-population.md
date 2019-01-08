@@ -5,7 +5,7 @@ date:   2011-03-02
 permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-on-population"
 ---
 
-#### “ADDRESSING SINGAPORE’S POPULATION CHALLENGE” 
+#### **“ADDRESSING SINGAPORE’S POPULATION CHALLENGE”** 
 
 #### PREAMBLE
 
