@@ -66,7 +66,7 @@ d. When the global economy recovers, we will bounce back up
 Hottest issue for Singaporeans is the rising cost of living
 
 a. Inflation is a worldwide problem  
- &nbsp; i. Price of oil (Slide 1)  
+&nbsp; i. Price of oil (Slide 1)  
 &nbsp; &nbsp; 1. 8 years ago – US$20 per barrel   
 &nbsp; &nbsp; 2. Today – around US$110 per barrel    
 &nbsp; ii. Price of rice (Slide 2)    
@@ -74,12 +74,12 @@ a. Inflation is a worldwide problem
 &nbsp; &nbsp; 2. Today – around US$800 per ton
         
 b. People are agitated all over the world  
-  i. Demonstrating and rioting  
+&nbsp; i. Demonstrating and rioting  
     
      
-  <p>     1. In Europe   </p>
-  a. Truckers in France (Slide 3)      
-  b. Farmers in Spain (Slide 4)
+&nbsp; &nbsp;  <p>     1. In Europe   </p>
+&nbsp; &nbsp; &nbsp;  a. Truckers in France (Slide 3)      
+&nbsp; &nbsp; &nbsp;  b. Farmers in Spain (Slide 4)
  
   <p> 2. In Asia    </p>  
   a. Fuel protests in Indonesia (Slide 5)  
