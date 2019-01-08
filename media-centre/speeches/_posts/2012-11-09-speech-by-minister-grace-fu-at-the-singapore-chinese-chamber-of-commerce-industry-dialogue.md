@@ -44,8 +44,8 @@ Singapore must continue to remain an attractive place for businesses. All of you
 
 #### BEST PRACTICE COMPANIES
 
-**Flexibility as a Recruitment Strategy**
-Jumbo Group of Restaurants
+**Flexibility as a Recruitment Strategy**  
+Jumbo Group of Restaurants  
 
 The F&B industry recruits part-time workers extensively and increasingly so. The Jumbo Group of Restaurants is one such establishment that engages and relies on part-time workers. Mrs Christina Kong, head of its Human Resources and Corporate Affairs, shares that offering flexible working options has proven to be an effective recruitment strategy that allows the organisation to hire the right quality and number of employees.
 
