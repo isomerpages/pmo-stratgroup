@@ -64,7 +64,7 @@ Sir, we need a whole-of-nation effort – involving the people, the private, and
 Thank you, sir. 
 
 
-<sub>Footnotes</sub>
+<sub>Footnotes</sub>  
 <sub><sup>1</sup> Gross Floor Area above 2,000 sqm</sub>
 <sub><sup>2</sup> Air-conditioned floor area above 5,000 sqm</sub>
 
