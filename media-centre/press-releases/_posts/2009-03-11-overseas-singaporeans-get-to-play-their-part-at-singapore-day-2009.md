@@ -13,7 +13,7 @@ Visitors can also discover Singapore’s latest developments through the interac
 
 Overseas Singaporeans can also find out how they can play an active part in what is happening back home, as well as contribute their services at the Kallang Showcase. Those who want to be part of the inaugural Singapore 2010 Youth Olympic Games can find out more on how they can contribute their services. Key Overseas Singaporean associations in the UK such as the Singapore Business Group (SBG), Singapore UK Organisation (SUKA), Singapore Creative Network UK (S.C.N.U.K), and United Kingdom Singapore Students' Council (UKSCC) will also be present to reach out to the Overseas Singaporeans. Singaporeans seeking career opportunities back home will also be able to speak to recruiting employers at the Raffles Place Showcase.
 
-Register today at [www.SingaporeDay.sg](www.SingaporeDay.sg) for entry and get a special collector’s item goodie bag at the event!
+Register today at [www.SingaporeDay.sg](https://www.overseassingaporean.sg/event/singapore-day/) for entry and get a special collector’s item goodie bag at the event!
 
 “Singapore Day 2009 is a collaborative effort of the private, public and people sectors, specially put together for our Overseas Singaporeans by fellow Singaporeans, to help them stay connected to home. Overseas Singaporeans will be playing a major role in the event such as the performance; they can also look out to how they can contribute back home such as the Singapore 2010 Youth Olympic Games.” said Ms Quah Ley Hoon, Director, Overseas Singaporean Unit.
 
