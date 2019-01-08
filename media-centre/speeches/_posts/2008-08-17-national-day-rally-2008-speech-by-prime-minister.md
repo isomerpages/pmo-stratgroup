@@ -128,16 +128,16 @@ This year we have done more to help Singaporeans
   &nbsp; i. For all Singaporeans, but targeted at the middle-income and especially the needy
   &nbsp; ii. Growth Dividends, Medisave Top-ups and other relief measures
 
-c. Besides the Budget, many other measures to help needy
-&nbsp; i. For low-income workers
-&nbsp; &nbsp; 1. Workfare to top-up their income and savings  
-&nbsp; &nbsp; 2. Special one-off payment in this year’s NWC  
-&nbsp; ii. For the destitute
-&nbsp; &nbsp; 1. Higher Public Assistance rates  
-&nbsp; &nbsp; 2. ComCare and Medifund (+ Medifund Silver)  
-&nbsp; iii. For retirees
-&nbsp; &nbsp; 1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)  
-&nbsp; &nbsp; 2. Will help preserve the value of your savings for old age    
+c. Besides the Budget, many other measures to help needy  
+&nbsp; i. For low-income workers  
+&nbsp; &nbsp; 1. Workfare to top-up their income and savings    
+&nbsp; &nbsp; 2. Special one-off payment in this year’s NWC    
+&nbsp; ii. For the destitute  
+&nbsp; &nbsp; 1. Higher Public Assistance rates    
+&nbsp; &nbsp; 2. ComCare and Medifund (+ Medifund Silver)    
+&nbsp; iii. For retirees  
+&nbsp; &nbsp; 1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)    
+&nbsp; &nbsp; 2. Will help preserve the value of your savings for old age      
 
 d. Overall, $3 bn of help from Government this year
 
@@ -145,13 +145,13 @@ d. Overall, $3 bn of help from Government this year
 
 Middle-income Singaporeans feel pressured too
 
-  a. Have not forgotten them  
-  b. Growth Dividends etc. extended to them  
-  c. Helped with education costs, e.g. extended university and poly bursaries and topped up post-secondary education accounts      
- d. Overall strategy to help middle-income – keep taxes low, to minimise your burden  
-e. Personal income tax  
-&nbsp; i. Already lower than most other countries, including Hong Kong except for the highest income group
-&nbsp; ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn
+a. Have not forgotten them  
+b. Growth Dividends etc. extended to them  
+c. Helped with education costs, e.g. extended university and poly bursaries and topped up post-secondary education accounts      
+d. Overall strategy to help middle-income – keep taxes low, to minimise your burden  
+e. Personal income tax    
+&nbsp; i. Already lower than most other countries, including Hong Kong except for the highest income group  
+&nbsp; ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn  
 
 f. Car-related taxes  
 &nbsp; i. Used to be a significant burden, because of high car ownership taxes  
@@ -177,29 +177,29 @@ f. Car-related taxes
 
 Hence need for recent increase in ERP charges
 
-  a. Many people are upset
-    i. But have to see the bigger picture
-    ii. In fact, they are (unconsciously) benefitting from the overall policy to reduce car taxes, and lighten burden on them
+ a. Many people are upset    
+&nbsp; i. But have to see the bigger picture
+&nbsp; ii. In fact, they are (unconsciously) benefitting from the overall policy to reduce car taxes, and lighten burden on them
   
-  b. Considered carefully how to adjust ERP without increasing burden
-    i. Worked out a package 
-    ii. Raised ERP but also reduced Road Tax at the same time
-    iii. Overall cost has actually come down
-    iv. Example of a 1.6L car again
-    1. Will pay more ERP per year    
-    2. But more than offset by 15% reduction in Road Tax    
-    3. On average drivers enjoy net savings    
-   a. ERP – pay $76 more
-   b. Road Tax – pay $130 less
-   c. Savings – $54 every year  
+b. Considered carefully how to adjust ERP without increasing burden
+&nbsp; i. Worked out a package 
+&nbsp; ii. Raised ERP but also reduced Road Tax at the same time
+&nbsp; iii. Overall cost has actually come down
+&nbsp; iv. Example of a 1.6L car again
+&nbsp;&nbsp; 1. Will pay more ERP per year    
+&nbsp;&nbsp; 2. But more than offset by 15% reduction in Road Tax    
+&nbsp;&nbsp; 3. On average drivers enjoy net savings    
+&nbsp;&nbsp;&nbsp; a. ERP – pay $76 more
+&nbsp;&nbsp;&nbsp; b. Road Tax – pay $130 less
+&nbsp;&nbsp;&nbsp; c. Savings – $54 every year  
 
-  c. People may not realise or remember
-    i. How much Road Tax they are paying, or paid last year
-    ii. Sometimes another family member pays the tax
-    1. I asked one driver if she had received her Road Tax reduction    
-    2. She said she had to check with her husband!    
-    3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit    
-d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies
+c. People may not realise or remember  
+&nbsp; i. How much Road Tax they are paying, or paid last year 
+&nbsp; ii. Sometimes another family member pays the tax  
+&nbsp;&nbsp; 1. I asked one driver if she had received her Road Tax reduction      
+&nbsp;&nbsp; 2. She said she had to check with her husband!      
+&nbsp;&nbsp; 3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit      
+d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies  
 
 Also improving public transport as alternative to cars
 
