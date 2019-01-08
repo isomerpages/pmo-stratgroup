@@ -15,7 +15,7 @@ The theme for this year’s competition, “Our Climate, Our Choice”, highligh
 
 Some examples of climate-friendly habits that we can learn from the pioneer generation include the use of tingkats (food carriers) when ordering food from hawkers, walking or cycling if we need to make short trips and drying laundry outdoors instead of using electric clothes dryers.
 
-Students and members of the public can register to take part in the competition under the following categories at [www.nccc.gov.sg](http://www.nccc.gov.sg/) by 4 May 2015.
+Students and members of the public can register to take part in the competition under the following categories at [www.nccs.gov.sg](http://www.nccs.gov.sg/) by 4 May 2015.
 
 (i) Schools Category
 
