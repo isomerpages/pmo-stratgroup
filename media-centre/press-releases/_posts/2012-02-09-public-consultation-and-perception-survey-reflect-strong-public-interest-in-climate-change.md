@@ -22,7 +22,7 @@ Agreeing, Mr Jose Raymond, Executive Director of Singapore Environment Council (
 
 Mr Edwin Khew, President, Sustainable Energy Association of Singapore (SEAS) and Co-Chair of the Focus Group on Improving the Manufacturing / Industry Sector’s Energy Efficiency, added, “NCCS’ consultation with industry on energy efficiency sharpened the industry’s focus on energy management standards, consumption patterns and Government incentives.”
 
-The list of feedback and suggestions, as well as agencies’ responses can be viewed at NCCS’ website [www.nccs.gov.sg/consultation]((www.nccs.gov.sg/consultation)).
+The list of feedback and suggestions, as well as agencies’ responses can be viewed at NCCS’ website [www.nccs.gov.sg/consultation](https://www.nccs.gov.sg).
 
 _About the National Climate Change Secretariat (NCCS)_  
 The NCCS was set up as a dedicated agency under the Prime Minister’s Office with effect from 1 July 2010 to coordinate Singapore's domestic and international policies, plans and actions on climate change so as to secure a sustainable living environment for our future generations. NCCS will achieve this by adopting a Whole-of-Government approach and working with the People and Private sectors to devise and implement cost-effective mitigation and adaptation solutions, reap the opportunities arising from addressing climate change challenges and contribute towards global efforts to address climate change. For more information, please visit www.nccs.gov.sg.
