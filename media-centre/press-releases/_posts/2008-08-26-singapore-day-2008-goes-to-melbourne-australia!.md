@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Singapore day 2008 goes to Melbourne, Australia!"
+title:  "Singapore Day 2008 goes to Melbourne, Australia!"
 date:   2006-08-16
 permalink: "/media-centre/press-releases/singapore-day-2008-goes-to-Melbourne-Australia!"
 ---
