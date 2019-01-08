@@ -213,23 +213,23 @@ Also improving public transport as alternative to cars
 
 Besides cars and public transport, we must also pay attention to wider needs of the public
 
-  a. Can get a good sense of their problems from mix of MPS cases  
+ a. Can get a good sense of their problems from mix of MPS cases  
  b. Not many job seekers, compared to the last recession   
 c. Some hardship cases – we have many schemes to help them  
 d. One worrying trend – more are looking for HDB rental flats
-  i. Applications have tripled in a year
-  ii. Rental appeals now form the bulk of their MPS cases    
+&nbsp; i. Applications have tripled in a year
+&nbsp; ii. Rental appeals now form the bulk of their MPS cases    
 e. HDB is building more rental flats  
 f. But not all who apply for rental flats are truly in need    
-  i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!
-  ii.For them, rental flats are not the right solution
-  iii. Instead they should look for other viable alternatives:
-    1. Rent out a room or even the whole flat  
-    2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
-    3. Move into smaller flats or studio apartments
+&nbsp; i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!
+&nbsp;&nbsp; ii.For them, rental flats are not the right solution
+&nbsp;&nbsp;iii. Instead they should look for other viable alternatives:
+&nbsp;&nbsp;&nbsp; 1. Rent out a room or even the whole flat  
+&nbsp;&nbsp;&nbsp; 2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
+&nbsp;&nbsp;&nbsp; 3. Move into smaller flats or studio apartments
     
 g. MND/HDB will review the rental flat scheme  
-  i. Keep rental flats an effective safety net for the minority of genuinely needy families, with no assets or family support
+&nbsp; i. Keep rental flats an effective safety net for the minority of genuinely needy families, with no assets or family support
 
 #### **MORE HELP**
 
@@ -267,78 +267,78 @@ We have done many things over the years to improve ourselves
 
   a. Many campaigns and initiatives, e.g. queue up, no spitting, flush toilets, and most recently, service excellence (GEMS Movement or Go the Extra Mile for Singapore)  
 
-  b. Sometimes people laugh at us  
-    i. Actually, these are things we can work on and improve
-    ii. If we make people aware of their behaviour and educate them to learn new habits
-    iii. Gradually people will respond, and upgrade our social norms  
+b. Sometimes people laugh at us  
+&nbsp; i. Actually, these are things we can work on and improve
+&nbsp; ii. If we make people aware of their behaviour and educate them to learn new habits
+&nbsp; iii. Gradually people will respond, and upgrade our social norms  
   
 c. We have made progress  
-    i. It may be hard for us to tell
-    ii. But those watching us from afar notice
-    iii. Letter in ST Forum from a Sri Lankan lady
-    1. First visited Singapore in 1968 as a young student on her way to the US  
-    2. Visited again 40 years later, needed a wheelchair at Changi airport  
-    3. Quote her letter  
-“From the moment I landed until I left, the city impressed me…Everywhere, I met only kindness….I was in a shopping centre and asked a young girl the way to the MRT station. She offered to show me the way, and taking my shopping bags, led me to the station….shopkeepers gave me water to drink, people waiting for a bus walked with me to the correct bus stop, and people helped me across the street. I have never experienced this sort of kindness anywhere else in the world”
+&nbsp; i. It may be hard for us to tell
+&nbsp; ii. But those watching us from afar notice
+&nbsp; iii. Letter in ST Forum from a Sri Lankan lady
+&nbsp;&nbsp; 1. First visited Singapore in 1968 as a young student on her way to the US  
+&nbsp;&nbsp; 2. Visited again 40 years later, needed a wheelchair at Changi airport  
+&nbsp;&nbsp; 3. Quote her letter    
+&nbsp;&nbsp; “From the moment I landed until I left, the city impressed me…Everywhere, I met only kindness….I was in a shopping centre and asked a young girl the way to the MRT station. She offered to show me the way, and taking my shopping bags, led me to the station….shopkeepers gave me water to drink, people waiting for a bus walked with me to the correct bus stop, and people helped me across the street. I have never experienced this sort of kindness anywhere else in the world”
 
 We can do even better
 
-  a. Singapore Kindness Movement (SKM) conducts surveys of social behaviours that Singaporeans consider important  
-  b. Some things we are good at doing  
-  i. Sit properly in the cinema (e. don’t put your feet on the seat in front of you)
-  ii. Say “thank you” after being served
+a. Singapore Kindness Movement (SKM) conducts surveys of social behaviours that Singaporeans consider important  
+b. Some things we are good at doing  
+&nbsp; i. Sit properly in the cinema (e. don’t put your feet on the seat in front of you)
+&nbsp; ii. Say “thank you” after being served
   
 c. But also many things we need to improve
-  i. Say “please” – not so common
-  ii. Clear tables and return food trays – need to improve
-    1. Trying to inculcate this habit, e.g. at Suntec City  
-    2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
-    3. Quote email from a lady on making Singapore a more liveable place:  
-    4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
-    5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”  
+&nbsp; i. Say “please” – not so common
+&nbsp; ii. Clear tables and return food trays – need to improve
+&nbsp;&nbsp; 1. Trying to inculcate this habit, e.g. at Suntec City  
+&nbsp;&nbsp; 2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
+&nbsp;&nbsp; 3. Quote email from a lady on making Singapore a more liveable place:  
+&nbsp;&nbsp; 4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
+&nbsp;&nbsp;5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”  
 
 d. Recently, Mediacorp held a contest on the Morning Express Class 95 FM
-   i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits
-  ii. Tremendous response
-  iii. Asked Mediacorp to compile some highlights, good and ugly
+&nbsp; i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits
+&nbsp; ii. Tremendous response
+&nbsp; iii. Asked Mediacorp to compile some highlights, good and ugly
 
 Best way to focus our efforts – when there is a major event and we are put to the test
 
-  a. We have done well before
-    i. IOC in 2005
-    ii. IMF/WB Annual Meetings in 2006
+a. We have done well before
+&nbsp; i. IOC in 2005
+&nbsp; ii. IMF/WB Annual Meetings in 2006
 
-  b. Now we must prepare for other major events
-  i. F1 next month
-  ii. APEC next year
-  ii. YOG in 2010
+b. Now we must prepare for other major events
+&nbsp; i. F1 next month
+&nbsp; ii. APEC next year
+&nbsp; ii. YOG in 2010
 
 c. Let’s use these opportunities to improve our social graces
 
-That is how other countries have done it
+That is how other countries have done it  
 
-  a. Sydney Olympics, 2000 set a high benchmark  
-  i. The show was fantastic
-  ii. But what really impressed visitors was the genuine warmth and sincerity of the Aussies
-  iii. 47,000 volunteers cheered, drove buses, manned checkpoints, greeted visitors with a friendly “G’day mate”
-  iv. Created a whole atmosphere of friendliness and hospitality
+a. Sydney Olympics, 2000 set a high benchmark  
+&nbsp; i. The show was fantastic
+&nbsp; ii. But what really impressed visitors was the genuine warmth and sincerity of the Aussies
+&nbsp; iii. 47,000 volunteers cheered, drove buses, manned checkpoints, greeted visitors with a friendly “G’day mate”
+&nbsp; iv. Created a whole atmosphere of friendliness and hospitality
 
-b. China – now hosting the Olympics  
-  i. Making a special effort to welcome athletes and visitors
-  ii. Launched large-scale civility campaigns to educate people
-  1. Designated special days in every month to remind them of their social etiquette and manners  
-    2. Queuing day on the 11th (because 11 resembles two people lining up)  
-    3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)  
-  iii. For the Games, mobilised 100,000 volunteers, mostly young men and women
-  iv. They have impressed visitors too with their friendliness, enthusiasm and pride
+b. China – now hosting the Olympics    
+&nbsp; i. Making a special effort to welcome athletes and visitors
+&nbsp; ii. Launched large-scale civility campaigns to educate people
+&nbsp;&nbsp; 1. Designated special days in every month to remind them of their social etiquette and manners  
+&nbsp;&nbsp; 2. Queuing day on the 11th (because 11 resembles two people lining up)  
+&nbsp;&nbsp; 3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)  
+&nbsp; iii. For the Games, mobilised 100,000 volunteers, mostly young men and women
+&nbsp; iv. They have impressed visitors too with their friendliness, enthusiasm and pride
 
 We should mobilise ourselves too for the YOG
 
 a. This is the first time ever the Games are being held  
 b. Let’s make a special effort to deliver an outstanding YOG  
 c. Look at how we mobilised successfully to support the bid  
-  i. Singaporeans from all walks of life spontaneously organised themselves to participate in many activities – schools, youth groups, companies, taxi drivers, etc.
-  ii. We impressed the IOC and so won the bid  
+&nbsp; i. Singaporeans from all walks of life spontaneously organised themselves to participate in many activities – schools, youth groups, companies, taxi drivers, etc.  
+&nbsp; ii. We impressed the IOC and so won the bid  
 
 d. Let us rally together again – show what Singapore is about and welcome the world with our spirit and warmth
 
@@ -356,29 +356,29 @@ Long story captured in this chart (Slide 1) – shows our Total Fertility Rate, 
 
 a. Says a lot about our history, economy, culture and policies  
 b. History
- i. Sharp fall in TFR in less than 20 years (1960-1975)
-  ii. Reflects rapid transformation of our society, as education levels improved and living standards went up dramatically
-  iii. Just to replace ourselves, we need TFR of 2.1 (Slide 2)
-  iv. We are far below the replacement level
+&nbsp; i. Sharp fall in TFR in less than 20 years (1960-1975)
+ &nbsp; ii. Reflects rapid transformation of our society, as education levels improved and living standards went up dramatically  
+&nbsp; iii. Just to replace ourselves, we need TFR of 2.1 (Slide 2)
+&nbsp; iv. We are far below the replacement level
 
-c. Economy – look at the last 30 years (Slide 3)
-  i. When times are hard, people tend to have fewer babies
-  ii. 1985 recession, Asia Financial Crisis, 9/11 & SARS (Slide 4)
+c. Economy – look at the last 30 years (Slide 3)  
+&nbsp; i. When times are hard, people tend to have fewer babies  
+&nbsp; ii. 1985 recession, Asia Financial Crisis, 9/11 & SARS (Slide 4)
 
-d. Culture
-  i. Can see some peaks – 1976, 1988, 2000 (Slide 5)
-  ii. Why? Years of the dragon
-  iii. Unfortunately each dragon has been smaller than the previous one
-    iv. Next dragon in 2012 – probably a baby one
+d. Culture  
+&nbsp; i. Can see some peaks – 1976, 1988, 2000 (Slide 5)
+&nbsp; ii. Why? Years of the dragon
+&nbsp; iii. Unfortunately each dragon has been smaller than the previous one
+&nbsp; iv. Next dragon in 2012 – probably a baby one
 
-e. Family policies (Slide 6)
- i. 1966 – ”Two is Enough” – too successful
- ii. 1987 – ”Three if you can afford it” – quite successful
- iii. 2001 – Baby Bonus – overwhelmed by economy
-  iv. 2004 – my contribution, Marriage & Procreation package
-    1. Some effect but very small  
-    2. Zoom in to see the change, from 1.26 to 1.29 (Slide 7)  
-    3. But still way below where it is supposed to be  
+e. Family policies (Slide 6)    
+&nbsp; i. 1966 – ”Two is Enough” – too successful  
+&nbsp; ii. 1987 – ”Three if you can afford it” – quite successful  
+&nbsp; iii. 2001 – Baby Bonus – overwhelmed by economy  
+&nbsp; iv. 2004 – my contribution, Marriage & Procreation package  
+&nbsp;&nbsp; 1. Some effect but very small  
+&nbsp;&nbsp; 2. Zoom in to see the change, from 1.26 to 1.29 (Slide 7)  
+&nbsp;&nbsp; 3. But still way below where it is supposed to be  
 
 Question: what more should we do?
 
@@ -387,190 +387,190 @@ Question: what more should we do?
 
 #### **MARRIAGE**
 
-First step is to find the right partner and get married
+First step is to find the right partner and get married  
 
-  a. I am not an expert – consulted those with experience, e. the matchmakers  
-  b. We have SDU, SdS, and many private dating agencies  
-  c. I talked to several of them  
-    i. We had a lively exchange and I learnt a lot
-    ii. Great material for a TV studio discussion
+a. I am not an expert – consulted those with experience, e. the matchmakers  
+b. We have SDU, SdS, and many private dating agencies  
+c. I talked to several of them  
+&nbsp; i. We had a lively exchange and I learnt a lot  
+&nbsp; ii. Great material for a TV studio discussion  
 
 Let me summarise the main learning points
 
-  a. Many singles do want to get married  
-  i. They are serious, and not just out to have a good time
-  ii. But they face difficulties
-  b. Some have never dated  
-  i. Once they start work and settle into a routine, no opportunities to socialise and meet new people
-  ii. Relate conversation one matchmaker had with his client
-  1. Q: What do you usually do after work?  
-  2. A: Go to the gym  
-  3. Q: How about the weekends?  
-  4. A: Stay at home with family  
-  5. Q: Do you go out?  
-  6. A: Yes, bring nieces and nephews out to play  
-  7. Q: Have you met any new friends in the last week?  
-  8. A: [Dead silence]  
-  9. Q: How about the last 1 month?  
-  10. A: [Dead silence again]  
+a. Many singles do want to get married  
+&nbsp; i. They are serious, and not just out to have a good time
+&nbsp; ii. But they face difficulties
+b. Some have never dated  
+&nbsp; i. Once they start work and settle into a routine, no opportunities to socialise and meet new people
+&nbsp; ii. Relate conversation one matchmaker had with his client
+&nbsp;&nbsp; 1. Q: What do you usually do after work?  
+&nbsp;&nbsp; 2. A: Go to the gym  
+&nbsp;&nbsp; 3. Q: How about the weekends?  
+&nbsp;&nbsp; 4. A: Stay at home with family  
+&nbsp;&nbsp; 5. Q: Do you go out?  
+&nbsp;&nbsp; 6. A: Yes, bring nieces and nephews out to play  
+&nbsp;&nbsp; 7. Q: Have you met any new friends in the last week?  
+&nbsp;&nbsp; 8. A: [Dead silence]  
+&nbsp;&nbsp; 9. Q: How about the last 1 month?  
+&nbsp;&nbsp; 10. A: [Dead silence again]  
 
-c. Some start too late
-  i. Dating agencies say that women in the late 30s have a serious problem
-  1. Some men are in their late 30s too  
-  2. But they are looking for younger women in their 20s  
-  3. So the older women have difficulties pairing up  
-  ii. Confirmed by what one such lady told me at a dialogue
-  1. She had put her career first when she was younger  
-  2. Later when she wanted to settle down she tried the dating agencies, but had no luck  
-  3. She regrets her decision now, but still hopes to find someone  
+c. Some start too late  
+&nbsp; i. Dating agencies say that women in the late 30s have a serious problem 
+&nbsp;&nbsp; 1. Some men are in their late 30s too  
+&nbsp;&nbsp; 2. But they are looking for younger women in their 20s  
+&nbsp;&nbsp; 3. So the older women have difficulties pairing up  
+&nbsp; ii. Confirmed by what one such lady told me at a dialogue  
+&nbsp;&nbsp; 1. She had put her career first when she was younger  
+&nbsp;&nbsp; 2. Later when she wanted to settle down she tried the dating agencies, but had no luck  
+&nbsp;&nbsp; 3. She regrets her decision now, but still hopes to find someone  
 
-d. Good news is that more people are prepared to seek help from dating agencies
-  i. Women are more willing to do so
-  ii. Men tend to be more sensitive about their egos
-  ii. Most dating agencies have more women than men – 60:40
+d. Good news is that more people are prepared to seek help from dating agencies  
+&nbsp; i. Women are more willing to do so  
+&nbsp; ii. Men tend to be more sensitive about their egos  
+&nbsp; ii. Most dating agencies have more women than men – 60:40  
 
-e. Unfortunately sometimes their social graces are not up to scratch
-  i. e.g. dating agency arranged for a guy to meet a date
-  ii. Setting was a romantic dinner at a nice restaurant
-  iii. But he showed up wearing slippers!
-  1. Asked why he did not dress up for the occasion  
-  2. His reply – this is me, this is how I am!  
-  3. After some tactful grooming advice, he made progress and learnt to keep a pair of shoes in the car, and put them on before dates  
-  4. The couple are now happily married  
+e. Unfortunately sometimes their social graces are not up to scratch  
+&nbsp; i. e.g. dating agency arranged for a guy to meet a date  
+&nbsp; ii. Setting was a romantic dinner at a nice restaurant  
+&nbsp; iii. But he showed up wearing slippers!  
+&nbsp;&nbsp; 1. Asked why he did not dress up for the occasion  
+&nbsp;&nbsp; 2. His reply – this is me, this is how I am!  
+&nbsp;&nbsp; 3. After some tactful grooming advice, he made progress and learnt to keep a pair of shoes in the car, and put them on before dates  
+&nbsp;&nbsp; 4. The couple are now happily married  
 
-f. Also need to have realistic expectations
-  i. Have to make an effort for the relationship to work
-  ii. Easy to get carried away by romantic images in the movies
-  1. Meet someone of your dreams, instantly fall madly in love, get married, live happily ever after  
-  iii. But we are ordinary people in real life
-  1. May not have instant sparks on the first date
-  2. But take time to discover the person for who he or she is, nurture the relationship, and love may blossom
+f. Also need to have realistic expectations  
+&nbsp; i. Have to make an effort for the relationship to work  
+&nbsp; ii. Easy to get carried away by romantic images in the movies  
+&nbsp;&nbsp; 1. Meet someone of your dreams, instantly fall madly in love, get married, live happily ever after  
+&nbsp; iii. But we are ordinary people in real life  
+&nbsp;&nbsp; 1. May not have instant sparks on the first date  
+&nbsp;&nbsp; 2. But take time to discover the person for who he or she is, nurture the relationship, and love may blossom  
 
 We will do more to help singles get married
 
-  a. SDU and SdS are working on this
-  i. They now cater to different markets – graduates and nongraduates
-  ii. We should be more flexible
-  iii. Will merge SDU and SdS
-  iv. Together they will have more critical mass, more activities, and hopefully more pairing up and marriages
+a. SDU and SdS are working on this  
+&nbsp; i. They now cater to different markets – graduates and nongraduates  
+&nbsp; ii. We should be more flexible  
+&nbsp; iii. Will merge SDU and SdS  
+&nbsp; iv. Together they will have more critical mass, more activities, and hopefully more pairing up and marriages  
 
-b. Some young people prefer to use private dating agencies
-* i. But they want quality assurance, e.g. to know that it is a reputable dating agency
-* ii. SDU will go into a new business
-  1. Certify private agencies that meet quality standards  
-  2. “SDU Trust” mark to distinguish them (Slide 8)  
+b. Some young people prefer to use private dating agencies  
+&nbsp; i. But they want quality assurance, e.g. to know that it is a reputable dating agency  
+&nbsp; ii. SDU will go into a new business  
+&nbsp;&nbsp; 1. Certify private agencies that meet quality standards    
+&nbsp;&nbsp; 2. “SDU Trust” mark to distinguish them (Slide 8)    
 
 Young people themselves should take the first step, and not leave it too late
 
-  a. Make time to go out and meet new friends  
-  b. Join a dating agency, be it SDU/SdS or a private agency  
-  c. You may find someone you are attracted to  
-  d. Then you can marry the person you love, and love the person you marry  
+a. Make time to go out and meet new friends  
+b. Join a dating agency, be it SDU/SdS or a private agency  
+c. You may find someone you are attracted to  
+d. Then you can marry the person you love, and love the person you marry  
 
 #### **PARENTHOOD**
 
 8. Once couples are married, we would like them to have children
 
-  a. We used to think this would follow naturally  
-  b. But no longer always the case
-  i. Couples are having fewer children or having them later
-   ii. Some even prefer not to have any children at all
-    iii. Why?
+a. We used to think this would follow naturally  
+b. But no longer always the case  
+&nbsp; i. Couples are having fewer children or having them later  
+&nbsp; ii. Some even prefer not to have any children at all  
+&nbsp; iii. Why?  
 
-c. We looked at other countries
-  i. Happening all over East Asia
-  1. Confucian societies with similar cultural values  
-  2. Undergoing rapid social and economic change  
-  3. So some powerful social and cultural forces at work  
-  ii. Happening in Western societies too
-  1. Australia  
-  a. Government is working hard to encourage couples to have more children
-  b. Slogan: “one for Dad, one for Mum, and one for the Country”
-  2. Europe  
-  a. Many countries facing a dearth of babies
-  b. But something interesting in their experience
-  c. Southern Europe (Portugal, Italy, Greece, Spain)
-    i. More macho culture
-    ii. Women are more likely to stay at home
-    iii. Fewer babies
-  d. Northern Europe (Netherlands, Scandinavia)
-    i. Gender roles are more equal
-    ii. Women are more likely to work
-    iii.  More babies
-  d. What about Singapore?
-    i. I discussed this with a group of Singapore women, married and single, young and not so young
-    ii. They agree that gender roles and helping mothers to work are important
-    ii. Gave me many ideas on how we can facilitate this
+c. We looked at other countries  
+&nbsp; i. Happening all over East Asia  
+&nbsp;&nbsp; 1. Confucian societies with similar cultural values  
+&nbsp;&nbsp; 2. Undergoing rapid social and economic change  
+&nbsp;&nbsp; 3. So some powerful social and cultural forces at work  
+&nbsp; ii. Happening in Western societies too  
+&nbsp;&nbsp; 1. Australia  
+&nbsp;&nbsp;&nbsp; a. Government is working hard to encourage couples to have more children  
+&nbsp;&nbsp;&nbsp; b. Slogan: “one for Dad, one for Mum, and one for the Country”  
+&nbsp;&nbsp; 2. Europe  
+&nbsp;&nbsp;&nbsp; a. Many countries facing a dearth of babies  
+&nbsp;&nbsp;&nbsp; b. But something interesting in their experience  
+&nbsp;&nbsp;&nbsp; c. Southern Europe (Portugal, Italy, Greece, Spain)  
+&nbsp;&nbsp;&nbsp;&nbsp; i. More macho culture  
+&nbsp;&nbsp;&nbsp;&nbsp; ii. Women are more likely to stay at home  
+&nbsp;&nbsp;&nbsp;&nbsp; iii. Fewer babies  
+&nbsp;&nbsp;&nbsp; d. Northern Europe (Netherlands, Scandinavia)  
+&nbsp;&nbsp;&nbsp;&nbsp; i. Gender roles are more equal  
+&nbsp;&nbsp;&nbsp;&nbsp; ii. Women are more likely to work  
+&nbsp;&nbsp;&nbsp;&nbsp; iii.  More babies  
+d. What about Singapore?  
+&nbsp; i. I discussed this with a group of Singapore women, married and single, young and not so young  
+&nbsp; ii. They agree that gender roles and helping mothers to work are important  
+&nbsp; iii. Gave me many ideas on how we can facilitate this  
 
 First, shared responsibilities for child raising
 
-  a. Tradition that husbands go out to work and wives stay at home to look after the children  
-  i. Women do have a better touch with children  
+a. Tradition that husbands go out to work and wives stay at home to look after the children  
+&nbsp; i. Women do have a better touch with children  
 
-b. But situation today is different
-  i. If husbands leave everything to the wives, or women are forced to choose between work and family, the women will go on strike
-  ii. Husbands must share duties in the home
-  iii. Men can change nappies too  
+b. But situation today is different  
+&nbsp; i. If husbands leave everything to the wives, or women are forced to choose between work and family, the women will go on strike
+&nbsp; ii. Husbands must share duties in the home
+&nbsp; iii. Men can change nappies too  
   
-c. Mindsets are beginning to shift, but still not fast enough
-  i. We cannot overcome this by making speeches
-  ii. But can encourage greater shared responsibility in child raising and parenting
-    1. Introduced childcare leave in 2004 which can be claimed by either parent – will extend this from two to six days per year  
-    2. In addition, will now introduce one week of unpaid infant-care leave per year – also can be claimed by either parent, until the child turns two  
+c. Mindsets are beginning to shift, but still not fast enough  
+&nbsp; i. We cannot overcome this by making speeches  
+&nbsp; ii. But can encourage greater shared responsibility in child raising and parenting
+&nbsp;&nbsp; 1. Introduced childcare leave in 2004 which can be claimed by either parent – will extend this from two to six days per year  
+&nbsp;&nbsp; 2. In addition, will now introduce one week of unpaid infant-care leave per year – also can be claimed by either parent, until the child turns two  
 
  Second, work-life balance
  
-   a. Flexible work arrangements are crucial to make it easier for women to both work and have children  
-b. Family-friendly employers play an important role
-  i. If they are supportive and understanding, it will make a big difference to their female staff
-  ii. Can do a lot with some imagination
-    1. Many provide space for nursing mothers to express milk
-    2. Others allow telecommuting, and very flexible hours, so long as the work gets done
-    3. One catering company equips its duty officers with Blackberries and walkie-talkies, so they can enjoy weekends with their families and still coordinate catering services
-  iii. Will recognise and thank such employers publicly
+a. Flexible work arrangements are crucial to make it easier for women to both work and have children  
+b. Family-friendly employers play an important role  
+&nbsp; i. If they are supportive and understanding, it will make a big difference to their female staff  
+&nbsp; ii. Can do a lot with some imagination  
+&nbsp;&nbsp; 1. Many provide space for nursing mothers to express milk  
+&nbsp;&nbsp; 2. Others allow telecommuting, and very flexible hours, so long as the work gets done  
+&nbsp;&nbsp; 3. One catering company equips its duty officers with Blackberries and walkie-talkies, so they can enjoy weekends with their families and still coordinate catering services  
+&nbsp; iii. Will recognise and thank such employers publicly  
 
-c. Government can help share the burden on employers
-  i. Maternity leave – extended by four weeks in 2004 (paid for by government), to 12 weeks
-    1. Welcomed by many mothers  
-    2. Will extend by another four weeks, e. from 12 to 16 weeks, also paid for by government  
-    3. Can claim anytime in the year from the birth of the child  
+c. Government can help share the burden on employers  
+&nbsp; i. Maternity leave – extended by four weeks in 2004 (paid for by government), to 12 weeks  
+&nbsp;&nbsp; 1. Welcomed by many mothers  
+&nbsp;&nbsp; 2. Will extend by another four weeks, e. from 12 to 16 weeks, also paid for by government  
+&nbsp;&nbsp; 3. Can claim anytime in the year from the birth of the child  
 
-d. Ultimately parents must make a personal choice
-  i. Work 110%, or set aside time for other priorities?
-  ii. Each has to decide her own point of balance
-  iii. Recall own experience
-  1. My mother came home everyday to have lunch with the children  
-  2.  She avoided going out for evening functions      
-  3. It meant taking on less work as a lawyer, but she decided that the children were more important  
-    iv. Today harder to do this
-    1. “Office” hours are longer  
-    2. The pace is more intense  
-    3. But still must maintain a balanced, fulfilling life  
+d. Ultimately parents must make a personal choice  
+&nbsp; i. Work 110%, or set aside time for other priorities?  
+&nbsp; ii. Each has to decide her own point of balance  
+&nbsp; iii. Recall own experience  
+&nbsp;&nbsp; 1. My mother came home everyday to have lunch with the children  
+&nbsp;&nbsp; 2.  She avoided going out for evening functions      
+&nbsp;&nbsp; 3. It meant taking on less work as a lawyer, but she decided that the children were more important  
+&nbsp;iv. Today harder to do this  
+&nbsp;&nbsp; 1. “Office” hours are longer  
+&nbsp;&nbsp; 2. The pace is more intense  
+&nbsp;&nbsp; 3. But still must maintain a balanced, fulfilling life  
 
-  e. Work-life balance also applies to the children
-  i. Many parents complain about the stress on their children, especially because of education system
-  ii. We have trimmed the school syllabi – teach less, learn more
-    1. But parents still send children for tuition, enrichment etc  
-    2. Feed them chicken essence before exams  
-    iii. Some pressure is inevitable
-    1. Part of Singapore’s competitive spirit  
-    2. Other East Asian societies are even more ruthlessly competitive  
-    3. But we should manage it, and take it in our stride  
-    iv. Natural for parents to worry about children, and encourage them to work hard and do better
-    1. But also need to understand them – each child has different aptitudes and talents  
-    2. Give them space to grow up  
-    3. They will learn and mature in their own time  
+e. Work-life balance also applies to the children  
+&nbsp; i. Many parents complain about the stress on their children, especially because of education system  
+&nbsp; ii. We have trimmed the school syllabi – teach less, learn more  
+&nbsp;&nbsp; 1. But parents still send children for tuition, enrichment etc  
+&nbsp;&nbsp; 2. Feed them chicken essence before exams  
+&nbsp; iii. Some pressure is inevitable  
+&nbsp;&nbsp; 1. Part of Singapore’s competitive spirit  
+&nbsp;&nbsp; 2. Other East Asian societies are even more ruthlessly competitive  
+&nbsp;&nbsp; 3. But we should manage it, and take it in our stride  
+&nbsp; iv. Natural for parents to worry about children, and encourage them to work hard and do better  
+&nbsp;&nbsp; 1. But also need to understand them – each child has different aptitudes and talents  
+&nbsp;&nbsp; 2. Give them space to grow up  
+&nbsp;&nbsp; 3. They will learn and mature in their own time  
 
 Third, the financial cost
 
-  a. Significant expense to bring up children    
-  i. Direct child-raising expenses, e.g. milk-powder, pram, paediatrician etc
-  ii. Also a high opportunity cost for working mothers – forgoing income at work or sacrificing their careers
-  iii. Hence often the professional women who say that it is expensive to bring up children 
+&nbsp; a. Significant expense to bring up children    
+&nbsp;&nbsp; i. Direct child-raising expenses, e.g. milk-powder, pram, paediatrician etc  
+&nbsp;&nbsp; ii. Also a high opportunity cost for working mothers – forgoing income at work or sacrificing their careers  
+&nbsp;&nbsp; iii. Hence often the professional women who say that it is expensive to bring up children   
  
 b. Financial considerations cannot be the motive for having children
-  i. Many couples are indignant at this suggestion
-  ii. But right for us to help lighten the burden of those with children
+&nbsp; i. Many couples are indignant at this suggestion
+&nbsp;&nbsp; ii. But right for us to help lighten the burden of those with children
     1. Hence the Baby Bonus and tax incentives  
   iii. We will enhance these schemes
     1. Baby Bonus – improve it for first-time parents  
