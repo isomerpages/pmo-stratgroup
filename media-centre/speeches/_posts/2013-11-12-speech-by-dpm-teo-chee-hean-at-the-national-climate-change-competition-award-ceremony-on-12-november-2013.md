@@ -5,9 +5,9 @@ date:   2013-11-12
 permalink: "/speech-by-dpm-teo-chee-hean-at-the-national-climate-change-competition-award-ceremony-on-12-november-2013"
 ---
 
-Distinguished guests 
-Teachers and students 
-Ladies and gentlemen 
+Distinguished guests  
+Teachers and students  
+Ladies and gentlemen   
 
 Good morning. I am happy to join all of you today at the award ceremony for the National Climate Change Competition 2013. 
 
@@ -45,8 +45,8 @@ Thank you.
 
 
 
-1 Inter-governmental Panel on Climate Change, “Climate Change 2013: the Physical Science Basis”, 27 September 2013. (www.ipcc.ch/report/ar5/wg1/) 
+<sub><sup>1</sup>Inter-governmental Panel on Climate Change, “Climate Change 2013: the Physical Science Basis”, 27 September 2013. [www.ipcc.ch/report/ar5/wg1/](http://www.ipcc.ch/report/ar5/wg1/)</sub> 
 
-2Source: Meteorological Service Singapore 
+<sub><sup>2</sup>Source: Meteorological Service Singapore</sub>
 
-3National Climate Change Secretariat, “National Climate Change Strategy 2012”, June 2012. (app-stg.nccs.gov.sg/data/resources/docs/Documents/NCCS-2012.pdf)
+<sub><sup>3</sup>National Climate Change Secretariat, “National Climate Change Strategy 2012”, June 2012. [app-stg.nccs.gov.sg/data/resources/docs/Documents/NCCS-2012.pdf](http://app-stg.nccs.gov.sg/data/resources/docs/Documents/NCCS-2012.pdf)</sub>
