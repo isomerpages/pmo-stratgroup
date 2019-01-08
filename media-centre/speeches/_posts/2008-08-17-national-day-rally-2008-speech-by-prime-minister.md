@@ -77,15 +77,15 @@ b. People are agitated all over the world
 &nbsp; i. Demonstrating and rioting  
     
      
-&nbsp; &nbsp;  <p>     1. In Europe   </p>
+&nbsp; &nbsp; 1. In Europe   
 &nbsp; &nbsp; &nbsp;  a. Truckers in France (Slide 3)      
 &nbsp; &nbsp; &nbsp;  b. Farmers in Spain (Slide 4)
  
-  <p> 2. In Asia    </p>  
-  a. Fuel protests in Indonesia (Slide 5)  
-  b. Food protests in Pakistan (Slide 6)  
-  c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
-ii. In Singapore    
+&nbsp; &nbsp; 2. In Asia   
+&nbsp; &nbsp; &nbsp; a. Fuel protests in Indonesia (Slide 5)  
+&nbsp; &nbsp; &nbsp; b. Food protests in Pakistan (Slide 6)  
+&nbsp; &nbsp; &nbsp; c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
+&nbsp; ii. In Singapore    
     1. Fortunately, we have plenty of rice (Slide 8)  
     2. No protests or demonstrations  
     3. But I know people are also unhappy about price increases  
