@@ -9,7 +9,7 @@ As part of its ongoing public engagement on population issues, the National Popu
 
 a. Set out our demographic challenges to understand the choices and trade-offs we must make as a nation; and 
 b.Seek ideas and views from the public that will help us formulate our population policies.  
-A copy of the paper is available for download at [www.population.sg.](www.population.sg) 
+A copy of the paper is available for download at [www.population.sg.](https://www.population.sg) 
 
 NPTD invites members of the public to share their views on population issues as it examines Singapore’s population goals and policies, with a view to releasing a White Paper on Population. 
 
@@ -19,7 +19,7 @@ Our demographic challenges are complex and have far-reaching implications on Sin
 
 Members of the public can submit their views and suggestions through the following channels from **26 Jul 2012 to 31 Oct 2012:** 
 
- a. Online: [www.population.sg](www.population.sg)   
+ a. Online: [www.population.sg](https://www.population.sg)   
  b. Email: [nptd_contact@nptd.gov.sg](mailto:nptd_contact@nptd.gov.sg)   
  c. Fax: 6325 3240  
  d. Mailing address: National Population and Talent Division   
