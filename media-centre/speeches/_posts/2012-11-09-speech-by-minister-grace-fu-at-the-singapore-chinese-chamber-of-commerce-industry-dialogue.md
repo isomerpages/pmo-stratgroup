@@ -5,10 +5,10 @@ date:   2012-11-09
 permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-singapore-chinese-chamber-of-commerce-industry-dialogue"
 ---
 
-Mr Teo Siong Seng 
-President, Singapore Chinese Chamber of Commerce & Industry
+Mr Teo Siong Seng  
+President, Singapore Chinese Chamber of Commerce & Industry  
 
-Distinguished Guests, Ladies and Gentlemen
+Distinguished Guests, Ladies and Gentlemen  
 
 **Introduction**
 
