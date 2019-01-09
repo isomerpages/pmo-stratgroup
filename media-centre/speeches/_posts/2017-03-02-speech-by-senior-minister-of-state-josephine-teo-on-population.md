@@ -39,13 +39,13 @@ Last year, we had 23,873 citizen marriages, an increase from our Golden Jubilee 
 
 We have identified three key areas which will help Singaporean Millennials turn these aspirations into reality. These are: 
 
-* a. Faster access to public housing;
+a. Faster access to public housing;
 
 
-* b. More affordable and quality pre-school services; and
+b. More affordable and quality pre-school services; and
 
 
-* c. Greater workplace and community support.
+c. Greater workplace and community support.
 
 At this COS, we are announcing a _package of enhancements that are a significant boost to family formation for Singaporean Millennials._ Together with the parental leave enhancements that will take effect this year, these measures will help young Singaporean couples i) get a place of their own earlier, ii) have better peace of mind in caring for their babies, and iii) enjoy better workplace and community support in their parenthood journeys. We expect the enhancements to _benefit about 25,000 families annually._ 
 
@@ -127,13 +127,13 @@ _**Section in Mandarin**_
 
 为了迎接更多的千禧代家庭，我们将从三方面着手，鼓励国人早日成家、开枝 散叶。 
 
-* a. 先说住房. 通过反馈，我们知道许多国人都希望先有房子才有孩子. 因此, 我们首先会协助想要生儿育女的年轻夫妇，更快拥有自己的组屋。
+a. 先说住房. 通过反馈，我们知道许多国人都希望先有房子才有孩子. 因此, 我们首先会协助想要生儿育女的年轻夫妇，更快拥有自己的组屋。
 
 
-* b. 第二, 越来越多的妇女和祖父祖母们继续工作, 使一些年轻夫妇担心产假 结束后孩子没人照顾。因此，政府将增加托婴中心的名额，改善托育婴服务， 让更多父母在陪产假和产假结束后，能安心回到工作岗位。
+b. 第二, 越来越多的妇女和祖父祖母们继续工作, 使一些年轻夫妇担心产假 结束后孩子没人照顾。因此，政府将增加托婴中心的名额，改善托育婴服务， 让更多父母在陪产假和产假结束后，能安心回到工作岗位。
 
 
-* c. 第三, 新手爸爸妈妈回到职场后都希望得到雇主和社区的支援，让他们可 以好好兼顾事业和家庭。 因此, 我们会和企业及社区组织合作，给予年轻夫妇 更多扶持。政府机构也将推出试点项目, 确保所有的公务员家庭在孩子出世后享 有 6 个月的育婴假，让他们有较多的时间适应新角色。 有需要的父母们也可以 在孩子比较大的时候放心把他们送到托育中心。
+c. 第三, 新手爸爸妈妈回到职场后都希望得到雇主和社区的支援，让他们可 以好好兼顾事业和家庭。 因此, 我们会和企业及社区组织合作，给予年轻夫妇 更多扶持。政府机构也将推出试点项目, 确保所有的公务员家庭在孩子出世后享 有 6 个月的育婴假，让他们有较多的时间适应新角色。 有需要的父母们也可以 在孩子比较大的时候放心把他们送到托育中心。
 
 今年， 政府所推出的一系列亲家庭措施将让多达 2 万 5 千户家庭受惠 。政府每 年将额外拨款 1 亿 4 千万元来落实这些措施。 
 
