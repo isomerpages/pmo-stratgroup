@@ -21,7 +21,7 @@ Ladies and Gentlemen,
 
 Good evening. It is a pleasure to join you today at the launch of the fourth Singapore Board Diversity Report. Since its inception in 2011, this series of research reports has helped to improve understanding on the importance and progress of gender diversity in workplace leadership in Singapore.
 
-This report joins a growing body of international research showing that valuing diversity is not an issue of achieving an‘optical balance’. It is about equipping companies so that they can better identify, navigate and address challenges in the business environment today. 
+This report joins a growing body of international research showing that valuing diversity is not an issue of achieving an  **‘optical balance’.** It is about equipping companies so that they can better identify, navigate and address challenges in the business environment today. 
 
 **The case for board diversity**
 
