@@ -35,7 +35,7 @@ Developed in collaboration with industry stakeholders, academic experts and tech
   </tr>
   </table>
   
-  * Roadmaps can be found here
+  * Roadmaps can be found here  
   _[Solar Photovoltaic](https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf)  
   [Carbon Capture and Storage/ Utilisation](https://www.nccs.gov.sg/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf)  
   [Green Data Centre](https://www.nccs.gov.sg/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf)  
