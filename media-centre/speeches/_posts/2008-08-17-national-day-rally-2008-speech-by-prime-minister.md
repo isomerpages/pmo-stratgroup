@@ -97,14 +97,14 @@ c. Completely understand how Singaporeans feel
 
 We cannot prevent prices from rising in Singapore  
 
-a. We import most of our food, except a few eggs and some fish  
-b. We import all our fuel, and produce all our electricity from imported oil and natural gas  
-c. When world prices go up, how do we keep our rice, petrol, or electricity prices down?  
-d. In terms of dollars, wages have not gone down  
-&nbsp; i. Most workers are earning more dollars this year
-&nbsp; ii. Last year was a good year; wages and bonuses went up
-&nbsp; iii. But when we spend money, we find that each dollar has shrunk
-&nbsp; iv. With inflation, some of your wage increase went to you, but quite a lot went to the oil producers
+a. We import most of our food, except a few eggs and some fish    
+b. We import all our fuel, and produce all our electricity from imported oil and natural gas    
+c. When world prices go up, how do we keep our rice, petrol, or electricity prices down?    
+d. In terms of dollars, wages have not gone down    
+&nbsp; i. Most workers are earning more dollars this year  
+&nbsp; ii. Last year was a good year; wages and bonuses went up    
+&nbsp; iii. But when we spend money, we find that each dollar has shrunk    
+&nbsp; iv. With inflation, some of your wage increase went to you, but quite a lot went to the oil producers    
   
 e. Simply put, oil producers (e.g. Arabs and Russians) are now richer, therefore oil consumers (e. us) are now poorer  
 
@@ -125,8 +125,8 @@ This year we have done more to help Singaporeans
 
   a. Had foreseen the spike in inflation last year  
   b. Hence made significant distribution in the Budget  
-  &nbsp; i. For all Singaporeans, but targeted at the middle-income and especially the needy
-  &nbsp; ii. Growth Dividends, Medisave Top-ups and other relief measures
+  &nbsp; i. For all Singaporeans, but targeted at the middle-income and especially the needy  
+  &nbsp; ii. Growth Dividends, Medisave Top-ups and other relief measures  
 
 c. Besides the Budget, many other measures to help needy  
 &nbsp; i. For low-income workers  
@@ -164,42 +164,43 @@ f. Car-related taxes
 &nbsp;&nbsp; 1. Overall, vehicle-related revenues halved – from $6.1 bn in FY2000 to $3.4 bn this FY (2008)  
 &nbsp;&nbsp; 2. Reduced ownership charges by a huge amount  
 &nbsp;&nbsp; 3. Doubled ERP, but still very small by comparison  
-&nbsp; v. Hence more households now own cars (Slide 11)
+&nbsp; v. Hence more households now own cars (Slide 11)  
 &nbsp;&nbsp; 1. Overall figures – number of car owning households increased by 1/3, from 320,000 in 2000 to 430,000 this year  
 &nbsp;&nbsp; 2. For individuals – big difference when you buy a car  
 &nbsp;&nbsp; 3. Actual example of a 1.6L Toyota Corolla (Slide 12)  
-&nbsp;&nbsp;&nbsp; a. In 2000, paid $110,000 (all in + ownership charges)
-&nbsp;&nbsp;&nbsp; b. Today, pay much less – $64,000
-&nbsp;&nbsp;&nbsp;c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)
-&nbsp; vi. Result – more cars around us
+&nbsp;&nbsp;&nbsp; a. In 2000, paid $110,000 (all in + ownership charges)  
+&nbsp;&nbsp;&nbsp; b. Today, pay much less – $64,000  
+&nbsp;&nbsp;&nbsp;c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)  
+&nbsp; vi. Result – more cars around us  
 &nbsp;&nbsp; 1. Can see it in more crowded HDB car parks  
 &nbsp;&nbsp; 2. And on the roads  
 
 Hence need for recent increase in ERP charges
 
  a. Many people are upset    
-&nbsp; i. But have to see the bigger picture
-&nbsp; ii. In fact, they are (unconsciously) benefitting from the overall policy to reduce car taxes, and lighten burden on them
+&nbsp; i. But have to see the bigger picture  
+&nbsp; ii. In fact, they are (unconsciously) benefitting from the overall policy to reduce car taxes, and lighten burden on them  
   
-b. Considered carefully how to adjust ERP without increasing burden
-&nbsp; i. Worked out a package 
-&nbsp; ii. Raised ERP but also reduced Road Tax at the same time
-&nbsp; iii. Overall cost has actually come down
-&nbsp; iv. Example of a 1.6L car again
+b. Considered carefully how to adjust ERP without increasing burden  
+&nbsp; i. Worked out a package   
+&nbsp; ii. Raised ERP but also reduced Road Tax at the same time  
+&nbsp; iii. Overall cost has actually come down  
+&nbsp; iv. Example of a 1.6L car again  
 &nbsp;&nbsp; 1. Will pay more ERP per year    
 &nbsp;&nbsp; 2. But more than offset by 15% reduction in Road Tax    
 &nbsp;&nbsp; 3. On average drivers enjoy net savings    
-&nbsp;&nbsp;&nbsp; a. ERP – pay $76 more
-&nbsp;&nbsp;&nbsp; b. Road Tax – pay $130 less
-&nbsp;&nbsp;&nbsp; c. Savings – $54 every year  
+&nbsp;&nbsp;&nbsp; a. ERP – pay $76 more  
+&nbsp;&nbsp;&nbsp; b. Road Tax – pay $130 less  
+&nbsp;&nbsp;&nbsp; c. Savings – $54 every year    
 
-c. People may not realise or remember  
-&nbsp; i. How much Road Tax they are paying, or paid last year 
+c. People may not realise or remember    
+&nbsp; i. How much Road Tax they are paying, or paid last year   
 &nbsp; ii. Sometimes another family member pays the tax  
-&nbsp;&nbsp; 1. I asked one driver if she had received her Road Tax reduction      
-&nbsp;&nbsp; 2. She said she had to check with her husband!      
-&nbsp;&nbsp; 3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit      
-d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies  
+&nbsp;&nbsp; 1. I asked one driver if she had received her Road Tax reduction       
+&nbsp;&nbsp; 2. She said she had to check with her husband!        
+&nbsp;&nbsp; 3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit  
+
+d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies    
 
 Also improving public transport as alternative to cars
 
@@ -216,9 +217,9 @@ Besides cars and public transport, we must also pay attention to wider needs of 
  a. Can get a good sense of their problems from mix of MPS cases  
  b. Not many job seekers, compared to the last recession   
 c. Some hardship cases – we have many schemes to help them  
-d. One worrying trend – more are looking for HDB rental flats
+d. One worrying trend – more are looking for HDB rental flats  
 &nbsp; i. Applications have tripled in a year  
-&nbsp; ii. Rental appeals now form  the bulk of their MPS cases    
+&nbsp; ii. Rental appeals now form  the bulk of their MPS cases      
 e. HDB is building more rental flats  
 f. But not all who apply for rental flats are truly in need    
 &nbsp; i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!  
