@@ -104,7 +104,7 @@ Some contributors have suggested we use the media to further highlight the impor
 
 But above all, everyone has a part to play. Our study showed that singles were most comfortable meeting members of the opposite sex through: i) recreational, sports and social activities, ii) friends or fellow students, and iii) colleagues and work acquaintances. This tells us that every one of us, in our capacity as family members, friends and colleagues have the potential to make a difference in somebody’s marriage and parenthood journey. So I hope that Singaporeans will actively help one another to prioritize marriage and parenthood as key life goals.
 
-Immigration Policy
+**Immigration Policy**
 
 While we are pursuing efforts to increase marriage and parenthood, at the same time, we are also realistic about how quickly birth rates can improve. We are hopeful on this front, and ambitiously looking forward to improving our TFR to 1.4-1.5. But realistically speaking, this will take time. In the meantime, we continue to have to address the shortfall of births, and our approach has been to supplement our citizen population with a calibrated pace of immigration. Allowing immigration does not mean that we do not take our marriage and parenthood objectives seriously. Members have spoken on the risks of taking in too many immigrants too quickly. It takes time and effort for our immigrants to understand and adapt to our norms. If the texture of society changes too quickly, we will experience a sense of displacement and an erosion of our national identity. We fully understand the concerns of Singaporeans of feeling displaced in their own country.
 
