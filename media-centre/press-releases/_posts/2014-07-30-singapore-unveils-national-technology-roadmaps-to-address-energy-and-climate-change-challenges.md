@@ -51,5 +51,5 @@ Ms Yong Ying-I, Co-Chairman, Energy Research Development & Demonstration Executi
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| [Content Cell](thisisalink.com  | Content Cell  |
+| [Content Cell](thisisalink.com)  | Content Cell  |
 | Content Cell  | Content Cell  |
