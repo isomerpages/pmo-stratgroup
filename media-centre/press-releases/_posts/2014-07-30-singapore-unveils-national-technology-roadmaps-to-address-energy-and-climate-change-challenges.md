@@ -14,7 +14,7 @@ Developed in collaboration with industry stakeholders, academic experts and tech
 
 <table class="table-h">
   <tr>
-  	<td> [Solar Photovoltaic] </td>
+  	<td> [Solar Photovoltaic](https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf) </td>
     <td>Economic Development Board (EDB), Energy Market Authority (EMA)</td>
     </tr>
     <tr>
