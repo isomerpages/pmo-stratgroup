@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu, at the book launch of Our Lives to Live: Putting a Woman's Face to Change in Singapore"
+title:  "Speech by Minister Grace Fu, at the book launch of 'Our Lives to Live: Putting a Woman's Face to Change in Singapore'"
 date:   2015-05-13
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-book-launch-of-our-lives-to-live-putting-a-woman's-face-to-change-in-singapore-on-13-may-2015"
+permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-book-launch-of-'our-lives-to-live-putting-a-woman's-face-to-change-in-singapore'-on-13-may-2015"
 ---
 
 _**Government Will Continue to Support Women's Progress**_
