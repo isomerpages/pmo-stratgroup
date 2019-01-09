@@ -35,6 +35,13 @@ Developed in collaboration with industry stakeholders, academic experts and tech
   </tr>
   </table>
   
+  * Roadmaps can be found here
+  _[Solar Photovoltaic](https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf)  
+  [Carbon Capture and Storage/ Utilisation](https://www.nccs.gov.sg/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf)  
+  [Green Data Centre](https://www.nccs.gov.sg/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf)  
+  [Building Energy Efficiency](https://www.nccs.gov.sg/docs/default-source/default-document-library/building-energy-efficiency-r-and-d-roadmap.pdf)  
+  [Industry Energy Efficiency](https://www.nccs.gov.sg/docs/default-source/default-document-library/industry-energy-efficiency-technology-roadmap.pdf)_  
+  
 As part of follow-up to the technology roadmapping exercise, two major energy R&D initiatives, namely the Building Energy Efficiency RD&D Hub to be implemented and managed by BCA and the Green Data Centre Research Hub Programme to be managed by IDA will receive funding totalling $100 million.
 
 Development of the national technology roadmaps is an on-going effort. Two new roadmaps are currently in the pipeline - the Electro-mobility (E-mobility) Roadmap and the Solid Waste Management Roadmap led by the Land Transport Authority and the NEA respectively.
