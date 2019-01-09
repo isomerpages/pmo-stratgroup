@@ -31,11 +31,11 @@ breadcrumb: Terms of Use
 &nbsp; a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and  
 &nbsp; b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.  
 
-9. Strategy Group shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:
-&nbsp; a. your access to or use of this Website;
-&nbsp; b. any loss of access to or use of this Website, howsoever caused;
-&nbsp; c. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Contents;
-&nbsp; d. any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or
+9. Strategy Group shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:  
+&nbsp; a. your access to or use of this Website;  
+&nbsp; b. any loss of access to or use of this Website, howsoever caused;  
+&nbsp; c. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Contents;  
+&nbsp; d. any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or  
 &nbsp; e. any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether Strategy Group has been advised of the possibility of such damage or loss.  
 
 10. You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against Strategy Group, whether procedural or substantive in nature, in respect of any action that Strategy Group may or may not take in the exercise of its discretion, or in connection with Strategy Group’s roles as a statutory agency.
