@@ -266,20 +266,18 @@ Well being of Singaporeans depends not just on bread and butter issues, but also
 We have done many things over the years to improve ourselves
 
   a. Many campaigns and initiatives, e.g. queue up, no spitting, flush toilets, and most recently, service excellence (GEMS Movement or Go the Extra Mile for Singapore)  
-
 b. Sometimes people laugh at us  
-&nbsp; i. Actually, these are things we can work on and improve
-&nbsp; ii. If we make people aware of their behaviour and educate them to learn new habits
+&nbsp; i. Actually, these are things we can work on and improve  
+&nbsp; ii. If we make people aware of their behaviour and educate them to learn new habits  
 &nbsp; iii. Gradually people will respond, and upgrade our social norms  
-  
-c. We have made progress  
-&nbsp; i. It may be hard for us to tell
-&nbsp; ii. But those watching us from afar notice
-&nbsp; iii. Letter in ST Forum from a Sri Lankan lady
+  c. We have made progress  
+&nbsp; i. It may be hard for us to tell  
+&nbsp; ii. But those watching us from afar notice  
+&nbsp; iii. Letter in ST Forum from a Sri Lankan lady  
 &nbsp;&nbsp; 1. First visited Singapore in 1968 as a young student on her way to the US  
 &nbsp;&nbsp; 2. Visited again 40 years later, needed a wheelchair at Changi airport  
 &nbsp;&nbsp; 3. Quote her letter    
-&nbsp;&nbsp; “From the moment I landed until I left, the city impressed me…Everywhere, I met only kindness….I was in a shopping centre and asked a young girl the way to the MRT station. She offered to show me the way, and taking my shopping bags, led me to the station….shopkeepers gave me water to drink, people waiting for a bus walked with me to the correct bus stop, and people helped me across the street. I have never experienced this sort of kindness anywhere else in the world”
+&nbsp;&nbsp; “From the moment I landed until I left, the city impressed me…Everywhere, I met only kindness….I was in a shopping centre and asked a young girl the way to the MRT station. She offered to show me the way, and taking my shopping bags, led me to the station….shopkeepers gave me water to drink, people waiting for a bus walked with me to the correct bus stop, and people helped me across the street. I have never experienced this sort of kindness anywhere else in the world”  
 
 We can do even better
 
@@ -287,50 +285,46 @@ a. Singapore Kindness Movement (SKM) conducts surveys of social behaviours that 
 b. Some things we are good at doing  
 &nbsp; i. Sit properly in the cinema (e. don’t put your feet on the seat in front of you)
 &nbsp; ii. Say “thank you” after being served
-  
-c. But also many things we need to improve
-&nbsp; i. Say “please” – not so common
-&nbsp; ii. Clear tables and return food trays – need to improve
-&nbsp;&nbsp; 1. Trying to inculcate this habit, e.g. at Suntec City  
+  c. But also many things we need to improve  
+&nbsp; i. Say “please” – not so common  
+&nbsp; ii. Clear tables and return food trays – need to improve  
+&nbsp;&nbsp; 1. Trying to inculcate this habit, e.g. at Suntec City    
 &nbsp;&nbsp; 2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
 &nbsp;&nbsp; 3. Quote email from a lady on making Singapore a more liveable place:  
 &nbsp;&nbsp; 4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
-&nbsp;&nbsp;5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”  
-
-d. Recently, Mediacorp held a contest on the Morning Express Class 95 FM
-&nbsp; i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits
-&nbsp; ii. Tremendous response
-&nbsp; iii. Asked Mediacorp to compile some highlights, good and ugly
+&nbsp;&nbsp;5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”    
+d. Recently, Mediacorp held a contest on the Morning Express Class 95 FM  
+&nbsp; i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits  
+&nbsp; ii. Tremendous response  
+&nbsp; iii. Asked Mediacorp to compile some highlights, good and ugly  
 
 Best way to focus our efforts – when there is a major event and we are put to the test
 
-a. We have done well before
-&nbsp; i. IOC in 2005
-&nbsp; ii. IMF/WB Annual Meetings in 2006
-
-b. Now we must prepare for other major events
-&nbsp; i. F1 next month
-&nbsp; ii. APEC next year
-&nbsp; ii. YOG in 2010
-
+a. We have done well before  
+&nbsp; i. IOC in 2005  
+&nbsp; ii. IMF/WB Annual Meetings in 2006  
+b. Now we must prepare for other major events  
+&nbsp; i. F1 next month  
+&nbsp; ii. APEC next year  
+&nbsp; ii. YOG in 2010  
 c. Let’s use these opportunities to improve our social graces
 
 That is how other countries have done it  
 
-a. Sydney Olympics, 2000 set a high benchmark  
-&nbsp; i. The show was fantastic
-&nbsp; ii. But what really impressed visitors was the genuine warmth and sincerity of the Aussies
-&nbsp; iii. 47,000 volunteers cheered, drove buses, manned checkpoints, greeted visitors with a friendly “G’day mate”
-&nbsp; iv. Created a whole atmosphere of friendliness and hospitality
+a. Sydney Olympics, 2000 set a high benchmark    
+&nbsp; i. The show was fantastic  
+&nbsp; ii. But what really impressed visitors was the genuine warmth and sincerity of the Aussies  
+&nbsp; iii. 47,000 volunteers cheered, drove buses, manned checkpoints, greeted visitors with a friendly “G’day mate”  
+&nbsp; iv. Created a whole atmosphere of friendliness and hospitality  
 
 b. China – now hosting the Olympics    
-&nbsp; i. Making a special effort to welcome athletes and visitors
-&nbsp; ii. Launched large-scale civility campaigns to educate people
-&nbsp;&nbsp; 1. Designated special days in every month to remind them of their social etiquette and manners  
-&nbsp;&nbsp; 2. Queuing day on the 11th (because 11 resembles two people lining up)  
-&nbsp;&nbsp; 3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)  
-&nbsp; iii. For the Games, mobilised 100,000 volunteers, mostly young men and women
-&nbsp; iv. They have impressed visitors too with their friendliness, enthusiasm and pride
+&nbsp; i. Making a special effort to welcome athletes and visitors  
+&nbsp; ii. Launched large-scale civility campaigns to educate people  
+&nbsp;&nbsp; 1. Designated special days in every month to remind them of their social etiquette and manners    
+&nbsp;&nbsp; 2. Queuing day on the 11th (because 11 resembles two people lining up)    
+&nbsp;&nbsp; 3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)    
+&nbsp; iii. For the Games, mobilised 100,000 volunteers, mostly young men and women  
+&nbsp; iv. They have impressed visitors too with their friendliness, enthusiasm and pride  
 
 We should mobilise ourselves too for the YOG
 
@@ -355,22 +349,19 @@ We are creating a better Singapore for future generations to enjoy – so my nex
 Long story captured in this chart (Slide 1) – shows our Total Fertility Rate, how many children each woman has on average over her lifetime
 
 a. Says a lot about our history, economy, culture and policies  
-b. History
-&nbsp; i. Sharp fall in TFR in less than 20 years (1960-1975)
- &nbsp; ii. Reflects rapid transformation of our society, as education levels improved and living standards went up dramatically  
-&nbsp; iii. Just to replace ourselves, we need TFR of 2.1 (Slide 2)
-&nbsp; iv. We are far below the replacement level
-
-c. Economy – look at the last 30 years (Slide 3)  
-&nbsp; i. When times are hard, people tend to have fewer babies  
-&nbsp; ii. 1985 recession, Asia Financial Crisis, 9/11 & SARS (Slide 4)
-
-d. Culture  
-&nbsp; i. Can see some peaks – 1976, 1988, 2000 (Slide 5)
-&nbsp; ii. Why? Years of the dragon
-&nbsp; iii. Unfortunately each dragon has been smaller than the previous one
-&nbsp; iv. Next dragon in 2012 – probably a baby one
-
+b. History  
+&nbsp; i. Sharp fall in TFR in less than 20 years (1960-1975)  
+ &nbsp; ii. Reflects rapid transformation of our society, as education levels improved and living standards went up dramatically    
+&nbsp; iii. Just to replace ourselves, we need TFR of 2.1 (Slide 2)  
+&nbsp; iv. We are far below the replacement level  
+c. Economy – look at the last 30 years (Slide 3)   
+&nbsp; i. When times are hard, people tend to have fewer babies    
+&nbsp; ii. 1985 recession, Asia Financial Crisis, 9/11 & SARS (Slide 4)  
+d. Culture    
+&nbsp; i. Can see some peaks – 1976, 1988, 2000 (Slide 5)  
+&nbsp; ii. Why? Years of the dragon  
+&nbsp; iii. Unfortunately each dragon has been smaller than the previous one  
+&nbsp; iv. Next dragon in 2012 – probably a baby one  
 e. Family policies (Slide 6)    
 &nbsp; i. 1966 – ”Two is Enough” – too successful  
 &nbsp; ii. 1987 – ”Three if you can afford it” – quite successful  
@@ -398,8 +389,8 @@ c. I talked to several of them
 Let me summarise the main learning points
 
 a. Many singles do want to get married  
-&nbsp; i. They are serious, and not just out to have a good time
-&nbsp; ii. But they face difficulties
+&nbsp; i. They are serious, and not just out to have a good time  
+&nbsp; ii. But they face difficulties  
 b. Some have never dated  
 &nbsp; i. Once they start work and settle into a routine, no opportunities to socialise and meet new people
 &nbsp; ii. Relate conversation one matchmaker had with his client
@@ -412,7 +403,7 @@ b. Some have never dated
 &nbsp;&nbsp; 7. Q: Have you met any new friends in the last week?  
 &nbsp;&nbsp; 8. A: [Dead silence]  
 &nbsp;&nbsp; 9. Q: How about the last 1 month?  
-&nbsp;&nbsp; 10. A: [Dead silence again]  
+&nbsp;&nbsp;10. A: [Dead silence again]  
 
 c. Some start too late  
 &nbsp; i. Dating agencies say that women in the late 30s have a serious problem 
@@ -567,8 +558,7 @@ Third, the financial cost
 &nbsp;&nbsp; i. Direct child-raising expenses, e.g. milk-powder, pram, paediatrician etc  
 &nbsp;&nbsp; ii. Also a high opportunity cost for working mothers – forgoing income at work or sacrificing their careers  
 &nbsp;&nbsp; iii. Hence often the professional women who say that it is expensive to bring up children   
- 
-b. Financial considerations cannot be the motive for having children
+ b. Financial considerations cannot be the motive for having children  
 &nbsp; i. Many couples are indignant at this suggestion  
 &nbsp; ii. But right for us to help lighten the burden of those with children  
 &nbsp;&nbsp; 1. Hence the Baby Bonus and tax incentives  
@@ -608,8 +598,8 @@ Fourth, early childhood arrangements
   &nbsp; iii. Government already supports those that meet MOE criteria  
   &nbsp;&nbsp; 1. So far support is quite small  
   &nbsp;&nbsp; 2. We will increase this substantially, on condition they upgrade themselves  
-  &nbsp;&nbsp;&nbsp; a. Not just better trained staff
-  &nbsp;&nbsp;&nbsp; b. But improving the whole system – curriculum, supervision, staff ratios
+  &nbsp;&nbsp;&nbsp; a. Not just better trained staff  
+  &nbsp;&nbsp;&nbsp; b. But improving the whole system – curriculum, supervision, staff ratios  
 
   f. All these improvements will take a few years  
   &nbsp; i. Cannot be done overnight  
@@ -672,23 +662,19 @@ Korea – world’s most wired country
 
   a. Internet has had a major impact on Korean politics  
   b. Empowered new groups  
-  &nbsp; i. e.g. mass access to the internet helped President Lee Myung-bak to win resoundingly in Dec 2007  
-
-c. But also created rapidly changing moods in the population
-    &nbsp; i. Within a few months, President Lee was under siege  
-    &nbsp; ii. Mass demonstrations and protests (Slide 5)  
-
-  d. One issue – mad cow disease
+  &nbsp; i. e.g. mass access to the internet helped President Lee Myung-bak to win resoundingly in Dec 2007    
+c. But also created rapidly changing moods in the population  
+    &nbsp; i. Within a few months, President Lee was under siege    
+    &nbsp; ii. Mass demonstrations and protests (Slide 5)    
+d. One issue – mad cow disease  
   &nbsp; i. Fanned by rumours on the internet  
     &nbsp;&nbsp; 1. “94% of Koreans have a gene which predisposes them to mad cow disease”  
     &nbsp;&nbsp; 2. “Cow products are used to make pampers, which gives babies who wear them mad cow disease”  
-  &nbsp; ii. Videos and pictures circulated online and worked people up (Slide 6)
-
-  e. President Lee calls it “infodemics”
+  &nbsp; ii. Videos and pictures circulated online and worked people up (Slide 6)  
+e. President Lee calls it “infodemics”  
   &nbsp; i. Anonymous false information on the internet  
   &nbsp; ii. Creating discontent and unhappiness which spread like an epidemic in the real world  
-
-  f. One Korean newspaper called this “mad cow madness”
+f. One Korean newspaper called this “mad cow madness”  
 
 Malaysia
 
@@ -823,16 +809,14 @@ f. Even then, Singaporeans are free to do nearly everything
 
 One remaining restriction – outdoor demonstrations
 
-a. Still not allowed
+a. Still not allowed  
   &nbsp; i. Concern is law and order, and security  
   &nbsp; ii. One incident could undermine our racial harmony, and confidence in Singapore. 
-
 b. Concern is still valid, but total ban is too rigid  
   &nbsp; i. We should find ways to allow people to express themselves safely  
   &nbsp; ii. Speakers’ Corner at Hong Lim Park is a model  
   &nbsp; iii. Well defined location, accessible, safe  
   &nbsp; iv. Not many speak there, but anyone can who wants to  
-
 c. We should allow outdoor public demonstrations, also at the Speakers’ Corner  
   &nbsp; i. Still subject to basic rules of law and order  
   &nbsp; ii. Still stay away from race, language or religion  
@@ -854,11 +838,10 @@ But please remember that even in the cyber-age, some things do not change
 
 a. In 50 years’ time, Singapore will still be a little red dot  
 b. To thrive as a nation, we will still need the cohesion to stay united, the ability to outperform others, and the will to survive and excel, and occasionally win medals  
-c. That means:
-  &nbsp; i. A hardworking and well-educated population  
+c. That means:  
+  &nbsp; i. A hardworking and well-educated population   
   &nbsp; ii. A capable and effective government  
-  &nbsp; iii. Outstanding people at all levels, totally committed to Singapore  
-
+  &nbsp; iii. Outstanding people at all levels, totally committed to Singapore    
 d. Then however the world changes, our children will still have a bright future
 
 Before I leave this section on new media, I have one more demonstration
