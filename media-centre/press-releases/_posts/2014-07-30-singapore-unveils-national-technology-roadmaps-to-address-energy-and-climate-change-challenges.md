@@ -14,7 +14,7 @@ Developed in collaboration with industry stakeholders, academic experts and tech
 
 <table class="table-h">
   <tr>
-  	<td> [Test]("https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf/") </td>
+  	<td> Solar Photovoltaic </td>
     <td>Economic Development Board (EDB), Energy Market Authority (EMA)</td>
     </tr>
     <tr>
@@ -49,7 +49,3 @@ Ms Yong Ying-I, Co-Chairman, Energy Research Development & Demonstration Executi
 [Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges.pdf)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| [Content Cell](thisisalink.com)  | Content Cell  |
-| Content Cell  | Content Cell  |
