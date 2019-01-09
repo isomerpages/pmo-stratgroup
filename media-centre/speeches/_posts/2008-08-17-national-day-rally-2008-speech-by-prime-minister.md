@@ -39,8 +39,7 @@ b. Unemployment rising
 c. Consumers are losing confidence and spending less  
 d. Affecting the rest of the world  
   i. Europe already slowing down sharply   
-  ii. Must expect impact on Asia too  
-
+  ii. Must expect impact on Asia too    
 e. These global economic problems will continue at least into next year    
 &nbsp; i. Some experts think even longer
 
