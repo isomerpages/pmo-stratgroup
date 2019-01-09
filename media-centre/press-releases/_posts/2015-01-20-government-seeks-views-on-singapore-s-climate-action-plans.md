@@ -20,7 +20,7 @@ In preparation for this, the government will gather feedback on measures that ca
 
 NCCS, in collaboration with relevant agencies such as the Ministry of the Environment and Water Resources (MEWR) and the Ministry of Trade and Industry (MTI), is launching an online public consultation that will focus on measures and actions that can be taken by businesses and households, as well as green growth opportunities.
 
-The online public consultation will take place between 20 Jan 2015 and 31 Mar 2015. Members of the public are invited to view the consultation papers and submit their views online at [https://www.nccs.gov.sg/consultation2015](https://www.nccs.gov.sg/consultation2015) or [https://www.reach.gov.sg.](https://www.reach.gov.sg/)
+The online public consultation will take place between 20 Jan 2015 and 31 Mar 2015. Members of the public are invited to view the consultation papers and submit their views online at [https://www.nccs.gov.sg/public-consultation/overview](https://www.nccs.gov.sg/public-consultation/overview) or [https://www.reach.gov.sg.](https://www.reach.gov.sg/)
 
 A summary of the feedback received will be released at the end of the consultation period. The government will take the feedback into consideration in determining Singapore’s contributions to the new international agreement. An infographic on the consultation exercise is at [Annex.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/public-consultation-pr-annex.pdf)
 
