@@ -36,4 +36,4 @@ I encourage our new immigrants to also actively seek out opportunities to contri
 
 We seek Singaporeans’ understanding and patience as we work towards a common goal of strengthening our social harmony.
 
-[Download as PDF](isomerpages-stratgroup/images/parliamentary-reply-by-minister-grace-fu-on-13-aug-2012.pdf)
+
