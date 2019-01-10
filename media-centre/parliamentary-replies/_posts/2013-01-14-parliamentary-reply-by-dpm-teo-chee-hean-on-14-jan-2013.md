@@ -32,4 +32,4 @@ Birth trends are influenced by many factors, such as economic conditions, age pr
 
 <sub><sup>1</sup> It is different from the TFR which is based on the number of children born to females (single or married) aged 15-49 in a particular year.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-14-jan-2013.pdf)
+
