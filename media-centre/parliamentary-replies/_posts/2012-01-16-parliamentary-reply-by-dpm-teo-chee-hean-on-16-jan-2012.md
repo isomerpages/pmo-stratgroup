@@ -31,4 +31,4 @@ c. Income. Applicants earning more than $4,000 a month (i.e. the qualifying sala
 
 <sub><sup>1</sup> Long-term passes include the Employment Pass, Long Term Visit Pass, Student’s Pass, Work Pass and Dependant’s Pass.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-16-jan-2012.pdf)
+
