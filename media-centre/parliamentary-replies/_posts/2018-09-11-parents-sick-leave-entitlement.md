@@ -21,4 +21,4 @@ In addition, from the employers’ perspective, allowing one leave type to be us
 
 Although the number of parents with preterm and multiple births or babies with congenital illnesses remains small, we will seriously consider how we can better support such parents with greater caregiving needs, in addition to existing parental leave provisions which have also been progressively enhanced. I made the same point in my reply to Mr Ng’s Adjournment Motion last month on extending parental leave for parents with preterm babies and multiple births.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-parents-sick-leave-entitlements-for-childcare.pdf)
+
