@@ -31,4 +31,3 @@ The NIC regularly reviews how this Fund can be enhanced to better achieve integr
 
 The CIF will continue to support those with good ideas and are keen to join us in bringing new immigrants and locals together, so that integration can be effective and sustained over the longer term. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-acting-minister-chan-chun-sing-on-11-sep-2012.pdf)
