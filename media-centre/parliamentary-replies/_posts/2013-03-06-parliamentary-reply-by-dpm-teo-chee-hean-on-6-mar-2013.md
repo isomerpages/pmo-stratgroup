@@ -38,4 +38,3 @@ address and overcome the specific and practical problems we face, and deliver on
 
 The Government will continue to provide regular updates on the progress of proposals in the Population White Paper and Land Use Plan, through the release of studies, reports and announcements. We are also working towards a medium-term review before 2020.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-6-mar-2013.pdf)
