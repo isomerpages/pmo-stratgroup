@@ -17,4 +17,4 @@ The key function of the Population and Talent Division (PTD) is to formulate, co
 
 The National Population Secretariat is now working towards the inauguration of PTD at the beginning of next year, as time is needed to work with the various Ministries on portfolio changes and staff movements. More details will be made available when these are completed.
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-by-dpm-wong-kan-seng-on-nptd/).
+
