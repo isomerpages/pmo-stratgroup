@@ -33,4 +33,4 @@ Some emigrants leave for family reasons – because of marriage, or to reunite w
 
 All Singapore Citizens and Permanent Residents who own HDB flats will have to sell their properties if they renounce their citizenship or cease to be Permanent Residents.  There are no exceptions to this rule.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012.pdf)
+
