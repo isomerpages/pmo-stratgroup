@@ -38,4 +38,3 @@ The Government will continue to encourage companies to do their part by providin
 
 <sub><sup>1</sup> The five weeks comprise paternity leave (two weeks), shared parental leave (one week), six days of paid childcare leave, and six days of unpaid infant-care leave.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-14-mar-2016.pdf)
