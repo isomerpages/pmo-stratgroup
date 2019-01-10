@@ -16,4 +16,4 @@ The key factors influencing the population mix are fertility and immigration. Wh
 
 Nevertheless, reversing fertility trends will take time, and in the interim, immigration is necessary to augment our local population. We welcome immigrants of all ethnic groups who can contribute to our economy and integrate well into our society. At the same time we are careful not to allow the inflow of immigrants to upset the current mix of races among our population.
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/details/parliamentary-reply-by-dpm-wong-kan-seng-on-15-sep-2010)
+
