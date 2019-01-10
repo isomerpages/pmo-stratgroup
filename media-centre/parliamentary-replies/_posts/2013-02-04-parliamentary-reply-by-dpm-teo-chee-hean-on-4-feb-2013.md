@@ -28,4 +28,4 @@ Those who do not qualify for the latest enhancements will still be eligible for 
 
 <sub><sup>1</sup> The leave measures require legislation to be passed to take effect, as well as supporting systems to be developed and implemented. Employers will be required to offer these leave schemes to their employees from 1 May 2013 when the legislation takes effect.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-4-feb-2013.pdf)
+
