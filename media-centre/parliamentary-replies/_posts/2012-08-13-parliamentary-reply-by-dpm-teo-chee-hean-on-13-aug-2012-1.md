@@ -24,4 +24,4 @@ Singapore as at end-December 2000, 2005 and 2010 are shown in the table below.
 
 Source: DOS
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-13-aug-2012-1.pdf)
+
