@@ -17,4 +17,4 @@ From 2004 to 2012, a total of 1,080 investors were granted permanent residence (
 
 The FIS has ceased with effect from 15 April 2012.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-15-oct-2012.pdf)
+
