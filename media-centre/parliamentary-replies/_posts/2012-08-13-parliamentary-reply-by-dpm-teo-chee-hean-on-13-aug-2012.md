@@ -17,4 +17,3 @@ Based on the latest Conditions of Employment Survey by the Ministry of Manpower 
 
 The Government is currently reviewing policies and measures to support marriage and parenthood.  As part of the review, we have been engaging various stakeholders to discuss new ideas and enhancements to existing measures.  We will take all suggestions into consideration, including the introduction of paternity leave. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-13-aug-2012.pdf)
