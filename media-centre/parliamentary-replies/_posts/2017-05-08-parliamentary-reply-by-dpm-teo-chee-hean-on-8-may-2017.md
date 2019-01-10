@@ -25,4 +25,4 @@ Given these recent enhancements, we do not plan to increase our legislated leave
 
 At the same time, employers and co-workers play important roles in shaping a family-friendly workplace culture. Employers can tap on various resources to do so, including the WorkPro Work-Life Grant administered by the Ministry of Manpower, which provides up to $160,000 to help companies defray the costs of developing, piloting and sustaining flexible work arrangements (FWAs). Employers can also refer to the Tripartite Advisory on FWAs published by the tripartite partners, which guides companies and supervisors along the journey of introducing and sustaining FWAs in their workplaces.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-8-may-2017.pdf)
+
