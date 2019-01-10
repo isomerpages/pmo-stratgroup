@@ -19,4 +19,3 @@ To ask the Prime Minister (a) over the last 8 years what was the annual number o
 
 3. The Immigration Act sets out the grounds where a person’s PR may be revoked by way of cancellation of his Entry and/or Re-entry permit. ;One example is where a PR has committed an offence.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-ep-holders-who-applied-for-pr.pdf)
