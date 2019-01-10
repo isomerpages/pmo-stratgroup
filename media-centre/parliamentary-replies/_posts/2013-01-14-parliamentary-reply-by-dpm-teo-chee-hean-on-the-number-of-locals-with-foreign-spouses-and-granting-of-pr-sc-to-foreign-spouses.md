@@ -25,4 +25,4 @@ Various factors are considered in deciding the grant of PR/ SC to foreign spouse
 
 <sub><sup>1</sup> Latest available data is from Census 2010; the relevant data is not collected on an annual basis.<sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-the-number-of-locals-with-foreign-spouses-and-granting-of-pr-sc-to-foreign-spouses.pdf)
+
