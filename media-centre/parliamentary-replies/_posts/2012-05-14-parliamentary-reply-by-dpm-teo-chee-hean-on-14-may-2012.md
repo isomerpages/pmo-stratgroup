@@ -30,4 +30,4 @@ By creating a conducive environment to live, work and play in, Singapore will co
 
 Our objective is to develop a sustainable population as we face the challenges of an ageing and shrinking citizen population and workforce. NPTD will engage the public on these important issues as we prepare the White Paper on Population to be tabled by the end of the year.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-14-may-2012.pdf)
+
