@@ -25,4 +25,4 @@ While we have tried to be as inclusive as possible, whichever start date is chos
 
 Parents of children born before 26 August 2012 can also benefit from the extended childcare leave of two days per year for children aged 7-12 years, and the enhanced infant care and childcare subsidies.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-minister-grace-fu-on-5-feb-2013.pdf)
+
