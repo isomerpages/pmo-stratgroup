@@ -80,4 +80,3 @@ Source: ICA
 
 <sub><sup>2</sup> Records prior to 1987 are not available.<sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-persons-granted-sc.pdf)
