@@ -80,4 +80,4 @@ Over the same period, there were on average about 48,000 persons granted permane
   
 </table>
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-by-dpm-teo-chee-hean-on-22-nov-2011/)
+
