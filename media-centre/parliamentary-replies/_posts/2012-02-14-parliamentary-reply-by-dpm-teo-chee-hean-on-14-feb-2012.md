@@ -25,4 +25,3 @@ LTVP holders are allowed to seek employment here.
 
 My Ministry is currently studying how we can further help Singaporean families with foreign spouses, especially those with SC children.  
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-14-feb-2012.pdf)
