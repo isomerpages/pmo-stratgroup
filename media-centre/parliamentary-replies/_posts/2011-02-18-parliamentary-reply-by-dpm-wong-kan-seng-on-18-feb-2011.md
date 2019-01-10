@@ -18,4 +18,4 @@ The Government made significant enhancements to the Marriage and Parenthood Pack
 
 Given that the enhancements to the Marriage and Parenthood package have been in place for just two and a half years, we should allow more time to assess the impact of these measures. The Government remains committed to supporting Singaporeans in getting married and having children, and we will review the package at an appropriate time in the future. I encourage our young Singaporeans to get married and start a family, and for those who are married, to have more children, so that they can experience the joys of parenthood.   
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-by-dpm-wong-kan-seng-on-18-feb-2011/)
+
