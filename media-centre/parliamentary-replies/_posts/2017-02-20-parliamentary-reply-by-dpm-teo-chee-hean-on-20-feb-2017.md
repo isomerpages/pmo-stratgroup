@@ -21,4 +21,4 @@ The learning points from these studies and consultations have been important in 
 
 Even as we continue to refine policy measures, we are cognisant that birth rates do not depend only on government initiatives. Social norms shape M&P decisions and these are in turn a result of multiple factors. Fortunately, aspirations for marriage and parenthood among Singaporeans remain strong. To get ready for Millennial families, we will need the support of the whole of society - employers, co-workers, community organisations, businesses and Government - to promote a more family-friendly environment where marriage and parenthood are achievable, enjoyable and celebrated.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-20-feb-2017.pdf)
+
