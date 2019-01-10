@@ -131,4 +131,4 @@ Table 3: Percentage Breakdown by Country of Origin of Permanent Resident Populat
   
   </table>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-28-feb-2012-2.pdf)
+
