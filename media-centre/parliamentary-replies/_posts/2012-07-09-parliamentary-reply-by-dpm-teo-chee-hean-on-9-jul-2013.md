@@ -102,4 +102,4 @@ Source: DOS
 
 As at June 2011, we also had a non-resident population of 1.39 million who are living in Singapore on a non-permanent basis. These include our work pass holders, international students, as well as dependants of our employment pass holders, permanent residents or citizens. 89% (1.24 million) of the non-resident population were aged 20-64 years. The non-resident population is transient and its composition changes according to our needs.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jul-2013.pdf)
+
