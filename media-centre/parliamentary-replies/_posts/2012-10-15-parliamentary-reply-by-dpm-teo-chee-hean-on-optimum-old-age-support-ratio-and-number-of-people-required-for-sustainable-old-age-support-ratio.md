@@ -42,4 +42,3 @@ _Source: United Nations, World Population Prospects: The 2010 Revision_
 
 The Government is engaging the public on these issues and is preparing to release a White Paper on Population in January 2013. We have invited Singaporeans, including all Members of Parliament, to provide their views.  
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-optimum-old-age-support-ratio-and-number-of-people-required-for-sustainable-old-age-support-ratio.pdf)
