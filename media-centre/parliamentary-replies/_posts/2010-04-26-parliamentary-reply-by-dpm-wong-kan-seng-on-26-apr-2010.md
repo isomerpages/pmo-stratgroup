@@ -17,5 +17,5 @@ In order to reflect the responsibilities and privileges of citizenship and to ac
 
 Our approach is to strike a balance between giving citizens priority, and ensuring that Singapore remains attractive to PRs and foreigners so that we can sustain our competitive advantage and ensure Singapore’s growth and vibrancy for the long term.  
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-by-dpm-wong-kan-seng-on-26-apr-2010/)
+
 
