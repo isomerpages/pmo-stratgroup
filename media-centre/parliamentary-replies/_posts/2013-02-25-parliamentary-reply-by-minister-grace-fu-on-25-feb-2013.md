@@ -34,4 +34,4 @@ In the interim, we have the Long-Term Visit Pass and the Long-Term Visit Pass-Pl
 
 This is to satisfy the issue raised by Dr Lily Neo. That they are not a strain on society, and that they settle down first, spend some time to understand our local culture and learn our language as well.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-minister-grace-fu-on-25-feb-2013.pdf)
+
