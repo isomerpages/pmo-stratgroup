@@ -27,4 +27,4 @@ The Government remains committed to our goal of sustainable and inclusive econom
 
 <sub><sup>2</sup>Our total employment grew by 115,900 in 2010, of which resident employment grew by 56,200 in 2010 over 2009.</sub>
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/parliamentary-replies/article/GetPdf/parliamentary-reply-on-nrs-and-prs/)
+
