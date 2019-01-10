@@ -24,4 +24,3 @@ Our focus is on ensuring that Singapore remains the best home for all Singaporea
 
 We will also continue to engage Singaporeans studying and working abroad. Through efforts such as the Overseas Singaporean Unit’s programmes, we hope to help this group maintain strong ties with Singapore, to facilitate their eventual return.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/PDFs/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jan-2012.pdf)
