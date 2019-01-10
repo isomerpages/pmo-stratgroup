@@ -23,4 +23,4 @@ According to the latest consolidated figures published as at end June 2016:
 
 (b) Based on the population estimates laid out in the 2013 Population White Paper, Singapore’s total population could be between 5.8 million and 6 million in 2020, depending on changes to our birth rates, life expectancy, and our social and economic needs. By then, the resident population (comprising SCs and PRs) could be about 4 million, of which SCs could make up about 3.5 million; the non-resident population then would number about 1.8 million.
 
-[Download a PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-4-apr-2017.pdf)
+
