@@ -25,4 +25,3 @@ It is important that our enforcement officers have a good understanding of the l
 
 The affected agencies will review the suitability of foreigners in enforcement functions and consider the suggestion of Mr Zaqy Mohammed.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-4-feb-2013-1.pdf)
