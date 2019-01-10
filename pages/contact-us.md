@@ -7,7 +7,7 @@ title: Contact Us
 
 ### **Feedback**
 
-You can contact us via our online feedback form.
+
 
 
 ### **Address**
