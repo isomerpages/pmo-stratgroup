@@ -50,4 +50,4 @@ We will take into account the concerns and aspirations of Singaporeans in the Wh
 
 Through this process, we hope to engage Singaporeans and develop a shared understanding of our strategies to build a sustainable population that secures Singapore’s future.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-tfr.pdf)
+
