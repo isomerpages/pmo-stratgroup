@@ -24,4 +24,4 @@ NCCS adopts a whole-of-nation approach, working closely with stakeholders in the
 
 A new climate change exhibition will also be launched at the Science Centre by the end of this year. Undertaken by NCCS, the Science Centre and the Meteorological Service, the exhibition will help Singaporeans better understand the science behind climate change, through fun and interactive displays.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-personal-responsibility-for-climate-changes.pdf)
+
