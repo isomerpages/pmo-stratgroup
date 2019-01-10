@@ -25,4 +25,4 @@ Employers have provided feedback that even if the overall duration of leave prov
 
 It will be more important and sustainable for employers to provide a family-friendly work environment, such as by having flexible work arrangements in place, and for our wider community to create a more family-friendly environment in Singapore. Employers can tap on various resources to implement flexible work arrangements, including the WorkPro Work-Life Grant from the Ministry of Manpower and the Tripartite Advisory on Flexible Work Arrangements published by the tripartite partners.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-6-feb-2017.pdf)
+
