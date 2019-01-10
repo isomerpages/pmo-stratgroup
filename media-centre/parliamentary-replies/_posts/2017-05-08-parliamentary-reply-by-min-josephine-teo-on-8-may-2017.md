@@ -25,4 +25,4 @@ Security awareness is equally important for locals and foreigners.Through activi
 
 The various on-boarding programmes have helped foreigners better understand and adjust to living in a multi-cultural, multi-racial and multi-religious Singapore. However, integration takes time and cannot be achieved through one off programmes. We will need the continued support of Singaporeans and foreigners across all parts of society, to work together to foster social cohesion and integration.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-min-josephine-teo-on-8-may-2017.pdf)
+
