@@ -19,4 +19,4 @@ The number of PRs and SCs granted in any given year depends on a combination of 
 
 We will continue to calibrate the immigration framework to address our population challenges and constraints. As part of the ongoing review and public engagement on population issues, we are reviewing the number of immigrants Singapore takes in.   
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/parliamentary%20files/parliamentary-reply-by-dpm-teo-chee-hean-on-10-sep-2012.pdf)
+
