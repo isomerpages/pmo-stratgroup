@@ -36,4 +36,3 @@ The government has already started to strengthen Singapore’s defence against c
 
 _Jointly Issued by: National Climate Change Secretariat, Ministry of the Environment and Water Resources, and Ministry of National Development_
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-unveils-latest-plans-for-addressing-climate-change.pdf)
