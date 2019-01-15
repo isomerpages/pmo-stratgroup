@@ -61,4 +61,4 @@ SPOR is prepared by the Ministry of Finance with inputs from all ministries. Pub
 
 Source: [Ministry of Finance](https://www.mof.gov.sg/Newsroom/Press-Releases/spor-2018-progressing-together-amidst-an-uncertain-global-environment)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/spor-2018-progressing-together-amidst-an-uncertain-global-environment.pdf)
+
