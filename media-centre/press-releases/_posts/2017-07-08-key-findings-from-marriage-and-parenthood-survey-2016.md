@@ -65,4 +65,4 @@ Dr Mathew Mathews highlighted that while majority of singles still aspire to get
 
 Professor Paulin Straughan emphasised the importance of a pro-family work environment when it comes to encouraging couples to have children. “Majority of the married respondents agreed that the availability of flexible work arrangements (FWAs) had helped make it easier for them to start a family and have more children. Employers should recognise that implementing family-friendly initiatives such as FWAs helps to attract and retain talent, as well as boost productivity in the long run. It also helps if co-workers could be more understanding when parents need to take time off from work to take care of their young child."
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/key-findings-from-marriage-and-parenthood-survey-2016.pdf)
+
