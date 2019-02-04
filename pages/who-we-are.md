@@ -34,7 +34,8 @@ Tan Kok Yam<br  />
 •	Land & Liveability Strategy<br  />
 •	Security & Resilience Strategy<br  />
 •	Social Strategy<br  />
-•	Strategic Planning & Futures<br  />
+•	Strategic Planning<br  />
+• Futures<br  />
 •	Technology Strategy<br  />
 •	National Climate Change Secretariat<br  />
 •	National Population and Talent Division<br  />
