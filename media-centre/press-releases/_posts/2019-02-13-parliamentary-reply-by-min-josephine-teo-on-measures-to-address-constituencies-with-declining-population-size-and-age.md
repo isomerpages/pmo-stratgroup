@@ -27,7 +27,7 @@ The Government continues to monitor the distribution of the population across Pl
 
 Table 1: Average Household Size Among Resident Households by Planning Area, 2015-2017
 
-table class="table-h">  <tr>    <th>Planning Area</th>    <th>2015</th> <th>2016</th> <th>2017</th>  </tr>  <tr>    <td>Total</td>    <td>3.39</td> <td>3.35</td> <td>3.30</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
+<table class="table-h">  <tr>    <th>Planning Area</th>    <th>2015</th> <th>2016</th> <th>2017</th>  </tr>  <tr>    <td>Total</td>    <td>3.39</td> <td>3.35</td> <td>3.30</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
 
 
  
