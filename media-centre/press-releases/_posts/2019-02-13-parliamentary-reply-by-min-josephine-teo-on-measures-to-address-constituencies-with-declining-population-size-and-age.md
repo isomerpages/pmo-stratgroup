@@ -6,10 +6,10 @@ permalink: "/media-centre/press-releases/parliamentary-reply-by-min-josephine-te
 ---
 
 ### THIRTEENTH PARLIAMENT OF SINGAPORE
-### WRITTEN ANSWER***
-### _MONDAY, 13 FEBRUARY 2019
+### WRITTEN ANSWER
+### MONDAY, 13 FEBRUARY 2019
 
-*Mr Gan Thiam Poh:*
+**Mr Gan Thiam Poh:**
 
 To ask the Prime Minister (a) what has been the average size per household in each constituency for each of the past five years; and (b) what measures will the Government take to address the declining population in constituencies that face a shrinking population size and age.
 
@@ -27,7 +27,7 @@ The Government continues to monitor the distribution of the population across Pl
 
 Table 1: Average Household Size Among Resident Households by Planning Area, 2015-2017
 
-table class="table-h">  <tr>    <th>Planning Area</th>    <th>2015</th> <th>2016</th> <th>2017</th>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
+table class="table-h">  <tr>    <th>Planning Area</th>    <th>2015</th> <th>2016</th> <th>2017</th>  </tr>  <tr>    <td>Total</td>    <td>3.39</td> <td>3.35</td> <td>3.30</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
 
 
  
