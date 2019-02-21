@@ -27,7 +27,40 @@ The Government continues to monitor the distribution of the population across Pl
 
 Table 1: Average Household Size Among Resident Households by Planning Area, 2015-2017
 
-<table class="table-h">  <tr>    <th>Planning Area</th>    <th>2015</th> <th>2016</th> <th>2017</th>  </tr>  <tr>    <td>Total</td>    <td>3.39</td> <td>3.35</td> <td>3.30</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
+<table class="table-h">  <tr>    <th>Planning Area</th>    <th>2015</th> <th>2016</th> <th>2017</th>  </tr>  <tr>    <td>Total</td>  <td>3.39</td> <td>3.35</td> <td>3.30</td>  </tr>  
+<tr>    <td>Ang Mo Kio</td>    <td>3.13</td> <td>3.00</td> <td>2.94</td>  </tr>
+<tr>    <td>Bedok</td>    <td>3.34</td> <td>3.30</td> <td>3.22</td>  </tr>
+<tr>    <td>Bishan</td>    <td>3.47</td> <td>3.59</td> <td>3.33</td>  </tr>
+<tr>    <td>Bukit Batok</td>    <td>3.37</td> <td>3.41</td> <td>3.25</td>  </tr>
+<tr>    <td>Bukit Merah</td>    <td>2.88</td> <td>2.85</td> <td>2.83</td>  </tr> 
+<tr>    <td>Bukit Panjang</td>    <td>3.64</td> <td>3.61</td> <td>3.49</td>  </tr> 
+<tr>    <td>Bukit Timah</td>    <td>3.79</td> <td>3.56</td> <td>3.78</td>  </tr> 
+<tr>    <td>Choa Chu Kang</td>    <td>3.77</td> <td>3.59</td> <td>3.62</td>  </tr>
+<tr>    <td>Clementi</td>    <td>3.00</td> <td>3.03</td> <td>3.01</td>  </tr>
+<tr>    <td>Geylang</td>    <td>3.09</td> <td>3.08</td> <td>3.06</td>  </tr>  
+<tr>    <td>Hougang</td>    <td>3.55</td> <td>3.47</td> <td>3.35</td>  </tr>  
+<tr>    <td>Jurong East</td>    <td>3.39</td> <td>3.40</td> <td>3.36</td>  </tr> 
+<tr>    <td>Jurong West</td>    <td>3.63</td> <td>3.61</td> <td>3.52</td>  </tr>
+<tr>    <td>Kallang</td>    <td>2.89</td> <td>2.96</td> <td>2.84</td>  </tr>
+<tr>    <td>Marine Parade</td>    <td>3.14</td> <td>3.05</td> <td>3.09</td>  </tr>
+<tr>    <td>Novena</td>    <td>3.24</td> <td>3.14</td> <td>3.06</td>  </tr>
+<tr>    <td>Outram</td>    <td>2.62</td> <td>2.56</td> <td>2.30</td>  </tr>
+<tr>    <td>Pasir Ris</td>    <td>3.78</td> <td>3.67</td> <td>2.84</td>  </tr>
+<tr>    <td>Punggol</td>    <td>3.40</td> <td>3.40</td> <td>3.48</td>  </tr>
+<tr>    <td>Pasir Ris</td>    <td>3.78</td> <td>3.67</td> <td>2.84</td>  </tr> 
+<tr>    <td>Queenstown</td>    <td>2.87</td> <td>2.88</td> <td>2.77</td>  </tr>
+<tr>    <td>Sembawang</td>    <td>3.64</td> <td>3.51</td> <td>3.58</td>  </tr>
+<tr>    <td>Sengkang</td>    <td>3.63</td> <td>3.46</td> <td>3.41</td>  </tr>
+<tr>    <td>Serangoon</td>    <td>3.56</td> <td>3.47</td> <td>3.43</td>  </tr>
+<tr>    <td>Tampines</td>    <td>3.53</td> <td>3.51</td> <td>3.46</td>  </tr>
+<tr>    <td>Tanglin</td>    <td>3.39</td> <td>3.36</td> <td>3.34</td>  </tr>
+<tr>    <td>Toa Payoh</td>    <td>3.03</td> <td>2.88</td> <td>2.77</td>  </tr>
+<tr>    <td>Woodlands</td>    <td>3.69</td> <td>3.64</td> <td>3.69</td>  </tr> 
+<tr>    <td>Yishun</td>    <td>3.37</td> <td>3.34</td> <td>3.39</td>  </tr>
+<tr>    <td>Others</td>    <td>3.07</td> <td>3.04</td> <td>2.95</td>  </tr>
+ 
+ 
+</table>
 
 
  
