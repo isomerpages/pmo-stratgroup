@@ -61,7 +61,7 @@ With up to eight weeks of leave, a father now has access to double the amount of
 * We introduced the Tripartite Standard on Flexible Work Arrangements in October 2017, and also launched the enhanced Work-Life Grant last July, to better support the adoption of flexible work arrangements. The grant has received more than 340 applications in just 5 months.  
 * More workplaces are now supportive of FWAs. Around 53% of employers now offer at least one formal flexible work arrangement<sup>[3]</sup>. This could be flexi-time, flexi-place, flexi-load. And this is up from 47% in 2014. This is, in fact, a significant turning point I have been waiting for. The tide is shifting and I’m hopeful flexible work arrangements will become much more commonplace henceforth.  
 
-_Further strengthening support for **M&P**_
+_Further strengthening support for M&P_
 
 Nevertheless, I am aware that young Singaporeans still have concerns, which **Mr Desmond Choo** also raised.  
 
@@ -69,8 +69,8 @@ Parents have raised concerns about financial costs, such as preschool fees. ECDA
 
 Parents may also feel the need to keep up with other parents’ intensive efforts in education, for example.  
 * MOE too is concerned. To help our students discover more joy and develop stronger intrinsic motivation to learn, MOE is reducing the frequency and stakes of school-based assessments. Students’ class and level positions will not be reflected in report books to minimise unhealthy comparisons among students based on their academic performance.  
-* MSF has also started the Baby Bonus Parenting Resources Portal, to boost confidence in parenting through sharing of tips by experts on raising happy and healthy children.  
-* Next, as **Ms Rahayu Mahzam** pointed out, the workplace environment is critical. Senior Parliamentary Secretary Low Yen Ling will share more at MOM’s Committee of Supply debate.
+* MSF has also started the Baby Bonus Parenting Resources Portal, to boost confidence in parenting through sharing of tips by experts on raising happy and healthy children.    
+Next, as **Ms Rahayu Mahzam** pointed out, the workplace environment is critical. Senior Parliamentary Secretary Low Yen Ling will share more at MOM’s Committee of Supply debate.
 
 But overall, I am encouraged that more companies are taking progressive steps to support their employees’ caregiving needs. One such example is M.Tech, an SME which specialises in cyber security and network performance solutions.  
 
