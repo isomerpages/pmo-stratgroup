@@ -39,7 +39,7 @@ plugins:
 breadcrumbs:
   root:
     hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
+    image: true # Show image or title text
 
 # Site configuration
 ####################
