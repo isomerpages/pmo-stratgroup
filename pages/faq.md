@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 permalink: /faq/
-breadcrumb: FAQ1
+breadcrumb: FAQ
 title: FAQ
 ---
 
