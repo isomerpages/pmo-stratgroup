@@ -64,6 +64,10 @@ feedback_form_url: "https://form.gov.sg/forms/pmo/5b6ac50ad7059a000ff7f98e"
 faq_url: "/faq/"
 faq_url_external: false
 
+# FAQ URL
+faq_url: "/faq1/"
+faq_url_external: false
+
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
