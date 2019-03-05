@@ -65,8 +65,9 @@ faq_url: "/faq/"
 faq_url_external: false
 
 # Spare Page
-page_url: "/spare-page/"
-page_url_external: true
+resources_name: "spare-page"
+paginate_path: "/spare-page/
+
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
