@@ -1,9 +1,11 @@
 ---
 layout: simple-page
-permalink: /spare-page/
-breadcrumb: Spare Page
-title: Spare Page
+permalink: /faq1/
+breadcrumb: FAQ1
+title: FAQ1
 ---
+
+
 
 ### Behold the spare page**
 
