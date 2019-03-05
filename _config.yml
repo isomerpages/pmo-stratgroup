@@ -39,7 +39,7 @@ plugins:
 breadcrumbs:
   root:
     hide: false  # show breadcrumbs on root/home page
-    image: true # Show image or title text
+    image: false # Show image or title text
 
 # Site configuration
 ####################
@@ -66,7 +66,7 @@ faq_url_external: false
 
 # Spare Page
 page_url: "/spare-page/"
-page_url_external: false
+page_url_external: true
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
