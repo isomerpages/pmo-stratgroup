@@ -95,7 +95,7 @@ We will incorporate the inputs in a White Paper on Population that we intend to 
 
 <sub><sup>1</sup> Assumes no immigration<sub>
 
-<sub><sup>2</sup>The Japanese Statistics Bureau: http://www.stat.go.jp/english/data/chouki/02.htm</sub>
+<sub><sup>2</sup>The Japanese Statistics Bureau: <http://www.stat.go.jp/english/data/chouki/02.htm></sub>
 
 <sub><sup>3</sup>Japan’s National Institute of Population and Social Security Research</sub>
 

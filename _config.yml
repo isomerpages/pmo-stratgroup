@@ -65,8 +65,8 @@ faq_url: "/faq/"
 faq_url_external: false
 
 # FAQ URL
-faq_url: "/faq1/"
-faq_url_external: false
+# faq_url: "/faq1/"
+# faq_url_external: false
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"

@@ -22,11 +22,11 @@ Good evening.  I am happy to join you for the book launch of “Our Lives to Liv
 We have come a long way since Singapore’s independence.  In the early years, most Singaporean women followed one path – they got married, stayed home to do the housework and took care of the children. Not many had the opportunity to maximise their potential in school or in the workforce.  Today, women’s lives have changed dramatically.  In the words of Mrs Eliza Choo who wrote to the Straits Times last week,
 
 > “Our country is a land of equal opportunity for both men and women.
-
+>
 > Women here are well educated and have choices in life.
-
+>
 > We do not have to think of ourselves as being at the mercy of employers; neither do we have to always resort to taking litigious action.
-
+>
 > We are women of value both at home and in the marketplace.”
 
 Indeed, Singaporean women have achieved success in various fields, taking up top posts in the public and private sectors, in sports and in the arts, to name a few.  Many of these inspiring women are here with us today.

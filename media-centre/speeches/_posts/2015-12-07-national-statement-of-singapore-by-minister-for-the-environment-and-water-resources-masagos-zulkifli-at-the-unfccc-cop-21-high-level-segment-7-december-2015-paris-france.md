@@ -39,7 +39,7 @@ Mr President, I conclude with an assurance to you of Singapore’s commitment an
  
 <sub><sup>1</sup> According to the synthesis report on the aggregate effect of the intended nationally determined contributions by the UNFCCC secretariat, the level of global GHG emissions associated with the INDCs is expected to be lower than the emission level in pre-INDC trajectories, by 5.5 Gt CO2 eq, when both conditional and unconditional INDCs are included.</sub>
 
-<sub><sup>2</sup> References: [http://www.wri.org/blog/2015/10/indonesia%E2%80%99s-fire-outbreaks-producing-more-daily-emissions-entire-us-economy](http://www.wri.org/blog/2015/10/indonesia%E2%80%99s-fire-outbreaks-producing-more-daily-emissions-entire-us-economy); [https://www.washingtonpost.com/news/energy-environment/wp/2015/10/20/fueled-by-el-nino-carbon-emissions-from-indonesian-peat-fires-are-rising-fast/. Estimates from Guido van der Werf from VU University Amsterdam.](https://www.washingtonpost.com/news/energy-environment/wp/2015/10/20/fueled-by-el-nino-carbon-emissions-from-indonesian-peat-fires-are-rising-fast/. Estimates from Guido van der Werf from VU University Amsterdam.)</sub>
+<sub><sup>2</sup> References: [http://www.wri.org/blog/2015/10/indonesia%E2%80%99s-fire-outbreaks-producing-more-daily-emissions-entire-us-economy](http://www.wri.org/blog/2015/10/indonesia%E2%80%99s-fire-outbreaks-producing-more-daily-emissions-entire-us-economy); [Estimates from Guido van der Werf from VU University Amsterdam.](https://www.washingtonpost.com/news/energy-environment/wp/2015/10/20/fueled-by-el-nino-carbon-emissions-from-indonesian-peat-fires-are-rising-fast/)</sub>
 
 <sub><sup>3</sup> Source: IEA Key World Energy Statistics, 2014.</sub>
 
