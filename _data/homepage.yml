@@ -7,6 +7,9 @@
 # Favicon
 favicon: /images/favicon-stratgroup.ico
 
+# Image to appear on all pages when shared via WhatsApp, Facebook, etc
+shareicon: /images/sg-share-logo.png
+
 # Agency logo
 agency-logo: /images/agency-logo.gif
 
