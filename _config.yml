@@ -64,9 +64,6 @@ feedback_form_url: "https://form.gov.sg/forms/pmo/5b6ac50ad7059a000ff7f98e"
 faq_url: "/faq/"
 faq_url_external: false
 
-# Spare Page
-resources_name: "spare-page"
-paginate_path: "/spare-page/
 
 
 # Custom CSS file path
