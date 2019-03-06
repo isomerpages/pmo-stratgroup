@@ -44,7 +44,7 @@ But we also have challenges.
 * Those who marry later also tend to have fewer children. Singaporean women who married at age 25 had an average of close to 2 children by age 45, while those who married at age 30 had an average of 1.5 children.Those married at age 35 had less than one child on average.<sup>[1]</sup>
 Recognising these challenges, how might we help more Singaporeans fulfil their aspirations for marriage and parenthood?
 
-Let me start first with what the Government can do.These are mainly in two areas:  
+Let me start first with what the Government can do. These are mainly in two areas:  
 * 1. To ensure marriage and parenthood is well-supported, and  
     * 2. To give a leg-up to families with greater needs  
 
