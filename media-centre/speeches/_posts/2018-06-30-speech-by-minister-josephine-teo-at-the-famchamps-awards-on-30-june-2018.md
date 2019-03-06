@@ -45,9 +45,8 @@ But we also have challenges.
 Recognising these challenges, how might we help more Singaporeans fulfil their aspirations for marriage and parenthood?
 
 Let me start first with what the Government can do.These are mainly in two areas:
-
-   * 1. To ensure marriage and parenthood is well-supported, and
-   * 2. To give a leg-up to families with greater needs
+    * 1. To ensure marriage and parenthood is well-supported, and
+    * 2. To give a leg-up to families with greater needs
 
 **Government Support for Marriage and Parenthood**  
 
