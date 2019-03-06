@@ -15,7 +15,7 @@ Good morning.
 
 Thank you for inviting me to the FamChamps Awards, and congratulations to all the award recipients.
 
-Some years back, I brought my parents on a holiday to Morocco.During a visit to a fairly remote part of the country, a young driver by the name of Hasan was assigned to us.
+Some years back, I brought my parents on a holiday to Morocco. During a visit to a fairly remote part of the country, a young driver by the name of Hasan was assigned to us.
 
 Hasan was eager to practise his English and we were happy to oblige.Through our conversation, I learnt that he was gaining a reputation as a competent guide.He was also just 28 years old then and newly married to a young lady Fatima.
 
