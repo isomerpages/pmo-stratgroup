@@ -17,17 +17,17 @@ Thank you for inviting me to the FamChamps Awards, and congratulations to all th
 
 Some years back, I brought my parents on a holiday to Morocco. During a visit to a fairly remote part of the country, a young driver by the name of Hasan was assigned to us.
 
-Hasan was eager to practise his English and we were happy to oblige.Through our conversation, I learnt that he was gaining a reputation as a competent guide.He was also just 28 years old then and newly married to a young lady Fatima.
+Hasan was eager to practise his English and we were happy to oblige. Through our conversation, I learnt that he was gaining a reputation as a competent guide. He was also just 28 years old then and newly married to a young lady Fatima.
 
-After a day or two, he warmly invited us to his family home which he shared with his parents, siblings and young wife.Compared to other families in the village, Hasan’s family was relatively well-off.They lived in a concrete building with three floors.Although basic, it had comfortable rooms and a large kitchen.
+After a day or two, he warmly invited us to his family home which he shared with his parents, siblings and young wife. Compared to other families in the village, Hasan’s family was relatively well-off.They lived in a concrete building with three floors.Although basic, it had comfortable rooms and a large kitchen.
 
 As we left the house in the jeep, I asked Hasan if he planned to have children.He was quite surprised it was even a question.“Of course,” he said.I asked how many? “Three” was the answer.I asked how many his parents had – six.And grandparents – 12.So, half the number in each successive generation!I asked Hasan why he did not wish to have more.He said “expensive”.I looked around the village which did not actually have more than 1-2 shops and asked him “why is it expensive”, to which he replied “education”.“But your government provides free education!” I said and he shook his head and smilingly said, “not good enough… private school better.”
 
-That exchange with Hasan was an “aha!” moment for me.Some of you may recall that I had talked about it two years ago at your Partnership dinner.It’s a different audience so I hope you don’t mind.
+That exchange with Hasan was an “aha!” moment for me.Some of you may recall that I had talked about it two years ago at your Partnership dinner. It’s a different audience so I hope you don’t mind.
 
-All over the world, at all income levels, every generation hopes the next will do better.When Hasan’s parents wanted just 6 children instead of 12 like their parents, they might have hoped to give better food and shelter to their children.They succeeded.A generation later, Hasan too wants more for the children, but it was no longer food and shelter.He wanted for them a better education.
+All over the world, at all income levels, every generation hopes the next will do better.When Hasan’s parents wanted just 6 children instead of 12 like their parents, they might have hoped to give better food and shelter to their children.They succeeded.A generation later, Hasan too wants more for the children, but it was no longer food and shelter. He wanted for them a better education.
 
-This natural instinct explains, at least partially, why as many societies became more affluent and people could afford more, they chose to focus their resources on fewer children.In fact, even when parents are materially well-off, the binding constraint may be time.So, rather than to spread their limited time resource too thinly among many children, they may feel they can only afford to have time for one or two.
+This natural instinct explains, at least partially, why as many societies became more affluent and people could afford more, they chose to focus their resources on fewer children. In fact, even when parents are materially well-off, the binding constraint may be time. So, rather than to spread their limited time resource too thinly among many children, they may feel they can only afford to have time for one or two.
 
 **Marriage and Parenthood Trends in Singapore**
 
@@ -41,7 +41,7 @@ Over 9 in 10 married couples want to have 2 or more children.
 But we also have challenges.  
 * There is no longer a stigma against singlehood. Therefore, unless they chance upon Mr Right or Ms Right, some happily remain single.
 * Even if they do marry, couples may prioritise home ownership, career development or the pursuit of other life goals.Sometimes, they leave baby plans till it is too late to have the first or a next child.Or, like Hasan, couples choose to concentrate their resources and time on fewer children.
-* Those who marry later also tend to have fewer children.Singaporean women who married at age 25 had an average of close to 2 children by age 45, while those who married at age 30 had an average of 1.5 children.Those married at age 35 had less than one child on average.<sub>[1]</sub>
+* Those who marry later also tend to have fewer children.Singaporean women who married at age 25 had an average of close to 2 children by age 45, while those who married at age 30 had an average of 1.5 children.Those married at age 35 had less than one child on average.<sup>[1]</sup>
 Recognising these challenges, how might we help more Singaporeans fulfil their aspirations for marriage and parenthood?
 
 Let me start first with what the Government can do.These are mainly in two areas:
