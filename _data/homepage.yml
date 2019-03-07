@@ -44,3 +44,5 @@ resources-title: Media Centre
 resources-subtitle: Latest News
 resources-more-button: More Media
 resources-more-button-url: media-centre/
+
+show-reach: true
