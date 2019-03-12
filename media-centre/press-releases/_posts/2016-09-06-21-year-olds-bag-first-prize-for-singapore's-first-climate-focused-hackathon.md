@@ -45,4 +45,4 @@ Jointly issued by: Building and Construction Authority, JTC Corporation and Nati
 <sub><sup>1</sup> Radio-frequency Identification (RFID) can be used to automatically identify and track tags attached to objects</sub>
 <sub><sup>2</sup> Emissions Intensity is defined as greenhouse gas emissions per $GDP</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/21-year-olds-bag-first-prize-for-singapore's-first-climate-focused-hackathon.pdf)
+

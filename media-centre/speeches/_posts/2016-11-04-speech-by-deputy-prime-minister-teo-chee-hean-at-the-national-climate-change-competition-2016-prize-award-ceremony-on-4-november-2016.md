@@ -61,7 +61,7 @@ Congratulations to all the participants and winners of the National Climate Chan
 
 <sub><sup>1</sup> As of 1 Nov 2016, 92 Parties accounting for 65.82% of global emissions have ratified the Paris Agreement, UN Framework Convention on Climate Change, [http://www.unfccc.int/](http://www.unfccc.int/), assessed 2 Nov 2016.</sub>
 
-<sub><sup>2,</sup> SolarNova Programme”, HDB, http://www.hdb.gov.sg, Oct 16 2016, assessed 2 Nov 2016.</sub>
+<sub><sup>2,</sup> SolarNova Programme”, HDB, <http://www.hdb.gov.sg>, Oct 16 2016, assessed 2 Nov 2016.</sub>
 
 <sub><sup>3</sup>  Green Data Centre Technology Roadmap, 2014</sub>
 

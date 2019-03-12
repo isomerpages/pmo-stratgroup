@@ -460,7 +460,7 @@ d. Then you can marry the person you love, and love the person you marry
 
 #### **PARENTHOOD**
 
-8. Once couples are married, we would like them to have children
+1. Once couples are married, we would like them to have children
 
 a. We used to think this would follow naturally  
 b. But no longer always the case  

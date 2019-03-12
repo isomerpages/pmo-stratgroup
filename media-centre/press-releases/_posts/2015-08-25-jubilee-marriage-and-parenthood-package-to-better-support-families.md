@@ -46,53 +46,54 @@ _Current_
 
 1. The Baby Bonus Scheme, comprising the Cash Gift and the Child Development Account, aims to support parents in their parenthood decisions by defraying the costs of having children. Parents may receive a cash gift of $6,000 (for the 1st and 2nd child) or $8,000 (for the 3rd and 4th child), which can be used to pay for expenses for their newborn.
 
-_Enhancement_
+    _Enhancement_
 
 2. To better defray child-raising costs, the Baby Bonus Cash Gift will be enhanced in two ways:
 
-Introduction of a new Baby Bonus Plus of $2,000. The Baby Bonus Plus is intended to support parents’ out-of-pocket caregiving costs during the first 18 months of a child’s life, and will be disbursed between the 12th and 18th month mark to provide parents with more sustained support.
-Extension of enhanced Baby Bonus Cash Gift (i.e. inclusive of the Baby Bonus Plus) to 5th and subsequent children. The Cash Gift will now be extended to the fifth and subsequent children, together with the Baby Bonus Plus. The enhancements to the Baby Bonus Cash Gift are summarised in Table 1  
+    Introduction of a new Baby Bonus Plus of $2,000. The Baby Bonus Plus is intended to support parents’ out-of-pocket caregiving costs during the first 18 months of a child’s life, and will be disbursed between the 12th and 18th month mark to provide parents with more sustained support.
+    
+    Extension of enhanced Baby Bonus Cash Gift (i.e. inclusive of the Baby Bonus Plus) to 5th and subsequent children. The Cash Gift will now be extended to the fifth and subsequent children, together with the Baby Bonus Plus. The enhancements to the Baby Bonus Cash Gift are summarised in Table 1  
 
-_Table 1: Enhancements to the Baby Bonus Cash Gift_
+    _Table 1: Enhancements to the Baby Bonus Cash Gift_
 
-<table class="table-h">
-  <tr>
-  	<th>Birth Order</th>
-    <th>Baby Bonus Cash Gift</th>
-    <th>Baby Bonus Plus (new)</th>
-    <th>Total after Enhancement</th>
-  </tr>
-  <tr>
-  	<td>1st and 2nd</td>
-    <td>$6,000</td>
-    <td>$2,000 Baby Bonus Plus</td>
-    <td>$8,000</td>
-  </tr>
-  <tr>
-  	<td>3rd and 4th</td>
-    <td>$8,000</td>
-    <td>$2,000 Baby Bonus Plus</td>
-    <td>$10,000</td>
-  </tr>
-  <tr>
-  	<td>5th and higher</td>
-    <td>$8,000(new)</td>
-    <td>$2,000 Baby Bonus Plus</td>
-    <td>$10,000</td>
-  </tr>
-  <tr>
-  	<td colspan ="4">5th and higher</td>
-</tr>
-  <tr>
-  	<td>Period from childbirth</td>
-    <td>1st, 6th and 12th month</td>
-    <td>15th and 18th month</td>
-    <td> - </td>
-  </tr>
-  
- </table>
+    <table class="table-h">
+      <tr>
+        <th>Birth Order</th>
+        <th>Baby Bonus Cash Gift</th>
+        <th>Baby Bonus Plus (new)</th>
+        <th>Total after Enhancement</th>
+      </tr>
+      <tr>
+        <td>1st and 2nd</td>
+        <td>$6,000</td>
+        <td>$2,000 Baby Bonus Plus</td>
+        <td>$8,000</td>
+      </tr>
+      <tr>
+        <td>3rd and 4th</td>
+        <td>$8,000</td>
+        <td>$2,000 Baby Bonus Plus</td>
+        <td>$10,000</td>
+      </tr>
+      <tr>
+        <td>5th and higher</td>
+        <td>$8,000(new)</td>
+        <td>$2,000 Baby Bonus Plus</td>
+        <td>$10,000</td>
+      </tr>
+      <tr>
+        <td colspan ="4">5th and higher</td>
+    </tr>
+      <tr>
+        <td>Period from childbirth</td>
+        <td>1st, 6th and 12th month</td>
+        <td>15th and 18th month</td>
+        <td> - </td>
+      </tr>
+      
+    </table>
  
- 3. Citizen children born from 1 January 2015 to parents who are lawfully married will be eligible for the enhanced Baby Bonus Cash Gift. Parents can expect to receive the additional payments from January 2016.
+3. Citizen children born from 1 January 2015 to parents who are lawfully married will be eligible for the enhanced Baby Bonus Cash Gift. Parents can expect to receive the additional payments from January 2016.
 
 II. Increased Medisave Grant for Newborns
 
@@ -100,7 +101,7 @@ _Current_
 
 1. Citizen newborns currently receive a Medisave Grant for Newborns (MGN) of $3,000. The MGN is paid into the newborn's Medisave account, and can be used to pay for the child's healthcare expenses, including MediShield<sup>1</sup> premiums, recommended childhood vaccinations, medical expenses incurred from hospitalisations and approved outpatient treatments.
 
-_Enhancement_
+    _Enhancement_
 
 2. To further support parents with their children's healthcare needs, **the Medisave Grant for Newborns (MGN) will be increased to $4,000,** up from $3,000. The increase in the MGN will help to ensure that newborns start out in life with enough Medisave to pay for their MediShield Life premiums from birth till age 21. It will also support expenditures on recommended childhood vaccinations and other medical needs.
 
@@ -118,17 +119,17 @@ _Current_
 
 1. Currently, working fathers are eligible for one week of Government-Paid Paternity Leave. It is mandatory for employers to provide this leave.
 
-_Enhancement_
+    _Enhancement_
 
 2. To encourage fathers to be more involved in bringing up their children, they may receive one **additional week of paid paternity leave.** This will be implemented on a voluntary basis for now, i.e. the Government will reimburse employers who voluntarily agree to provide up to one additional week of leave. Paternity leave can be taken as a two-week block within 16 weeks after the birth of the child by default, or flexibly within 12 months after the birth of the child if there is mutual agreement between the employer and employee.
 
 3. Working fathers are eligible for the additional week of paternity leave if their employer voluntarily provides the leave, and they meet the existing eligibility criteria, as follows:
 
- i. Child is a Singapore Citizen (includes legally adopted children);
- ii. Father is lawfully married to the child’s mother; and
- iii. Father has served his employer (or been self-employed) for a continuous duration of at least three calendar months preceding the birth of the child. 
+    i. Child is a Singapore Citizen (includes legally adopted children);
+    ii. Father is lawfully married to the child’s mother; and
+    iii. Father has served his employer (or been self-employed) for a continuous duration of at least three calendar months preceding the birth of the child. 
  
-The eligibility criteria above also apply to fathers who are self-employed.
+    The eligibility criteria above also apply to fathers who are self-employed.
 
 4. Fathers of citizen children born from 1 January 2015 onwards may qualify for the one additional week of leave, if their employers agree. Employers may apply for reimbursement from the Government from mid-2016 (capped at $2,500 per week including CPF contributions).
 

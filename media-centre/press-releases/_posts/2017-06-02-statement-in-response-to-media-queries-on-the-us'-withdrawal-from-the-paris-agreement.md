@@ -13,6 +13,6 @@ Singapore will continue contributing to the global effort to address climate cha
 
 <sub><sup>1</sup> As indicated in its Nationally Determined Contribution (NDC), Singapore aims to reduce its Emissions Intensity by 36% from 2005 levels by 2030, and stabilise its emissions with the aim of peaking around 2030.<sub>
 
-[Downoad as PDF]()
+
  
  

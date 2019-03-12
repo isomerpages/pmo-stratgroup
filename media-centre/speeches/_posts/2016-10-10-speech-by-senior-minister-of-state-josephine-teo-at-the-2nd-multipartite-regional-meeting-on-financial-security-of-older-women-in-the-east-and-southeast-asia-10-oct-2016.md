@@ -77,14 +77,14 @@ I thank Tsao Foundation, Citi Foundation and the Regional Network partners from 
 
 Thank you.
 
-<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. http://www.nptd.gov.sg/Portals/0/Homepage/Highlights/population-in-brief-2016.pdf</sub>
+<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. <http://www.nptd.gov.sg/Portals/0/Homepage/Highlights/population-in-brief-2016.pdf></sub>
 
 <sub><sup>2</sup> Population SG. Feng Zengkun. “Singapore’s Silver Age”, 3 August 2016. [https://www.population.sg/articles/singapores-silver-age](https://www.population.sg/articles/singapores-silver-age) </sub>
 
 <sub><sup>3</sup> Ministry of Manpower, 2016. “Time Series Table: Labour Force”. [http://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx](http://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx)</sub>
 
-<sub><sup>4</sup> UN Women, 2015. “Expert’s take: Old age – a double whammy for women?” [http://www.unwomen.org/en/news/stories/2015/9/experts-take-old-age-a-double-whammy-for-women](http://www.unwomen.org/en/news/stories/2015/9/experts-take-old-age-a-double-whammy-for-women) 
-[http://progress.unwomen.org/en/2015/pdf/ch3.pdf](http://progress.unwomen.org/en/2015/pdf/ch3.pdf](http://progress.unwomen.org/en/2015/pdf/ch3.pdf](http://progress.unwomen.org/en/2015/pdf/ch3.pdf) </sub>
+<sub><sup>4</sup> UN Women, 2015. “Expert’s take: Old age – a double whammy for women?” <http://www.unwomen.org/en/news/stories/2015/9/experts-take-old-age-a-double-whammy-for-women>
+<http://progress.unwomen.org/en/2015/pdf/ch3.pdf> </sub>
 
 <sub><sup>5</sup> Central Provident Fund Board, 2014. “Analysis of Balances of CPF Members by Gender” [https://www.cpf.gov.sg/Assets/members/Documents/CPFTrends_AnalysisOfBalancesByGender2013.pdf](https://www.cpf.gov.sg/Assets/members/Documents/CPFTrends_AnalysisOfBalancesByGender2013.pdf) </sub>
 

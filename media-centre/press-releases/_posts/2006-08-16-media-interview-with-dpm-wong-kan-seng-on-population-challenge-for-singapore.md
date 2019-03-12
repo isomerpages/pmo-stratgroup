@@ -167,7 +167,7 @@ Our population challenge requires a multi-prong and multi-agency approach. It re
  
  
 
-<sup> 1 Due to declining birthrate, deaths in 2005 outnumbered births by 10,000. From 2006, population is projected to dwindle, falling from 127.4 million to 100.7 million by 2050. Source: Asiamedia, “The Coming Internationalisation: Can Japan assimilate its immigrants?” dated 12 Jan 2006 (Source: www.asiamedia.ucla.edu). Another example is Germany. Its death rate outstrips birth rate – 10.6 vs. 8.3 per 1,000 population in 2005 (Source: http://www.infoplease.com/ipa/A0004395.html)</sup>
+<sup> 1 Due to declining birthrate, deaths in 2005 outnumbered births by 10,000. From 2006, population is projected to dwindle, falling from 127.4 million to 100.7 million by 2050. Source: Asiamedia, “The Coming Internationalisation: Can Japan assimilate its immigrants?” dated 12 Jan 2006 (Source: www.asiamedia.ucla.edu). Another example is Germany. Its death rate outstrips birth rate – 10.6 vs. 8.3 per 1,000 population in 2005 (Source: <http://www.infoplease.com/ipa/A0004395.html>)</sup>
 
 <sup> 2 Members of NPC: Mr Lim Hng Kiang, Mr Khaw Boon Wan, Mr Tharman Shanmugaratnam, Dr Ng Eng Hen, Dr Vivian Balakrishnan, Mrs Lim Hwee Hua and Dr Amy Khor.</sup>
 

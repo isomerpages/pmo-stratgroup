@@ -3,7 +3,6 @@ layout: post
 title: "Statement in response to media queries on the US' withdrawal from the Paris Agreement"
 date:   2017-06-02
 permalink: "/media-centre/speeches/2017-06-02-statement-US-withdrawal"
-topics: "topicA, topicB"
 ---
 
 The US has announced its intention to withdraw from the Paris Agreement.

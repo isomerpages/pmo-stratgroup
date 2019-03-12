@@ -16,7 +16,7 @@ Over the course of last year, we conducted about 50 dialogue sessions and receiv
 Many have told us that the decision to get married and have children is a deeply personal one. It is ultimately their personal attitude as well as societal values that will have the greatest influence on their decisions. Many said that they had children because they enjoy parenthood and they value the joy of parenthood. Ms Desiree Tan, a mother of three, summed it up very nicely in a letter to the Straits Times in October 2012. She had said, and I quote:
 
 > “For us, having children was not about having someone to support and take care of us in old age. While enjoying five good years of married life, we had slowly discovered that there was this indescribable emptiness in our lives that could be filled only by children.
-
+>
 > Now the house is filled with their laughter, ear-piercing cries, hugs, fights, kisses, sulking and a love that supersedes everything.” She ended the letter by saying “The greatest motivation for having children, is having children itself.”
 
 Notwithstanding that this is a very personal decision, many Singaporeans raised practical concerns on housing, child care, healthcare and other costs of living issues. They shared that stronger Government support measures would be helpful in shouldering part of the cost incurred in having children. Besides financial support, one recurring theme in the feedback that we received was the societal support for parenting as well as the shared parental responsibility between men and women. Many called for paternity leave so that fathers could spend time with their newborns and also with their wives. Both men and women also said they would like better worklife harmony to fulfil their family and career aspirations.
