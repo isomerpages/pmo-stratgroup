@@ -34,7 +34,7 @@ backgrounds.
 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
 
 ### INCs’ Role in Community Integration
-    
+ 
 7. However, it’s not just about our economy and workforce.  On the social front, it does not take much to trigger negative sentiments.  With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
 
 8. Ideally, people will embrace one another and naturally build communities of trust.  Our attitude can be to just let things sort themselves out, but that carries a lot of risk as some countries have discovered belatedly. 
