@@ -21,7 +21,7 @@ Ladies and gentlemen,
 
 ### The Importance of Integration in an Increasingly Divided World
 
-2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in          
+ 2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in          
 promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like,    and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and 
 backgrounds.  
  
