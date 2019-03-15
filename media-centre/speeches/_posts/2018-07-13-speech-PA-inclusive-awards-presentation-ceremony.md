@@ -19,6 +19,7 @@ Ladies and gentlemen,
 
 1. Good evening. It is my pleasure to be here at the PA INClusive Awards Ceremony and Appreciation Nite 2018.  
 
+
     ### The Importance of Integration in an Increasingly Divided World
     
    
@@ -34,6 +35,7 @@ backgrounds.
 5. We remain open as a global city and welcome those who can make a contribution to our economy and society.  We strive for a workforce where locals and foreigners complement each other, and which together make Singapore a winner in the battle for economic competitiveness.
 
 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
+
 
     ###  INCs’ Role in Community Integration  
     
