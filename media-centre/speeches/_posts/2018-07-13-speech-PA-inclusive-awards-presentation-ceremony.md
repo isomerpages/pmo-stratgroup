@@ -21,11 +21,11 @@ Ladies and gentlemen,
 
     ### **The Importance of Integration in an Increasingly Divided World**  
    
-    2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and backgrounds.
+    2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and backgrounds.  
  
-3. Around the world, we witness many instances of people who have become more inward-looking because globalization has threatened their livelihoods and they become more anxious about their future. This has trickle-down effects on their daily encounters with foreigners and immigrants. In the most extreme instances, this has resulted in violence, uncertainty and unrest.
+    3. Around the world, we witness many instances of people who have become more inward-looking because globalization has threatened their livelihoods and they become more anxious about their future. This has trickle-down effects on their daily encounters with foreigners and immigrants. In the most extreme instances, this has resulted in violence, uncertainty and unrest.
 
-4. For instance, after Brexit, there was an increase in racist and religious hate crimes, many of which were against immigrants. Anti-migrant protests were also held in some parts of Europe, with some turning violent and leading to casualties. **Singapore’s current state of social harmony is something that we cherish, but we know that it doesn’t come easy and we cannot take it for granted.**    
+    4. For instance, after Brexit, there was an increase in racist and religious hate crimes, many of which were against immigrants. Anti-migrant protests were also held in some parts of Europe, with some turning violent and leading to casualties. **Singapore’s current state of social harmony is something that we cherish, but we know that it doesn’t come easy and we cannot take it for granted.**    
 
 5. We remain open as a global city and welcome those who can make a contribution to our economy and society.  We strive for a workforce where locals and foreigners complement each other, and which together make Singapore a winner in the battle for economic competitiveness.
 
