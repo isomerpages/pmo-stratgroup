@@ -27,13 +27,13 @@ Ladies and gentlemen,
 
     4. For instance, after Brexit, there was an increase in racist and religious hate crimes, many of which were against immigrants. Anti-migrant protests were also held in some parts of Europe, with some turning violent and leading to casualties. **Singapore’s current state of social harmony is something that we cherish, but we know that it doesn’t come easy and we cannot take it for granted.**    
 
-5. We remain open as a global city and welcome those who can make a contribution to our economy and society.  We strive for a workforce where locals and foreigners complement each other, and which together make Singapore a winner in the battle for economic competitiveness.
+    5. We remain open as a global city and welcome those who can make a contribution to our economy and society.  We strive for a workforce where locals and foreigners complement each other, and which together make Singapore a winner in the battle for economic competitiveness.
 
-6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
+    6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
 
     ###  **INCs’ Role in Community Integration**  
     
-7. However, it’s not just about our economy and workforce.  On the social front, it does not take much to trigger negative sentiments.  With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
+    7. However, it’s not just about our economy and workforce.  On the social front, it does not take much to trigger negative sentiments.  With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
 
 8. Ideally, people will embrace one another and naturally build communities of trust.  Our attitude can be to just let things sort themselves out, but that carries a lot of risk as some countries have discovered belatedly. 
 
