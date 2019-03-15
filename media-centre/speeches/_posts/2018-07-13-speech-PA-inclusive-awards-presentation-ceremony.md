@@ -20,8 +20,8 @@ Ladies and gentlemen,
 1. Good evening. It is my pleasure to be here at the PA INClusive Awards Ceremony and Appreciation Nite 2018.
 
     ### **The Importance of Integration in an Increasingly Divided World**  
-
-2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and backgrounds.
+   
+    2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and backgrounds.
  
 3. Around the world, we witness many instances of people who have become more inward-looking because globalization has threatened their livelihoods and they become more anxious about their future. This has trickle-down effects on their daily encounters with foreigners and immigrants. In the most extreme instances, this has resulted in violence, uncertainty and unrest.
 
@@ -32,7 +32,7 @@ Ladies and gentlemen,
 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
 
     ###  **INCs’ Role in Community Integration**  
-
+    
 7. However, it’s not just about our economy and workforce.  On the social front, it does not take much to trigger negative sentiments.  With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
 
 8. Ideally, people will embrace one another and naturally build communities of trust.  Our attitude can be to just let things sort themselves out, but that carries a lot of risk as some countries have discovered belatedly. 
@@ -48,8 +48,8 @@ Ladies and gentlemen,
 13. Over the past three years, PA has also organised around 260 RC/NC chit-chat sessions. These sessions bring new immigrants and their neighbours together in an informal setting to better understand and appreciate each other’s cultural practices and customs. To support the INCs’ efforts, PA will step up its efforts and organise another 100 RC/NC chit-chat sessions this year.
 
     ###  **Recognising Outstanding IN Committees and Projects**  
-
-14. This evening, we recognise 25 IN Committees and 17 projects for their outstanding efforts in promoting community integration. My heartiest congratulations to all the winners! I would like to make special mention of two exceptional projects.
+    
+    14. This evening, we recognise 25 IN Committees and 17 projects for their outstanding efforts in promoting community integration. My heartiest congratulations to all the winners! I would like to make special mention of two exceptional projects.
 
 15. First, Project Care and Share @ Paya Lebar. This was a collaboration between the Paya Lebar INC, Sheng Hong Family Service Centre and several Immigrant Associations, such as the Singapore Pakistani Association, Nepalese Society and Indian Women’s Association. Through a series of workshops, 50 volunteers from the different Immigrant Associations reached out to over 300 underprivileged children and bonded over activities such as reading, baking, Batik painting and Yoga. I was encouraged by how this project brought new immigrants and Singaporeans together to contribute to a meaningful cause.
 
