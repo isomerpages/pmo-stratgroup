@@ -5,8 +5,8 @@ date:   2019-02-13
 permalink: "/media-centre/press-releases/parliamentary-reply-by-min-josephine-teo-on-measures-to-address-constituencies-with-declining-population-size-and-age"
 ---
 
-**THIRTEENTH PARLIAMENT OF SINGAPORE
-WRITTEN ANSWER
+**THIRTEENTH PARLIAMENT OF SINGAPORE  
+WRITTEN ANSWER  
 MONDAY, 13 FEBRUARY 2019**  
 
 **Mr Gan Thiam Poh:**
