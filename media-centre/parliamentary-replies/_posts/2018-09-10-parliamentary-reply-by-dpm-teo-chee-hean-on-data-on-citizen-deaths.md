@@ -5,9 +5,9 @@ date:   2018-09-10
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-data-on-citizen-deaths"
 ---
 
-THIRTEENTH PARLIAMENT OF SINGAPORE  
+**THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  
-MONDAY 10 SEP 2018  
+MONDAY 10 SEP 2018**    
 
 **Mr Leon Perera:**
 
