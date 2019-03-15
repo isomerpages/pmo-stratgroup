@@ -72,13 +72,14 @@ The four aspects of sustainable development that I have highlighted - a sustaina
 I thank Temasek for hosting this Conference and I look forward to hearing your views, and having a good discussion with you.
 
 Thank you very much.
-___
+
+---
 
 <sub><sup>1</sup> United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, Key Findings and Advance Tables. Working Paper No. ESA/P/WP.241.</sub>
 
 <sub><sup>2</sup> United Nations, Department of Economic and Social Affairs, Population Division (2014). World Urbanization Prospects: The 2014 Revision, Highlights (ST/ESA/SER.A/352).</sub>
 
-<sub><sup>3</sup> Impact of Sea Level Rise on Economic Growth in Developing Asia, ADB Economics Working Paper No. 507, Jan 2017.</sup>
+<sub><sup>3</sup> Impact of Sea Level Rise on Economic Growth in Developing Asia, ADB Economics Working Paper No. 507, Jan 2017.</sub>
 
 <sub><sup>4</sup> IEA World Energy Statistics (2016), 2014 data</sub>
 
