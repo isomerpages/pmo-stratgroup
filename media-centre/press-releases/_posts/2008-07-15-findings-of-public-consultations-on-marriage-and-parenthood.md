@@ -21,7 +21,7 @@ _**Socialisation was viewed as the first step towards marriage and subsequent pa
 
 * b. For those who were in a serious relationship, some considered _**having a residence of their own as important**_ before they would consider marriage; yet others said that it should not be a factor.
 
-_**For couples, financial security, time and childcare arrangements were three key considerations.**_ In particular, parenthood was increasingly viewed as a shared responsibility between the couple as women wanted to have children and work at the same time. Key factors cited as challenges to having and raising children were as follows:
+_**For couples, financial security, time and childcare arrangements were three key considerations.**_ In particular, parenthood was increasingly viewed as a shared responsibility between the couple as women wanted to have children and work at the same time. Key factors cited as challenges to having and raising children were as follows:  
 
    * i. _**Financial concerns:**_ The costs of bringing up a family in Singapore were high, especially when tertiary education for children was taken into consideration at the point of deciding whether or not to have (more) children. There were suggestions for fathers to be allowed to claim tax benefits currently meant only for working mothers, especially if the couple includes a stay-at-home mother.
     
