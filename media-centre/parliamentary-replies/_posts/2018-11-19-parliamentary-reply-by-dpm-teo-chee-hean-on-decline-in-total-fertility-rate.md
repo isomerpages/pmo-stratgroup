@@ -5,9 +5,9 @@ date:   2018-11-19
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-decline-in-total-fertility-rate"
 ---
 
-THIRTEENTH PARLIAMENT OF SINGAPORE  
+**THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  
-MONDAY 19 NOV 2018  
+MONDAY 19 NOV 2018**  
 
 **Miss Cheng Li Hui:**    
 To ask the Prime Minister with regard to our total fertility rate (TFR) (a) whether it is a concern that the figure has fallen to 1.16 in 2017; (b) whether the Government's pronatalist policies have been working; and (c) what further measures are necessary or are being considered by the Government to arrest the decline in TFR and to raise it in the long term.
