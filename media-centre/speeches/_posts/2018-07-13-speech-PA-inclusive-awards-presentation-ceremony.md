@@ -57,7 +57,7 @@ Ladies and gentlemen,
 
 17. These are just two examples of the wide range of inspiring work that INCs are doing to promote community integration. Thank you champions, for your dedication and contributions!
 
-###  **Conclusion**
+    ###  **Conclusion**
 
 18. Integration is a never-ending journey, both for newcomers adapting to existing norms, and for locals learning to embrace our expanded communities.  It takes effort on both sides.  Without bridge-builders like our Integration and Naturalisation Champions, many will not get started.
 
