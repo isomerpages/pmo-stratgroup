@@ -52,5 +52,5 @@ By taking part in this short video competition, you have gone one step further, 
 
 <sub><sup>3</sup> Source: 2014 Key World Energy Statistics report by the International Energy Agency (IEA).</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2014-prize-award-ceremony-and-launch-of-new-climate-change-exhibition-at-the-singapore-science-centre.pdf)
+
 
