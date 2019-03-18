@@ -83,4 +83,3 @@ Email: [chung_cui_yi@nptd.gov.sg](mailto:chung_cui_yi@nptd.gov.sg)
 
 <sub><sup>4</sup> Figures add up to more than 100% as respondents could select multiple options in response to this question.</sub>  
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/marriage-parenthood-study-2012.pdf)
