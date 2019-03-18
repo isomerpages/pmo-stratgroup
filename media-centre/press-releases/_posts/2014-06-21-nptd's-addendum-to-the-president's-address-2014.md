@@ -31,4 +31,4 @@ We must remain open to people, ideas and resources to generate innovation, new b
 
 To ensure that we have a sustainable population for Singapore in the medium- and long-term, we need to plan and implement our policies starting now. We will continue to review our policies to take into account the changing needs of Singapore and Singaporeans, as well as the changing domestic and external environment. With the Government working together in close partnership with Singaporeans, the community, businesses and institutions, we can make Singapore a truly distinctive home for all Singaporeans, and for many more generations to come.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nptd's-addendum-to-the-president's-address-2014.pdf)
+
