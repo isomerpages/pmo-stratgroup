@@ -48,4 +48,4 @@ Some analysts note that we have entered the “Asian Decade”. This is a period
 
 Finally, I wish everyone a pleasant evening. Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-wong-kan-seng-at-the-dbs-gala-event.pdf)
+
