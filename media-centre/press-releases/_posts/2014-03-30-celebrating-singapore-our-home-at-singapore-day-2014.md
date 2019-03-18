@@ -25,4 +25,3 @@ _Background on Singapore Day 2014_
 
 Singapore Day is a collaborative effort by the Overseas Singaporean Unit and its partners from the public, people and private sectors. It is held annually in major cities where there are a significant number of Singaporeans. Singapore Days have been held in New York (2007), Melbourne (2008), London (2009), Shanghai (2011), New York (2012) and Sydney (2013). More details on Singapore Day 2014 can be found on [www.SingaporeDay.sg](https://www.facebook.com/SingaporeDay) and [www.fb.com/SingaporeDay.](https://www.overseassingaporean.sg/event/singapore-day/)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/celebrating-singapore-our-home-at-singapore-day-2014.pdf)
