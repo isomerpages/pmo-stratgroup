@@ -35,4 +35,4 @@ In conclusion Mr President, I assure you of our commitment and support for Peru'
 
 <sub><sup>1</sup> Source: IEA Key World Energy Statistics, 2014. </sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/national-statement-of-singapore-delivered-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-unfccc-cop-20-high-level-segment-9-december-2014-lima-peru.pdf)
+

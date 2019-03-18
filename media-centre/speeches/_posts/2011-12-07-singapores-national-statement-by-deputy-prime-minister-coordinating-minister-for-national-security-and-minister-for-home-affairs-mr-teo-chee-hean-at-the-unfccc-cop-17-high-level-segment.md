@@ -43,4 +43,4 @@ Madame President, the Intergovernmental Panel on Climate Change (IPCC) has recen
 
 Thank you. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/singapores-national-statement-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-unfccc-cop-17-high-level-segment.pdf)
+

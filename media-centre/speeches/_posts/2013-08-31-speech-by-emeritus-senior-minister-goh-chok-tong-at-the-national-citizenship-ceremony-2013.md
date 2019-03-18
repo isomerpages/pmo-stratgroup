@@ -41,5 +41,4 @@ As you recite the National Pledge and sing the National Anthem later, you are re
 
 Once again, welcome to the Singapore family. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-emeritus-senior-minister-goh-chok-tong-at-the-national-citizenship-ceremony-2013.pdf)
 

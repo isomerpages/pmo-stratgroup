@@ -81,4 +81,4 @@ What we want, is
 
 I look forward to a constructive debate in Parliament next week.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper-1.pdf)
+

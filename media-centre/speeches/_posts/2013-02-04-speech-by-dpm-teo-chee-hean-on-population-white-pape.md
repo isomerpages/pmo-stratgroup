@@ -233,4 +233,4 @@ Madam Speaker, I beg to move. Question proposed.
 <sub><sup>8</sup> Developable land excludes undevelopable or large undeveloped land such as water catchment areas, nature reserves, areas for military use, airports, port and undeveloped islands.</sub>
 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper.pdf)
+

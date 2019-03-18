@@ -47,4 +47,4 @@ As we gear up for a greater momentum in the pro-family movement in Singapore, I 
 
 <sub><sup>1</sup> released by the Department of Statistics<sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-family-life-champion-award-ceremony-2013.pdf)
+

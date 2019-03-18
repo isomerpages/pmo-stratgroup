@@ -37,4 +37,3 @@ Mr President, the global challenge of climate change requires a global response,
 
 Thank you, Mr President. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/singapore's-national-statement-by-deputy-prime-minister-coordinating-minister-for-national-security-minister-for-home-affairs-and-chairman-of-the-inter-ministerial-committee-on-climate-change-mr-teo-chee-hean.pdf)

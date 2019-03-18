@@ -59,4 +59,4 @@ Thank you.
 
 <sub><sup>1</sup> Source: IEA Key World Energy Statistics, 2014. Comparisons based on available carbon emissions per US$GDP data</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-on-climate-change-2015-and-national-engineers-day-(ned).pdf)
+

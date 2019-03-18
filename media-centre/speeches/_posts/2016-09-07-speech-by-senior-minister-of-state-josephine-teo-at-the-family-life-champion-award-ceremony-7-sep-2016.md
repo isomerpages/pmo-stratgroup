@@ -96,4 +96,4 @@ On behalf of the families you have touched, and the many more that you will reac
 
 I wish everyone a wonderful evening ahead.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-family-life-champion-award-ceremony-7-sep-2016.pdf)
+

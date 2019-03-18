@@ -71,4 +71,4 @@ At the Jumbo Group of Restaurants, management believes that flexible working opt
 
 <sub><sup>2</sup> Flexi-Works!: Companies can claim up to $10K for introducing flexi-work arrangements, and up to $90K for recruiting workers on part-time or flexible work arrangements. Work-Life Works! Fund: One-time grant to encourage employers to introduce work-life strategies. An approved project can be funded up to 80% of costs subjext to a cap of $20K.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-singapore-chinese-chamber-of-commerce-industry-dialogue.pdf)
+

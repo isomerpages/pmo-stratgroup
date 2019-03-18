@@ -131,4 +131,3 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 
 <sub><sup>15</sup> Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. [http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm](http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm)</sub> 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore.pdf)

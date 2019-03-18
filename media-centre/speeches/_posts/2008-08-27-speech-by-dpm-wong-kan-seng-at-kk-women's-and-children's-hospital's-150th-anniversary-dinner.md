@@ -54,4 +54,3 @@ Thank you.
 
 <sub><sup>2</sup> Resident babies.</sub>
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/speech-by-dpm-wong-kan-seng-at-kk-women's-and-children's-hospital's-150th-anniversary-dinner/)

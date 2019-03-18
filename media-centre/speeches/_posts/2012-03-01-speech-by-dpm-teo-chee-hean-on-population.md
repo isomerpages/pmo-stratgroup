@@ -99,4 +99,4 @@ We will incorporate the inputs in a White Paper on Population that we intend to 
 
 <sub><sup>3</sup>Japan’s National Institute of Population and Social Security Research</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-teo-chee-hean-on-population.pdf)
+

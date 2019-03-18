@@ -44,4 +44,3 @@ On behalf of West Coast GRC and Pioneer Constituency, I want to extend a very wa
 
 I invite all of you to join us in writing the next vibrant chapter of our Singapore story. Majulah Singapura. Happy National Day! Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-mr-s-iswaran-minister-for-communications-and-information-at-the-west-coast-grc-national-citizenship-ceremony-on-4-august-2018.pdf)

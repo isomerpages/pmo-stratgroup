@@ -68,4 +68,3 @@ Beyond Government actions, all of us in the society can and should play a role i
 
 <sub><sup>1</sup> Capped at $6,300 per fresh cycle and $1,200 per frozen cycle.</sub>
 
-[Dowload as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-2013-marriage-and-parenthood-package-press-conference.pdf)

@@ -49,4 +49,4 @@ Once again, congratulations to all our winners. Thank you.
 
 <sub><sup>1</sup> According to the IEA Key World Energy Statistics 2014, Singapore’s emissions intensity is ranked 113th out of 140 countries[1] globally, i.e. among the best 20% of countries.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2015-prize-award-ceremony-on-20-november-2015.pdf)
+

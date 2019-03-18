@@ -67,5 +67,3 @@ Thank you, sir.
 <sub>Footnotes</sub>  
 <sub><sup>1</sup> Gross Floor Area above 2,000 sqm</sub>
 <sub><sup>2</sup> Air-conditioned floor area above 5,000 sqm</sub>
-
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/Speeches/speech-by-deputy-prime-minister-mr-teo-chee-hean-coordinating-minister-for-national-security-and-minister-for-home-affairs-on-climate-change.pdf)

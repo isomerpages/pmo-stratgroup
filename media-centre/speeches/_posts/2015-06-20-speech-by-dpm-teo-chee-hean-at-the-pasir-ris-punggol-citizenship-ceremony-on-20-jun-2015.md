@@ -30,4 +30,3 @@ These are also the qualities that have drawn you to Singapore, and why you have 
 
 Many of you have already spent several years in Singapore, with family members or working here. By choosing to take up Singapore citizenship, you have demonstrated your commitment to Singapore. All of us now share a common future. We welcome you and look forward to your contributions to our community and our country. Help us to build a cohesive, harmonious and caring society, where all Singaporeans can share in the fruits of our growth. Let us stand united as one people, confident that we can face the future together. Let us work together to carry on Mr Lee’s legacy, and build a better home and a bright future in Singapore for ourselves and our children. Thank you. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-teo-chee-hean-at-the-pasir-ris-punggol-citizenship-ceremony-on-20-jun-2015.pdf)

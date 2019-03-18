@@ -137,4 +137,4 @@ Thank you.
 
 <sub><sup>9</sup> Work-Life Achiever Award 2014 Recipient, (25 employees). Elite Translations gives its employees flexibility in the way they work, and has sought the help of external consultants to identify and eliminate factors that could be detrimental to work-life harmony.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/minister-grace-fu's-speech-on-population-delivered-at-the-committee-of-supply-10-mar-2015.pdf)
+

@@ -39,4 +39,4 @@ Thank you all very much.
 
 Source: [Ministry of Foreign Affairs](http://www.mfa.gov.sg/content/mfa/media_centre/press_room/pr/2015/201512/Press_20151213.html)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/remarks-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-committee-of-paris-session-at-cop-21-12-december-2015-paris-france.pdf)
+

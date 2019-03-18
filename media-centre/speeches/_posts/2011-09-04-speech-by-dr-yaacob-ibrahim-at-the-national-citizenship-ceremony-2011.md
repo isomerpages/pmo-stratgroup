@@ -37,4 +37,4 @@ Thank you.
 
 <sub><sup>2</sup> Mr Ooi is a 49 year old carpenter.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dr-yaacob-ibrahim-at-the-national-citizenship-ceremony-2011.pdf)
+

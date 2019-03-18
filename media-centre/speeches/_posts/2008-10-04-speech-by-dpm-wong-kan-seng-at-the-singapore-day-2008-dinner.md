@@ -59,4 +59,3 @@ Thank you.
 
 <sub><sup>2</sup> Millennium & Copthorne has agreed to 3 in the US and 1 in Bangkok; Fortuna has agreed to 1 in Hanoi; GIC is working on the details of 1 in Tokyo; Lee Kim Tah has agreed to 1 in Xiamen; and the Straits Trading Group recently agreed to consider making all their hotels OS Clubs.</sub>
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2008-dinner/)

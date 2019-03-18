@@ -51,4 +51,4 @@ Mr Chairman, NPTD takes a Whole-of-Government approach in tackling the populatio
 
 <sub><sup>1</sup> Preliminary TFR estimate for 2010<sub>
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/speech-by-dpm-wong-kan-seng-on-population/)
+

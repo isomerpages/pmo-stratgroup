@@ -65,4 +65,3 @@ We also organised the World Cities Summit as a global platform for government le
 
 The 2015 agreement must catalyse and incentivise strong and sustained domestic action by all countries. As we consolidate, converge on common points and make commitments, we should build a durable, balanced framework to strengthen the multilateral, rules-based system and secure a safer, more resilient future for everyone. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/singapore's-national-statement-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan.pdf)

@@ -91,4 +91,4 @@ Companies must seize opportunities by practising responsive and responsible capi
 
 <sub><sup>9</sup> Source: Companies Websites. 2 Sep 2014</sub>
 
-[Download as PDF](empty)
+

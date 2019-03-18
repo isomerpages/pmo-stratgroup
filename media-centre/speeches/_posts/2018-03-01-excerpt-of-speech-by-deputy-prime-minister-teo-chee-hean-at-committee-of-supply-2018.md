@@ -21,4 +21,3 @@ We will continue to strengthen our institutions to operate in a more integrated 
 
 For full speech, please go to: [https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean--coordinating-minister-for-national-security-and-minister-in-charge-of-the-civil-service-at-committee-of-supply-2018](https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean--coordinating-minister-for-national-security-and-minister-in-charge-of-the-civil-service-at-committee-of-supply-2018)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/5ba4e1f40f40602dbf0a0be73fc7458ce22d17bd/images/Speeches/excerpt-of-speech-by-deputy-prime-minister-teo-chee-hean-at-committee-of-supply-2018.pdf)

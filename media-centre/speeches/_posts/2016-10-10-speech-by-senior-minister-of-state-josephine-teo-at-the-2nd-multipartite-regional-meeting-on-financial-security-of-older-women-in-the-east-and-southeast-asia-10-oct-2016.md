@@ -97,4 +97,4 @@ Thank you.
 <sub><sup>9</sup> The Times with stats provided by Ministry of Manpower, 2016. “More in Singapore remaining in workforce past 65”
 [https://www.gov.sg/news/content/the-straits-times-more-in-singapore-remaining-in-workforce-past-65](https://www.gov.sg/news/content/the-straits-times-more-in-singapore-remaining-in-workforce-past-65) </sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-2nd-multipartite-regional-meeting-on-financial-security-of-older-women-in-the-east-and-southeast-asia-10-oct-2016.pdf)
+

@@ -79,4 +79,3 @@ I applaud the Securities Investors Association Singapore (SIAS) for putting toge
 
 Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-sias'-4th-corporate-governance-week.pdf)

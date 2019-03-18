@@ -65,4 +65,4 @@ I am confident that Singapore is in a strong position going forward to 2014. Thi
 
 Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-yuhua-mega-toss.pdf)
+

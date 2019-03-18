@@ -35,4 +35,3 @@ _Conclusion_
   
 As we celebrate SG50, let us take time to reflect on the past, cherish the present, and pull together as one people looking ahead to the future.  We look forward to your contributions, as fellow Singaporeans, as we build a better Singapore together, united by our shared values. Majulah Singapura!
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-teo-chee-hean-at-the-national-citizenship-ceremony-2015-on-2-aug-2015.pdf)

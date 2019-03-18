@@ -26,4 +26,4 @@ Finally, we must keep in mind our ultimate objective, which is to achieve an agr
 
 Thank you. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/singapore's-national-statement-by-ambassador-at-large-chew-tai-soo-on-redd-partnership.pdf)
+

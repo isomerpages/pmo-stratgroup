@@ -30,4 +30,4 @@ And this is what the joy of family life is about:  Families spending more qualit
 
 I would like to thank our Family Life Champions and Connectors in Pasir Ris West, Punggol Central and Punggol West, as well as community partners for jointly organising this event. I also wish everyone good health, and our children a happy and bright future.  Happy Mother’s Day in advance!
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-teo-chee-hean-at-the-pasir-ris-punggol-grc-baby-singapore-on-26-apr-2015.pdf)
+

@@ -58,4 +58,3 @@ I hope this GGBF provides a platform to initiate conversations and exchange idea
 
 On this note, let me wish you an enjoyable and fruitful discussion at GGBF. Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/GreenGrowth.pdf)
