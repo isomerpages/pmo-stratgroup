@@ -73,4 +73,3 @@ Thank you Mr President.
 
 Source: [Ministry of the Environment and Water Resources](http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2016-prize-award-ceremony-on-4-november-2016.pdf)
