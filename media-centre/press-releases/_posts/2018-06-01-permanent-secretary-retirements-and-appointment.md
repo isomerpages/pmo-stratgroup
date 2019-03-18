@@ -12,4 +12,3 @@ Service.
 
 Thanking Ms Yeoh and Mr Neo, Minister-in-charge of the Public Service, Mr Chan Chun Sing said, "I would like to thank Chee Yan and Kian Hong for their dedicated service. They have served with distinction in their careers, and I would like to express our appreciation to them for their leadership and outstanding contributions to the Public Service."
 
-[Download as PDF]({{site.baseurl}}/files/press-releases/permanent-secretary-retirements-and-appointment-1-june-2018.pdf)
