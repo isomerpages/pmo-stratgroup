@@ -1,12 +1,12 @@
 //travis-script.js
 const travisScript = require("@isomerpages/isomerpages-travisci-scripts");
-//const travisBranch = process.env.TRAVIS_BRANCH;
+const travisBranch = process.env.TRAVIS_BRANCH;
 
-//if(travisBranch == "master") {
-//    travisScript.runAll();
-//}
-//else {
-travisScript.testsOnly();
-//}
+if(travisBranch == "master") {
+  travisScript.runAll();
+}
+else {
+  travisScript.testsOnly();
+}
 
 // Uncomment these when pushed into prod to enable the KeyCDN purging functionality
