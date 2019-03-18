@@ -65,4 +65,4 @@ Congratulations to all the participants and winners of the National Climate Chan
 
 <sub><sup>3</sup>  Green Data Centre Technology Roadmap, 2014</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2016-prize-award-ceremony-on-4-november-2016.pdf)
+
