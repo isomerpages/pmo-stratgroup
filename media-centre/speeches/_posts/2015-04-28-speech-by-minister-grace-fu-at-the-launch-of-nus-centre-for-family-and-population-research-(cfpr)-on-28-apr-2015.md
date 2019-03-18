@@ -84,4 +84,4 @@ Thank you very much and congratulations.
 
 <sub><sup>7</sup> Figures as at 2013.  Source: Population in Brief, 2014 </sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015.pdf)
+
