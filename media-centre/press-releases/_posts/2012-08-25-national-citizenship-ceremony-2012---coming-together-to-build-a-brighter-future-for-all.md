@@ -31,4 +31,3 @@ National Population and Talent Division
 Tel: 9844 1089  
 Email: [teo_yea_shi@nptd.gov.sg](teo_yea_shi@nptd.gov.sg)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-citizenship-ceremony-2012---coming-together-to-build-a-brighter-future-for-all.pdf)
