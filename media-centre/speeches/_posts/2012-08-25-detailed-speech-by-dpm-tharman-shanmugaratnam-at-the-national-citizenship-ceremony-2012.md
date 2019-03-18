@@ -51,4 +51,4 @@ Let me congratulate you once again on becoming Singapore citizens and warmly wel
 
 <sub><sup>1</sup> Mr Mui is currently working as a field technician. He contributed his thoughts on NS to the National Integration Council Secretariat.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-tharman-shanmugaratnam-at-the-national-citizenship-ceremony-2012.pdf)
+
