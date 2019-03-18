@@ -134,4 +134,3 @@ Thank you.
 <sub><sup>3</sup> Excluding Foreign Domestic Workers</sub>  
 <sub><sup>4</sup> Randstad Award 2013: Most Attractive Employer (Banking & Financial Services)</sub>  
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-on-population.pdf)
