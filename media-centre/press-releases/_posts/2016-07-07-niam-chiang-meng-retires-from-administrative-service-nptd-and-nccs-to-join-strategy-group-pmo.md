@@ -28,4 +28,3 @@ Prime Minister's Office
 
 Date: 7 July 2016 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group-pmo.pdf)
