@@ -27,4 +27,3 @@ The NCCS was set up as a dedicated agency under the Prime Minister’s Office on
 _About the National Climate Change Youth Conference (NCCYC)_  
 The NCCYC is co-organised by the National Youth Achievement Award Council of Singapore (NYAA) and the National Climate Change Secretariat (NCCS) for youths to discuss climate change and the actions that individuals, the community and businesses can take in addressing the challenges.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/dpm-teo-chee-hean-unveils-national-climate-change-action-plan.pdf)
