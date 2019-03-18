@@ -6,5 +6,3 @@ permalink: "/media-centre/press-releases/infographic-on-jubilee-marriage-and-par
 ---
 
 ![Infographic Image](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/infographicFamilyPlan.jpg)
-
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/infographicFamilyPlan.jpg)
