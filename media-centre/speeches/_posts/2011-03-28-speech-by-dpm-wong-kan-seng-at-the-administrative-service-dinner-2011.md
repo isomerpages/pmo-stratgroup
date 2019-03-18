@@ -103,4 +103,3 @@ As Administrative Officers, you play a key role. Your ability to inspire and dev
 
 Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-wong-kan-seng-at-the-administrative-service-dinner-2011.pdf)
