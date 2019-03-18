@@ -29,4 +29,3 @@ Participants can stand to win up to $5,000 in cash prizes. Four ‘Viewers’ Ch
 
 The results of the competition will be announced in November 2015.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/national-climate-change-competition-2015.pdf)
