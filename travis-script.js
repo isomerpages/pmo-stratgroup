@@ -8,5 +8,3 @@ if(travisBranch == "master") {
 else {
   travisScript.testsOnly();
 }
-
-// Uncomment these when pushed into prod to enable the KeyCDN purging functionality

@@ -5,9 +5,9 @@ date:   2017-09-11
 permalink: "/media-centre/parliamentary-replies/parents-sick-leave-entitlement"
 ---
 
-THIRTEENTH PARLIAMENT OF SINGAPORE  
+**THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER    
-MONDAY, 11 SEP 2017  
+MONDAY, 11 SEP 2017**    
 
 #### **Mr Louis Ng Kok Kwang:**
 To ask the Prime Minister whether the Ministry will consider allowing parents to use their paid sick leave entitlement to care for their sick children or allowing this at least for parents of premature, multiple births or babies with congenital illness.
