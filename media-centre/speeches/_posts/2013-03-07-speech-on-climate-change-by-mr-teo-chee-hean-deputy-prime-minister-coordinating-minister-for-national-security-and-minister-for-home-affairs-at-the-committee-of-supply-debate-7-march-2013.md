@@ -21,4 +21,4 @@ Associate Professor Fatimah Lateef has also asked about strategies to address se
 
 The Minister for Environment and Water Resources will elaborate more in his speech during COS on how Singapore is preparing for, and building capabilities to, address climate change. 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-on-climate-change-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-committee-of-supply-debate-7-march-2013.pdf)
+
