@@ -17,18 +17,18 @@ Integration and Naturalisation Champions and Grassroots Leaders
 
 Ladies and gentlemen,    
 
-1. Good evening. It is my pleasure to be here at the PA INClusive Awards Ceremony and Appreciation Nite 2018.
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Good evening. It is my pleasure to be here at the PA INClusive Awards Ceremony and Appreciation Nite 2018.
 
 <h3 id="the-importance-of-integration-in-an-increasingly-divided-world"> The Importance of Integration in an Increasingly Divided World</h3>     
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation &nbsp;&nbsp;&nbsp;&nbsp; Champions, or INCs, in promoting community integration. Integration between locals and immigrants &nbsp;&nbsp;&nbsp;&nbsp; may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to &nbsp;&nbsp;&nbsp;&nbsp; promote harmonious living between people of different cultures and backgrounds.  
+2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and backgrounds.  
  
-&nbsp;&nbsp;&nbsp;&nbsp; 3. Around the world, we witness many instances of people who have become more inward-looking &nbsp;&nbsp;&nbsp;&nbsp; because globalization has threatened their livelihoods and they become more anxious about their &nbsp;&nbsp;&nbsp;&nbsp; future. This has trickle-down effects on their daily encounters with foreigners and immigrants. In &nbsp;&nbsp;&nbsp;&nbsp; the most extreme instances, this has resulted in violence, uncertainty and unrest.
+3. Around the world, we witness many instances of people who have become more inward-looking because globalization has threatened their livelihoods and they become more anxious about their future. This has trickle-down effects on their daily encounters with foreigners and immigrants. In the most extreme instances, this has resulted in violence, uncertainty and unrest.
 
-&nbsp;&nbsp;&nbsp;&nbsp; 4. For instance, after Brexit, there was an increase in racist and religious hate crimes, many of &nbsp;&nbsp;&nbsp;&nbsp; which were against immigrants. Anti-migrant protests were also held in some parts of Europe, with &nbsp;&nbsp;&nbsp;&nbsp; some turning violent and leading to casualties. 
-&nbsp;&nbsp;&nbsp;&nbsp; **Singapore’s current state of social harmony is something that we cherish, but we know that it doesn’t come easy and we cannot take it for granted.**    
+4. For instance, after Brexit, there was an increase in racist and religious hate crimes, many of which were against immigrants. Anti-migrant protests were also held in some parts of Europe, with some turning violent and leading to casualties. 
+**Singapore’s current state of social harmony is something that we cherish, but we know that it doesn’t come easy and we cannot take it for granted.**    
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5. We remain open as a global city and welcome those who can make a contribution to our economy and &nbsp;&nbsp;&nbsp;&nbsp; society.  We strive for a workforce where locals and foreigners complement each other, and which &nbsp;&nbsp;&nbsp;&nbsp; together make Singapore a winner in the battle for economic competitiveness.
+5. We remain open as a global city and welcome those who can make a contribution to our economy and society. We strive for a workforce where locals and foreigners complement each other, and which together make Singapore a winner in the battle for economic competitiveness.
 
 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
 
