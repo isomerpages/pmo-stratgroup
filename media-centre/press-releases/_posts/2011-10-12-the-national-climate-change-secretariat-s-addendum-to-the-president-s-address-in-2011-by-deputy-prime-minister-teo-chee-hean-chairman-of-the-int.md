@@ -23,4 +23,3 @@ We need a national effort to address climate change. The people, private and pub
 
 Together, we will strengthen our readiness to address climate change and grow Singapore along a sustainable, low-carbon pathway for ourselves and our future generations.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/the-national-climate-change-secretariat-s-addendum-to-the-president-s-address-in-2011-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-int.pdf)
