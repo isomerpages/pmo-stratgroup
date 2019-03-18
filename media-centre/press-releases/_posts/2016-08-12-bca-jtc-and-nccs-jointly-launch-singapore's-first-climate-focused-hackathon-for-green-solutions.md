@@ -44,4 +44,3 @@ Funding and test-bed opportunities are available for teams with promising soluti
 
 <sub><sup>1</sup> Emissions Intensity is defined as greenhouse gas emissions per $GDP</sup>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/bca-jtc-and-nccs-jointly-launch-singapore's-first-climate-focused-hackathon-for-green-solutions.pdf)
