@@ -86,4 +86,4 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 
 <sub><sup>15</sup> eBay Inc. (31 July, 2014). “Building a Stronger, Better, More Diverse eBay”. [http://blog.ebay.com/building-stronger-better-diverse-ebay/](http://blog.ebay.com/building-stronger-better-diverse-ebay/)</sub>
 
-[Download as PDF](empty)
+
