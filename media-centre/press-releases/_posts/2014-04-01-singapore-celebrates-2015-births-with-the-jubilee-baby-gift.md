@@ -110,4 +110,3 @@ Member, Jubilee Baby Gift Advisory Panel</td>
   
   </table>
   
-  [Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-celebrates-2015-births-with-the-jubilee-baby-gift.pdf)
