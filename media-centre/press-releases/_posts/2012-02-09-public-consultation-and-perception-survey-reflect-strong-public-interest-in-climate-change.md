@@ -30,4 +30,4 @@ The NCCS was set up as a dedicated agency under the Prime Minister’s Office wi
 _About the National Climate Change Strategy 2012 (NCCS-2012)_  
 The National Climate Change Strategy 2012 (NCCS-2012) is a document being produced by NCCS and the IMCCC agencies. Planned for release in mid-2012, the NCCS-2012 will explain Singapore’s efforts to reduce emissions, studies to understand the impacts of climate change, the opportunities arising from climate change, as well as the collective effort and partnerships needed with all stakeholders to effectively address the issues and plans for climate change.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/public-consultation-and-perception-survey-reflect-strong-public-interest-in-climate-change.pdf)
+
