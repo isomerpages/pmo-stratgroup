@@ -32,7 +32,7 @@ Ladies and gentlemen,
 
 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
 
-### INC's Role in Community Integration
+&nbsp;&nbsp;&nbsp;&nbsp; ### INC's Role in Community Integration
     
 7. However, it’s not just about our economy and workforce.  On the social front, it does not take much to trigger negative sentiments.  With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
 
@@ -48,7 +48,7 @@ Ladies and gentlemen,
 
 13. Over the past three years, PA has also organised around 260 RC/NC chit-chat sessions. These sessions bring new immigrants and their neighbours together in an informal setting to better understand and appreciate each other’s cultural practices and customs. To support the INCs’ efforts, PA will step up its efforts and organise another 100 RC/NC chit-chat sessions this year.
 
-    ### Recognising Outstanding IN Committees and Projects
+&nbsp;&nbsp;&nbsp;&nbsp; ### Recognising Outstanding IN Committees and Projects
     
 14. This evening, we recognise 25 IN Committees and 17 projects for their outstanding efforts in promoting community integration. My heartiest congratulations to all the winners! I would like to make special mention of two exceptional projects.
 
@@ -58,7 +58,7 @@ Ladies and gentlemen,
 
 17. These are just two examples of the wide range of inspiring work that INCs are doing to promote community integration. Thank you champions, for your dedication and contributions!
 
-    ### Conclusion
+&nbsp;&nbsp;&nbsp;&nbsp; ### Conclusion
 
 18. Integration is a never-ending journey, both for newcomers adapting to existing norms, and for locals learning to embrace our expanded communities.  It takes effort on both sides.  Without bridge-builders like our Integration and Naturalisation Champions, many will not get started.
 
