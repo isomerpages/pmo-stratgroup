@@ -87,4 +87,4 @@ Thank you.
 
 <sub><sup>18</sup>Working mothers who engage the help of parents, grandparents, parents-in-law or grandparents-in-law to care for their children under 12 years of age, can qualify for tax relief of up to $3,000 for one caregiver per calendar year.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-lunch-dialogue-session-for-the-institute-of-policy-studies-(ips)-on-22-jan-2018.pdf)
+
