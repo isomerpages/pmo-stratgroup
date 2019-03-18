@@ -62,4 +62,3 @@ And the third piece is how to ensure a high quality living environment for Singa
 
 Thank you very much
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/dpm-teo-chee-hean-at-the-2013-marriage-and-parenthood-package-press-conference.pdf)
