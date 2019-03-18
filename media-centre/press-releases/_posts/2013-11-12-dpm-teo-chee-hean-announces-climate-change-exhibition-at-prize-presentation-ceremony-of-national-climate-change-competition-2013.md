@@ -23,4 +23,3 @@ More details on the climate change exhibition are at [Annex B.](https://github.c
 
 Issued by the [National Climate Change Secretariat](https://www.nccs.gov.sg)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/dpm-teo-chee-hean-announces-climate-change-exhibition-at-prize-presentation-ceremony-of-national-climate-change-competition-2013.pdf)
