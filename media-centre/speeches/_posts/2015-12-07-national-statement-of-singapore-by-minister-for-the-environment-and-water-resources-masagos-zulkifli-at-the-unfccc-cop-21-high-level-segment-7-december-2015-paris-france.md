@@ -43,4 +43,4 @@ Mr President, I conclude with an assurance to you of Singapore’s commitment an
 
 <sub><sup>3</sup> Source: IEA Key World Energy Statistics, 2014.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/national-statement-of-singapore-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-unfccc-cop-21-high-level-segment-7-december-2015-paris-france.pdf)
+
