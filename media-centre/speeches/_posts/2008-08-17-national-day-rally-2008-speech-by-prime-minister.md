@@ -930,4 +930,4 @@ This is what drives us to do the best for Singapore, whatever the uncertainties 
   c. Then we will create even more extraordinary opportunities for a new generation
   d. Together, our children will write more glorious chapters of the Singapore story
  
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/national-day-rally-2008-speech-by-prime-minister/)
+
