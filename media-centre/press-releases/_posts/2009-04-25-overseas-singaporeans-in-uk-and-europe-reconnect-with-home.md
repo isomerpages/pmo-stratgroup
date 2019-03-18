@@ -29,5 +29,3 @@ National Population Secretariat
 Tel: 63253250 Fax: 63253200  
 Mobile: 98713652  
 Email: <a href="mailto:adeline_kwok@nps.gov.sg">adeline_kwok@nps.gov.sg</a>
-
-[Download as PDF]({{site.baseurl}}/files/press-releases/overseas-singaporeans-in-uk-and-europe-reconnect-with-home.pdf)
