@@ -182,4 +182,4 @@ Our vision requires conviction and choice. It will take all of our collective ef
 [Summary of support measures for marriage and parenthood - Infographic (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2016-infographic.pdf)
 [Details of key initiatives to support Singaporean families - Factsheet (342kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2016-factsheet.pdf)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/senior-minister-of-state-josephine-teo's-speech-on-population-delivered-at-the-committee-of-supply-13-apr-2016.pdf)
+
