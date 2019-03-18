@@ -102,4 +102,3 @@ Under the enhanced M&P Package, Singaporean couples would be able to claim the h
 
 In terms of the Baby Bonus and other measures in the enhanced M&P Package, such as the extended maternity leave, new infant care leave and additional childcare leave, and the increased infant care and childcare subsidies, the implementation date was originally set at 1 Jan 2009 to enable the relevant legislative and administrative changes to be carried out.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/qualifying-date-for-enhanced-marriage-and-parenthood-package-moved-to-17-aug-08.pdf)
