@@ -106,4 +106,3 @@ Thank you once again!
 
 <sub><sup>[1]</sup> Based on data on ever-married citizen females of the 1965 – 1970 birth cohorts. (Source: Department of Statistics, published in Population in Brief, 2017)</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-josephine-teo-at-the-famchamps-awards-on-30-june-2018.pdf)
