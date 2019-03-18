@@ -62,4 +62,3 @@ Thank you and I wish everyone a fulfilling and enjoyable Conference.
 
 <sub><sup>2</sup> The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7).</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-national-climate-change-youth-conference-on-14-june-2012.pdf)
