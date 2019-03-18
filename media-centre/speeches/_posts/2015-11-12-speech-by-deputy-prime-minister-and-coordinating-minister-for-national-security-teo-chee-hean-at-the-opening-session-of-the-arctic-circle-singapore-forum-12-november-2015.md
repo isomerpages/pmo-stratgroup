@@ -85,7 +85,7 @@ I wish all of you a very fruitful Forum. Thank you.
 
 <sub><sup>7</sup> MPA has recognised eight classification societies to carry out the appropriate surveys and certifications: American Bureau of Shipping, Bureau Veritas, China Classification Society, DNV-GL, Korean Register of Shipping, Lloyd’s Register, Nippon Kaiji Kyokai, and Registro Italiano Navale. </sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015.pdf)
+
 
 
 
