@@ -50,4 +50,4 @@ of regular reports on the progress they have made in this important area.
 In closing, I encourage all of us to continue to champion and prioritise leadership diversity. Greater diversity enables our companies and organisations to be more adaptive, and our society to be more progressive. We have made good progress in our 50-year history, and the best years lie ahead. I am certain that our efforts to promote female leadership will build a strong foundation for the generations of women 
 leaders to come. Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-women-in-leadership-summit-on-29-jan-2015.pdf)
+
