@@ -44,4 +44,3 @@ National Population and Talent Division
 Tel: 6325 3237 / 9822 7018   
 Email: [chung_cui_yi@nptd.gov.sg](mailto:chung_cui_yi@nptd.gov.sg)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/government-seeks-public's-views-on-population-issues.pdf)
