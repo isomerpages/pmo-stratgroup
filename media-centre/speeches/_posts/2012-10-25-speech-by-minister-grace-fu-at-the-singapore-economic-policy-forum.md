@@ -82,4 +82,4 @@ Our strength as a country is that we have been able to look beyond our constrain
 
 As we forge a common future together, there are many paths ahead which we can choose. All of you here today represent an important group that will help us shape the future of Singapore. I encourage you to participate actively as we work together to create a vibrant Singapore that we and our children are proud to live, work and play in. Thank you.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-singapore-economic-policy-forum.pdf)
+
