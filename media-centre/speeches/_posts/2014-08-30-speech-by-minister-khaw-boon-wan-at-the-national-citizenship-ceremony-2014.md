@@ -49,4 +49,4 @@ Singapore is our home. Let us embrace the spirit of tenacity and enterprise to o
 
 Once again, welcome to the Singapore family.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-khaw-boon-wan-at-the-national-citizenship-ceremony-2014.pdf)
+
