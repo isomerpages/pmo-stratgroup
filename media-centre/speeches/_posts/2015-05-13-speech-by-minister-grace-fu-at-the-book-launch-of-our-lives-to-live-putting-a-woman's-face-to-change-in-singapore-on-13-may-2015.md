@@ -59,4 +59,4 @@ We will also help older women have greater peace of mind in saving for retiremen
 
 Singaporean women, young and old, are contributing to the nation in important ways – as businesswomen, entrepreneurs, artistes, sportswomen, firewomen – I could go on. We welcome the ideas, energy and commitment of Singaporean women, to build upon the legacy of the women who have paved the way for us. The range of views in “Our Lives to Live” reflects the diversity, depth and strength of women in Singapore.  We can be truly proud of the tremendous progress that we have made in the last fifty years, and look forward with confidence to a Singapore that offers an even brighter future for our daughters and granddaughters.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-book-launch-of-our-lives-to-live-putting-a-woman's-face-to-change-in-singapore-on-13-may-2015.pdf)
+
