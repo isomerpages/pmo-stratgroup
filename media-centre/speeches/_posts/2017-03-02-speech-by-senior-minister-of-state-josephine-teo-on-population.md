@@ -159,4 +159,4 @@ Thank you, Madam Chair.
 
 [Infographic](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2017-infographic.pdf)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-senior-minister-of-state-josephine-teo-on-population.pdf)
+
