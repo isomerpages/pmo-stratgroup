@@ -29,4 +29,3 @@ Executive, Corporate Communications
 National Population and Talent Division   
 Email: [chung_cui_yi@nptd.gov.sg](mailto:chung_cui_yi@nptd.gov.sg)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-citizenship-ceremony-2011---working-together-to-build-a-shared-future.pdf)
