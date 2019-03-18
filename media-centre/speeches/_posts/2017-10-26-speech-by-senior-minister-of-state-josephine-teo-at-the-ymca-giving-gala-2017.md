@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speech by Senior Minister of State Josephine Teo at the YMCA Giving Gala 2017"
+title:  "Speech by Minister of State Josephine Teo at the YMCA Giving Gala 2017"
 date:   2017-10-26
 permalink: "/media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-ymca-giving-gala-2017"
 ---
