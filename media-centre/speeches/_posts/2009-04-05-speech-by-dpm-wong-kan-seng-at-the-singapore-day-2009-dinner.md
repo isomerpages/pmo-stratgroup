@@ -31,4 +31,4 @@ In this global economic downturn, it is important that Singaporeans overseas sta
 
 I wish you all a wonderful evening. Thank you.
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2009-dinner/)
+
