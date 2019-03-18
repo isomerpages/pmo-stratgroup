@@ -37,4 +37,4 @@ Today, I have asked more questions than I have answered about the future of Sing
 
 <sub><sup>1</sup> Burst of the global dot-com bubble in 2001 and SARS in 2003-2004.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-ips-forum.pdf)
+
