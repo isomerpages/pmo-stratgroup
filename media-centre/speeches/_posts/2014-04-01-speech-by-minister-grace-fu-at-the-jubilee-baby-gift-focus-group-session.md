@@ -39,4 +39,3 @@ The family has always been, and will continue to be, the cornerstone of our Sing
 
 I would like to thank all of you for taking the time to come down tonight to share your suggestions on The Jubilee Baby Gift. I hope that many more Singaporeans will get into the spirit of gift-giving and participate in this community initiative, either online or at the various feedback booths around Singapore. I am really excited to listen to your group discussions tonight and look forward to see what the final Jubilee Baby Gift will be like.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-jubilee-baby-gift-focus-group-session.pdf)
