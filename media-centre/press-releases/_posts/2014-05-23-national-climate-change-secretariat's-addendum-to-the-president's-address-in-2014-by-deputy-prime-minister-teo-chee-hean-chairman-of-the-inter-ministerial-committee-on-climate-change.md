@@ -24,6 +24,4 @@ Everyone has a part to play to ensure that Singapore adapts and thrives in a low
 
 Together, we will strengthen our capabilities and readiness to address climate change and develop Singapore along a sustainable pathway for the benefit of present and future generations.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-climate-change-secretariat's-addendum-to-the-president's-address-in-2014-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change.pdf)
-
 
