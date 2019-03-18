@@ -59,4 +59,4 @@ To conclude, the late Dr Albert Winsemius, a UN advisor who helped to formulate 
 
 Thank you Excellencies.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/national-statement-by-minister-for-the-environment-and-water-resources-of-the-republic-of-singapore-dr-vivian-balakrishnan-at-the-united-nations-sustainable-development-summit.pdf)
+
