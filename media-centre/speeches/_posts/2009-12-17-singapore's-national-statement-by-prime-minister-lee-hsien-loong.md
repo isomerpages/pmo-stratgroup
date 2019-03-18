@@ -39,4 +39,4 @@ At this conference, we have a collective responsibility to make significant prog
 
 Thank you Mr President.
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/speeches/article/GetPdf/singapore's-national-statement-by-prime-minister-lee-hsien-loong/)
+
