@@ -110,4 +110,3 @@ I wish you all a fruitful discussion today. Thank you.
 
 <sub><sup>1</sup> The population sizes of the cities are - New York: 8.39 million, London: 7.80 million, Tokyo: 8.41 million, Hong Kong: 7.03 million.<sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-perspectives-2011-conference.pdf)
