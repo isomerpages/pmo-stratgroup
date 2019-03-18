@@ -93,4 +93,4 @@ While we have made some progress over the years, we should do more to ensure gre
 
 <sub><sup>12</sup> P&G is a US-based MNC, ranked as the 40th largest global company and one of the 100 most innovative companies in the world by Forbes in 2014. 45% of its board members (five out of 11) are female. Info on the Singapore based office from “Flexibility in the workplace”, a report that showcases companies that won the “Best Companies for Mums” 2013 award by NTUC.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-launch-of-the-singapore-board-diversity-report-on-29-oct-2014.pdf)
+
