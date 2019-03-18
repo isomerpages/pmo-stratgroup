@@ -21,7 +21,7 @@ Ladies and gentlemen,
 
     ### **The Importance of Integration in an Increasingly Divided World**
 
- 2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation     Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as   spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of   different cultures and backgrounds.
+ 2. We are here today to celebrate and recognise the efforts of our Integration and Naturalisation Champions, or INCs, in promoting community integration. Integration between locals and immigrants may not happen as spontaneously as we like, and I appreciate the efforts made by all our INCs to promote harmonious living between people of different cultures and backgrounds.
  
  3. Around the world, we witness many instances of people who have become more inward-looking because globalization has threatened their livelihoods and they become more anxious about their future. This has trickle-down effects on their daily encounters with foreigners and immigrants. In the most extreme instances, this has resulted in violence, uncertainty and unrest.
 
@@ -29,15 +29,15 @@ Ladies and gentlemen,
 
  5. We remain open as a global city and welcome those who can make a contribution to our economy and society. We strive for a workforce where locals and foreigners complement each other, and which together make Singapore a winner in the battle for economic competitiveness.
 
- 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean.   We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met.  They are expected to practise Fair Consideration; those that do not are taken to task.  We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives.  These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
+ 6. We strike a careful balance in our foreign manpower policy between meeting the manpower needs of businesses while not reducing their motivation to become more manpower-lean. We have many programmes to support businesses to become more productive and less manpower-reliant. Every business that hires foreign employees knows there are conditions to be met. They are expected to practise Fair Consideration; those that do not are taken to task. We give Singaporeans extra support so they can better access job opportunities, such as through Adapt and Grow initiatives. These efforts complement one another in maintaining a sense of harmony in our diverse workforce.
 
-    ### **INC's Role in Community Integration**
+    ### **INCs' Role in Community Integration**
 
- 7. However, it’s not just about our economy and workforce.  On the social front, it does not take much to trigger negative sentiments.  With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
+ 7. However, it’s not just about our economy and workforce. On the social front, it does not take much to trigger negative sentiments. With the widespread use of social media and the relative anonymity it provides, negative sentiments evoking an “us” versus “them” mentality can easily go viral, and spread far more widely and easily than before.
 
  8. Ideally, people will embrace one another and naturally build communities of trust.  Our attitude can be to just let things sort themselves out, but that carries a lot of risk as some countries have discovered belatedly. 
 
- 9. In reality, it is always easier for people to stick with the familiar and maintain a distance from those they feel are not the same as themselves.  The gaps widen whenever there are divisive issues. Beyond a certain point, once people have made up their minds to dislike and distrust one another, it’s very hard to bring them together again.  That is why we started the National Integration Council in 2009 to specifically address the integration of locals, foreigners and immigrants. 
+ 9. In reality, it is always easier for people to stick with the familiar and maintain a distance from those they feel are not the same as themselves.  The gaps widen whenever there are divisive issues. Beyond a certain point, once people have made up their minds to dislike and distrust one another, it’s very hard to bring them together again. That is why we started the National Integration Council in 2009 to specifically address the integration of locals, foreigners and immigrants. 
 
 10. Together with partners in the community, workplaces, schools and the media, INCs have helped many more people to be aware of the potential fault lines and encouraged them to make a conscious effort to nurture bonds between people who do not naturally come together.  As a result, we can better rely on ground-up efforts to snuff out the flames that incite disharmony.
 
@@ -59,9 +59,9 @@ Ladies and gentlemen,
 
     ### **Conclusion**
 
-18. Integration is a never-ending journey, both for newcomers adapting to existing norms, and for locals learning to embrace our expanded communities.  It takes effort on both sides.  Without bridge-builders like our Integration and Naturalisation Champions, many will not get started.
+18. Integration is a never-ending journey, both for newcomers adapting to existing norms, and for locals learning to embrace our expanded communities. It takes effort on both sides. Without bridge-builders like our Integration and Naturalisation Champions, many will not get started.
 
-19. For our integration efforts to be effective and sustainable, we must seek ways to multiply our efforts and build capacity in our community.  Congratulations to all the award winners tonight and keep up your good work!
+19. For our integration efforts to be effective and sustainable, we must seek ways to multiply our efforts and build capacity in our community. Congratulations to all the award winners tonight and keep up your good work!
 
 20. I also strongly encourage all our INCs to actively seek opportunities to partner with other community organisations and groups, such as immigrant associations, schools and companies. Together, we can pool our resources to embark on more initiatives, and reach out to a wider community.
 
