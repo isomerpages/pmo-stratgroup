@@ -33,4 +33,3 @@ The public also had the opportunity to try out the new Nissan LEAF at the Marina
 
 Jointly issued by the [Singapore Environment Council](http://www.sec.org.sg/web/) and the National Climate Change Secretariat
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon.pdf)
