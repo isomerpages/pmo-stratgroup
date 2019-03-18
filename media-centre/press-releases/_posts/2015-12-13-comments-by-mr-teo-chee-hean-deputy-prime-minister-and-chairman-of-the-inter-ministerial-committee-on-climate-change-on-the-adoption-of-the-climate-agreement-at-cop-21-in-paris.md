@@ -13,4 +13,3 @@ We are honoured that Singapore has contributed to the success of the talks. Our 
 
 With the agreement adopted, Singapore will work towards our pledge to reduce our emissions intensity by 36 per cent from 2005 levels by 2030, and to stabilise our emissions with the aim of peaking around 2030."
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/comments-by-mr-teo-chee-hean-deputy-prime-minister-and-chairman-of-the-inter-ministerial-committee-on-climate-change-on-the-adoption-of-the-climate-agreement-at-cop-21-in-paris.pdf)
