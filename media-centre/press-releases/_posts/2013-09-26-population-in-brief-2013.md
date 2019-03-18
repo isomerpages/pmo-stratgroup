@@ -17,4 +17,3 @@ Growth in the non-­resident population slowed, mainly due to slower foreign emp
 
 More Singaporeans are getting married, and our birth rates have improved. Our resident Total Fertility Rate (TFR) increased from 1.20 in 2011 to 1.29 in 2012, with improvements seen across all ethnic groups.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/population-in-brief-2013.pdf)
