@@ -136,4 +136,3 @@ Thank you.
 
 Source: [Public Service Division](https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-2017)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-debate-2-march-2017.pdf)
