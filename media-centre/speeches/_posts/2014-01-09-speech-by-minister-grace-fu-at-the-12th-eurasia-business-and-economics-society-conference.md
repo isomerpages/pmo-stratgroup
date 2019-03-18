@@ -93,4 +93,3 @@ Thank you.
 
 <sub><sup>8</sup> Source: Urban World: Mapping the Economic Power of Cities. McKinsey Global Institute, 2012.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-at-the-12th-eurasia-business-and-economics-society-conference.pdf)
