@@ -162,4 +162,4 @@ How can we manage our population and immigration policy to give the many young J
 In closing, what is my hope for Singapore? I would like to see Joelle and Michelle happy to go school, find an exciting career ahead of them in Singapore, feel confident about their future to find the loves of their lives and have children of their own. It is the continuation of the Singapore story, one that has brought us to where we are today. Our proposal today is to give Joelle and Michelle as many options as possible; this is to ensure that we as a people will continue to be united and strong; that as a country, Singapore remains an attractive place to live, work and play; that our children and their children will find this country a place worth fighting for. To realize this dream, I believe in building a strong Singaporean core, creating good opportunities for Singaporeans and planning and building a high quality living environment.
 
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-minister-grace-fu-on-population-white-paper.pdf)
+
