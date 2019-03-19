@@ -136,7 +136,7 @@ c. Besides the Budget, many other measures to help needy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. ComCare and Medifund (+ Medifund Silver)    
 &nbsp;&nbsp;&nbsp; iii. For retirees  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)    
-&nbs2. Will help preserve the value of your savings for old age      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Will help preserve the value of your savings for old age      
 
 d. Overall, $3 bn of help from Government this year
 
