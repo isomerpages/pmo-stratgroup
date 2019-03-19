@@ -11,4 +11,4 @@ Driving Forces 2035 is a deck of cards produced by the [Centre for Strategic Fut
 
 Download:
 
-* [Driving Forces Cards 2035](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/m-p-booklet.pdf)
+* [Driving Forces Cards 2035](https://github.com/isomerpages/isomerpages-stratgroup/blob/master/images/PublicationImages/driving-forces-cards-2035.pdf)
