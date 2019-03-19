@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Statement by Senior Minister S Jayakumar at the Closing Plenary of the UNFCCC Conference of the Parties (COP-16) High Level Segment in Cancun, 11 December 2010"
-date:   2011-12-11
-permalink: "/media-centre/speeches/statement-by-senior-minister-s-jayakumar-at-the-closing-plenary-of-the-unfccc-conference-of-the-parties-(cop-16)-high-level-segment-in-cancun-11-december-201"
+date:   2010-12-11
+permalink: "/media-centre/speeches/statement-by-senior-minister-s-jayakumar-at-the-closing-plenary-of-the-unfccc-conference-of-the-parties-(cop-16)-high-level-segment-in-cancun-11-december-2010"
 ---
 
 
