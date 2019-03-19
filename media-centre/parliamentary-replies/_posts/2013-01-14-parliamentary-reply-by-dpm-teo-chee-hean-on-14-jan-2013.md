@@ -21,12 +21,11 @@ Table 1 shows the average number of children born to ever-married women in 2011,
 
 Table 1: Average Number of Children Born to Ever-Married Females by Age Group and Residency Status, 2011
 
-<table class="table-h">  <tr>    <th>Age Group</th>    <th>30-39</th> <th>40-49</th> </tr>  
-<tr>    <th>Residents</th>    <th>1.46</th> <th>1.99</th>  </tr>  
-<tr>    <td>- Citizens</td>    <td>1.52</td> <td>2.06</td>   </tr>
-<tr>    <td>- PRs</td>    <td>1.37</td> <td>1.71</td>   </tr>
-
-</table>
+| Age Group  | 30-39 | 40-49 |
+|------------|-------|-------|
+| <b>Residents</b>  | <b>1.46</b>  | <b>1.99 </b>|
+| - Citizens | 1.52  | 2.06  |
+| - PRs      | 1.37  | 1.71  |
 
 Birth trends are influenced by many factors, such as economic conditions, age profile, educational profile, labour force participation, as well as personal decisions and societal mindsets. As such, we are unable to accurately predict how the fertility rates of different population segments would develop over time.
 
