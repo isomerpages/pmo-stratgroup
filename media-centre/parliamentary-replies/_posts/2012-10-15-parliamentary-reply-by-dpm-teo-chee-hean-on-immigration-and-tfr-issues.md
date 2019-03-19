@@ -21,19 +21,9 @@ Immigration delays the ageing and decline of our citizen population. The effects
 
 Table 1: Characteristics of Citizen Population under Various Scenarios
 
-<table class="table-h">  <tr>    <th> </th>    <th colspan="6"> Scenario </th>  </tr>
 
-<tr>    <td rowspan="2"> </td>    <td rowspan="2">2012</td> <td rowspan="2">Replacement TFR 2.1</td> <td colspan="4"> Number of new SCs granted per year</td> </tr> 
+[15Oct2012PqTable](isomerpages-stratgroup/images/parliamentary files/15 oct 2012 PQ table.PNG)
 
-<tr>    <td>0 </td> <td>15,000 </td> <td>20,000 </td> <td>25,000 </td> </tr>
-
-<tr>    <td>Share of citizens aged 65 & above in 2030 (%)</td> <td>11</td> <td>24</td> <td>27</td> <td>25</td> <td>24</td>
-<td>23</td> </tr>
-
-<tr>    <td>Median age in 2030 (yrs)</td> <td>39.6</td> <td>42.8</td> <td>46.9</td> <td>45.4</td> <td>44.9</td>
-<td>44.4</td> </tr>
-
-</table>
 
 [Note: Please refer to NPTD Occasional Paper on Citizen Population Scenarios for more information]
 
