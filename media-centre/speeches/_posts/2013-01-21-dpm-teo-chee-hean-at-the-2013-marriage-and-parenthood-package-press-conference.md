@@ -60,5 +60,5 @@ For the population challenge as a whole, the next major piece has to do with how
 
 And the third piece is how to ensure a high quality living environment for Singaporeans. So these are the 3 major pieces of the population challenge. We hope to address these next 2 pieces next week, and to have a good debate in Parliament before Chinese New Year.
 
-Thank you very much
+Thank you very much.
 
