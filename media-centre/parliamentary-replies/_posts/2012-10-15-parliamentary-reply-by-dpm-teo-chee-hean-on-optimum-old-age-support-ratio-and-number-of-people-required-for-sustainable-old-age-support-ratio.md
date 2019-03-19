@@ -35,7 +35,7 @@ Table 1: International Comparison of Old-Age Support Ratio Country
 <tr>    <td>Netherlands</td>    <td>4.0</td>  </tr>
 <tr>    <td>Norway</td>    <td>4.1</td>  </tr>
 <tr>    <td>Luxembourg</td>    <td>4.5</td>  </tr>
-<tr>    <td>United States of Americe</td>    <td>4.6</td>  </tr>
+<tr>    <td>United States of America</td>    <td>4.6</td>  </tr>
 </table>
 
 _Source: United Nations, World Population Prospects: The 2010 Revision_
