@@ -66,5 +66,3 @@ Deputy Prime Minister and Minister-in-charge of the National Population and Tale
 ![family](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/family032b845b617a6d73a304ff0000443480.png)
 
 Singaporeans at Singapore Day 2012 enjoying a mouth-watering range of local hawker favourites such as black pepper crab, satay, chicken rice and roti prata.
-
-High resolution visuals may be downloaded from: [https://rcpt.yousendit.com/1463262351/af7929580b74e77a813788b77c1739aa](https://rcpt.yousendit.com/1463262351/af7929580b74e77a813788b77c1739aa)
