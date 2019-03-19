@@ -65,34 +65,34 @@ d. When the global economy recovers, we will bounce back up
 Hottest issue for Singaporeans is the rising cost of living
 
 a. Inflation is a worldwide problem  
-&nbsp; i. Price of oil (Slide 1)  
-&nbsp; &nbsp; 1. 8 years ago – US$20 per barrel   
-&nbsp; &nbsp; 2. Today – around US$110 per barrel    
-&nbsp; ii. Price of rice (Slide 2)    
-&nbsp; &nbsp; 1. 8 years ago – US$200 per ton  
-&nbsp; &nbsp; 2. Today – around US$800 per ton
+&nbsp;&nbsp;&nbsp; i. Price of oil (Slide 1)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 8 years ago – US$20 per barrel   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Today – around US$110 per barrel    
+&nbsp;&nbsp;&nbsp; ii. Price of rice (Slide 2)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 8 years ago – US$200 per ton  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Today – around US$800 per ton
         
 b. People are agitated all over the world  
-&nbsp; i. Demonstrating and rioting  
+&nbsp;&nbsp;&nbsp; i. Demonstrating and rioting  
     
      
-&nbsp; &nbsp; 1. In Europe   
-&nbsp; &nbsp; &nbsp;  a. Truckers in France (Slide 3)      
-&nbsp; &nbsp; &nbsp;  b. Farmers in Spain (Slide 4)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. In Europe   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. Truckers in France (Slide 3)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  b. Farmers in Spain (Slide 4)
  
-&nbsp; &nbsp; 2. In Asia   
-&nbsp; &nbsp; &nbsp; a. Fuel protests in Indonesia (Slide 5)  
-&nbsp; &nbsp; &nbsp; b. Food protests in Pakistan (Slide 6)  
-&nbsp; &nbsp; &nbsp; c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
-&nbsp; ii. In Singapore    
-&nbsp; &nbsp; 1. Fortunately, we have plenty of rice (Slide 8)  
-&nbsp; &nbsp; 2. No protests or demonstrations  
-&nbsp; &nbsp; 3. But I know people are also unhappy about price increases  
-&nbsp; &nbsp; 4. Many pictures on the internet. My favourite (Slide 9) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. In Asia   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Fuel protests in Indonesia (Slide 5)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Food protests in Pakistan (Slide 6)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Rice protests in Philippines, with long queues for subsidised rice (Slide 7)  
+&nbsp;&nbsp;&nbsp; ii. In Singapore    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Fortunately, we have plenty of rice (Slide 8)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. No protests or demonstrations  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. But I know people are also unhappy about price increases  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Many pictures on the internet. My favourite (Slide 9) 
 
 c. Completely understand how Singaporeans feel      
-&nbsp; i. But we should react rationally  
-&nbsp; ii. Understand why it is happening to us, and what we can do about it  
+&nbsp;&nbsp;&nbsp; i. But we should react rationally  
+&nbsp;&nbsp;&nbsp; ii. Understand why it is happening to us, and what we can do about it  
 
 We cannot prevent prices from rising in Singapore  
 
@@ -100,43 +100,43 @@ a. We import most of our food, except a few eggs and some fish
 b. We import all our fuel, and produce all our electricity from imported oil and natural gas    
 c. When world prices go up, how do we keep our rice, petrol, or electricity prices down?    
 d. In terms of dollars, wages have not gone down    
-&nbsp; i. Most workers are earning more dollars this year  
-&nbsp; ii. Last year was a good year; wages and bonuses went up    
-&nbsp; iii. But when we spend money, we find that each dollar has shrunk    
+&nbsp;&nbsp;&nbsp; i. Most workers are earning more dollars this year  
+&nbsp;&nbsp;&nbsp; ii. Last year was a good year; wages and bonuses went up    
+&nbsp;&nbsp;&nbsp; iii. But when we spend money, we find that each dollar has shrunk    
 &nbsp; iv. With inflation, some of your wage increase went to you, but quite a lot went to the oil producers    
   
 e. Simply put, oil producers (e.g. Arabs and Russians) are now richer, therefore oil consumers (e. us) are now poorer  
 
 Singaporeans wish the Government would do something to keep prices from rising, e.g. just control prices, and not let them go up
 
-  a. But subsidies cost huge sums of money  
-  b. Even oil and gas producers find them hard to sustain  
-  c. Many countries have had to cut their oil subsidies recently, e.g. Indonesia, Malaysia, China and India  
+a. But subsidies cost huge sums of money  
+b. Even oil and gas producers find them hard to sustain  
+c. Many countries have had to cut their oil subsidies recently, e.g. Indonesia, Malaysia, China and India  
 
 We have not fixed electricity price; instead, we have given U-Save
 
-  a. e. top up your SingPower account with cash  
-  b. Help you directly  
-  c. Lower-income households get more – this year’s U-Save is equal to 3-6 months of their utility bills  
-  d. If you can cut down and use less electricity (or gas or water), then the U-Save money will offset your bills for an even longer time  
+a. e. top up your SingPower account with cash  
+b. Help you directly  
+c. Lower-income households get more – this year’s U-Save is equal to 3-6 months of their utility bills  
+d. If you can cut down and use less electricity (or gas or water), then the U-Save money will offset your bills for an even longer time  
 
 This year we have done more to help Singaporeans
 
-  a. Had foreseen the spike in inflation last year  
-  b. Hence made significant distribution in the Budget  
-  &nbsp; i. For all Singaporeans, but targeted at the middle-income and especially the needy  
-  &nbsp; ii. Growth Dividends, Medisave Top-ups and other relief measures  
+a. Had foreseen the spike in inflation last year  
+b. Hence made significant distribution in the Budget  
+&nbsp;&nbsp;&nbsp; i. For all Singaporeans, but targeted at the middle-income and especially the needy  
+&nbsp;&nbsp;&nbsp; ii. Growth Dividends, Medisave Top-ups and other relief measures  
 
 c. Besides the Budget, many other measures to help needy  
-&nbsp; i. For low-income workers  
-&nbsp; &nbsp; 1. Workfare to top-up their income and savings    
-&nbsp; &nbsp; 2. Special one-off payment in this year’s NWC    
-&nbsp; ii. For the destitute  
-&nbsp; &nbsp; 1. Higher Public Assistance rates    
-&nbsp; &nbsp; 2. ComCare and Medifund (+ Medifund Silver)    
-&nbsp; iii. For retirees  
-&nbsp; &nbsp; 1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)    
-&nbsp; &nbsp; 2. Will help preserve the value of your savings for old age      
+&nbsp;&nbsp;&nbsp; i. For low-income workers  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Workfare to top-up their income and savings    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Special one-off payment in this year’s NWC    
+&nbsp;&nbsp;&nbsp; ii. For the destitute  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Higher Public Assistance rates    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. ComCare and Medifund (+ Medifund Silver)    
+&nbsp;&nbsp;&nbsp; iii. For retirees  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Extra 1% interest on first $60,000 of CPF balances since 1 Jan (announced in last NDR)    
+&nbs2. Will help preserve the value of your savings for old age      
 
 d. Overall, $3 bn of help from Government this year
 
@@ -149,87 +149,87 @@ b. Growth Dividends etc. extended to them
 c. Helped with education costs, e.g. extended university and poly bursaries and topped up post-secondary education accounts      
 d. Overall strategy to help middle-income – keep taxes low, to minimise your burden  
 e. Personal income tax    
-&nbsp; i. Already lower than most other countries, including Hong Kong except for the highest income group  
-&nbsp; ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn  
+&nbsp;&nbsp;&nbsp; i. Already lower than most other countries, including Hong Kong except for the highest income group  
+&nbsp;&nbsp;&nbsp; ii. This year generous personal income tax rebate – 20%, specifically aimed at the middle-income groups, total $380 mn  
 
 f. Car-related taxes  
-&nbsp; i. Used to be a significant burden, because of high car ownership taxes  
-&nbsp; ii. Discussed this at the Economic Review Committee  
-&nbsp; iii. Decided on a major policy shift  
-&nbsp;&nbsp; 1. Reduce ownership charges and taxes, e.g. ARF, excise duties, road tax, and release more COEs  
-&nbsp;&nbsp; 2. Enable more people to afford cars  
-&nbsp;&nbsp; 3. Increase ERP to control congestion  
-&nbsp; iv. Compare 2000 with 2008 (Slide 10)  
-&nbsp;&nbsp; 1. Overall, vehicle-related revenues halved – from $6.1 bn in FY2000 to $3.4 bn this FY (2008)  
-&nbsp;&nbsp; 2. Reduced ownership charges by a huge amount  
-&nbsp;&nbsp; 3. Doubled ERP, but still very small by comparison  
-&nbsp; v. Hence more households now own cars (Slide 11)  
-&nbsp;&nbsp; 1. Overall figures – number of car owning households increased by 1/3, from 320,000 in 2000 to 430,000 this year  
-&nbsp;&nbsp; 2. For individuals – big difference when you buy a car  
-&nbsp;&nbsp; 3. Actual example of a 1.6L Toyota Corolla (Slide 12)  
-&nbsp;&nbsp;&nbsp; a. In 2000, paid $110,000 (all in + ownership charges)  
-&nbsp;&nbsp;&nbsp; b. Today, pay much less – $64,000  
-&nbsp;&nbsp;&nbsp;c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)  
-&nbsp; vi. Result – more cars around us  
-&nbsp;&nbsp; 1. Can see it in more crowded HDB car parks  
-&nbsp;&nbsp; 2. And on the roads  
+&nbsp;&nbsp;&nbsp; i. Used to be a significant burden, because of high car ownership taxes  
+&nbsp;&nbsp;&nbsp; ii. Discussed this at the Economic Review Committee  
+&nbsp;&nbsp;&nbsp; iii. Decided on a major policy shift  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Reduce ownership charges and taxes, e.g. ARF, excise duties, road tax, and release more COEs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Enable more people to afford cars  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Increase ERP to control congestion  
+&nbsp;&nbsp;&nbsp; iv. Compare 2000 with 2008 (Slide 10)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Overall, vehicle-related revenues halved – from $6.1 bn in FY2000 to $3.4 bn this FY (2008)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reduced ownership charges by a huge amount  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Doubled ERP, but still very small by comparison  
+&nbsp;&nbsp;&nbsp; v. Hence more households now own cars (Slide 11)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Overall figures – number of car owning households increased by 1/3, from 320,000 in 2000 to 430,000 this year  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. For individuals – big difference when you buy a car  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Actual example of a 1.6L Toyota Corolla (Slide 12)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. In 2000, paid $110,000 (all in + ownership charges)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Today, pay much less – $64,000  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Even though OMV is about the same (2000 - $19,000, 2008 - $17,000)  
+&nbsp;&nbsp;&nbsp; vi. Result – more cars around us  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Can see it in more crowded HDB car parks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. And on the roads  
 
 Hence need for recent increase in ERP charges
 
  a. Many people are upset    
-&nbsp; i. But have to see the bigger picture  
-&nbsp; ii. In fact, they are (unconsciously) benefitting from the overall policy to reduce car taxes, and lighten burden on them  
+&nbsp;&nbsp;&nbsp; i. But have to see the bigger picture  
+&nbsp;&nbsp;&nbsp; ii. In fact, they are (unconsciously) benefitting from the overall policy to reduce car taxes, and lighten burden on them  
   
 b. Considered carefully how to adjust ERP without increasing burden  
-&nbsp; i. Worked out a package   
-&nbsp; ii. Raised ERP but also reduced Road Tax at the same time  
-&nbsp; iii. Overall cost has actually come down  
-&nbsp; iv. Example of a 1.6L car again  
-&nbsp;&nbsp; 1. Will pay more ERP per year    
-&nbsp;&nbsp; 2. But more than offset by 15% reduction in Road Tax    
-&nbsp;&nbsp; 3. On average drivers enjoy net savings    
-&nbsp;&nbsp;&nbsp; a. ERP – pay $76 more  
-&nbsp;&nbsp;&nbsp; b. Road Tax – pay $130 less  
-&nbsp;&nbsp;&nbsp; c. Savings – $54 every year    
+&nbsp;&nbsp;&nbsp; i. Worked out a package   
+&nbsp;&nbsp;&nbsp; ii. Raised ERP but also reduced Road Tax at the same time  
+&nbsp;&nbsp;&nbsp; iii. Overall cost has actually come down  
+&nbsp;&nbsp;&nbsp; iv. Example of a 1.6L car again  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Will pay more ERP per year    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. But more than offset by 15% reduction in Road Tax    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. On average drivers enjoy net savings    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. ERP – pay $76 more  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Road Tax – pay $130 less  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Savings – $54 every year    
 
 c. People may not realise or remember    
-&nbsp; i. How much Road Tax they are paying, or paid last year   
-&nbsp; ii. Sometimes another family member pays the tax  
-&nbsp;&nbsp; 1. I asked one driver if she had received her Road Tax reduction       
-&nbsp;&nbsp; 2. She said she had to check with her husband!        
-&nbsp;&nbsp; 3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit  
+&nbsp;&nbsp;&nbsp; i. How much Road Tax they are paying, or paid last year   
+&nbsp;&nbsp;&nbsp; ii. Sometimes another family member pays the tax  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. I asked one driver if she had received her Road Tax reduction       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. She said she had to check with her husband!        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. So she does not connect the ERP charges with the road tax reduction. Her IU beeps when she goes through the ERP gantry, but there is no beep when her husband receives the road tax benefit  
 
 d. We will do more to draw the connections, and explain how the middle-income have actually benefited from government policies    
 
 Also improving public transport as alternative to cars
 
-  a. Building more rail lines  
-  b. Running some 800 more train trips per week – reducing waiting time and overcrowding during peak hours  
-  c. Improving bus services  
-  d. Making transfers more convenient, and increasing transfer rebates  
-  e. Cannot have every household owning a car, but will have a first class public transport system for everyone  
+a. Building more rail lines  
+b. Running some 800 more train trips per week – reducing waiting time and overcrowding during peak hours  
+c. Improving bus services  
+d. Making transfers more convenient, and increasing transfer rebates  
+e. Cannot have every household owning a car, but will have a first class public transport system for everyone  
 
 #### **HDB RENTAL FLATS**
 
 Besides cars and public transport, we must also pay attention to wider needs of the public
 
- a. Can get a good sense of their problems from mix of MPS cases  
- b. Not many job seekers, compared to the last recession   
+a. Can get a good sense of their problems from mix of MPS cases  
+b. Not many job seekers, compared to the last recession   
 c. Some hardship cases – we have many schemes to help them  
 d. One worrying trend – more are looking for HDB rental flats  
-&nbsp; i. Applications have tripled in a year  
-&nbsp; ii. Rental appeals now form  the bulk of their MPS cases      
+&nbsp;&nbsp;&nbsp; i. Applications have tripled in a year  
+&nbsp;&nbsp;&nbsp; ii. Rental appeals now form  the bulk of their MPS cases      
 e. HDB is building more rental flats  
 f. But not all who apply for rental flats are truly in need    
-&nbsp; i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!  
-&nbsp;&nbsp; ii.For them, rental flats are not the right solution  
-&nbsp;&nbsp;iii. Instead they should look for other viable alternatives:  
-&nbsp;&nbsp;&nbsp; 1. Rent out a room or even the whole flat  
-&nbsp;&nbsp;&nbsp; 2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
-&nbsp;&nbsp;&nbsp; 3. Move into smaller flats or studio apartments  
+&nbsp;&nbsp;&nbsp; i. e.g. one applicant (60-year-old lady) with 3 children, 2 of whom are living in private properties; her children told HDB they were prepared to hire a maid to look after their parent in the rental flat!  
+&nbsp;&nbsp;&nbsp; ii.For them, rental flats are not the right solution  
+&nbsp;&nbsp;&nbsp; iii. Instead they should look for other viable alternatives:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Rent out a room or even the whole flat  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Lease buy-back scheme for 2R and 3R flats, which will be implemented soon; or  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Move into smaller flats or studio apartments  
     
 g. MND/HDB will review the rental flat scheme  
-&nbsp; i. Keep rental flats an effective safety net for the minority of genuinely needy families, with no assets or family support
+&nbsp;&nbsp;&nbsp; i. Keep rental flats an effective safety net for the minority of genuinely needy families, with no assets or family support
 
 #### **MORE HELP**
 
@@ -265,66 +265,66 @@ Well being of Singaporeans depends not just on bread and butter issues, but also
 
 We have done many things over the years to improve ourselves
 
-  a. Many campaigns and initiatives, e.g. queue up, no spitting, flush toilets, and most recently, service excellence (GEMS Movement or Go the Extra Mile for Singapore)  
+a. Many campaigns and initiatives, e.g. queue up, no spitting, flush toilets, and most recently, service excellence (GEMS Movement or Go the Extra Mile for Singapore)  
 b. Sometimes people laugh at us  
-&nbsp; i. Actually, these are things we can work on and improve  
-&nbsp; ii. If we make people aware of their behaviour and educate them to learn new habits  
-&nbsp; iii. Gradually people will respond, and upgrade our social norms  
-  c. We have made progress  
-&nbsp; i. It may be hard for us to tell  
-&nbsp; ii. But those watching us from afar notice  
-&nbsp; iii. Letter in ST Forum from a Sri Lankan lady  
-&nbsp;&nbsp; 1. First visited Singapore in 1968 as a young student on her way to the US  
-&nbsp;&nbsp; 2. Visited again 40 years later, needed a wheelchair at Changi airport  
-&nbsp;&nbsp; 3. Quote her letter    
+&nbsp;&nbsp;&nbsp; i. Actually, these are things we can work on and improve  
+&nbsp;&nbsp;&nbsp; ii. If we make people aware of their behaviour and educate them to learn new habits  
+&nbsp;&nbsp;&nbsp; iii. Gradually people will respond, and upgrade our social norms  
+c. We have made progress    
+&nbsp;&nbsp;&nbsp; i. It may be hard for us to tell  
+&nbsp;&nbsp;&nbsp; ii. But those watching us from afar notice  
+&nbsp;&nbsp;&nbsp; iii. Letter in ST Forum from a Sri Lankan lady  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. First visited Singapore in 1968 as a young student on her way to the US  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Visited again 40 years later, needed a wheelchair at Changi airport  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Quote her letter    
 &nbsp;&nbsp; “From the moment I landed until I left, the city impressed me…Everywhere, I met only kindness….I was in a shopping centre and asked a young girl the way to the MRT station. She offered to show me the way, and taking my shopping bags, led me to the station….shopkeepers gave me water to drink, people waiting for a bus walked with me to the correct bus stop, and people helped me across the street. I have never experienced this sort of kindness anywhere else in the world”  
 
 We can do even better
 
 a. Singapore Kindness Movement (SKM) conducts surveys of social behaviours that Singaporeans consider important  
 b. Some things we are good at doing  
-&nbsp; i. Sit properly in the cinema (e. don’t put your feet on the seat in front of you)
-&nbsp; ii. Say “thank you” after being served
-  c. But also many things we need to improve  
-&nbsp; i. Say “please” – not so common  
-&nbsp; ii. Clear tables and return food trays – need to improve  
-&nbsp;&nbsp; 1. Trying to inculcate this habit, e.g. at Suntec City    
-&nbsp;&nbsp; 2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
-&nbsp;&nbsp; 3. Quote email from a lady on making Singapore a more liveable place:  
-&nbsp;&nbsp; 4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
-&nbsp;&nbsp;5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”    
+&nbsp;&nbsp;&nbsp; i. Sit properly in the cinema (e. don’t put your feet on the seat in front of you)
+&nbsp;&nbsp;&nbsp; ii. Say “thank you” after being served
+c. But also many things we need to improve  
+&nbsp;&nbsp;&nbsp; i. Say “please” – not so common  
+&nbsp;&nbsp;&nbsp; ii. Clear tables and return food trays – need to improve  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Trying to inculcate this habit, e.g. at Suntec City    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. But will take time to change mindset – “I go to the foodcourts to eat, not to clear tables”  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Quote email from a lady on making Singapore a more liveable place:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. “Actually we should feel quite embarrassed to leave our dirty plates and dirty table for the next diner. In my mum’s house, after eating, we will clear our plates and clean the table…this is a good habit we should adopt outside the home.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. “Oh yes, most importantly no fines, no fines. Dishing out fines hurt relationships and no good image for PAP government.”    
 d. Recently, Mediacorp held a contest on the Morning Express Class 95 FM  
-&nbsp; i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits  
-&nbsp; ii. Tremendous response  
-&nbsp; iii. Asked Mediacorp to compile some highlights, good and ugly  
+&nbsp;&nbsp;&nbsp; i. DJs Glenn Ong and the Flying Dutchman invited listeners to send in videos of the best and worst Singaporean habits  
+&nbsp;&nbsp;&nbsp; ii. Tremendous response  
+&nbsp;&nbsp;&nbsp; iii. Asked Mediacorp to compile some highlights, good and ugly  
 
 Best way to focus our efforts – when there is a major event and we are put to the test
 
 a. We have done well before  
-&nbsp; i. IOC in 2005  
-&nbsp; ii. IMF/WB Annual Meetings in 2006  
+&nbsp;&nbsp;&nbsp; i. IOC in 2005  
+&nbsp;&nbsp;&nbsp; ii. IMF/WB Annual Meetings in 2006  
 b. Now we must prepare for other major events  
-&nbsp; i. F1 next month  
-&nbsp; ii. APEC next year  
-&nbsp; ii. YOG in 2010  
+&nbsp;&nbsp;&nbsp; i. F1 next month  
+&nbsp;&nbsp;&nbsp; ii. APEC next year  
+&nbsp;&nbsp;&nbsp; iii. YOG in 2010  
 c. Let’s use these opportunities to improve our social graces
 
 That is how other countries have done it  
 
 a. Sydney Olympics, 2000 set a high benchmark    
-&nbsp; i. The show was fantastic  
-&nbsp; ii. But what really impressed visitors was the genuine warmth and sincerity of the Aussies  
-&nbsp; iii. 47,000 volunteers cheered, drove buses, manned checkpoints, greeted visitors with a friendly “G’day mate”  
-&nbsp; iv. Created a whole atmosphere of friendliness and hospitality  
+&nbsp;&nbsp;&nbsp; i. The show was fantastic  
+&nbsp;&nbsp;&nbsp; ii. But what really impressed visitors was the genuine warmth and sincerity of the Aussies  
+&nbsp;&nbsp;&nbsp; iii. 47,000 volunteers cheered, drove buses, manned checkpoints, greeted visitors with a friendly “G’day mate”  
+&nbsp;&nbsp;&nbsp; iv. Created a whole atmosphere of friendliness and hospitality  
 
 b. China – now hosting the Olympics    
-&nbsp; i. Making a special effort to welcome athletes and visitors  
-&nbsp; ii. Launched large-scale civility campaigns to educate people  
-&nbsp;&nbsp; 1. Designated special days in every month to remind them of their social etiquette and manners    
-&nbsp;&nbsp; 2. Queuing day on the 11th (because 11 resembles two people lining up)    
-&nbsp;&nbsp; 3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)    
-&nbsp; iii. For the Games, mobilised 100,000 volunteers, mostly young men and women  
-&nbsp; iv. They have impressed visitors too with their friendliness, enthusiasm and pride  
+&nbsp;&nbsp;&nbsp; i. Making a special effort to welcome athletes and visitors  
+&nbsp;&nbsp;&nbsp; ii. Launched large-scale civility campaigns to educate people  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Designated special days in every month to remind them of their social etiquette and manners    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Queuing day on the 11th (because 11 resembles two people lining up)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Seat-giving day on the 22nd (because 22 resembles two chairs side by side)    
+&nbsp;&nbsp;&nbsp; iii. For the Games, mobilised 100,000 volunteers, mostly young men and women  
+&nbsp;&nbsp;&nbsp; iv. They have impressed visitors too with their friendliness, enthusiasm and pride  
 
 We should mobilise ourselves too for the YOG
 
