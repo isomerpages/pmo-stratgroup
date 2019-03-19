@@ -68,5 +68,3 @@ Ladies and gentlemen,
 21. **Next year, we commemorate Singapore’s Bicentennial. It is also the 10th anniversary of the National Integration Council.** It will be timely then for all of us to acknowledge how extraordinary our social harmony is and how much it has allowed us to build a thriving nation.   By staying open, connected and multicultural, **Singapore can remain a place where people of all origins unite to make a shining red dot, one we are all proud to call home!**
 
 22. Thank you, and have a lovely evening!
-
-[Download as PDF](/images/Speeches/speech-by-minister-josephine-teo-at-the-pa-inclusive-awards-presentation-ceremony-on-13-july-2018.pdf)
