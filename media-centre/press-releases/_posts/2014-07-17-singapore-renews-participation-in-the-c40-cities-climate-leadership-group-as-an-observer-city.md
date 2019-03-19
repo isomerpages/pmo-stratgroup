@@ -20,4 +20,3 @@ Due to its unique circumstances as a city-state, Singapore will continue to part
 
 <sub><sup>2</sup> Singapore won in the "Intelligent City Infrastructure" category for our intelligent transport system, described by C40 as a suite of "smart" transportation technologies, including one of the world's first Electronic Road Pricing (ERP) systems, real time traffic information delivered through GPS-enabled taxis, and a highly integrated public transportation system. </sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-renews-participation-in-the-c40-cities-climate-leadership-group-as-an-observer-city.pdf)

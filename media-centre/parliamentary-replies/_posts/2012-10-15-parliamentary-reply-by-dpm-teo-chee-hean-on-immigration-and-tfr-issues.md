@@ -23,6 +23,7 @@ Table 1: Characteristics of Citizen Population under Various Scenarios
 
 ![15Oct2012PqTable](https://github.com/isomerpages/isomerpages-stratgroup/raw/staging/images/parliamentary%20files/15%20oct%202012%20PQ%20table.PNG)
 
+
 [Note: Please refer to NPTD Occasional Paper on Citizen Population Scenarios for more information]
 
 While a calibrated pace of immigration can help to delay the decline and ageing of our citizen population, supporting Singaporeans in getting married and having children is our key priority, and it will continue to be so.

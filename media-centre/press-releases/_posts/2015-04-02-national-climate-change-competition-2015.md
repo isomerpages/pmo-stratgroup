@@ -5,7 +5,7 @@ date:   2015-04-02
 permalink: "/media-centre/press-releases/national-climate-change-competition-2015"
 ---
 
-Short films to rally support for Climate Change action
+_Short films to rally support for Climate Change action_
 
 2015 is a key milestone for international action on climate change as a new agreement will be made in Paris at the end of the year. To galvanise public support for climate change action as Singapore prepares for the new agreement, the National Climate Change Competition 2015 was launched today to seek out videos that will help Singaporeans understand the importance of the issue and the urgent need for action. Winning entries from the competition will be considered for use in a public education campaign.
 
@@ -29,4 +29,3 @@ Participants can stand to win up to $5,000 in cash prizes. Four ‘Viewers’ Ch
 
 The results of the competition will be announced in November 2015.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/national-climate-change-competition-2015.pdf)

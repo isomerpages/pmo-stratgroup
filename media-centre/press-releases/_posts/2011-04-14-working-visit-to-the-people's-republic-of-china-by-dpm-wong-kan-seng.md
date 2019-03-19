@@ -16,4 +16,3 @@ During the visit, DPM Wong will also attend a local industry event organised by 
 **National Population and Talent Division  
 14 April 2011**
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/working-visit-to-the-people's-republic-of-china-by-dpm-wong-kan-seng.pdf)

@@ -53,6 +53,6 @@ Ms Yong Ying-I, Co-Chairman, Energy Research Development & Demonstration Executi
 
 <sub><sup>1</sup> The roadmaps were developed as a follow-up to the Technology Primers that NCCS and NRF produced in 2011 to assess the potential of climate change change-related technologies and their relevance to Singapore.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges.pdf)
+
 
 

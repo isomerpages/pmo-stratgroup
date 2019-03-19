@@ -152,4 +152,3 @@ Below-replacement fertility rates and longer life expectancy affect our citizen 
 <sub><sup>5</sup> 29% of the citizen population as of June 2011</sub>  
 <sub><sup>6</sup> The old-age support ratio is generally computed as the ratio of persons aged 15-64 years to persons aged 65 years and over, following international practice and United Nations’ recommendations. However, with more persons aged 15-19 years remaining in school, this report computes the old-age support ratio as the ratio of persons aged 20-64 years to persons aged 65 years and over.</sub>  
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/citizen-population-scenarios.pdf)

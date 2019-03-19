@@ -48,4 +48,3 @@ In his speech at the prize award ceremony, DPM Teo commended the participants fo
 
 The winning videos from NCCC 2015 will be adapted for use by NCCS in its public education and outreach efforts.  
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-climate-change-competition-2015-winners-received-prizes-from-dpm-teo-chee-hean.pdf)

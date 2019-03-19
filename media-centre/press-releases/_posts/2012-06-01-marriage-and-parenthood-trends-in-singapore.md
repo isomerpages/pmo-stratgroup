@@ -198,4 +198,3 @@ Source: OECD report on Early Childhood Education and Care, “Starting Strong II
 <sub><sup>13</sup> International Review of Leave Policies and Related Research (2011).OECD Family Database – Key Characteristics of parental leave (2007).</sub>  
 <sub><sup>14</sup> OECD Family Database–Family cash benefits (2011)</sub>  
 
-[Dowload as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/marriage-and-parenthood-trends-in-singapore.pdf)

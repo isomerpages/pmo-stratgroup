@@ -71,4 +71,4 @@ For more information on the Marriage & Parenthood Package 2013, please visit [ww
 
 [Annexes for the enhanced Marriage & Parenthood Package (111kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/20130121-media-release-2013-marriage-and-parenthood-package-annexesc362845b617a6d73a304ff0000443480.pdf)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/enhanced-marriage-parenthood-package-in-support-of-a-profamily-environment-in-singapore.pdf)
+

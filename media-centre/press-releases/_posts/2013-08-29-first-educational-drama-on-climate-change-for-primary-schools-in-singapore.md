@@ -23,4 +23,3 @@ Mrs Tonnine Chua, Principal, Concord Primary School, said, "Climate change is a 
 
 Interested school staff may contact [ellen_ng@pmo.gov.sg](mailto:ellen_ng@pmo.gov.sg) to sign up for the drama shows to be staged at their schools.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/first-educational-drama-on-climate-change-for-primary-schools-in-singapore.pdf)

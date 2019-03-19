@@ -31,4 +31,3 @@ Participants can stand to win up to $5000 in cash prizes. Selected videos submit
 
 The results of the competition will be announced in an award ceremony held in November 2014.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/wanted-videos-to-inspire-climate-change-action.pdf) 

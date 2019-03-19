@@ -26,4 +26,4 @@ A summary of the feedback received will be released at the end of the consultati
 
 <sub><sup>1</sup> For 2020, Singapore has pledged to reduce its carbon emissions by 16% from the 2020 business-as-usual (BAU) level, contingent on a legally binding global agreement in which all countries implement their commitments in good faith. Although a legally binding agreement has yet to be reached, Singapore has nonetheless started to implement mitigation and energy efficiency measures which should reduce its emissions by 7% to 11% from the 2020 BAU level.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/government-seeks-views-on-singapore-s-climate-action-plans.pdf)
+

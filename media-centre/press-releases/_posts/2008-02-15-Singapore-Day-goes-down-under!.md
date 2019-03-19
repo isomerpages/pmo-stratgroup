@@ -11,4 +11,3 @@ This event would allow Overseas Singaporeans in Australia a chance to get update
 
 This follows the very positive response from the 6,000 Overseas Singaporeans at the inaugural Singapore Day held in New York on 21 April 2007.
 
-[Download as PDF](https://www.strategygroup.gov.sg/media-centre/press-releases/article/GetPdf/singapore-day-goes-down-under/)

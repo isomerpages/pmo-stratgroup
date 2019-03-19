@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore’s Submission to the United Nations Framework Convention on Climate Change (UNFCCC)"
 date:   2015-07-03
-permalink: "/media-centre/press-releases/ingapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)"
+permalink: "/media-centre/press-releases/singapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)"
 ---
 
 
@@ -34,4 +34,4 @@ Climate change is a global challenge and it requires a global solution where all
 
 <sub><sup>2</sup> Source: IEA Key World Energy Statistics, 2014. Comparisons based on available carbon emissions per US$GDP data.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/SSingapore-renews-participation-in-the-c40-cities-climate-leadership-group-as-an-observer-city.pdf)
+

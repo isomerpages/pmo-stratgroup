@@ -314,4 +314,3 @@ Paternity Leave</td>
 
 <sub><sup>2</sup> Parents with children in both age groups, i.e. those below 7 years, as well as those between 7 and 12 years, will have a total child care leave entitlement of 6 days per year for each parent.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/jubilee-marriage-and-parenthood-package-to-better-support-families.pdf)

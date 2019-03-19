@@ -62,4 +62,3 @@ Congratulating the winners, Mr Niam said, “I am impressed by our youths’ ene
 
 A factsheet of the winners of the Technology Project Challenge, descriptions of their projects and the prizes is at the [Annex.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nccc2013_media-release_annex.pdf)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/national-competition-for-short-videos-on-climate-change-to-inspire-greater-action.pdf)

@@ -27,4 +27,3 @@ Getting married, starting a family and having children remain important life goa
 
 The Government is committed to looking after the interests of every Singaporean. Building a resilient, cohesive and integrated society will require our collective efforts and commitment. Together, we can build a better and distinctly Singaporean home for ourselves and generations to come.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nptd's-addendum-to-the-president's-address-2011.pdf)

@@ -15,4 +15,4 @@ Singaporeans young and old also had the opportunity to experience the various mu
 
 In the evening, 400 invited guests, including Melbourne Deputy Lord Mayor Gary Singer and other Australian officials, attended a gala dinner at the Melbourne Town Hall. They were treated to a specially-created dinner menu by the Singapore Chefs Association. DPM Wong also delivered a speech in which he reiterated the importance of Singaporeans overseas to stay connected with home. He also said that the OSU will continue to try and reach out to more Overseas Singaporeans to facilitate their engagement with Singapore.
 
-[Download as PDF]({{site.baseurl}}/files/press-releases/singapore-day-2008-in-melbourne-draws-more-than-10-000.pdf)
+

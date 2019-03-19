@@ -31,4 +31,3 @@ Singapore has one of the most rapidly ageing populations in the world, with the 
 
 Our population challenges are complex and multi-faceted. There are many needs to be fulfilled, and we will strive to strike the right balance. We will take an open and consultative approach in our population strategies to ensure that all views are heard. This is critical in achieving the balance we strive for. We will work hand-in-hand with Singaporeans to co-create our future together.
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nptd's-addendum-to-the-president's-address-2016.pdf)

@@ -42,4 +42,3 @@ Just as we had seized new opportunities to develop solutions to address water sc
 
 Across Government, we are building from a position of strength. We will continue to plan for the medium- to long-term and lay strong foundations for our collective future. We invite all Singaporeans to join us in this journey.
 
-[Download as PDF]({{site.baseurl}}/files/press-releases/addenda-to-the-presidents-address.pdf)

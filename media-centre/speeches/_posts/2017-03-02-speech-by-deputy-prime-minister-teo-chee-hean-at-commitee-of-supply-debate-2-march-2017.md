@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Speech by Deputy Prime Minister, Teo Chee Hean, at Commitee of Supply Debate, 2 March 2017"
-date:   2017-02-03
+date:   2017-03-02
 permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-debate-2-march-2017"
 ---
 

@@ -146,5 +146,3 @@ The final set of items will be announced in the middle of the year following the
 The Jubilee Baby Gift is a community initiative led by the National Population and Talent Division, supported by REACH, the Ministry of Social and Family Development, Families for Life, NTUC U Family, and I Love Children. In conjunction with the SG50 celebrations to commemorate Singapore’s Golden Jubilee, the Gift will consist of a small set of meaningful items from all Singaporeans to welcome every Singaporean baby born in 2015. The Jubilee Baby Gift symbolises our best wishes, hopes and aspirations from this generation of Singaporeans to the next.
 
 ![Jubilee-chart](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/public-voting-for-the-jubilee-baby-gift-begins-today.jpg)
-
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/public-voting-for-the-jubilee-baby-gift-items.pdf)

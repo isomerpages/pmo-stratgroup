@@ -29,4 +29,3 @@ _**Background on Singapore Day**_
 
 Singapore Day is a collaborative effort by the Overseas Singaporean Unit and its partners from the public, people and private sectors. It is held annually in major cities where there are a significant number of Singaporeans. Singapore Day 2015 is the eighth instalment of the event, which was previously held in New York (2007, 2012), Melbourne (2008), Sydney (2013), London (2009, 2014) and Shanghai (2011). This is the second time that Singapore Day is held in Shanghai. More details on Singapore Day 2014 can be found on [www.SingaporeDay.sg](http://www.singaporeday.sg/) and [www.fb.com/SingaporeDay.](http://www.fb.com/SingaporeDay)
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/5-000-overseas-singaporeans-pay-tribute-to-our-founding-prime-minister-mr-lee-kuan-yew-at-singapore-day-2015.pdf)

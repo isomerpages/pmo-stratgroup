@@ -250,4 +250,4 @@ Minister, you had a dialogue with Singaporeans overseas earlier. What issues do 
 
 <sub><sup>1</sup>Please refer to Annexes B, C and D for DPM Teo Chee Hean’s and Minister Grace Fu’s comments at Singapore Day.</sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/celebrating-singapore-our-home-at-singapore-day-2013.pdf)
+

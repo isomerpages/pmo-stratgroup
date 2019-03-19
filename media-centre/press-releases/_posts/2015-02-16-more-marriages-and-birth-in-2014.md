@@ -21,4 +21,3 @@ Said Minister in the Prime Minister's Office, Grace Fu: "I am delighted to see m
 
 16 February 2015
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/more-marriages-and-birth-in-2014.pdf)
