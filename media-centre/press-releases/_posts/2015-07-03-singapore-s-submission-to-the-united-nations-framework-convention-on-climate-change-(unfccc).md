@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore’s Submission to the United Nations Framework Convention on Climate Change (UNFCCC)"
 date:   2015-07-03
-permalink: "/media-centre/press-releases/ingapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)"
+permalink: "/media-centre/press-releases/singapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)"
 ---
 
 
