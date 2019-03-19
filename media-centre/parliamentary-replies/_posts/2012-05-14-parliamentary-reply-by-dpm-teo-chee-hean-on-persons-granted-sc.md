@@ -19,7 +19,7 @@ In the past 5 years, there were on average about 18,500 individuals granted Sing
 
 <table class="table-h">
   <tr>
-    <th>Stuff about Singapore</th>
+    <th>Year</th>
     <th colspan="3">SCs Granted</th>
   </tr>
   <tr>
