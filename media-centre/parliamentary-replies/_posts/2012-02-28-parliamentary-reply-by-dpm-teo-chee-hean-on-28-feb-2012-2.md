@@ -51,7 +51,11 @@ Table 1: Percentage Breakdown of Non-Resident Population (As at June 2011)
   
    <tr>
   <td><b>Total<sup>4</sup></b></td>
+
   <td><b>100%</b></td>
+=======
+    <td><b>100%</b></td>
+
   </tr> 
   
   
@@ -94,7 +98,11 @@ Table 2: Percentage Breakdown by Country of Origin of Non-Resident Population
 
 <tr>
   <td><b>Total</b></td>
+
     <td><b>100%</b></td>
+=======
+  <td><b>100%</b></td>
+
   </tr>  
   
   </table>
