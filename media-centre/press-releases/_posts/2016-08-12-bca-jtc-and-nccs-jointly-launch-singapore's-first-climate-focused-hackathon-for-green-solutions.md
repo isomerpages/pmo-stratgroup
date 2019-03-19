@@ -42,5 +42,5 @@ Funding and test-bed opportunities are available for teams with promising soluti
   Enclosed:
 [Annex A](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/press_cic_annexa.pdf) – Fact sheet on Challenge Statements
 
-<sub><sup>1</sup> Emissions Intensity is defined as greenhouse gas emissions per $GDP</sup>
+<sub><sup>1</sub> Emissions Intensity is defined as greenhouse gas emissions per $GDP</sup>
 
