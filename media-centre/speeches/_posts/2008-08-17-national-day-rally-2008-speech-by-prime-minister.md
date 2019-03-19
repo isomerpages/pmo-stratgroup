@@ -38,10 +38,10 @@ a. House prices have crashed and are still falling
 b. Unemployment rising  
 c. Consumers are losing confidence and spending less  
 d. Affecting the rest of the world  
-  i. Europe already slowing down sharply   
-  ii. Must expect impact on Asia too    
+&nbsp;&nbsp;&nbsp; i. Europe already slowing down sharply   
+&nbsp;&nbsp;&nbsp; ii. Must expect impact on Asia too    
 e. These global economic problems will continue at least into next year    
-&nbsp; i. Some experts think even longer
+&nbsp;&nbsp;&nbsp; i. Some experts think even longer
 
 Singapore is starting to feel the impact
 
