@@ -22,7 +22,7 @@ Immigration delays the ageing and decline of our citizen population. The effects
 Table 1: Characteristics of Citizen Population under Various Scenarios
 
 
-![15Oct2012PqTable](isomerpages-stratgroup/images/parliamentary files/15 oct 2012 PQ table.PNG)
+![15Oct2012PqTable](images/parliamentary files/15 oct 2012 PQ table.PNG)
 
 
 [Note: Please refer to NPTD Occasional Paper on Citizen Population Scenarios for more information]
