@@ -17,7 +17,7 @@ Download:
 * [Population in Brief 2015 (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2015.pdf)
 * [Population in Brief 2014 (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2014.pdf)
 * [Population in Brief 2013 (4mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2013.pdf)
-* [Population in Brief 2012 (392kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2015.pdf)
+* [Population in Brief 2012 (392kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2012.pdf)
 * [Population in Brief 2011 (672kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2011.pdf)
 * [Population in Brief 2010 (187kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2010.pdf)
 * [Population in Brief 2009 (612kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2009.pdf)
