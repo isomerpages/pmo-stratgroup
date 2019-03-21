@@ -14,8 +14,9 @@ The second publication, “A Climate-Resilient Singapore, for a Sustainable Futu
 
 Download links:
 
-* [Take Action Today, for a Carbon-Efficient Singapore (3mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/nccs_mitigation_fa_webview-27-06-16.pdf)
+<<<<<<< HEAD
+* [Take Action Today, for a Carbon-Efficient Singapore (3mb, pdf)](/images/PublicationImages/nccs_mitigation_fa_webview-27-06-16.pdf)
 
-* [A Climate-Resilient Singapore, for a Sustainable Future (2mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/nccs_adaptation_fa_webview-27-06-16.pdf)
+* [A Climate-Resilient Singapore, for a Sustainable Future (2mb, pdf)](/images/PublicationImages/nccs_adaptation_fa_webview-27-06-16.pdf)
 
-* [Brochure (655kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/nccs_brochure_fawebview-27-06-16.pdf)
+* [Brochure (655kb, pdf)](/images/PublicationImages/nccs_brochure_fawebview-27-06-16.pdf)
