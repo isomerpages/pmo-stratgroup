@@ -103,7 +103,7 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 <sub><sup>1</sup> International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
 [http://www.imo.org/KnowledgeCentre/ShipsAndShippingFactsAndFigures/Statisticalresources/Documents/December-2011-update-to-July-2011-version-of-International-Shipping-Facts-and-Figures.pdf](http://www.imo.org/KnowledgeCentre/ShipsAndShippingFactsAndFigures/Statisticalresources/Documents/December-2011-update-to-July-2011-version-of-International-Shipping-Facts-and-Figures.pdf)</sub>
 
-<sub><sup>2</sup> Global Marine Oil Pollution Information Gateway [http://oils.gpa.unep.org/facts/quantities.html](http://oils.gpa.unep.org/facts/quantities.html) </sub>
+<sub><sup>2</sup> Global Marine Oil Pollution Information Gateway [http://oils.gpa.unep.org](http://oils.gpa.unep.org/) </sub>
 
 <sub><sup>3</sup> Biliana Cicin-Sain et al, “Oceans at Rio+20: How Well are we Doing in Meeting the Commitments from the 1992 Earth Summit and the 2002 World Summit on Sustainable Development?”, University of Delaware and Global Ocean Forum, September 2011 (Oceans at Rio+20) </sub> 
 
