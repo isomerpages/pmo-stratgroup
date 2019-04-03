@@ -13,9 +13,9 @@ MONDAY, 1 APRIL 2019**
 To ask the Prime Minister for each year in 2017 and 2018 (a) how many Singapore residents are listed under "Others" in the ethnic category of official documents such as birth certificates and NRICs; (b) what are all the ethnicities and their numbers that make up "Others"; and (c) what is the percentage for each of the categories in the Chinese-Malay-Indian-Others (CMIO) model.
 
 **Mr Teo Chee Hean (for the Prime Minister):**  
-&nbsp;&nbsp;&nbsp;&nbsp;1. Table 1 below shows the ethnic composition of the Singapore citizen population in 2017 and 2018.
+*Table 1* below shows the ethnic composition of the Singapore citizen population in 2017 and 2018.
 
-Table 1: Ethnic Composition of Singapore’s Citizen Population (%), as of end-June<sup>[1]</sup>
+*Table 1: Ethnic Composition of Singapore’s Citizen Population (%), as of end-June<sup>[1]</sup>*
 <table class="table-h">  <tr>    <th></th>  <th>2017</th>  <th>2018</th>  </tr>  
 <tr>    <td>Chinese</td>    <td>76.1</td> <td>76.1</td></tr>  
 <tr>    <td>Malay</td>    <td>15.0</td> <td>15.0</td></tr>
@@ -26,18 +26,18 @@ Table 1: Ethnic Composition of Singapore’s Citizen Population (%), as of end-J
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;2. Table 2 below shows the number of Singapore citizens listed under the “Others” ethnic category in 2017 and 2018.
+*Table 2* below shows the number of Singapore citizens listed under the “Others” ethnic category in 2017 and 2018.
 
-Table 2: Number of Citizens in “Others” Ethnic Category, as of end-June<sup>[2]</sup>
+*Table 2: Number of Citizens in “Others” Ethnic Category, as of end-June<sup>[2]</sup>*
 <table class="table-h">  <tr>    <th>2017</th>  <th>2018</th> </tr>  
 <tr>   <td>50,800</td> <td>52,100</td></tr>  
 </table>
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;3.	Table 3 below shows the breakdown of the six prevalent ethnicities in the citizen population under “Others”, based on the latest available data from the General Household Survey of 2015.
+*Table 3* below shows the breakdown of the six prevalent ethnicities in the citizen population under “Others”, based on the latest available data from the General Household Survey of 2015.
 
-Table 3: Singapore’s Citizen Population in “Others” Ethnic Category by Ethnic Group, June 2015<sup>[3]</sup>
+*Table 3: Singapore’s Citizen Population in “Others” Ethnic Category by Ethnic Group, June 2015<sup>[3]</sup>*
 <table class="table-h">  <tr>    <th>Ethnic Group "Others"</th>  <th>Citizens</th> </tr>  
 <tr>   <td>Total</td> <td>48,300</td></tr>
 <tr>   <td>Eurasian</td> <td>15,300</td></tr>
