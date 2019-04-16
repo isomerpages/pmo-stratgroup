@@ -25,7 +25,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@staging
 safe: false
 
 plugins:
