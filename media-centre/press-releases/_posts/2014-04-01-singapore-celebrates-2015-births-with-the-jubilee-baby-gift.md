@@ -57,13 +57,13 @@ FOR MEDIA ENQUIRIES, CONTACT
 Rachel Ong (Ms)  
 Executive, Corporate Communications Directorate   
 National Population & Talent Division, Prime Minister’s Office   
-Email: [Ong_shi_min@nptd.gov.sg](Ong_shi_min@nptd.gov.sg)   
+Email: <ong_shi_min@nptd.gov.sg>   
 Mobile: 9199 1375
 
 Faye Shen (Ms)   
 Assistant Director, Corporate Communications Directorate   
 National Population & Talent Division, Prime Minister’s Office   
-Email: [faye_shen@nptd.gov.sg](faye_shen@nptd.gov.sg)     
+Email: <faye_shen@nptd.gov.sg>   
 Mobile: 9650 4229
 
 **ANNEX A**
