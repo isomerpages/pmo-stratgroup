@@ -1,14 +1,12 @@
 - title: Who We Are
   url: /who-we-are/
+- title: Microsites
   sub-links:
   - title: National Climate Change Secretariat
     url: https://www.nccs.gov.sg/
     external: true
   - title: Centre for Strategic Futures
     url: https://www.csf.gov.sg/
-    external: true
-  - title: Population.sg
-    url: https://www.population.sg/
     external: true
 - title: Media Centre
   url: /media-centre/
