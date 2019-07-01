@@ -3,7 +3,7 @@
   sub-links:
   - title: National Climate Change Secretariat
     url: https://www.nccs.gov.sg/
-    external:true
+    external: true
 - title: Media Centre
   url: /media-centre/
   sub-links:
