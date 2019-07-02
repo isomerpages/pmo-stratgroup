@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/isomerpages/isomerpages-stratgroup#readme",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.2.5"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
   }
 }
