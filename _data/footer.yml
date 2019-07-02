@@ -14,6 +14,7 @@
   - title: Speeches
     url: /media-centre/speeches/
 - title: Microsites
+  sublinks:
   - title: National Climate Change Secretariat
     url: https://www.nccs.gov.sg/
     external: true
