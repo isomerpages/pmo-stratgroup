@@ -32,15 +32,14 @@ To gain further insights, we will also be rolling out a series of thematic polls
 
 Singaporeans can also directly give their views and suggestions on these topics at REACH Listening Points. Dates and location of the Listening Points will be published on [Heybaby.sg/PlayAPart](http://www.heybaby.sg/PlayAPart) closer to date.
 
-</br>
-</br>
 
-**Contact Persons**</br>
-For media enquiries, please contact:</br></br>
-**Goh Jing Xian**</br>
-Goh_Jing_Xian@pmo.gov.sg</br>
+**Contact Persons**
+For media enquiries, please contact:
+
+**Goh Jing Xian**
+Goh_Jing_Xian@pmo.gov.sg
 Tel: 9648 6226
 
-**Toh Bee Hui** </br>
-Toh_Bee_Hui@pmo.gov.sg</br>
+**Toh Bee Hui** 
+Toh_Bee_Hui@pmo.gov.sg
 Tel: 9661 0216
