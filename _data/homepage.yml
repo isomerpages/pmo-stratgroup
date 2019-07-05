@@ -22,10 +22,10 @@ hero-banner: /images/SG-homepage.jpg
 # Key Highlights
 key-highlights:
   - title: FORESIGHT 2019 PUBLICATION
-    description: Click to read the 10th anniversary issue from CSF
+    description: Click to read the 10th anniversary issue from the Centre for Strategic Futures
     url: /media-centre/publications/foresight
   - title: Play A Part
-    description: Share your views on how to make Singapore a great place for families.
+    description: Share your views on how to make Singapore a great place for families
     url: https://www.heybaby.sg/PlayAPart
     external: true
   - title: CONTACT US
