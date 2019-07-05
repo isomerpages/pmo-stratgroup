@@ -18,26 +18,18 @@ hero-title: <font size=10>Welcome to Strategy Group</font>
 hero-subtitle: The Strategy Group in the Prime Minister's Office drives whole-of-government strategic planning by identifying key priorities and emerging issues over the medium to long-term. It partners public agencies to strengthen whole-of-government effort on key cross-cutting issues, such as population and climate change.
 hero-banner: /images/SG-homepage.jpg
 
-# key-highlights:
-#   - title: Highlight A
-#     description: Important highlight A is important
-#     url: https://google.com
-#     external: true
-#   - title: Highlight B
-#     description: Important highlight B is equally important
-#     url: https://yahoo.com
-#     external: true
-#   - title: Page A
-#     description: Page A is important too
-#     url: /page-A/
-#   - title: Dropdown A Content C
-#     description: Dropdown A Content C is v important
-#     url: /dropdown-A/content-C/
-
 #Call to Action Button
 button:
   - text: Read More
     url: /who-we-are/
+    
+#key-highlights:
+  - title: FORESIGHT 2019 PUBLICATION
+    description: Click to read the 10th anniversary issue from CSF
+    url: /media-centre/publications/foresight
+  - title: CONTACT US
+    description: Get in touch with Strategy Group
+    url: /contact-us/
 
 # Resources Section
 resources-title: Media Centre
