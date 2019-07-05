@@ -18,19 +18,25 @@ hero-title: <font size=10>Welcome to Strategy Group</font>
 hero-subtitle: The Strategy Group in the Prime Minister's Office drives whole-of-government strategic planning by identifying key priorities and emerging issues over the medium to long-term. It partners public agencies to strengthen whole-of-government effort on key cross-cutting issues, such as population and climate change.
 hero-banner: /images/SG-homepage.jpg
 
+# key-highlights:
+# Key Highlights
+key-highlights:
+  - title: FORESIGHT 2019 PUBLICATION
+    description: Click to read the 10th anniversary issue from CSF
+    url: /media-centre/publications/foresight
+  - title: Play A Part
+    description: Share your views on how to make Singapore a great place for families.
+    url: https://www.heybaby.sg/PlayAPart
+    external: true
+  - title: CONTACT US
+    description: Get in touch with Strategy Group
+    url: /contact-us/
+        
 #Call to Action Button
 button:
   - text: Read More
     url: /who-we-are/
     
-#key-highlights:
-  - title: FORESIGHT 2019 PUBLICATION
-    description: Click to read the 10th anniversary issue from CSF
-    url: /media-centre/publications/foresight
-  - title: CONTACT US
-    description: Get in touch with Strategy Group
-    url: /contact-us/
-
 # Resources Section
 resources-title: Media Centre
 resources-subtitle: Latest News
