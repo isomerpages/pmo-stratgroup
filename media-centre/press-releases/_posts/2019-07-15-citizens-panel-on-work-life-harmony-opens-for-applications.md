@@ -25,7 +25,7 @@ Singapore Citizens aged 21 years and above, who are keen to participate in co-cr
 
 Over the four sessions, participants will deliberate, discuss, and make informed recommendations on how we, as a society, can develop solutions to create the conditions for work-life harmony in Singapore. Participants in the Panel take ownership of their ideas by formulating a set of their own recommendations, which will be presented to the Government in November 2019. The Government will review and respond to the Panel’s recommendations in early 2020. 
 	
-Interested citizens who wish to be part of the Panel can apply at http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony from 15 July to 31 July 2019, or call +65 6516 5603 (between 9am and 5pm, from Monday to Friday). Selected participants will be informed by early September 2019. Singaporeans can also share their views and ideas on strengthening support for marriage and parenthood through our online surveys and suggestion box at [heybaby.sg/PlayAPart](http://www.heybaby.sg/PlayAPart). 
+Interested citizens who wish to be part of the Panel can apply at [http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony](http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony) from 15 July to 31 July 2019, or call +65 6516 5603 (between 9am and 5pm, from Monday to Friday). Selected participants will be informed by early September 2019. Singaporeans can also share their views and ideas on strengthening support for marriage and parenthood through our online surveys and suggestion box at [heybaby.sg/PlayAPart](http://www.heybaby.sg/PlayAPart). 
 
 More information about the Panel can be found in **[Annex A](files/media-centre/press-releases/Citizens'%20Panel%20-%20Annex%20A.pdf)**. 
 
