@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Citizens' Panel on Work-Life Harmony Opens for Applications"
+title:  "Citizens' Panel on Work-Life Harmony Opens for Application"
 date:   2019-07-15
-permalink: "/media-centre/press-releases/citizens-panel-on-work-life-harmony-opens-for-applications"
+permalink: "/media-centre/press-releases/citizens-panel-on-work-life-harmony-opens-for-application"
 ---
 
 _Bringing citizens together to co-create solutions in support of work-life harmony in Singapore_
