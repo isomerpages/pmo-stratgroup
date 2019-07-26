@@ -1,6 +1,6 @@
 ---
 title: Ageing
-permalink: /test-ageing
+permalink: /test
 layout: simple-page
 breadcrumb: Ageing
 ---
