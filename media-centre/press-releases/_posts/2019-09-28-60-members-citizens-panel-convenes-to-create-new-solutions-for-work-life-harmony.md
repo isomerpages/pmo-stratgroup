@@ -34,7 +34,6 @@ Strategy Group, Prime Minister’s Office
 
 Email: Toh_Bee_Hui@pmo.gov.sg
 
-Tel: 9661 0216
 
 **Ministry of Manpower**
 
@@ -46,7 +45,6 @@ Ministry of Manpower
 
 Email: [Sheryl_sim@mom.gov.sg](mailto:Sheryl_sim@mom.gov.sg)
 
-Tel: 9173 4011
 
 **Ministry of Social and Family Development**
 
@@ -58,7 +56,6 @@ Ministry of Social and Family Development
 
 Email: [Amanda_phua@msf.gov.sg](mailto:Amanda_phua@msf.gov.sg)
 
-Tel: 9677 6321
  
 
 **Annex A**
