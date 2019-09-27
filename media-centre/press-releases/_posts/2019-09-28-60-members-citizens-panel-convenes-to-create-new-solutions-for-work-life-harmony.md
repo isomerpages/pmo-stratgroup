@@ -22,42 +22,6 @@ Singaporeans who are not part of the Panel can continue to share their views and
 
 Please refer to **Annex A** for more information about the Panel.
 
-**For media queries, please contact:**
-
-**Strategy Group, Prime Minister’s Office**
-
-Toh Bee Hui
-
-Manager, Corporate Communications
-
-Strategy Group, Prime Minister’s Office
-
-Email: Toh_Bee_Hui@pmo.gov.sg
-
-
-**Ministry of Manpower**
-
-Sheryl Sim
-
-Manager, Corporate Communications
-
-Ministry of Manpower
-
-Email: [Sheryl_sim@mom.gov.sg](mailto:Sheryl_sim@mom.gov.sg)
-
-
-**Ministry of Social and Family Development**
-
-Amanda Phua
-
-Assistant Manager, Communications Division
-
-Ministry of Social and Family Development
-
-Email: [Amanda_phua@msf.gov.sg](mailto:Amanda_phua@msf.gov.sg)
-
- 
-
 **Annex A**
 
 ***More Information on the Citizens’ Panel on Work-Life Harmony***
