@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "60-member Citizens’ Panel convenes to create new solutions for work-life harmony"
+title:  "58-member Citizens’ Panel convenes to create new solutions for work-life harmony"
 date:   2019-09-28
 permalink: "/media-centre/press-releases/new-solutions-for-work-life-harmony"
 ---
 
-60 Singaporeans from all walks of life came together for the first time today to form the Citizens’ Panel on Work-Life Harmony. The Panel will meet between September and November 2019 to propose new ways to strengthen work-life harmony in Singapore, including a more supportive societal and workplace culture. Employers, employees, the self-employed and retirees have volunteered to join the Panel to design solutions that would better enable Singaporeans to work in a manner that matches their personal goals for a fulfilling life.
+58 Singaporeans from all walks of life came together for the first time today to form the Citizens’ Panel on Work-Life Harmony. The Panel will meet between September and November 2019 to propose new ways to strengthen work-life harmony in Singapore, including a more supportive societal and workplace culture. Employers, employees, the self-employed and retirees have volunteered to join the Panel to design solutions that would better enable Singaporeans to work in a manner that matches their personal goals for a fulfilling life.
 
 First announced by Deputy Prime Minister and Minister for Finance Mr Heng Swee Keat in June 2019, the Citizens’ Panel on Work-Life Harmony is part of the SG Together movement for the Government to partner Singaporeans to co-create and co-deliver solutions across a wide range of policy areas.  The Panel is also part of a series of engagements with Singaporeans led by Manpower Minister Mrs Josephine Teo, who also assists Senior Minister Mr Teo Chee Hean on Population matters, to help make starting families more achievable, enjoyable, and celebrated.
 
