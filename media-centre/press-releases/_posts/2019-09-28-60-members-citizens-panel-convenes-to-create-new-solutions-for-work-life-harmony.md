@@ -112,6 +112,6 @@ A job-sharing implementation guide to educate and guide employers to put in plac
 
 The Citizens’ Panel is based on the Citizens’ Jury process invented by political scientist Ned Crosby, the founder of the Jefferson Center in the United States of America, with the aim of creating a process where citizens could participate in policy-making, discuss trade-offs involved, and develop solutions that the whole of society can participate in. The concept has also been adopted in other countries such as the UK and Australia, on issues ranging from “Economy and Federal Debt” (USA), to the sharing of health records (UK), and compulsory third party insurance (Australia). The reports of these Juries have been published and submitted to policymakers.
 
-
+ 
 ----------
 <sup>1</sup> **Flexi-Time** (including staggered start/end hours), **Flexi-load** (including Part-time arrangements), **Flexi-place** (telecommuting)
