@@ -2,9 +2,8 @@
 layout: post
 title:  "58-member Citizens’ Panel convenes to create new solutions for work-life harmony"
 date:   2019-09-28
-permalink: "/media-centre/press-releases/58-members-citizens-panel-convenes-to-create-new-solutions-for-work-life-harmony"
+permalink: "/media-centre/press-releases/new-solutions-for-work-life-harmony"
 ---
-
 
 58 Singaporeans from all walks of life came together for the first time today to form the Citizens’ Panel on Work-Life Harmony. The Panel will meet between September and November 2019 to propose new ways to strengthen work-life harmony in Singapore, including a more supportive societal and workplace culture. Employers, employees, the self-employed and retirees have volunteered to join the Panel to design solutions that would better enable Singaporeans to work in a manner that matches their personal goals for a fulfilling life.
 
@@ -111,7 +110,6 @@ A job-sharing implementation guide to educate and guide employers to put in plac
 **11) How have Citizens’ Panels/Juries been used overseas and to what effect?**
 
 The Citizens’ Panel is based on the Citizens’ Jury process invented by political scientist Ned Crosby, the founder of the Jefferson Center in the United States of America, with the aim of creating a process where citizens could participate in policy-making, discuss trade-offs involved, and develop solutions that the whole of society can participate in. The concept has also been adopted in other countries such as the UK and Australia, on issues ranging from “Economy and Federal Debt” (USA), to the sharing of health records (UK), and compulsory third party insurance (Australia). The reports of these Juries have been published and submitted to policymakers.
-
 
 ----------
 <sup>1</sup> **Flexi-Time** (including staggered start/end hours), **Flexi-load** (including Part-time arrangements), **Flexi-place** (telecommuting)
