@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "60-member Citizens’ Panel convenes to create new solutions for work-life harmony"
+title:  "58-member Citizens’ Panel convenes to create new solutions for work-life harmony"
 date:   2019-09-28
-permalink: "/media-centre/press-releases/60-members-citizens-panel-convenes-to-create-new-solutions-for-work-life-harmony"
+permalink: "/media-centre/press-releases/58-members-citizens-panel-convenes-to-create-new-solutions-for-work-life-harmony"
 ---
 
 
-60 Singaporeans from all walks of life came together for the first time today to form the Citizens’ Panel on Work-Life Harmony. The Panel will meet between September and November 2019 to propose new ways to strengthen work-life harmony in Singapore, including a more supportive societal and workplace culture. Employers, employees, the self-employed and retirees have volunteered to join the Panel to design solutions that would better enable Singaporeans to work in a manner that matches their personal goals for a fulfilling life.
+58 Singaporeans from all walks of life came together for the first time today to form the Citizens’ Panel on Work-Life Harmony. The Panel will meet between September and November 2019 to propose new ways to strengthen work-life harmony in Singapore, including a more supportive societal and workplace culture. Employers, employees, the self-employed and retirees have volunteered to join the Panel to design solutions that would better enable Singaporeans to work in a manner that matches their personal goals for a fulfilling life.
 
 First announced by Deputy Prime Minister and Minister for Finance Mr Heng Swee Keat in June 2019, the Citizens’ Panel on Work-Life Harmony is part of the SG Together movement for the Government to partner Singaporeans to co-create and co-deliver solutions across a wide range of policy areas.  The Panel is also part of a series of engagements with Singaporeans led by Manpower Minister Mrs Josephine Teo, who also assists Senior Minister Mr Teo Chee Hean on Population matters, to help make starting families more achievable, enjoyable, and celebrated.
 
@@ -30,11 +30,11 @@ Please refer to **Annex A** for more information about the Panel.
 
 All Singapore Citizens aged 21 years and above were welcomed to apply to be a part of the Panel. More than 300 members of the public responded to the call for participation, which was opened from 15 to 31 July 2019.
 
-To ensure sufficient diversity in experiences, backgrounds and perspectives to enrich the discussions, the Panel is formed by 60 Singaporeans, comprising employers from different industries, employees with different employment status (e.g. full-time, part-time, freelancers), individuals with different marital status and various family responsibilities (e.g. parents or caregivers to other family members).
+To ensure sufficient diversity in experiences, backgrounds and perspectives to enrich the discussions, the Panel is formed by 58 Singaporeans, comprising employers from different industries, employees with different employment status (e.g. full-time, part-time, freelancers), individuals with different marital status and various family responsibilities (e.g. parents or caregivers to other family members).
 
 **2) Why is there a limit to the number of Panel members How can others who want to share their views do so?**
 
-We had intended to form a Panel of about 50 members. However, given the enthusiastic response and for wider diversity in representation, we have increased the number to 60. This would provide a greater diversity in experiences, backgrounds and views to enrich the discussions. At the same time, we also want to ensure that all the Panel members are meaningfully engaged, and are given the opportunity to discuss and deliberate the issue and recommendations in-depth. We also recognise that the bigger the Panel, the more challenging it would be for the Panel members to organise themselves, given the intensity of discussions and time constraint.
+We had intended to form a Panel of about 50 members. However, given the enthusiastic response and for wider diversity in representation, we have increased the number to 58. This would provide a greater diversity in experiences, backgrounds and views to enrich the discussions. At the same time, we also want to ensure that all the Panel members are meaningfully engaged, and are given the opportunity to discuss and deliberate the issue and recommendations in-depth. We also recognise that the bigger the Panel, the more challenging it would be for the Panel members to organise themselves, given the intensity of discussions and time constraint.
 
 In addition to the Panel, we welcome Singaporeans to share their views and ideas on strengthening support for work-life harmony and/or marriage and parenthood through our suggestion box at heybaby.sg/PlayAPart. The suggestions will also be provided to the Panel for their consideration and deliberation.
 
