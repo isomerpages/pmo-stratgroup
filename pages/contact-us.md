@@ -14,8 +14,7 @@ title: Contact Us
 
 **The Treasury**
 
-Strategy Group, Prime Minister's Office<br>
-National Climate Change Secretariat, Strategy Group, Prime Minister’s Office and <br>
+Strategy Group, Prime Minister's Office and National Climate Change Secretariat, Strategy Group, Prime Minister’s Office and <br>
 National Population and Talent Division, Strategy Group, Prime Minister’s Office <br>
 100 High Street,<br> 
 03-01 The Treasury,<br>
