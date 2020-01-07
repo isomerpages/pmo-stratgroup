@@ -1,0 +1,32 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-stratgroup.ico
+
+# Image to appear on all pages when shared via WhatsApp, Facebook, etc
+shareicon: /images/sg-share-logo.png
+
+# Agency logo
+agency-logo: /images/agency-logo.gif
+
+# Hero Banner
+hero-title: <font size=10>Welcome to Strategy Group</font>
+hero-subtitle: The National Population and Talent Division in the Prime Minister's Office drives whole-of-government population by identifying key priorities and emerging issues over the medium to long-term. It partners public agencies to strengthen whole-of-government effort on key cross-cutting issues, such as population and climate change.
+hero-banner: /images/SG-homepage.jpg
+        
+#Call to Action Button
+button:
+  - text: Read More
+    url: /who-we-are/
+    
+# Resources Section
+resources-title: Media Centre
+resources-subtitle: Latest News
+resources-more-button: More Media
+resources-more-button-url: media-centre/
+
+show-reach: true
