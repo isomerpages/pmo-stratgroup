@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: About NPTD
-permalink: /About NPTD
+permalink: /About-NPTD
 breadcrumb: NPTD
 ---
 
