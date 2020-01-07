@@ -1,10 +1,11 @@
 ---
 layout: simple-page
 title: About NPTD
-permalink: /careers/nptd
+permalink: /About NPTD
 breadcrumb: NPTD
 ---
 
+#About NPTD
 Testing sub page for nptd.
 
 ![Strategy Group officers image]({{"/images/careers.jpg" | absolute_url}})
