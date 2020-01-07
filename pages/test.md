@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: NPTD sub page
+title: About NPTD
 permalink: /careers/nptd
 breadcrumb: NPTD
 ---
