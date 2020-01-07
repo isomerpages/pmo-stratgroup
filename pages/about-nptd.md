@@ -5,7 +5,8 @@ permalink: /About-NPTD
 breadcrumb: About NPTD
 ---
 
-#About NPTD
+![Strategy Group logo]({{"/images/agency-logo.gif" | absolute_url}})
+# About NPTD
 
 Testing sub page for nptd.
 
