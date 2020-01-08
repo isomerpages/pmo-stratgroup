@@ -30,19 +30,16 @@ Tan Kok Yam<br  />
 *Deputy Secretary*
 
 **Directorates** <br  /> 
-* Economy & Sustainability<br  />
-* Geo-Strategic Policy<br  />
-* Socio-Economic Policy<br  />
-* Urban Liveability & Community<br  />
-* Strategic Planning<br  />
-* Futures<br  />
-* Technology<br  />
-* Policy & Planning, National Climate Change Secretariat<br  />
-* Strategic Issues, National Climate Change Secretariat<br  />
-* Policy & Planning, National Population and Talent Division<br  />
-* Marriage & Parenthood Policy, National Population and Talent Division<br  />
-* Corporate Communications<br  />
-* Corporate Services<br  />
-* Human Capital<br  />
-* Organisational Development<br  />
-* Information Technology<br  />
+•	Economic Strategy<br  />
+•	Land & Liveability Strategy<br  />
+•	Security & Resilience Strategy<br  />
+•	Social Strategy<br  />
+•	Strategic Planning<br  />
+• Futures<br  />
+•	Technology Strategy<br  />
+•	National Climate Change Secretariat<br  />
+•	National Population and Talent Division<br  />
+•	Corporate Communications<br  />
+•	Corporate Services<br  />
+•	Human Capital<br  />
+•	Organisational Development<br  />
