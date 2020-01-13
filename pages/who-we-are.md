@@ -29,17 +29,20 @@ Jacqueline Poh<br  />
 Tan Kok Yam<br  />
 *Deputy Secretary*
 
-**Directorates** <br  /> 
-•	Economic Strategy<br  />
-•	Land & Liveability Strategy<br  />
-•	Security & Resilience Strategy<br  />
-•	Social Strategy<br  />
-•	Strategic Planning<br  />
-• Futures<br  />
-•	Technology Strategy<br  />
-•	National Climate Change Secretariat<br  />
-•	National Population and Talent Division<br  />
-•	Corporate Communications<br  />
-•	Corporate Services<br  />
-•	Human Capital<br  />
-•	Organisational Development<br  />
+**Directorates** 
+* Economy & Sustainability
+* Geo-Strategic Policy
+* Socio-Economic Policy
+* Urban Liveability & Community
+* Strategic Planning
+* Futures
+* Technology
+* Policy & Planning, National Climate Change Secretariat
+* Strategic Issues, National Climate Change Secretariat
+* Policy & Planning, National Population and Talent Division
+* Marriage & Parenthood Policy, National Population and Talent Division
+* Corporate Communications
+* Corporate Services
+* Human Capital
+* Organisational Development
+* Information Technology
