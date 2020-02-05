@@ -36,6 +36,8 @@ Tan Kok Yam<br  />
 * Urban Liveability & Community
 * Strategic Planning
 * Futures
+* Social Resilience
+* Policy Analytics
 * Technology
 * Policy & Planning, National Climate Change Secretariat
 * Strategic Issues, National Climate Change Secretariat
