@@ -162,7 +162,6 @@ Mr Chairman, on population matters, there are no easy solutions.
 * We will always have Singaporeans’ best interests at heart, now and in the future, and we will never stop progressing as one united people.
 
 
-
 *<sup>1</sup> About three in four respondents in our “Play-A-Part” surveys see parenting as a shared responsibility between spouses. More than nine in ten survey respondents said that having supportive bosses and understanding colleagues were very important in helping them meet their work and family responsibilities.* 
 
 *<sup>2</sup> The Government provides funding support for centres under the Anchor Operator and Partner Operator schemes to provide quality, accessible and affordable preschools. These centres have to keep their fees within the caps set by the Government. Anchor Operator fee caps are kept at $720 (before GST), and Partner Operator fee caps will be lowered from $800 to $760 (before GST) in January 2021.*
