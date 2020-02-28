@@ -23,7 +23,7 @@ Later this year, Singapore will submit our enhanced 2030 Nationally Determined C
 
 Setting out our vision well in advance, will provide a clear sense of direction, and give ourselves and our stakeholders, the time to effect a well-managed transition to a low-carbon economy. This will also allow us to grow new sectors in our economy, and create new jobs and opportunities.
 
-**Er. Dr. Lee Bee Wah, Mr Desmond Choo** **Mr Ong Teng Koon,** and **Ms Rahayu Mahzam** asked about the Government’s approach and strategies for climate change. The development of our enhanced NDC for 2030, and our LEDS aspiration for 2050 and beyond, is guided by a principled approach. It is Considered, it is Committed, and it is Collective.
+Er. Dr. Lee Bee Wah, Mr Desmond Choo, Mr Ong Teng Koon, and Ms Rahayu Mahzam asked about the Government’s approach and strategies for climate change. The development of our enhanced NDC for 2030, and our LEDS aspiration for 2050 and beyond, is guided by a principled approach. It is Considered, it is Committed, and it is Collective.
 
 <i>A Considered Approach</i>
 
@@ -39,7 +39,7 @@ These are serious constraints compared to better-endowed countries. Nevertheless
 
 <i>Committed To Reducing Emissions</i>
 
-In 2015, we set our 2030 NDC target to reduce our emissions intensity in 2030 by 36% from 2005 levels, and to peak by around 2030. We are on track to meet this commitment. **Ms Rahayu Mahzam** will be glad to know that we will be enhancing our NDC by committing to an absolute peak emission level of 65 million tonnes of carbon dioxide equivalent around 2030. All countries are also now required to report on the 7th greenhouse gas, Nitrogen Trifluoride (NF<sub>3</sub>) by 2024. We will go beyond reporting NF<sub>3</sub>, and commit to including NF<sub>3</sub> in our pledge, within this same emissions ceiling.
+In 2015, we set our 2030 NDC target to reduce our emissions intensity in 2030 by 36% from 2005 levels, and to peak by around 2030. We are on track to meet this commitment. Ms Rahayu Mahzam will be glad to know that we will be enhancing our NDC by committing to an absolute peak emission level of 65 million tonnes of carbon dioxide equivalent around 2030. All countries are also now required to report on the 7th greenhouse gas, Nitrogen Trifluoride (NF<sub>3</sub>) by 2024. We will go beyond reporting NF<sub>3</sub>, and commit to including NF<sub>3</sub> in our pledge, within this same emissions ceiling.
 
 Constraining our total emissions within this absolute cap up to 2030 means that every sector in Singapore will need to put in significant effort to limit our emissions. We will need to do so in order to move towards a low-carbon nation in the coming decade, with new commercial and industrial enterprises, and new growth areas such as the digital economy. We all have to play a part in reducing our emissions to meet our 2030 commitment.
 
@@ -79,13 +79,13 @@ All of us have a part to play. We have introduced minimum energy performance sta
 
 <i>Collective Climate Efforts</i>
 
-**Ms Cheng Li Hui, Mr Pritam Singh, and** **Mr Saktiandi Supaat** asked how Singapore is contributing to international efforts on climate change. Singapore will do our utmost to work with the international community to tackle climate change. We need effective international cooperation - every country must do its part, or the efforts of each country will be nullified.
+Ms Cheng Li Hui, Mr Pritam Singh, and Mr Saktiandi Supaat asked how Singapore is contributing to international efforts on climate change. Singapore will do our utmost to work with the international community to tackle climate change. We need effective international cooperation - every country must do its part, or the efforts of each country will be nullified.
 
 Singapore works actively in international forums to strengthen consensus among countries, especially at a time when the multilateral system is under strain. Singapore is often called upon as a constructive and trusted interlocutor to help forge solutions for difficult issues at international climate negotiations. For example, Minister Masagos played key roles in co-facilitating the topic of mitigation at COP-24 in Katowice in 2018, and the key outcomes of the climate negotiations in Madrid last December. We look forward to working closely with the United Kingdom, who will be hosting COP-26 in Glasgow this November.
 
 We are also well positioned to support abatement efforts globally. As a major maritime and aviation hub, we work actively with the International Maritime Organization and International Civil Aviation Organization to address international transport emissions. These are counted separately from our national emissions. MOT will share more details later.
 
-**Mr Saktiandi Supaat** asked about green financing. As a leading financial centre, we aim to be a green finance hub to spur investments in low-carbon solutions and drive climate action. MAS recently established the US$2 billion Green Investments Programme to anchor green activities of asset managers in Singapore, and support the mainstreaming of green finance. MAS also collaborated with the industry to develop Environmental Risk Management guidelines. These guidelines will set standards on governance, risk management and disclosure and encourage the right-pricing of loans and investments, to promote new green investments. MAS will issue the guidelines for public consultation in March 2020. I think Mr. Saktiandi would be happy to know that our three local banks have stopped funding regional coal fired power plant projects, and the three of them are very active in financing regional alternative energy projects such as solar power.
+Mr Saktiandi Supaat asked about green financing. As a leading financial centre, we aim to be a green finance hub to spur investments in low-carbon solutions and drive climate action. MAS recently established the US$2 billion Green Investments Programme to anchor green activities of asset managers in Singapore, and support the mainstreaming of green finance. MAS also collaborated with the industry to develop Environmental Risk Management guidelines. These guidelines will set standards on governance, risk management and disclosure and encourage the right-pricing of loans and investments, to promote new green investments. MAS will issue the guidelines for public consultation in March 2020. I think Mr. Saktiandi would be happy to know that our three local banks have stopped funding regional coal fired power plant projects, and the three of them are very active in financing regional alternative energy projects such as solar power.
 
 Through our Research Innovation and Enterprise 2020 plan, we are investing close to S$1 billion in Urban Solutions and Sustainability in areas such as new urban mobility solutions and a next generation energy grid. As a “living lab”, we will continue to serve as a test-bed for innovative solutions that can be exported globally.
 
@@ -111,7 +111,7 @@ Minister (EWR) will say more about this in his COS.
 
 Mr Chairman, Sir, I have just outlined our Whole-of-Government strategy for climate action, which is considered, committed and collective.
 
-The relevant Ministries will provide more details on specific plans under their charge. As **Mr Seah Kian Peng** has highlighted, this is a collective effort. We need all Singaporeans – government, individuals, households, and businesses – all of us, to do our part, and work together as a whole of nation.
+The relevant Ministries will provide more details on specific plans under their charge. As Mr Seah Kian Peng has highlighted, this is a collective effort. We need all Singaporeans – government, individuals, households, and businesses – all of us, to do our part, and work together as a whole of nation.
 
 As part of Singapore Together, the Government will create more partnership opportunities for Singaporeans to advance climate action.
 
