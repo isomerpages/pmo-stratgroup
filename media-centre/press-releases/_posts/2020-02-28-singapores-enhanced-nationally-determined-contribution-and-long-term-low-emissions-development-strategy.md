@@ -19,7 +19,7 @@ A clear long-term strategy will facilitate a well-managed transition to a low-ca
 
 **ENHANCEMENT OF 2030 NDC**
 
-Singapore will enhance its 2030 NDC, to **peak emissions at 65MtCO2e around 2030**. Based on projections, this is consistent with Singapore’s existing 2030 NDC, which states that Singapore aims to achieve a 36 per cent reduction in Emissions Intensity (EI) from 2005 levels by 2030.
+Singapore will enhance its 2030 NDC, to **peak emissions at 65MtCO<sub>2</sub>e around 2030**. Based on projections, this is consistent with Singapore’s existing 2030 NDC, which states that Singapore aims to achieve a 36 per cent reduction in Emissions Intensity (EI) from 2005 levels by 2030.
 
 Singapore is already among the 20 best performing countries in EI globally. This enhancement to Singapore’s 2030 NDC will provide greater clarity to the international community that we will commit to an absolute peak emissions level.
 
@@ -27,7 +27,7 @@ Singapore will also expand the scope of the country’s pledge to include a seve
 
 **LEDS**
 
-Singapore also aims to **halve emissions from its peak to 33MtCO2e by 2050**, **with a view to achieving net zero emissions as soon as viable in the second half of the century.**
+Singapore also aims to **halve emissions from its peak to 33MtCO<sub>2</sub>e by 2050**, **with a view to achieving net zero emissions as soon as viable in the second half of the century.**
 
 Singapore’s enhanced NDC and LEDS aspiration sets out realistic but challenging and ambitious goals for Singapore, drawing on citizens’ suggestions and taking into account its national circumstances. These goals demonstrate Singapore’s seriousness and commitment to supporting international climate action and a low-carbon future.
 
