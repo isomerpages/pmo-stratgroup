@@ -46,5 +46,5 @@ Tan Kok Yam<br  />
 * Corporate Communications
 * Corporate Services
 * Human Capital
-* Organisational Development
+* Corporate Planning & Organisational Development
 * Information Technology
