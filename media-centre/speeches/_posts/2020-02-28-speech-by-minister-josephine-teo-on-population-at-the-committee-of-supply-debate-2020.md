@@ -119,7 +119,7 @@ However, I agree with **Mr Alex Yam** that beyond policy, a whole of society app
 
 **Integrating Immigrants into our Singapore Society**
 
-Let me turn now to immigration matters, which **Dr Lim Wee Kiak** raised. This a delicate issue in many places around the world. 
+Let me turn now to immigration matters, which **Dr Lim Wee Kiak** raised. This is a delicate issue in many places around the world. 
 
 With current birth rates and as our society ages, our citizen population will likely decline. For many years now, we have taken in a carefully controlled number of new citizens each year to keep the citizen population stable over the long term. As immigrants are mostly from younger age groups, this also helps to moderate our pace of ageing.
 
@@ -145,7 +145,7 @@ One good example is Mr Trieu Dang Huy, who works as a senior projects executive 
 
 * Let me just highlight one new initiative. As part of the Singapore Together movement, we are inviting Singaporeans to help craft the content for the Singapore Citizenship Journey – a compulsory programme for all who seek to take up Singapore citizenship. I am happy that many have stepped forward.
 
-* This will complement our existing efforts. For example, the People’s Association appoints Integration and Naturalisation Champions to help new citizens and PRs settle into their neighbourhoods. They organise chit-chat sessions, interest groups, and learning journeys to nudge newcomers make friends and get involved in the community. 
+* This will complement our existing efforts. For example, the People’s Association appoints Integration and Naturalisation Champions to help new citizens and PRs settle into their neighbourhoods. They organise chit-chat sessions, interest groups, and learning journeys to nudge newcomers to make friends and get involved in the community. 
 
 * We continue to welcome Singaporeans’ views on how we can help newcomers better integrate into our society.
 
