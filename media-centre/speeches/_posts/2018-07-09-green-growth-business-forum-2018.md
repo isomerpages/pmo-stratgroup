@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opening address by Mr Tan Kok Yam, Deputy Secretary, National Climate Change Secretariat, Strategy Group, Prime Minister's Office and Smart National and Digital Government Office, at Green Growth Business Forum 2018, 9 July 2018"
+title: "Opening address by Mr Tan Kok Yam, Deputy Secretary, Smart Nation and Digital Government, and Strategy Group, Prime Minister's Office, at Green Growth Business Forum 2018, 9 July 2018"
 date:   2018-07-09
 permalink: "/media-centre/speeches/green-growth-business-forum-2018"
 ---
