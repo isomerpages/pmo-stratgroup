@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Together, Singapore is Made For Families"
-date:   2020-06-18
+date:   2020-06-20
 permalink: "/media-centre/press-releases/Together-Singapore-is-Made-For-Families"
 ---
 
