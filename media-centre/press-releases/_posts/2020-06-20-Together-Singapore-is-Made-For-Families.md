@@ -15,7 +15,7 @@ To kick-start the effort is a **#WeAreMadeForFamilies challenge**. Businesses, o
 
 Businesses, organisations and community groups can take part in the **#WeAreMadeForFamilies** challenge in the following ways:
 
-* Go to the *Made For Families page* (go.gov.sg/MadeForFamilies) to register, share how they support families, and subsequently receive the brand mark. They can also download a profile picture frame for social media; 
+* Go to the *Made For Families page* ([go.gov.sg/MadeForFamilies](https://www.go.gov.sg/MadeForFamilies)) to register, share how they support families, and subsequently receive the brand mark. They can also download a profile picture frame for social media; 
 
 * Share on their respective social media channel(s) on how their organisation is *Made For Families*. They can highlight their **family-friendly programmes, policies, practices, amenities, products** or **services**, and use the hashtags **#WeAreMadeForFamilies** and **#SGUnited**. Entities may also wish to use the profile picture frame on their social media; 
 
@@ -37,5 +37,5 @@ NPTD will also be working closely with Families For Life (FFL) to reach out to m
 
 Supporting Singaporeans in fulfilling their plans to get married and raise families is a key national priority. While the Government’s Marriage and Parenthood package has been enhanced over the years to address the evolving needs of Singaporeans to provide comprehensive support, everyone has a part to play. Together, we can foster a society that is *Made For Families*, by laying a foundation of support, from family-friendly spaces and workplaces, products and services, and family-bonding initiatives and activities.  
 
-For more information on *Made For Families*, visit go.gov.sg/MadeForFamilies.
+For more information on *Made For Families*, visit [go.gov.sg/MadeForFamilies](https://www.go.gov.sg/MadeForFamilies).
 
