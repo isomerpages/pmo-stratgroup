@@ -2,7 +2,7 @@
 layout: post
 title:  "Together, Singapore is Made For Families"
 date:   2020-06-20
-permalink: "/media/press-release/2020-06-20-Together-Singapore-is-Made-For-Families"
+permalink: "/media-centre/press-release/2020-06-20-Together-Singapore-is-Made-For-Families"
 ---
 
 **Together, Singapore is Made For Families**
