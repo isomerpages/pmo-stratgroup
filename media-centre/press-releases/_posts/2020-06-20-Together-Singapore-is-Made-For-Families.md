@@ -38,4 +38,3 @@ NPTD will also be working closely with Families For Life (FFL) to reach out to m
 Supporting Singaporeans in fulfilling their plans to get married and raise families is a key national priority. While the Government’s Marriage and Parenthood package has been enhanced over the years to address the evolving needs of Singaporeans to provide comprehensive support, everyone has a part to play. Together, we can foster a society that is *Made For Families*, by laying a foundation of support, from family-friendly spaces and workplaces, products and services, and family-bonding initiatives and activities.  
 
 For more information on *Made For Families*, visit [go.gov.sg/MadeForFamilies](https://www.go.gov.sg/MadeForFamilies).
-
