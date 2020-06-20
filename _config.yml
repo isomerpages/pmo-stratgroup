@@ -27,6 +27,7 @@ github_username:  jekyll
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
+future: true
 
 plugins:
   - jekyll-feed
