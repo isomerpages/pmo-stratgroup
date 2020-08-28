@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Addenda to the President’s Address at the Opening of the Second Session of the 13th Parliament"
+title:  "Addendum to the President’s Address at the Opening of the Second Session of the 13th Parliament"
 date:   2018-05-10
-permalink: "/media-centre/press-releases/addenda-to-the-presidents-address"
+permalink: "/media-centre/press-releases/addendum-to-the-presidents-address"
 ---
 
 PRIME MINISTER’S OFFICE (STRATEGY GROUP)
