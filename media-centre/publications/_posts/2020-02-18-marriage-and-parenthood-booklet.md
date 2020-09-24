@@ -10,6 +10,6 @@ The Marriage and Parenthood Booklet provides an overview of the support that is 
 
 Download:
 
-[Marriage and Parenthood Booklet 2020 (4mb, pdf)](https://www.heybaby.sg/docs/default-source/default-document-library/m-p-booklet.pdf)
+[Marriage and Parenthood Booklet 2020 (4mb, pdf)](https://www.heybaby.sg/docs/default-source/default-document-library/m-p-booklet-aug-20204bcf71cafad74f18b9b36703a232db09.pdf?sfvrsn=c20c1709_3)
 
 [Marriage and Parenthood Booklet 2016 (3mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/m-p-booklet.pdf)
