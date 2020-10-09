@@ -7,6 +7,8 @@ permalink: "/media-centre/press-releases/3000-Baby-Support-Grant-Helps-Singapore
 
 To ease couples’ financial concerns about having a child in the midst of the COVID-19 pandemic and recession, the Government will provide a **one-off Baby Support Grant (BSG) of $3,000 to supplement the existing Baby Bonus Cash Gift (BBCG), for children born from 1 October 2020 to 30 September 2022**. The BSG adds to the Marriage and Parenthood (M&P) Package, to further help couples defray child-raising costs during these extraordinary times.
 
+![Overview Infographic](/images/overview-cover-page-01.png)
+
 **Supporting Singaporeans in their marriage and parenthood journey**
 
 Supporting Singaporeans in fulfilling their plans to marry and raise families is a key national priority. The Government’s M&P Package offers a comprehensive suite of support measures, which have been progressively enhanced since 2001. The latest round of enhancements in 2019/2020 has improved preschool affordability and accessibility, made housing more affordable for those buying their first homes from HDB, and provided additional healthcare support for children and couples.
@@ -29,8 +31,10 @@ Community partners like Families for Life (FFL) have actively organised Facebook
 
 The Government encourages more employers, companies and community groups to support Singaporeans in their parenthood aspirations. Extended family and friends can also show their support for couples planning to start families, and for families with young children. 
 
-Minister Indranee Rajah, Minister in the Prime Minister’s Office, National Population and Talent Division, said: “This pandemic has not been easy on Singaporeans who are planning to get married and start their families. The Government will spare no effort to help couples meet their marriage and parenthood aspirations. We also hope that more businesses and community groups will play their part to support couples juggle work and family, provide affordable goods and services for young families, and ultimately, create a Singapore that is made for families.” 
+Minister Indranee Rajah, Minister in the Prime Minister’s Office, National Population and Talent Division, said: “This pandemic has not been easy on Singaporeans who are planning to get married and start their families. The Government will spare no effort to help couples meet their marriage and parenthood aspirations. We also hope that more businesses and community groups will play their part to support couples juggle work and family, provide affordable goods and services for young families, and ultimately, create a Singapore that is made for families.”  
 
+Download:  
+[Examples of companies joining the Government in providing support to families](/files/media-centre/press-releases/Examples-of-businesses-showing-support-for-families.pdf)
 
 *For more information on Made For Families, visit [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg)  
 For more information on Baby Bonus Parenting Resources portal, visit [http://www.babybonus.msf.gov.sg/parentingresources](http://www.babybonus.msf.gov.sg/parentingresources)*
