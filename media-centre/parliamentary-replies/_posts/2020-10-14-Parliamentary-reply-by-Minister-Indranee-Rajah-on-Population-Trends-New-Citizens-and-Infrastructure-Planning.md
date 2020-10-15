@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Indranee Rajah on Population Trends, New Citizens and Infrastructure Planning "
+title:  "Parliamentary reply by Minister Indranee Rajah on Population Trends, New Citizens and Infrastructure Planning"
 date:   2020-10-14
 permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-Population-Trends-New-Citizens-and-Infrastructure-Planning "
 ---
