@@ -51,7 +51,7 @@ However, we would like to seek the public’s understanding that specific start 
 
 So you can see, it is not straightforward and each group has reasons for the dates proposed, and looking at it from their perspective they are all valid. But we can only choose one date, and whichever date we choose, there will be groups who are not covered. We chose October as the commencement date for the reasons mentioned earlier, and seek your understanding why we are maintaining this date.
 
-But, we will however accede to appeals for the Baby Support Grant from a specific group of parents – those whose babies were born before 1 October 2020, but whose certified Estimated Delivery Date was on or after 1 October 2020. In other words, born prematurely even though the EDD was 1 October onwards. The National Population and Talent Division will provide more information to parents on how they can do so.
+But, we will however accede to appeals for the Baby Support Grant from a specific group of parents – those whose babies were born before 1 October 2020, but whose certified Estimated Delivery Date was on or after 1 October 2020. The National Population and Talent Division will provide more information to parents on how they can do so.
 
 **Comprehensive suite of support under Marriage & Parenthood Package**
 
