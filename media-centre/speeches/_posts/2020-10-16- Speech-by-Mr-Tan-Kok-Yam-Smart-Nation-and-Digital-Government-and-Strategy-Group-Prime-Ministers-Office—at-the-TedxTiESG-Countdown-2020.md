@@ -15,7 +15,7 @@ Behind me is a floating solar PV system deployed in a lake at the Singapore Disc
 
 Of course, we are not just interested in panels that can float. We have taken advantage of our public housing system to deploy solar in housing estates across the country; and in the coming years, we will be working on panels on vertical building facades. We also plan to deploy one of the world’s largest offshore solar panel system. These efforts will contribute to our solar deployment goal of at least 2 gigawatt-peak by 2030. 
 
-These are all methods and solutions that help us to contribute to a low-carbon, climate resilient future as a small island state occupying 720 square kilometres. 
+These are all methods and solutions that help us to contribute to a low-carbon, climate-resilient future as a small island state occupying 720 square kilometres. 
 
 We have high urban density, relatively flat terrain, low wind speeds, lack of geothermal resources and competing uses for land. In short, we are alternative energy constrained, and we need to work and think just that little bit harder to be carbon-efficient, resource-efficient, and sustainable. 
 
@@ -52,7 +52,7 @@ Bilaterally, we want to work towards importing electricity through bilateral pow
 
 I mentioned carbon capture. As we have no suitable geological formations for permanent underground storage of carbon dioxide, we will explore partnerships with companies and other countries, to leverage carbon dioxide storage opportunities overseas.
 
-To conclude, there is no silver bullet solution for us. We have to strive on all fronts, push the boundaries of technology and innovation, and rely on all stakeholders – individuals, small business owners, and corporates, and like-minded international partners – to co-create solutions, open up possibilities to enable our transition to a low-carbon, climate resilient future. 
+To conclude, there is no silver bullet solution for us. We have to strive on all fronts, push the boundaries of technology and innovation, and rely on all stakeholders – individuals, small business owners, and corporates, and like-minded international partners – to co-create solutions, open up possibilities to enable our transition to a low-carbon, climate-resilient future. 
 
 Hopefully, part of what Singapore does for ourselves can contribute to the larger discussion on how cities and countries might overcome similar challenges. 
 
