@@ -51,7 +51,7 @@ However, we would like to seek the public’s understanding that specific start 
 
 So you can see, it is not straightforward and each group has reasons for the dates proposed, and looking at it from their perspective they are all valid. But we can only choose one date, and whichever date we choose, there will be groups who are not covered. We chose October as the commencement date for the reasons mentioned earlier, and seek your understanding why we are maintaining this date.
 
-But, we will however accede to appeals for the Baby Support Grant from a specific group of parents – those whose babies were born before 1 October 2020, but whose certified Estimated Delivery Date was on or after 1 October 2020. The National Population and Talent Division will provide more information to parents on how they can do so.
+But, we will however accede to appeals for the Baby Support Grant from a specific group of parents – those whose babies were born before 1 October 2020, but whose certified Estimated Delivery Date was on or after 1 October 2020. The [National Population and Talent Division will provide more information](https://www.go.gov.sg/baby-support-grant) to parents on how they can do so.
 
 **Comprehensive suite of support under Marriage & Parenthood Package**
 
@@ -60,6 +60,10 @@ That said, it is important to understand where parents who have asked for an ear
 And some of these new measures commenced in 2019/2020, which young children born since 2014, including the babies born from January 2020, would benefit from.
 
 With your permission, Mr Speaker, may I ask the Clerk to distribute handouts with information on the Marriage and Parenthood Package available to parents?
+
+![Comprehensive M&P Support Measures](/images/comprehensive-infographic-1.png)
+
+![Comprehensive M&P Support Measures](/images/comprehensive-infographic-2.png)
 
 While the extra Baby Support Grant is for babies born from 1 October 2020, parents whose babies were born before 1 October 2020 will receive (and in some cases have already received) cash and cash-like benefits, which were last enhanced in 2015 and 2016. So, they would have received, for example:
 
