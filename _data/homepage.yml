@@ -22,14 +22,7 @@ hero-banner: /images/SG-homepage.jpg
 button:
   - text: Read More
     url: /who-we-are/
-    
-# Resources Section
-resources-title: Media Centre
-resources-subtitle: Latest News
-resources-more-button: More Media
-resources-more-button-url: media-centre/
 
-show-reach: true
 
     - infopic:
         image: /images/spor-banner.png
@@ -38,3 +31,12 @@ show-reach: true
         button: Read More
         alt: Singapore Public Sector Outcomes Review 2020
         url: https://www.go.gov.sg/SPOR
+
+
+# Resources Section
+resources-title: Media Centre
+resources-subtitle: Latest News
+resources-more-button: More Media
+resources-more-button-url: media-centre/
+
+show-reach: true
