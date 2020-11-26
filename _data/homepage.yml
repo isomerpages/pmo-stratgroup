@@ -30,3 +30,11 @@ resources-more-button: More Media
 resources-more-button-url: media-centre/
 
 show-reach: true
+
+    - infopic:
+        image: /images/spor-banner.png
+        title: Singapore Public Sector Outcomes Review 2020
+        description: Learn how our fellow citizens and businesses have progressed over the past two years. 
+        button: Read More
+        alt: Singapore Public Sector Outcomes Review 2020
+        url: https://www.go.gov.sg/SPOR
