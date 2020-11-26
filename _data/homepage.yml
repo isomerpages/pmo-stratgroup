@@ -22,7 +22,14 @@ hero-banner: /images/SG-homepage.jpg
 button:
   - text: Read More
     url: /who-we-are/
-    
+
+info-sections:
+  - section-title: Singapore Public Sector Outcomes Review 2020
+    section-description: Learn how our fellow citizens and businesses have progressed over the past two years.
+    section-more-button: Read More
+    section-more-button-url: https://www.go.gov.sg/SPOR
+    section-image-path: /images/spor-banner.png
+
 # Resources Section
 resources-title: Media Centre
 resources-subtitle: Latest News
