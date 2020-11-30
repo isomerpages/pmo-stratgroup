@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "First Singapore-United-Kingdom-Climate-Change-Bilateral-Dialogue"
+date:   2020-11-30
+permalink: "/media/press-release/first-singapore-united-kingdom-climate-change-bilateral-dialogue"
+---
+
+
 The First Meeting of the Singapore-UK Climate Change Bilateral Dialogue was held from 24 to 26 November 2020 by videoconference. The Dialogue covered a wide range of topics including climate ambition and green recovery post-COVID-19, carbon markets, energy transition, low-carbon technologies, green transport, nature-based solutions, and green finance. 
 
 The Dialogue advances work in one of four key pillars under the SG-UK Partnership for the Future, which commits both countries to building on our historic links to look to the future, and address shared and global challenges together. 
