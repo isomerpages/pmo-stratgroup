@@ -12,7 +12,9 @@ Buildings and landmarks around the Marina Bay area, including the National Galle
 A global response is needed to address the global problem of climate change. C40 is a network of megacities committed to working together to realise the goals of the Paris Agreement, and to drive global collaboration in addressing climate change. Other C40 cities, such as Austin, Boston, Lisbon, New York City, San Francisco, Venice, Paris and Seoul, are also expected to participate in this global event.
 
 Singapore is committed to the global call for enhanced climate action. In March 2020, Singapore submitted to the United Nations Framework Convention on Climate Change (UNFCCC): 
+
 •	Our Enhanced Nationally Determined Contribution (NDC), which aims to peak emissions at 65 MtCO2e around 2030; and 
+
 •	Our Long-Term Low-Emissions Development Strategy (LEDS) that aspires to halve emissions from its peak to 33 MtCO2e by 2050, and to achieve net-zero emissions as soon as viable in the second half of the century. 
 
 In end-December 2020, Singapore will submit our fourth Biennial Update Report (BUR) to the UNFCCC outlining Singapore’s mitigation measures to fulfil its 2020 climate commitment of reducing emissions by 16 per cent below 2020 business-as-usual (BAU) levels. 
