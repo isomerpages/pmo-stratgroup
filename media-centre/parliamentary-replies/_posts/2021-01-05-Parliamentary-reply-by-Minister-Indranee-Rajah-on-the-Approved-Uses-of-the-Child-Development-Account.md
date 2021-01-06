@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Minister Indranee Rajah on the Approved Uses of the Child Development Account"
 date:   2021-01-05
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-the-Approved-Uses-of-the-Child-Development-Account "
+permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-the-Approved-Uses-of-the-Child-Development-Account"
 ---
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
