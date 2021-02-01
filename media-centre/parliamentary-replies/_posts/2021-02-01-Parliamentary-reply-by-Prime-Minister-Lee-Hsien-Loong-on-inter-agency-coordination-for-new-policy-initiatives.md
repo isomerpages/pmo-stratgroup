@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Parliamentary reply by Prime Minister Lee Hsien Loong on Inter-Agency Coordination for New Policy Initiatives"
+title:  "Parliamentary reply by Prime Minister Lee Hsien Loong on inter-agency coordination for new policy initiatives"
 date:   2021-02-01
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-prime-minister-lee-hsien-loong-on-inter-agency-coordination-for-new-policy-initiatives”
+permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-prime-minister-lee-hsien-loong-on-inter-agency-coordination-for-new-policy-initiatives"
 ---
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
-**MONDAY, 1 FEBRUARY 2021**  
+**MONDAY, 1 FEBRUARY 2021**   
 
 **Ms Joan Pereira:**
 To ask the Prime Minister what procedures are in place to obtain feedback from all Ministries regarding potential impact on their work and related legislation from any new initiative and to ensure better coordination among Government departments and agencies.
