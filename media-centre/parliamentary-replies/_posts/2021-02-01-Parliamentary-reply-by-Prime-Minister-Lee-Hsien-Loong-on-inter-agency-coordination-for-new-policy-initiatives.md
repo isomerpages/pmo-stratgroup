@@ -5,7 +5,6 @@ date:   2021-02-01
 permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-prime-minister-lee-hsien-loong-on-inter-agency-coordination-for-new-policy-initiatives”
 ---
 
-
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
 **MONDAY, 1 FEBRUARY 2021**  
