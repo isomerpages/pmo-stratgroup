@@ -16,7 +16,7 @@ Parents can look forward to more financial support when they have a second child
 
 Nine in 10 married Singaporeans would like to have two or more children<sup>1</sup>, and almost two-thirds of them still do.<sup>2</sup> However, there is an increasing proportion who are having only one child. Parents who are planning for their second child can now look forward to more support. Currently, the Government’s contributions to the CDA for the first child is the same as that for the second child. **The Government will double the maximum amount it will match dollar-for-dollar in the CDA of a second child from $3,000 to $6,000. All Singaporean children who are the second child, and whose date of birth or Estimated Date of Delivery (EDD) is on  or after 1 January 2021, will be eligible.<sup>3</sup>** Approximately 12,000 children and their families will benefit from this enhancement annually.
 
-With this enhancement, the maximum total Government contribution to CDA for the second child will increase to $9,000. This includes the $3,000 CDA First Step Grant, which is automatically credited upfront into the CDA. In all, **parents can receive up to $24,000 in financial support  for their second child**. Please refer to <u>**Annex A**</u> for a summary of the total financial support parents can receive for each child.
+With this enhancement, the maximum total Government contribution to CDA for the second child will increase to $9,000. This includes the $3,000 CDA First Step Grant, which is automatically credited upfront into the CDA. In all, **parents can receive up to $24,000 in financial support  for their second child**. Please refer to **<u>Annex A</u>** for a summary of the total financial support parents can receive for each child.
 
 <u>Government-paid Paternity Benefit for fathers and Adoption Benefit for adoptive mothers</u>
 
@@ -26,7 +26,7 @@ Similar to the Government-Paid Maternity Benefit, the GPPB and GPAB schemes will
 
 The benefits will apply to parents whose child’s date of birth, EDD, or formal intent to adopt<sup>7</sup> is on or after 1 January 2021. To qualify, parents must have worked for a total of at least 90 days in the 12 months before their child’s birth or formal intent to adopt. More details on the eligibility criteria and application process will be released later.
 
-A summary of the two new benefits for parents can be found in <u>**Annex B**</u>.  
+A summary of the two new benefits for parents can be found in **<u>Annex B</u>**.  
 
 For more information on the latest enhancements and the comprehensive suite of Marriage and Parenthood support measures, visit [www.madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg)
 
