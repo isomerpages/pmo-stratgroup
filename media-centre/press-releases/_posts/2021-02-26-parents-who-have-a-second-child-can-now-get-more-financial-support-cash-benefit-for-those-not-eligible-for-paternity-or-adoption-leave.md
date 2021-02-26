@@ -38,6 +38,9 @@ For more information on the latest enhancements and the comprehensive suite of M
 
   * **Annex C**: [Infographic on Overview of the Marriage & Parenthood Package](/files/media-centre/press-releases/annex-c-cos-2021.pdf)
 
+<u>Related:</u>
+
+  * [Speech by Minister Indranee Rajah on Population at the Committee of Supply Debate 2021](https://www.strategygroup.gov.sg/media-centre/speeches/speech-by-minister-indranee-rajah-on-population-at-the-committee-of-supply-debate-2021)
 
 ----------
 <sup>1</sup> Source: National Population and Talent Division’s 2016 Marriage and Parenthood Survey  

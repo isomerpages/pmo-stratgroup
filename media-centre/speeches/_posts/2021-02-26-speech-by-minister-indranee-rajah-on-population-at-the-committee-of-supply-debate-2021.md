@@ -126,6 +126,10 @@ As part of the Emerging Stronger Conversations, Minister of State Sun Xueling an
 
 Our post-COVID world will require population strategies that keep us resilient and cohesive. Together, let us continue to build a Singapore that is home for all Singaporeans, and emerge stronger as a nation.
 
+<u>Related:</u>
+
+  * Press Release: [Parents who have a Second Child can now get More Financial Support; Cash benefit for those not eligible for paternity or adoption leave](https://www.strategygroup.gov.sg/media/press-release/parents-who-have-a-second-child-can-now-get-more-financial-support-cash-benefit-for-those-not-eligible-for-paternity-or-adoption-leave)
+
 
 
 *<sup>1</sup> As at end-Jan 2021.* 
