@@ -40,16 +40,10 @@ For more information on the latest enhancements and the comprehensive suite of M
 
 
 ----------
-<sup>1</sup> Source: National Population and Talent Division’s 2016 Marriage and Parenthood Survey
-
-<sup>2</sup> Based on Department of Statistics (2019) data, almost two-thirds of ever-married women have two or more children in Singapore.
-
-<sup>3</sup> Government will co-match parents’ savings up to the increased cap from 1 April 2021. Parents whose children qualify and had saved into their child’s CDA before 1 April 2021, will also receive the increased co-matching.
-
-<sup>4</sup> Includes Baby Bonus Cash Gift, Baby Support Grant, Government contributions to CDA, and Medisave Grant for Newborns.
-
-<sup>5</sup> Includes natural and adoptive fathers
-
-<sup>6</sup> This will be calculated based on the average income earned by the father/ adoptive mother, over the 12-month period preceding the child’s birth or FIA (whichever applicable).
-
+<sup>1</sup> Source: National Population and Talent Division’s 2016 Marriage and Parenthood Survey  
+<sup>2</sup> Based on Department of Statistics (2019) data, almost two-thirds of ever-married women have two or more children in Singapore.  
+<sup>3</sup> Government will co-match parents’ savings up to the increased cap from 1 April 2021. Parents whose children qualify and had saved into their child’s CDA before 1 April 2021, will also receive the increased co-matching.  
+<sup>4</sup> Includes Baby Bonus Cash Gift, Baby Support Grant, Government contributions to CDA, and Medisave Grant for Newborns.  
+<sup>5</sup> Includes natural and adoptive fathers  
+<sup>6</sup> This will be calculated based on the average income earned by the father/ adoptive mother, over the 12-month period preceding the child’s birth or FIA (whichever applicable).  
 <sup>7</sup> Formal intent to adopt (FIA) is the date when an application to adopt is submitted to Court (for a Singapore Citizen child), or the date when the dependent’s pass (DP) in respect of the child is issued or a document indicating the application for the DP has been approved (for a foreign child).
