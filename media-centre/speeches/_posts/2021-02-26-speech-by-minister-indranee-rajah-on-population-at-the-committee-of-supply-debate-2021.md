@@ -33,13 +33,13 @@ Because we recognised the importance of Marriage & Parenthood (M&P) as a life-go
 
 * We increased the attendance capacity for wedding receptions and solemnisations to 100, so couples can celebrate with more loved ones. 
 
-* We introduced the $3,000 Baby Support Grant (BSG) in October for Singaporean couples who have a child in these two years. This is over and above the Baby Bonus Cash Gift. Almost 10,000 families have benefitted<sup>1</sup>. We hope this gives some reassurance to couples to proceed with their parenthood plans.
+* We introduced the $3,000 Baby Support Grant (BSG) in October for Singaporean couples who have a child in these two years. This is over and above the Baby Bonus Cash Gift. Almost 10,000 families have benefited<sup>1</sup>. We hope this gives some reassurance to couples to proceed with their parenthood plans.
 
 The pandemic has also brought about opportunities. COVID-19 showed that flexible work arrangements (FWAs) are feasible, and help parents to manage their responsibilities at work and at home. **Mr Louis Ng** asked if we could introduce additional leave for parents to care for sick children.
 
 Any leave enhancement, even if unpaid or temporary, could affect employers’ operations and parents’ employability, and must be reviewed with other requests for leave enhancements. It is more difficult to introduce such changes in the current challenging economic climate. FWAs on the other hand, are a pragmatic approach to meeting the needs of employers and workers, so that is something we can look at.
 
-I agree that we need to lock in gains in FWA usage, since the vast majority of employers now offer it. We are studying the effects of increased use of FWAs, and how to keep such practices. Meanwhile, we urge employers to continue to offer FWAs to achieve better work-life harmony while at the same time meeting business needs. 
+I agree that we need to lock in the gains of FWAs, since the vast majority of employers now offer it. We are studying the effects of increased use of FWAs, and how to keep such practices. Meanwhile, we urge employers to continue to offer FWAs to achieve better work-life harmony while at the same time meeting business needs. 
 
 **Ms Denise Phua** suggested many ways to improve our Total Fertility Rate (TFR). Our TFR has been below replacement levels for years. **<u>In 2020, our TFR was 1.10, which is a historic low.</u>** We are in a similar predicament as East Asian societies like South Korea and Taiwan, and Scandinavian countries known for achieving good fertility outcomes, like Finland and Norway. They also experienced a drop in TFR, and some are at historic lows too. Raising fertility is an uphill task for advanced societies, but we must continue to support those who wish to marry and have children.
 
@@ -49,7 +49,7 @@ Responding to **Ms Denise Phua’s** suggestions, we are committed to building a
 
 In the past two years, we have significantly enhanced access to affordable housing and preschool<sup>3</sup>. 
 
-* We raised the qualifying income ceiling for subsidised housing from $12,000 to $14,000 in September 2019 so that more couples have affordable housing options. Those buying resale flats, can now receive up to $160,000 in housing grants, up from $90,000 5 years ago. 
+* We raised the qualifying income ceiling for subsidised housing from $12,000 to $14,000 in September 2019 so that more couples could have affordable housing options. Those buying resale flats, can now receive up to $160,000 in housing grants, up from $90,000 5 years ago. 
 
 * We also increased the Additional Subsidy for preschools, and raised the qualifying household income ceiling to $12,000 a month. We aim to further lower fee caps at Government-supported preschools, so that working families with a child in full-day childcare pay around the equivalent of fees for primary school plus after-school student care. With means-tested preschool subsidies, low- and middle-income households will pay even less.
 
@@ -71,7 +71,7 @@ But we can always do better. With your permission, Mr Chairman, may I ask the Cl
 
 * With this enhancement, **the maximum total Government contributions for the second child’s CDA will increase from $6,000 to $9,000**. All Singapore Citizen (SC) children who are the second child, and whose date of birth or estimated date of delivery is on or after 1 January 2021, will be eligible. About 12,000 children will benefit annually. 
 
-* The one-time $200 CDA top-up, announced by DPM Heng on Budget Day, as part of the Household Support Package, will also provide additional support. 
+* The one-time $200 CDA top-up, announced by DPM Heng on Budget Day, as part of the Household Support Package, will provide additional support. 
 
 * **Ms Carrie Tan** has championed greater gender equality in caring for children and asked to set aside two months from the current four months of maternity leave, as paternity leave. She also asked for tax incentives to nudge fathers to use them. We agree that the active involvement of fathers is critical to the wellbeing of children and their partners. Today, fathers can already share up to one month of their wives’ maternity leave under the Shared Parental Leave Scheme, on top of two weeks of paternity leave. However, only about 5% of fathers use this flexibility. Some couples also prefer to reserve all 16 weeks of maternity leave for mothers to recuperate and bond with their child. Hence, we are cautious about requiring fathers to take more of mothers’ existing maternity leave. We would first urge fathers to take their paternity leave. Since the introduction of Paternity Leave, take-up rates have increased from 25% in 2013 to 53% in 2018. It is encouraging that more fathers have been taking time off to care for their newborns, and we hope this signals a stronger shift towards greater shared parental responsibility. 
 
