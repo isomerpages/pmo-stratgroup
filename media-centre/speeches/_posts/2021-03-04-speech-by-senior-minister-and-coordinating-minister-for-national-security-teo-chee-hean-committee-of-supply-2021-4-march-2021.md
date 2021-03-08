@@ -68,3 +68,5 @@ Mdm Chair, I am heartened that on 1 February this year, this House unanimously p
 This augurs well. Last month, five ministries collectively announced our Singapore Green Plan 2030. The Green Plan reflects this Government’s aspirations and commitment towards sustainable development for us. Many Singaporeans, especially young Singaporeans, are motivated and energised by this vision and want to play an active role. And our desire is to partner every Singaporean to transform Singapore into a glowing global city of sustainability. My colleagues from the respective Ministries will be elaborating on the initiatives under the Green Plan and responding to the specific comments from members.
 
 Our enhanced NDC, LEDS, and Green Plan have set challenging and ambitious goals for Singapore. I am confident that by rallying together as one, we will rise to the challenge, re-invent Singapore, and create a brighter and sustainable future for all Singaporeans. Thank you Mdm Chair.
+
+*For more information on the Joint Segment on Sustainabiility at the Committee of Supply debates 2021, please visit: https://www.greenplan.gov.sg/cos/.*
