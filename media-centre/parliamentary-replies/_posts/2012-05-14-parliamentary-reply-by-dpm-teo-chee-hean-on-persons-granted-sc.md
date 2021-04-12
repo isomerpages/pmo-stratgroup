@@ -52,7 +52,7 @@ In the past 5 years, there were on average about 18,500 individuals granted Sing
   
   <tr>
     <td>2008</td>
-    <td>118,397 (90%)</td>
+    <td>18,397 (90%)</td>
     <td>2,116 (10%)</td>
     <td>20,513</td>
   </tr>
