@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Population In Brief"
-date:   2020-09-24
+date:   2021-09-28
 permalink: /media-centre/publications/population-in-brief
 ---
 
