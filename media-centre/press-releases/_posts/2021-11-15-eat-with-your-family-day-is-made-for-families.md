@@ -18,19 +18,20 @@ Mr Bryan Tan, Chief Executive Officer of Centre for Fathering, said: “During t
 Sharon Ng, HR Director of Michelman Asia Pacific Pte Ltd, said: “A family that eats together, stays together. The Eat With Your Family Day initiative, which our company joined in 2017, is one of the family-friendly initiatives that has helped improve our employees’ work-life harmony and morale, resulting in happier and healthier employees which aids productivity.”
 
 During the event, participants can look forward to fun and interactive games to discover more about family-friendly organisations, places, and public amenities, with
-prizes to be won. Each participating family on Zoom will also receive $50 worth of foodpanda credits, which can be used to purchase any items on the foodpanda platform, or to order a hearty meal to dine at home with their family. The virtual event will also be streamed on the *Made For Families* Facebook page at www.facebook.com/MadeForFamiliesSg. Interested parties can tune in and stand a chance to win vouchers too. More information about the event can be found at go.gov.sg/madeforfamiliespartners.
+prizes to be won. Each participating family on Zoom will also receive $50 worth of foodpanda credits, which can be used to purchase any items on the foodpanda platform, or to order a hearty meal to dine at home with their family. The virtual event will also be streamed on the *Made For Families* Facebook page at [www.facebook.com/MadeForFamiliesSg](https://www.facebook.com/MadeForFamiliesSg). Interested parties can tune in and stand a chance to win vouchers too. More information about the event can be found at [go.gov.sg/madeforfamiliespartners](https://go.gov.sg/madeforfamiliespartners).
 
 ***Made for Families* partners**    
 foodpanda and Centre for Fathering are one of the many partners who have adopted the *Made For Families* brand mark. This signifies their commitment towards building a family-friendly Singapore, through initiatives, programmes, amenities, products, and services that support families and raising children.
 
 Since the launch of the Made for Families brand mark in June 2020, around 80 businesses, organisations and community groups have adopted it. They come from various sectors, ranging from hospitality, leisure, food and beverage, retail and ecommerce, to government agencies and community groups. This initiative by the National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, aims to assure families of the support offered by the Government and community at large. For more information on Made for Families, please refer to the factsheet.
 
++++
   
 **About EWYFD**  
 EWYFD was launched in 2003 by the Centre for Fathering to encourage organisations to arrange for employees to leave work at 5pm so that they can eat with their families. The initiative also aims to remind parents to put aside time to eat with their children regularly. 
 
 Held on the last Friday of each school term, the dates for EWYFD 2021 are 12 March, 28 May, 3 September and 19 November. EWYFD is a joint effort by Centre for Fathering, MUMS for Life and DADs for Life, in partnership with Families for Life and
-in support of the *Made For Families* initiative.For more information, visit [fathers.com.sg/ewyfd](https://fathers.com.sg/ewyfd).
+in support of the *Made For Families* initiative. For more information, visit [fathers.com.sg/ewyfd](https://fathers.com.sg/ewyfd).
 
 **About Centre for Fathering, DADs for Life and MUMs for Life**  
 Centre for Fathering (CFF) is a non-profit organisation founded in 2000 to promote active and involved fathering and address issues caused by fatherlessness in Singapore. The organisation aims to turn the hearts of children towards their fathers by empowering more fathers to be better role models and an enduring inspiration to their children.
@@ -50,7 +51,7 @@ Visit [https://familiesforlife.sg](https://familiesforlife.sg) for tips, resourc
 Launched in June 2020, “Made for Families” is a brand mark that represents the different ways - big and small - in which Singapore supports families. An initiative by
 the National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, Made For Families aims to assure families of the support offered by the government and community at large. We also hope to call out to more employers, corporate and community partners to contribute, and collectively build a conducive ecosystem that supports families in Singapore. 
 
-For more information on Made for Families, please visit [https://www.madeforfamilies.gov.sg](https://madeforfamilies.gov.sg).
+For more information on Made for Families, please visit [www.madeforfamilies.gov.sg](https://madeforfamilies.gov.sg).
 
 <u>Download</u>  
 [Made For Families factsheet](/files/media-centre/press-releases/made-for-families-factsheet.pdf)
