@@ -56,4 +56,4 @@ the National Population and Talent Division (NPTD) in the Strategy Group, Prime 
 For more information on Made for Families, please visit [https://www.madeforfamilies.gov.sg](https://madeforfamilies.gov.sg).
 
 <u>Download</u>  
-Made For Families factsheet
+[Made For Families factsheet](/files/media-centre/press-releases/made-for-families-factsheet.pdf)
