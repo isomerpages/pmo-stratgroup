@@ -27,3 +27,32 @@ prizes to be won. Each participating family on Zoom will also receive $50 worth 
 foodpanda and Centre for Fathering are one of the many partners who have adopted the *Made For Families* brand mark. This signifies their commitment towards building a family-friendly Singapore, through initiatives, programmes, amenities, products, and services that support families and raising children.
 
 Since the launch of the Made for Families brand mark in June 2020, around 80 businesses, organisations and community groups have adopted it. They come from various sectors, ranging from hospitality, leisure, food and beverage, retail and ecommerce, to government agencies and community groups. This initiative by the National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, aims to assure families of the support offered by the Government and community at large. For more information on Made for Families, please refer to the factsheet.
+
+  
+**About EWYFD**  
+EWYFD was launched in 2003 by the Centre for Fathering to encourage organisations to arrange for employees to leave work at 5pm so that they can eat with their families. The initiative also aims to remind parents to put aside time to eat with their children regularly. 
+
+Held on the last Friday of each school term, the dates for EWYFD 2021 are 12 March, 28 May, 3 September and 19 November. EWYFD is a joint effort by Centre for Fathering, MUMS for Life and DADs for Life, in partnership with Families for Life and
+in support of the *Made For Families* initiative.For more information, visit [fathers.com.sg/ewyfd](https://fathers.com.sg/ewyfd).
+
+**About Centre for Fathering, DADs for Life and MUMs for Life**  
+Centre for Fathering (CFF) is a non-profit organisation founded in 2000 to promote active and involved fathering and address issues caused by fatherlessness in Singapore. The organisation aims to turn the hearts of children towards their fathers by empowering more fathers to be better role models and an enduring inspiration to their children.
+
+Since 2015, CFF has been the driving force behind Singapore’s nation-wide fathering movement – DADs for Life, which seeks to inspire and mobilise fathers to become more involved with and a good influence to their children... for life. Under the DADs for Life umbrella are initiatives such as DADs@School, Back to School with DAD, Eat With Your Family Day and Celebrating Fathers – to encourage fathers to spend time with their families and create a culture that promotes active fathering.
+
+MUMs for Life celebrates a mum’s unique identity as a woman and her irreplaceable roles as a daughter, wife and mother. When Mums are confident in their unique identity and multiple roles, they can better nurture our children and support DADs in building a stronger family in an increasingly complex world.
+
+**About Families for Life**  
+Families for Life’s (FFL) vision is to inculcate a “Families for Life” mindset and value among Singaporeans, by building strong and resilient families, as that makes for stronger communities and better individual well-being.
+
+To achieve this vision, FFL rallies like-minded individuals, families and organisations to strengthen family bonds through the FFL Movement. FFL works with various stakeholders to build the ecosystem that support families in the community, offers family life education programmes to equip families with the knowledge to navigate the different life stages and enrols volunteers to support the FFL movement. 
+
+Visit [https://familiesforlife.sg](https://familiesforlife.sg) for tips, resources and interesting activities you can enjoy with your family!
+
+**About Made For Families**  
+Launched in June 2020, “Made for Families” is a brand mark that represents the different ways - big and small - in which Singapore supports families. An initiative by
+the National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, Made For Families aims to assure families of the support offered by the government and community at large. We also hope to call out to more employers, corporate and community partners to contribute, and collectively build a conducive ecosystem that supports families in Singapore. 
+
+For more information on Made for Families, please visit [https://www.madeforfamilies.gov.sg](https://madeforfamilies.gov.sg).
+
+Download
