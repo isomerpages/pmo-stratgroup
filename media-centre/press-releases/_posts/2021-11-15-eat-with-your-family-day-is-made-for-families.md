@@ -1,16 +1,13 @@
 ---
 layout: post
 title:  "Eat With Your Family Day is Made For Families!"
-date:   2021-15-11
+date:   2021-11-15
 permalink: "/media/press-release/eat-with-your-family-day-is-made-for-families"
 ---
 
 
 
-To encourage Singaporeans to forge stronger bonds with their families, employers are encouraged to allow employees to leave work at 5pm on 19 November
-2021, Friday, to have a meal with their families. In a special edition of Eat With Your Family Day, about 100 families will be enjoying a *Made For Families* evening of fun
-with great prizes to be won. Ms Indranee Rajah, Minister in the Prime Minister’s Office, will be engaging the participating families on Zoom to find out what “*Made For
-Families*” means to them.
+To encourage Singaporeans to forge stronger bonds with their families, employers are encouraged to allow employees to leave work at 5pm on 19 November 2021, Friday, to have a meal with their families. In a special edition of Eat With Your Family Day, about 100 families will be enjoying a *Made For Families* evening of fun with great prizes to be won. Ms Indranee Rajah, Minister in the Prime Minister’s Office, will be engaging the participating families on Zoom to find out what “*Made For Families*” means to them.
 
 The “Eat With Your Family Day is Made For Families” virtual event marks the last Eat With Your Family Day (EWYFD) of the year. This virtual event is organised by Centre for Fathering, MUMs for Life and DADs for Life, in partnership with Families for Life, in support of *Made For Families*.
 
