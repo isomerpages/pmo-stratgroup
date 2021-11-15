@@ -19,7 +19,7 @@ Sharon Ng, HR Director of Michelman Asia Pacific Pte Ltd, said: “A family that
 During the event, participants can look forward to fun and interactive games to discover more about family-friendly organisations, places, and public amenities, with
 prizes to be won. Each participating family on Zoom will also receive $50 worth of foodpanda credits, which can be used to purchase any items on the foodpanda platform, or to order a hearty meal to dine at home with their family. The virtual event will also be streamed on the *Made For Families* Facebook page at www.facebook.com/MadeForFamiliesSg. Interested parties can tune in and stand a chance to win vouchers too. More information about the event can be found at go.gov.sg/madeforfamiliespartners.
 
-***Made for Families partners***
+***Made for Families partners***  
 foodpanda and Centre for Fathering are one of the many partners who have adopted the Made For Families brand mark. This signifies their commitment towards building a family-friendly Singapore, through initiatives, programmes, amenities, products, and services that support families and raising children.
 
 Since the launch of the Made for Families brand mark in June 2020, around 80 businesses, organisations and community groups have adopted it. They come from various sectors, ranging from hospitality, leisure, food and beverage, retail and ecommerce, to government agencies and community groups. This initiative by the National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, aims to assure families of the support offered by the Government and community at large. 
