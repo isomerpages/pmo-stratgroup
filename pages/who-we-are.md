@@ -26,9 +26,6 @@ Leo Yip<br  />
 Cindy Khoo<br  />
 *Deputy Secretary*
 
-Tan Kok Yam<br  />
-*Deputy Secretary*
-
 **Directorates** 
 * Economy & Sustainability
 * Geo-Strategic Policy
