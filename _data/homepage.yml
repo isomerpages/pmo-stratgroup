@@ -24,6 +24,11 @@ button:
     url: /who-we-are/
 
 info-sections:
+- section-title: Budget 2022
+    section-description: The Singapore Budget is a strategic financial plan to address the challenges facing us, and to build our future Singapore together. Click to find out more about our national Budget process.
+    section-more-button: Read More
+    section-more-button-url: https://www.mof.gov.sg/singaporebudget
+    section-image-path: /images/Budget-2022.png
   - section-title: URA Long-Term Plan Review
     section-description: Play a part in shaping Singapore’s future! URA has launched a year-long public engagement exercise for the Long-Term Plan Review, where you can share your aspirations and needs for our future city. This will help URA to develop resilient, flexible, and inclusive long-term plans based on your feedback in this Long-Term Plan Review. Share your views on shaping our future city in the online poll today.
     section-more-button: Share Now
@@ -39,11 +44,6 @@ info-sections:
     section-more-button: Read More
     section-more-button-url: https://www.go.gov.sg/SPOR
     section-image-path: /images/spor-banner.png
-  - section-title: Budget 2021
-    section-description: The Singapore Budget is a strategic financial plan to address the challenges facing us, and to build our future Singapore together. Click to find out more about our national Budget process.
-    section-more-button: Read More
-    section-more-button-url: https://www.mof.gov.sg/singaporebudget
-    section-image-path: /images/Budget-2022.png
 
 # Resources Section
 resources-title: Media Centre
