@@ -24,8 +24,8 @@ button:
     url: /who-we-are/
 
 info-sections:
-- section-title: Budget 2022
-    section-description: The Singapore Budget is a strategic financial plan to address the challenges facing us, and to build our future Singapore together.
+  - section-title: Budget 2022
+    section-description: The Singapore Budget is a strategic financial plan to address the challenges facing us, and to build our future Singapore together. Click to find out more about our national Budget process.
     section-more-button: Read More
     section-more-button-url: https://www.mof.gov.sg/singaporebudget
     section-image-path: /images/Budget-2022.png
