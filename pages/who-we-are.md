@@ -17,7 +17,7 @@ Strategy Group leads and organises the Public Service to develop and implement t
 
 
 #### Organisational Structure ####
-Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and two Deputy Secretaries. 
+Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and a Deputy Secretary. 
 
 **Senior Management**<br  />
 Leo Yip<br  />
