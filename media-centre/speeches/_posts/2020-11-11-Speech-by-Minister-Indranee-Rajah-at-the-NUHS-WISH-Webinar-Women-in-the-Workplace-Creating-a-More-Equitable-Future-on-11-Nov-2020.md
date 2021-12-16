@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Indranee Rajah at the NUHS WISH Webinar - Women in the Workplace: Creating a More Equitable Future on 11 Nov 2020"
-date:   2020-11-11
-permalink: "/media-centre/speeches/Speech-by-Minister-Indranee-Rajah-at-the-NUHS-WISH-Webinar-Women-in-the-Workplace-Creating-a-More-Equitable-Future-on-11-Nov-2020"
+title: 'Speech by Minister Indranee Rajah at the NUHS WISH Webinar - Women in the Workplace: Creating a More Equitable Future on 11 Nov 2020'
+date: 2020-11-11T00:00:00.000Z
+permalink: /media-centre/speeches/Speech-by-Minister-Indranee-Rajah-at-the-NUHS-WISH-Webinar-Women-in-the-Workplace-Creating-a-More-Equitable-Future-on-11-Nov-2020
+
 ---
+
 
 **“RETHINKING NORMS FOR WOMEN IN SINGAPORE”**
 
