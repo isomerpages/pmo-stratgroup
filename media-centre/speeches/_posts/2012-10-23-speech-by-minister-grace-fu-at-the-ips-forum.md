@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu at the IPS Forum"
-date:   2012-10-23
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-ips-forum"
+title: 'Speech by Minister Grace Fu at the IPS Forum'
+date: 2012-10-23T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-ips-forum
+
 ---
+
 
 Good afternoon. It is my pleasure to join all of you here today. The title for today’s forum is “Vision 2050: Life and family in Singapore”. This topic is very timely in light of the recent discussions raised in the ongoing National Conversation that has been widely reported in the media. IPS’s contribution over the weekend of SingaStore.com, SingaGives.gov and Wikicity.sg provides interesting framing for related discussion. Well, how would we know what comes in 2050, you may ask? The value of looking far ahead is so that we start to envision the future we want for ourselves, today. What are our dreams for ourselves, and our future generations? How can we collectively work together to make that dream, a reality that offers a better future in Singapore – one that creates opportunities for our people, nurtures our people to their fullest potential, and where our children will live better lives than us, as we did our parents?
 
