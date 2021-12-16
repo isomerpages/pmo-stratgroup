@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, at the World Oceans Summit, 23 February 2012, at Capella Singapore"
-date:   2012-02-23
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore"
+title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, at the World Oceans Summit, 23 February 2012, at Capella Singapore'
+date: 2012-02-23T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore
+
 ---
+
 
 His Excellency, Mr Olafur Ragnar Grimsson   
 President, Republic of Iceland  
