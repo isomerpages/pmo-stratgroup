@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Wong Kan Seng on enhance the pro-family incentives"
-date:   2010-03-02
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-2-mar-2010"
+title: 'Parliamentary reply by DPM Wong Kan Seng on enhance the pro-family incentives'
+date: 2010-03-02T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-2-mar-2010
+
 ---
+
 
 **Assoc Prof Paulin Tay Straughan:**
 To ask the Prime Minister in light of the lower number of births recorded in 2009, whether the Government has plans to further enhance the pro-family incentives.
