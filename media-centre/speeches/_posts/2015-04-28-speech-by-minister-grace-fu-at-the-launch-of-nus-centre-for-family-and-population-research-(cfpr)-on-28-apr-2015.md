@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu, at the launch of NUS Centre for Family and Population Research (CFPR)"
-date:   2015-04-28
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015"
+title: 'Speech by Minister Grace Fu, at the launch of NUS Centre for Family and Population Research (CFPR)'
+date: 2015-04-28T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015
+
 ---
+
 
 **New Centre to further understanding and discourse on Singapore’s demographic challenges**
 
