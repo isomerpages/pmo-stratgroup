@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Parliamentary reply by Minister Indranee Rajah on COVID-19’s impact on long-term population trends and strategies "
-date: 2021-11-01
-permalink: "/media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-covid-19-impact-on-long-term-population-trends-and-strategies"
+title: 'Parliamentary reply by Minister Indranee Rajah on COVID-19’s impact on long-term population trends and strategies '
+date: 2021-11-01T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-covid-19-impact-on-long-term-population-trends-and-strategies
+
 ---
+
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
