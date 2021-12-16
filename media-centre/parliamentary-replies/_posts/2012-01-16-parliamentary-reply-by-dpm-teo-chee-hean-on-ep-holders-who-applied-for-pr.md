@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on EP holders who applied for PR"
-date:   2012-01-16
+title: 'Parliamentary reply by DPM Teo Chee Hean on EP holders who applied for PR'
+date: 2012-01-16T00:00:00.000Z
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-ep-holders-who-applied-for-pr
+
 ---
+
 **TWELFTH PARLIAMENT OF SINGAPORE  
 ORAL ANSWER  
 MONDAY, 16 JANUARY 2012**
