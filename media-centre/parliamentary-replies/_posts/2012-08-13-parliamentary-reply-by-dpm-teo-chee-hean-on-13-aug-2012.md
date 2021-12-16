@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on prevalence of companies offering paternity leave"
-date:   2012-08-13
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-13-aug-2012"
+title: 'Parliamentary reply by DPM Teo Chee Hean on prevalence of companies offering paternity leave'
+date: 2012-08-13T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-13-aug-2012
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 ORAL ANSWER  
