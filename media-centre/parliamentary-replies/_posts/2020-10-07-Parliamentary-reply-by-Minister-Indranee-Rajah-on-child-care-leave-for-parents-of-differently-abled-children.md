@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Indranee Rajah on child care leave for parents of differently abled children"
-date:   2020-10-06
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-child-care-leave-for-parents-of-differently-abled-children"
+title: 'Parliamentary reply by Minister Indranee Rajah on child care leave for parents of differently abled children'
+date: 2020-10-06T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-child-care-leave-for-parents-of-differently-abled-children
+
 ---
+
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
