@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Indranee Rajah on Plans to review Government-Paid Childcare Leave"
-date:   2021-01-05
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-plans-to-review-government-paid-childcare-leave"
+title: 'Parliamentary reply by Minister Indranee Rajah on Plans to review Government-Paid Childcare Leave'
+date: 2021-01-05T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-plans-to-review-government-paid-childcare-leave
+
 ---
+
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
