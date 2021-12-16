@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu at SIAS' 4th Corporate Governance Week"
-date:   2013-11-08
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-sias'-4th-corporate-governance-week"
+title: 'Speech by Minister Grace Fu at SIAS'' 4th Corporate Governance Week'
+date: 2013-11-08T00:00:00.000Z
+permalink: '/media-centre/speeches/speech-by-minister-grace-fu-at-sias''-4th-corporate-governance-week'
+
 ---
+
 
 **“Women on Board: Unlocking Potential With Gender Diversity”**
 
