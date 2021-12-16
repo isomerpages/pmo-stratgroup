@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Foresight"
-date:   2019-07-01
+title: Foresight
+date: 2019-07-01T00:00:00.000Z
 permalink: /media-centre/publications/foresight
+
 ---
+
 
 
 Foresight is a biennial publication by the [Centre for Strategic Futures](https://www.csf.gov.sg) (CSF) that contains CSF’s research exploring how the future may unfold, and the implications of emerging trends and issues.
