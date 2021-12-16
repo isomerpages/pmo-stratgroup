@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu at the Singapore Economic Policy Forum"
-date:   2012-10-25
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-singapore-economic-policy-forum"
+title: 'Speech by Minister Grace Fu at the Singapore Economic Policy Forum'
+date: 2012-10-25T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-singapore-economic-policy-forum
+
 ---
+
 
 #### **STAYING RELEVANT AMID SINGAPORE’S DEMOGRAPHIC CHANGES**  
 
