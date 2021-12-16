@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, on Climate Change at the Committee of Supply Debate, 1 March 2012"
-date:   2012-03-01
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-mr-teo-chee-hean-coordinating-minister-for-national-security-and-minister-for-home-affairs-on-climate-change"
+title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, on Climate Change at the Committee of Supply Debate, 1 March 2012'
+date: 2012-03-01T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-mr-teo-chee-hean-coordinating-minister-for-national-security-and-minister-for-home-affairs-on-climate-change
+
 ---
+
 
 I thank Dr Teo Ho Pin, Dr Lam Pin Min and Mr Charles Chong for their questions on climate change. The world’s climate is changing and the unusual number of extreme weather calamities may be a prelude to what is to come if no action is taken. As Members have highlighted, Singapore is a low-lying island and we are vulnerable to the effects of climate change. We must prepare ourselves for this challenging future. 
 
