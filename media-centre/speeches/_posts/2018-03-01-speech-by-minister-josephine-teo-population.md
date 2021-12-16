@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Speech by Minister Josephine Teo on Population at Committee of Supply 2018"
-date:   2018-03-01
-permalink: "/media-centre/speeches/2018-03-01-speech-by-minister-josephine-teo-population"
+title: 'Speech by Minister Josephine Teo on Population at Committee of Supply 2018'
+date: 2018-03-01T00:00:00.000Z
+permalink: /media-centre/speeches/2018-03-01-speech-by-minister-josephine-teo-population
+
 ---
+
 
 _“Together, We Can Be Well-Prepared For Our Future”_
 
