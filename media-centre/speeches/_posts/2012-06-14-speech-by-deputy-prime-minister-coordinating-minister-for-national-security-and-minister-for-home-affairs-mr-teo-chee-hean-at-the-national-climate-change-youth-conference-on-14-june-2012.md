@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, at the National Climate Change Youth Conference on 14 June 2012"
-date:   2012-06-14
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-national-climate-change-youth-conference-on-14-june-2012"
+title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, at the National Climate Change Youth Conference on 14 June 2012'
+date: 2012-06-14T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-national-climate-change-youth-conference-on-14-june-2012
+
 ---
+
 
 Distinguished Guests, 
 
