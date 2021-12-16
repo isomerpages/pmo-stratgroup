@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Tharman Shanmugaratnam at the National Citizenship Ceremony 2012"
-date:   2012-08-25
-permalink: "/media-centre/speeches/speech-by-dpm-tharman-shanmugaratnam-at-the-national-citizenship-ceremony-2012"
+title: 'Speech by DPM Tharman Shanmugaratnam at the National Citizenship Ceremony 2012'
+date: 2012-08-25T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-tharman-shanmugaratnam-at-the-national-citizenship-ceremony-2012
+
 ---
+
 
 Members of the National Integration Council, Distinguished Guests, Ladies and Gentlemen,
 

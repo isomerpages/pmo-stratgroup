@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on the number of Singaporeans who have renounced their citizenship, broken down according to ethnic groups"
-date:   2012-11-12
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-12-nov-2012"
+title: 'Parliamentary reply by DPM Teo Chee Hean on the number of Singaporeans who have renounced their citizenship, broken down according to ethnic groups'
+date: 2012-11-12T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-12-nov-2012
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  

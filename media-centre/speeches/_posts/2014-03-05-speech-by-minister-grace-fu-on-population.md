@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu on population, delivered at the Committee of Supply"
-date:   2014-03-05
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-on-population"
+title: 'Speech by Minister Grace Fu on population, delivered at the Committee of Supply'
+date: 2014-03-05T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-on-population
+
 ---
+
 
 “SHIFTS TOWARDS BALANCED APPROACH FOR SINGAPORE’S POPULATION”
 

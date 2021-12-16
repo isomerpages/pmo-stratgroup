@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Prime Minister Lee Hsien Loong at the UNFCCC Conference in Bali, 12 December 2007"
-date:   2007-12-12
+title: 'Speech by Prime Minister Lee Hsien Loong at the UNFCCC Conference in Bali, 12 December 2007'
+date: 2007-12-12T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-unfccc-conference-in-bali-12-december-2007
+
 ---
+
 
 Dr Susilo Bambang Yudhoyono, President of the Republic of Indonesia 
 Mr Rachmat Witoelar, President of the Conference 

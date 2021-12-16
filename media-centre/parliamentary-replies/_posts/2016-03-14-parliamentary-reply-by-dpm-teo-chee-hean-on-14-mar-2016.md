@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on paternity and childcare policies"
-date:   2016-03-14
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-14-mar-2016"
+title: 'Parliamentary reply by DPM Teo Chee Hean on paternity and childcare policies'
+date: 2016-03-14T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-14-mar-2016
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE   
 WRITTEN ANSWER      

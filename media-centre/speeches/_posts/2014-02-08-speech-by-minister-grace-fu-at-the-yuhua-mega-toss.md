@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu at the Yuhua Mega Toss"
-date:   2014-02-08
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-yuhua-mega-toss"
+title: 'Speech by Minister Grace Fu at the Yuhua Mega Toss'
+date: 2014-02-08T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-yuhua-mega-toss
+
 ---
+
 
 A very warm welcome to our _Guest-of-honor:_   
 Mr Desmond Lee, Advisor to Jurong GRC Grassroots Organisations & Minister of  

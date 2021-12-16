@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "WoG Briefing on State of the Population"
-date:   2009-06-17
-permalink: "/media-centre/press-releases/wog-briefing-on-state-of-the-population"
+title: 'WoG Briefing on State of the Population'
+date: 2009-06-17T00:00:00.000Z
+permalink: /media-centre/press-releases/wog-briefing-on-state-of-the-population
+
 ---
+
 
 Singapore’s total population stands at 4.84 million, an increase of 5.5% over the previous year. The growth is largely due to the increase in the number of non-residents. The number of residents, i.e. Singapore citizens and permanent residents (PR), grew 1.7% to reach 3.64 million in June 2008.
 

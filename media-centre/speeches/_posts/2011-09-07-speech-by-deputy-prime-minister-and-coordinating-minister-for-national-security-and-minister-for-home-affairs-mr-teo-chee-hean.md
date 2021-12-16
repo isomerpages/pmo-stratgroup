@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Teo Chee Hean at the launch of the National Climate Change Strategy 2012 (NCCS-2012) Public Consultation"
-date:   2011-09-07
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean"
+title: 'Speech by DPM Teo Chee Hean at the launch of the National Climate Change Strategy 2012 (NCCS-2012) Public Consultation'
+date: 2011-09-07T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean
+
 ---
+
 
 Distinguished guests, Teachers and students,
 

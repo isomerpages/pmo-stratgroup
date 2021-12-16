@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "National Statement of Singapore by Minister for Foreign Affairs, Dr Vivian Balakrishnan, at the Signature Ceremony of the Paris Agreement in New York, 22 April 2016"
-date:   2016-04-22
-permalink: "/media-centre/speeches/national-statement-of-singapore-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-signature-ceremony-of-the-paris-agreement-in-new-york-22-april-2016"
+title: 'National Statement of Singapore by Minister for Foreign Affairs, Dr Vivian Balakrishnan, at the Signature Ceremony of the Paris Agreement in New York, 22 April 2016'
+date: 2016-04-22T00:00:00.000Z
+permalink: /media-centre/speeches/national-statement-of-singapore-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-signature-ceremony-of-the-paris-agreement-in-new-york-22-april-2016
+
 ---
+
 
 Excellencies,
 

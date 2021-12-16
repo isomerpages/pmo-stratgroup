@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Singapore's Long-Term Low-Emissions Development Strategy
+title: 'Singapore''s Long-Term Low-Emissions Development Strategy'
 permalink: /media/publications/singapores-long-term-low-emissions-development-strategy
+
 ---
+
 
 ### SINGAPORE'S LONG-TERM LOW-EMISSIONS DEVELOPMENT STRATEGY
 

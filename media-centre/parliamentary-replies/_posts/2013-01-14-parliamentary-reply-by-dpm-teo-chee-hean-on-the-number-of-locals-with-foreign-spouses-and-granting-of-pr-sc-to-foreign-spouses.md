@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary Reply by DPM Teo Chee Hean on the number of locals with foreign spouses and granting of PR/ SC to foreign spouses"
-date:   2013-01-14
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-the-number-of-locals-with-foreign-spouses-and-granting-of-pr-sc-to-foreign-spouses"
+title: 'Parliamentary Reply by DPM Teo Chee Hean on the number of locals with foreign spouses and granting of PR/ SC to foreign spouses'
+date: 2013-01-14T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-the-number-of-locals-with-foreign-spouses-and-granting-of-pr-sc-to-foreign-spouses
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  

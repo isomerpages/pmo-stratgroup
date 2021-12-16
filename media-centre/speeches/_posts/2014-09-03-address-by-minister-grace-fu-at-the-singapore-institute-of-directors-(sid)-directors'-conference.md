@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Address by Minister Grace Fu at the Singapore Institute of Directors (SID) Directors' Conference"
-date:   2014-09-03
-permalink: "/media-centre/speeches/address-by-minister-grace-fu-at-the-singapore-institute-of-directors-(sid)-directors'-conference"
+title: 'Address by Minister Grace Fu at the Singapore Institute of Directors (SID) Directors'' Conference'
+date: 2014-09-03T00:00:00.000Z
+permalink: '/media-centre/speeches/address-by-minister-grace-fu-at-the-singapore-institute-of-directors-(sid)-directors''-conference'
+
 ---
+
 
 **Corporate Adaptability, Diversity & Sustainability Critical For New Capitalism**
 

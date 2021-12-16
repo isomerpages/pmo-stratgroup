@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Grace Fu on effective date of enhanced Baby Bonus and Medisave grant for newborns, and extension to cover citizens born on or after 1 Jan 2012"
-date:   2013-02-05
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-5-feb-2013"
+title: 'Parliamentary reply by Minister Grace Fu on effective date of enhanced Baby Bonus and Medisave grant for newborns, and extension to cover citizens born on or after 1 Jan 2012'
+date: 2013-02-05T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-5-feb-2013
+
 ---
+
 
 **TWELFTH PARLIAMENT  
 ORAL ANSWER  

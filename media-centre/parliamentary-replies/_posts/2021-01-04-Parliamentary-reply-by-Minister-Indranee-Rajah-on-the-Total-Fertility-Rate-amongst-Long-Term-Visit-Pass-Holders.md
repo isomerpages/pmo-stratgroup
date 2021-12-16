@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Indranee Rajah on the Total Fertility rate amongst Long-Term Visit Pass Holders"
-date:   2021-01-04
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-the-Total-Fertility-Rate-amongst-Long-Term-Visit-Pass-Holders"
+title: 'Parliamentary reply by Minister Indranee Rajah on the Total Fertility rate amongst Long-Term Visit Pass Holders'
+date: 2021-01-04T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-the-Total-Fertility-Rate-amongst-Long-Term-Visit-Pass-Holders
+
 ---
+
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Wong Kan Seng on population at the Committee of Supply"
-date:   2009-02-05
-permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-on-population-5feb"
+title: 'Speech by DPM Wong Kan Seng on population at the Committee of Supply'
+date: 2009-02-05T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-on-population-5feb
+
 ---
+
 
 #### **PREAMBLE** 
 

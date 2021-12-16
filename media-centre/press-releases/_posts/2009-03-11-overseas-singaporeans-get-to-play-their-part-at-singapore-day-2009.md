@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Overseas Singaporeans get to play their part at Singapore Day 2009"
-date:   2009-03-11
-permalink: "/media-centre/press-releases/overseas-singaporeans-get-to-play-their-part-at-singapore-day-2009"
+title: 'Overseas Singaporeans get to play their part at Singapore Day 2009'
+date: 2009-03-11T00:00:00.000Z
+permalink: /media-centre/press-releases/overseas-singaporeans-get-to-play-their-part-at-singapore-day-2009
+
 ---
+
 
 Overseas Singaporeans will have a chance to “Relook, Refresh and Reconnect” at Singapore Day 2009, which will take place on 25 April 2009 at Hampton Court Palace, South West of Central London. Compared to previous Singapore Days, Overseas Singaporeans will be contributing in a larger way with performances such as the Acapella Ini, a seven-member group of university students; more than 300 Overseas Singaporeans have registered as volunteers. Overseas Singaporeans can also find out how they can play an active part in what is happening back home and contribute their services.register
 

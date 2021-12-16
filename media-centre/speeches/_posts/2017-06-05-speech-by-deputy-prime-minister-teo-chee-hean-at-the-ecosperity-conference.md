@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Teo Chee Hean at the Ecosperity Conference on 5 June 2017"
-date:   2017-06-05
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-ecosperity-conference"
+title: 'Speech by DPM Teo Chee Hean at the Ecosperity Conference on 5 June 2017'
+date: 2017-06-05T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-ecosperity-conference
+
 ---
+
 
 Chairman Temasek Mr Lim Boon Heng,  
 Distinguished guests,  

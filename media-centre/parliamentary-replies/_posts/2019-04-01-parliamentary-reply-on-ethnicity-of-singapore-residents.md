@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on ethnicity of Singapore residents listed under “others” in ethnic category"
-date:   2019-04-01
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-on-ethnicity-of-singapore-residents"
+title: 'Parliamentary reply by DPM Teo Chee Hean on ethnicity of Singapore residents listed under “others” in ethnic category'
+date: 2019-04-01T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-on-ethnicity-of-singapore-residents
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  

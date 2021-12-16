@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Teo Chee Hean, at the Pasir Ris-Punggol Citizenship Ceremony"
-date:   2015-06-20
-permalink: "/media-centre/speeches/speech-by-dpm-teo-chee-hean-at-the-pasir-ris-punggol-citizenship-ceremony-on-20-jun-2015"
+title: 'Speech by DPM Teo Chee Hean, at the Pasir Ris-Punggol Citizenship Ceremony'
+date: 2015-06-20T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-at-the-pasir-ris-punggol-citizenship-ceremony-on-20-jun-2015
+
 ---
+
 
 Good Morning
 

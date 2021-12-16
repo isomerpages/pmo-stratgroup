@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Teo Chee Hean at the Pasir Ris-Punggol GRC Baby Singapore"
-date:   2015-04-26
-permalink: "/media-centre/speeches/speech-by-dpm-teo-chee-hean-at-the-pasir-ris-punggol-grc-baby-singapore-on-26-apr-2015"
+title: 'Speech by DPM Teo Chee Hean at the Pasir Ris-Punggol GRC Baby Singapore'
+date: 2015-04-26T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-at-the-pasir-ris-punggol-grc-baby-singapore-on-26-apr-2015
+
 ---
+
 
 Mr Teo Ser Luck,  
 Minister of State for Trade and Industry, Mayor for North East District, Adviser  

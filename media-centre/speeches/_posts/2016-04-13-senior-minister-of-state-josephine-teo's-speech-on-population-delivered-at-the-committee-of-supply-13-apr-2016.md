@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Senior Minister of State, Josephine Teo, on population at the Committee of Supply"
-date:   2016-04-13
-permalink: "/media-centre/speeches/senior-minister-of-state-josephine-teo's-speech-on-population-delivered-at-the-committee-of-supply-13-apr-2016"
+title: 'Speech by Senior Minister of State, Josephine Teo, on population at the Committee of Supply'
+date: 2016-04-13T00:00:00.000Z
+permalink: '/media-centre/speeches/senior-minister-of-state-josephine-teo''s-speech-on-population-delivered-at-the-committee-of-supply-13-apr-2016'
+
 ---
+
 
 _**Great Place for Families and a Cohesive and Open Society**_
 

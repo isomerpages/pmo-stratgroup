@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Khaw Boon Wan at the National Citizenship Ceremony 2014"
-date:   2014-08-30
-permalink: "/media-centre/speeches/speech-by-minister-khaw-boon-wan-at-the-national-citizenship-ceremony-2014"
+title: 'Speech by Minister Khaw Boon Wan at the National Citizenship Ceremony 2014'
+date: 2014-08-30T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-khaw-boon-wan-at-the-national-citizenship-ceremony-2014
+
 ---
+
 
 Members of the National Integration Council
 

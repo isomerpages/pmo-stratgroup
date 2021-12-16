@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on profile of new SCs/PRs"
-date:   2012-01-16
+title: 'Parliamentary reply by DPM Teo Chee Hean on profile of new SCs/PRs'
+date: 2012-01-16T00:00:00.000Z
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-16-jan-2012
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 (FIRST SESSION)  

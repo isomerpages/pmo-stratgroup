@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "DPM Teo Chee Hean's Speech on Population at the 2012 Committee of Supply"
-date:   2012-03-01
-permalink: "/media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population"
+title: 'DPM Teo Chee Hean''s Speech on Population at the 2012 Committee of Supply'
+date: 2012-03-01T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population
+
 ---
+
 
 **Preamble**
 
