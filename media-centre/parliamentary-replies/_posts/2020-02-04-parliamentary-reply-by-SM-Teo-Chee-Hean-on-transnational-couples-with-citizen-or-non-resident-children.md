@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by SM Teo Chee Hean on transnational couples with citizen or non-resident children"
-date:   2020-02-04
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-SM-Teo-Chee-Hean-on-transnational-couples-with-citizen-or-non-resident-children"
+title: 'Parliamentary reply by SM Teo Chee Hean on transnational couples with citizen or non-resident children'
+date: 2020-02-04T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-SM-Teo-Chee-Hean-on-transnational-couples-with-citizen-or-non-resident-children
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  
