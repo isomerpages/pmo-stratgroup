@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Indranee Rajah at the Debate on the Ministerial Statement on Overview of Government's Strategy to Emerge Stronger from the COVID-19 Pandemic"
-date:   2020-10-15
-permalink: "/media-centre/speeches/Speech-by-Minister-Indranee-Rajah-at-the-Debate-on-the-Ministerial-Statement-on-Overview-of-Government-s-Strategy-to-Emerge-Stronger-from-the-COVID-19-Pandemic"
+title: 'Speech by Minister Indranee Rajah at the Debate on the Ministerial Statement on Overview of Government''s Strategy to Emerge Stronger from the COVID-19 Pandemic'
+date: 2020-10-15T00:00:00.000Z
+permalink: /media-centre/speeches/Speech-by-Minister-Indranee-Rajah-at-the-Debate-on-the-Ministerial-Statement-on-Overview-of-Government-s-Strategy-to-Emerge-Stronger-from-the-COVID-19-Pandemic
+
 ---
+
 
 I announced the Baby Support Grant (BSG) last Friday – a one-time cash payment for all Singaporean children born from 1 October onwards, for two years. 
 
