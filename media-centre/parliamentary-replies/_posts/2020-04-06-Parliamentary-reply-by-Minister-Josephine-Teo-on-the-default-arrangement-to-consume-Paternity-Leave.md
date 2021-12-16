@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Josephine Teo on the default arrangement to consume Paternity Leave"
-date:   2020-04-06
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-the-default-arrangement-to-consume-Paternity-Leave"
+title: 'Parliamentary reply by Minister Josephine Teo on the default arrangement to consume Paternity Leave'
+date: 2020-04-06T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-the-default-arrangement-to-consume-Paternity-Leave
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  
