@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Comments by DPM Wong Kan Seng on the qualifying date for the Marriage & Parenthood Package 2008"
-date:   2008-08-23
-permalink: "/media-centre/press-releases/comments-by-dpm-wong-kan-seng-on-qualifying-date-for-the-enhanced-marriage-and-parenthood-package"
+title: 'Comments by DPM Wong Kan Seng on the qualifying date for the Marriage & Parenthood Package 2008'
+date: 2008-08-23T00:00:00.000Z
+permalink: /media-centre/press-releases/comments-by-dpm-wong-kan-seng-on-qualifying-date-for-the-enhanced-marriage-and-parenthood-package
+
 ---
+
 
 Some people have asked why the qualifying date for this year’s Marriage & Parenthood Package (MPP) is 17 Aug 2008 and not 1 Aug 2008 as was the case for the 2004 MPP. Let me explain.
 
