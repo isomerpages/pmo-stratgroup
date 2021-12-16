@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Grace Fu on the number of foreign spouses in Singapore granted citizenship and permanent residency"
-date:   2013-02-25
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-25-feb-2013"
+title: 'Parliamentary reply by Minister Grace Fu on the number of foreign spouses in Singapore granted citizenship and permanent residency'
+date: 2013-02-25T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-25-feb-2013
+
 ---
+
 
 **TWELFTH PARLIAMENT  
 ORAL ANSWER  
