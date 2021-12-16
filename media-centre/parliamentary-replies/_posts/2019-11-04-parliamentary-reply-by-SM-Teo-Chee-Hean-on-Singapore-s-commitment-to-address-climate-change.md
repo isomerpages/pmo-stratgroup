@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by SM Teo Chee Hean on Singapore’s commitment to address climate change"
-date:   2019-11-04
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-SM-Teo-Chee-Hean-on-Singapore-s-commitment-to-address-climate-change"
+title: 'Parliamentary reply by SM Teo Chee Hean on Singapore’s commitment to address climate change'
+date: 2019-11-04T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-SM-Teo-Chee-Hean-on-Singapore-s-commitment-to-address-climate-change
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  
