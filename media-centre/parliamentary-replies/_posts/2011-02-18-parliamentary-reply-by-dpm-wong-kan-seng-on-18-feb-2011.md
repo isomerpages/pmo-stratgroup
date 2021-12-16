@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Wong Kan Seng on strategies to increase citizen birth rate"
-date:   2011-02-18
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-18-feb-2011"
+title: 'Parliamentary reply by DPM Wong Kan Seng on strategies to increase citizen birth rate'
+date: 2011-02-18T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-18-feb-2011
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 ORAL ANSWER  
