@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Singapore's National Statement by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Mr Teo Chee Hean, at the UNFCCC COP-17 High Level Segment, in Durban, South Africa, 7 December 2011"
-date:   2011-12-07
-permalink: "/media-centre/speeches/singapores-national-statement-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-unfccc-cop-17-high-level-segment"
+title: 'Singapore''s National Statement by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Mr Teo Chee Hean, at the UNFCCC COP-17 High Level Segment, in Durban, South Africa, 7 December 2011'
+date: 2011-12-07T00:00:00.000Z
+permalink: /media-centre/speeches/singapores-national-statement-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-unfccc-cop-17-high-level-segment
+
 ---
+
 
 Madame President, 
 
