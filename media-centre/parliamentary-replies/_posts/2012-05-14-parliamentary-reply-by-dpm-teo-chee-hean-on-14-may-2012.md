@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on NPTD's role"
-date:   2012-05-14
+title: 'Parliamentary reply by DPM Teo Chee Hean on NPTD''s role'
+date: 2012-05-14T00:00:00.000Z
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-14-may-2012
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 ORAL ANSWER  
