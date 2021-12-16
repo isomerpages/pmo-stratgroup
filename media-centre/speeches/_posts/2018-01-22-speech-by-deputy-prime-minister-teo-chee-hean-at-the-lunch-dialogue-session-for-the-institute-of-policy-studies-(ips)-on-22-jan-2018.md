@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Deputy Prime Minister, Teo Chee Hean, at the lunch dialogue session for the Institute of Policy Studies (IPS), Singapore Perspectives 2018 Conference on 22 Jan 2018"
-date:   2018-01-22
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-lunch-dialogue-session-for-the-institute-of-policy-studies-(ips)-on-22-jan-2018"
+title: 'Speech by Deputy Prime Minister, Teo Chee Hean, at the lunch dialogue session for the Institute of Policy Studies (IPS), Singapore Perspectives 2018 Conference on 22 Jan 2018'
+date: 2018-01-22T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-lunch-dialogue-session-for-the-institute-of-policy-studies-(ips)-on-22-jan-2018
+
 ---
+
 
 Good afternoon. Thank you for inviting me to join your discussion today. I heard that you have had an engaging morning. Allow me to add on some of my thoughts.
 
