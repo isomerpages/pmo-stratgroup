@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Parliamentary reply by Minister Indranee Rajah on support for Singaporeans to conceive"
-date: 2021-07-06
-permalink: "/media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-support-for-singaporeans-to-conceive"
+title: 'Parliamentary reply by Minister Indranee Rajah on support for Singaporeans to conceive'
+date: 2021-07-06T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-support-for-singaporeans-to-conceive
+
 ---
+
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
