@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Josephine Teo at the PA Inclusive Awards Presentation Ceremony on 13 July 2018"
-date:   2018-07-13
-permalink: "/media-centre/speeches/speech-PA-inclusive-awards-presentation-ceremony"
+title: 'Speech by Minister Josephine Teo at the PA Inclusive Awards Presentation Ceremony on 13 July 2018'
+date: 2018-07-13T00:00:00.000Z
+permalink: /media-centre/speeches/speech-PA-inclusive-awards-presentation-ceremony
+
 ---
+
 
 Associate Professor Fatimah Lateef, Adviser to the PA Integration Council
 
