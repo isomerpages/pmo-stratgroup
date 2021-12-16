@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Careers
 permalink: /careers/
 breadcrumb: Careers
+
 ---
+
 
 Here at Strategy Group, we believe in helping our people develop their fullest potential while striving to achieve the strategic outcomes of the organisation.
 
