@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Emeritus Senior Minister Goh Chok Tong at the National Citizenship Ceremony 2013"
-date:   2013-08-31
-permalink: "/media-centre/speeches/speech-by-emeritus-senior-minister-goh-chok-tong-at-the-national-citizenship-ceremony-2013"
+title: 'Speech by Emeritus Senior Minister Goh Chok Tong at the National Citizenship Ceremony 2013'
+date: 2013-08-31T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-emeritus-senior-minister-goh-chok-tong-at-the-national-citizenship-ceremony-2013
+
 ---
+
 
 Members of the National Integration Council Friends and fellow Singaporeans
 
