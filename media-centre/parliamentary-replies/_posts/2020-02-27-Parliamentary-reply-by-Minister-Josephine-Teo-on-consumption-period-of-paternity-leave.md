@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Josephine Teo on consumption period of paternity leave"
-date:   2020-02-27
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-consumption-period-of-paternity-leave"
+title: 'Parliamentary reply by Minister Josephine Teo on consumption period of paternity leave'
+date: 2020-02-27T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-consumption-period-of-paternity-leave
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 ORAL REPLY  
