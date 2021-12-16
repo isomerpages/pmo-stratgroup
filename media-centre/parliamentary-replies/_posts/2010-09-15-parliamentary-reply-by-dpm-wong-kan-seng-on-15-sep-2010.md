@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Wong Kan Seng on population mix"
-date:   2010-09-15
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-15-sep-2010"
+title: 'Parliamentary reply by DPM Wong Kan Seng on population mix'
+date: 2010-09-15T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-15-sep-2010
+
 ---
+
 
 #### **PARLIAMENTARY QUESTIONS:**
 
