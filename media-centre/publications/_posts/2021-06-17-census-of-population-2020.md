@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Census of Population 2020"
-date:   2021-06-17
+title: 'Census of Population 2020'
+date: 2021-06-17T00:00:00.000Z
 permalink: /media-centre/publications/census-of-population-2020
+
 ---
+
 
 ### Census of Population 2020 - Population
 ![Census of Population 2020 - Population](/images/census2020-population.jpg "Census of Population 2020 - Population")  

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Climate Action Plan: Take Action Today, for a Sustainable Future"
-date:   2016-07-10
+title: 'Climate Action Plan: Take Action Today, for a Sustainable Future'
+date: 2016-07-10T00:00:00.000Z
 permalink: /media-centre/publications/climate-action-plan-take-action-today-for-a-sustainable-future
+
 ---
+
 
 
 _Singapore’s Climate Action Plan: Take Action Today, for a Sustainable Future_ comprises two complementary publications on Singapore’s mitigation and adaptation plans.

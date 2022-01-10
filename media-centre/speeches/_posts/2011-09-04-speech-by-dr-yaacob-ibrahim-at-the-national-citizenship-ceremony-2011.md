@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Dr Yaacob Ibrahim at the National Citizenship Ceremony 2011"
-date:   2011-09-04
-permalink: "/media-centre/speeches/speech-by-dr-yaacob-ibrahim-at-the-national-citizenship-ceremony-2011"
+title: 'Speech by Dr Yaacob Ibrahim at the National Citizenship Ceremony 2011'
+date: 2011-09-04T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dr-yaacob-ibrahim-at-the-national-citizenship-ceremony-2011
+
 ---
+
 
 National Integration Council members
 

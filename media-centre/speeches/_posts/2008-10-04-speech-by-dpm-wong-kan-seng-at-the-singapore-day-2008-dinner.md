@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Wong Kan Seng at the Singapore Day 2008 Dinner in Melbourne"
-date:   2008-10-04
-permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2008-dinner"
+title: 'Speech by DPM Wong Kan Seng at the Singapore Day 2008 Dinner in Melbourne'
+date: 2008-10-04T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2008-dinner
+
 ---
+
 
 Distinguished Guests,  
 Fellow Singaporeans,  

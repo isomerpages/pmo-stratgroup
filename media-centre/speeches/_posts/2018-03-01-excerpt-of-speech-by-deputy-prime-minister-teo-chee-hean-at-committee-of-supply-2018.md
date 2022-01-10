@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Excerpt of Speech by Deputy Prime Minister, Teo Chee Hean, at Committee of Supply 2018"
-date:   2018-03-01
-permalink: "/media-centre/speeches/excerpt-of-speech-by-deputy-prime-minister-teo-chee-hean-at-committee-of-supply-2018"
+title: 'Excerpt of Speech by Deputy Prime Minister, Teo Chee Hean, at Committee of Supply 2018'
+date: 2018-03-01T00:00:00.000Z
+permalink: /media-centre/speeches/excerpt-of-speech-by-deputy-prime-minister-teo-chee-hean-at-committee-of-supply-2018
+
 ---
+
 
 **Strengthening our Institutions and Helping Our People Succeed** 
 

@@ -1,72 +1,56 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Strategy Group
-title-abbreviated: Strategy Group
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Driving whole-of-government strategic planning by identifying key priorities and emerging issues over the medium to long-term
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.strategygroup.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'Strategy Group'
+title-abbreviated: 'Strategy Group'
+description: 'Driving whole-of-government strategic planning by identifying key priorities and emerging issues over the medium to long-term'
+url: 'https://www.strategygroup.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
-
+resources_name: media-centre
+paginate: 12
+paginate_path: '/media-centre/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/favicon-stratgroup.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://isomer-stratgroup-staging.netlify.app
+prod: https://isomer-stratgroup-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Site configuration
-####################
-
-collections:
-  population-trends:
-    output: true
-
-# Resource Room and Pagination
-resources_name: "media-centre"
-paginate: 12
-paginate_path: "/media-centre/page:num"
-
-# Homepage sections
-homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights 
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/forms/pmo/5b6ac50ad7059a000ff7f98e"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+colors:
+  primary-color: '#A91e34'
+  secondary-color: '#004361'
+  media-colors:
+    - title: media-color-one
+      color: '#045C62'
+    - title: media-color-two
+      color: '#CF463F'
+    - title: media-color-three
+      color: '#71706F'
+    - title: media-color-four
+      color: '#B25C66'
+    - title: media-color-five
+      color: '#982649'

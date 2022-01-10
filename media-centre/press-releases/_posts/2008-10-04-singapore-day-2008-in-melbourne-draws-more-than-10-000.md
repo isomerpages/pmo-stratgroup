@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Singapore Day 2008 in Melbourne draws 11,000!"
-date:   2008-10-4
-permalink: "/media-centre/press-releases/singapore-day-2008-in-melbourne-draws-more-than-11-000"
+title: 'Singapore Day 2008 in Melbourne draws 11,000!'
+date: '2008-10-4'
+permalink: /media-centre/press-releases/singapore-day-2008-in-melbourne-draws-more-than-11-000
+
 ---
+
 
 Following the success of the inaugural Singapore Day in New York last year, the Overseas Singaporean Unit (OSU) in the Prime Minister’s Office organised the second Singapore Day in Melbourne on 4 October 2008. Some 11,000 Overseas Singaporeans living, studying and working in Australia and New Zealand, together with their families and friends, came together as one community to celebrate all things Singaporean at the Sidney Myer Music Bowl. Mr Wong Kan Seng, Deputy Prime Minister and Minister for Home Affairs, was the Guest-of-Honour at the event. Also present were Mr Teo Ser Luck, Senior Parliamentary Secretary in the Ministries of Community Development, Youth & Sports, and Transport, senior government officials and corporate partners and supporters of the event.
 

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Teo Chee Hean on Population White Paper at the Parliamentary Debate"
-date:   2013-02-04
-permalink: "/media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper"
+title: 'Speech by DPM Teo Chee Hean on Population White Paper at the Parliamentary Debate'
+date: 2013-02-04T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper
+
 ---
+
 
 #### **INTRODUCTION**
 

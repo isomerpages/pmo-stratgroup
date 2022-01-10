@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Singaporeans in Shanghai re-live their connection to home at Singapore Day 2011"
-date:   2011-04-16
-permalink: "/media-centre/press-releases/Singaporeans-in-shanghai-re-live-their-connection-to-home-at-singapore-day-2011"
+title: 'Singaporeans in Shanghai re-live their connection to home at Singapore Day 2011'
+date: 2011-04-16T00:00:00.000Z
+permalink: /media-centre/press-releases/Singaporeans-in-shanghai-re-live-their-connection-to-home-at-singapore-day-2011
+
 ---
+
 
 Re-live and reconnect – that was the theme of Singapore Day 2011 held on 16 April. Held in Century Park, the largest park in Shanghai, it was a day when Singaporeans living, working and studying in China gathered to celebrate all things Singaporean. Deputy Prime Minister and Coordinating Minister for National Security Wong Kan Seng graced the event as the Guest-of-Honour.
 

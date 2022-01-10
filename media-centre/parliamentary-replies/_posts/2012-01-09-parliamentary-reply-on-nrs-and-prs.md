@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary Reply by DPM Teo Chee Hean on NRs and PRs"
-date:   2012-01-09
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-on-nrs-and-prs"
+title: 'Parliamentary Reply by DPM Teo Chee Hean on NRs and PRs'
+date: 2012-01-09T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-on-nrs-and-prs
+
 ---
+
 
 **TWELFTH PARLIAMENT OF SINGAPORE  
 (FIRST SESSION)  

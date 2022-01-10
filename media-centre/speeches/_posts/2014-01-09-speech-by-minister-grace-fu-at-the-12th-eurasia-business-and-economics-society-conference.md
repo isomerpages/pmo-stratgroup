@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Grace Fu at the 12th Eurasia Business and Economics Society Conference"
-date:   2014-01-09
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-12th-eurasia-business-and-economics-society-conference"
+title: 'Speech by Minister Grace Fu at the 12th Eurasia Business and Economics Society Conference'
+date: 2014-01-09T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-12th-eurasia-business-and-economics-society-conference
+
 ---
+
 
 Distinguished Guests
 

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Findings of Public Consultations on Marriage and Parenthood"
-date:   2008-07-15
-permalink: "/media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood"
+title: 'Findings of Public Consultations on Marriage and Parenthood'
+date: 2008-07-15T00:00:00.000Z
+permalink: /media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood
+
 ---
+
 
 The National Population Secretariat (NPS) in the Prime Minister’s Office worked with the Ministry of Community Development, Youth and Sports (MCYS), the Ministry of Manpower (MOM), REACH and the National Family Council (NFC) to facilitate a series of public consultation sessions involving more than 300 participants from April to July 2008, to seek feedback on the marriage and parenthood (M&P) situation in Singapore.
 

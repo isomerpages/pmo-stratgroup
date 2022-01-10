@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on impact of pro-family measures on raising fertility rates"
-date:   2017-02-20
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-20-feb-2017"
+title: 'Parliamentary reply by DPM Teo Chee Hean on impact of pro-family measures on raising fertility rates'
+date: 2017-02-20T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-20-feb-2017
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Opening Address by Minister Grace Fu at the launch of the Singapore Institute of Directors' Nominating Committee Guide on 28 Aug 2015"
-date:   2015-08-28
-permalink: "/media-centre/speeches/opening-address-by-minister-grace-fu-at-the-launch-of-the-singapore-institute-of-directors'-nominating-committee-guide-on-28-aug-2015"
+title: 'Opening Address by Minister Grace Fu at the launch of the Singapore Institute of Directors'' Nominating Committee Guide on 28 Aug 2015'
+date: 2015-08-28T00:00:00.000Z
+permalink: '/media-centre/speeches/opening-address-by-minister-grace-fu-at-the-launch-of-the-singapore-institute-of-directors''-nominating-committee-guide-on-28-aug-2015'
+
 ---
+
 
 _**Promoting Gender Diversity on Boards**_
 

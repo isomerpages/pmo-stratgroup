@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on personal responsibility for climate changes"
-date:   2014-04-14
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-personal-responsibility-for-climate-changes"
+title: 'Parliamentary reply by DPM Teo Chee Hean on personal responsibility for climate changes'
+date: 2014-04-14T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-personal-responsibility-for-climate-changes
+
 ---
+
 
 #### **PERSONAL RESPONSIBILITY FOR CLIMATE CHANGE ISSUES**
 

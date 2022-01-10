@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Overseas Singaporeans in UK and Europe Reconnect with Home!"
-date:   2009-04-25
-permalink: "/media-centre/press-releases/overseas-singaporeans-in-uk-and-europe-reconnect-with-home"
+title: 'Overseas Singaporeans in UK and Europe Reconnect with Home!'
+date: 2009-04-25T00:00:00.000Z
+permalink: /media-centre/press-releases/overseas-singaporeans-in-uk-and-europe-reconnect-with-home
+
 ---
+
 
 Overseas Singaporeans came together today to relive the Singapore experience at Singapore Day 2009 in London. Singaporeans living, working and studying in the United Kingdom and other parts of Europe, including Switzerland, France and the Netherlands gathered at the Hampton Court Palace in London for the annual signature event brought to Singaporeans by the Overseas Singaporean Unit and its partners from the public, people and private sectors. The Guest-of-Honour was Mr Wong Kan Seng, Deputy Prime Minister and Minister for Home Affairs.
 

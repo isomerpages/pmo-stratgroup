@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2020
-subtitle: 28 Feb 2020
+title: 'Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2020'
+subtitle: '28 Feb 2020'
 permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2020-28-february-2020
+
 ---
+
 
 **SPEECH BY SENIOR MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY TEO CHEE HEAN, COMMITTEE OF SUPPLY 2020, 28 FEBRUARY 2020**
 

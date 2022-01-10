@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Indranee Rajah on Population Scenarios for Citizen and Citizen Working-Age Population"
-date:   2021-07-05
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-Population-Scenarios-for-Citizen-and-Citizen-Working-Age-Population"
+title: 'Parliamentary reply by Minister Indranee Rajah on Population Scenarios for Citizen and Citizen Working-Age Population'
+date: 2021-07-05T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-Population-Scenarios-for-Citizen-and-Citizen-Working-Age-Population
+
 ---
+
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  

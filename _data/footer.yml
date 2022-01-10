@@ -1,17 +1,7 @@
-- title: Who We Are
-  url: /who-we-are/
-- title: National Climate Change Secretariat
-  url: https://www.nccs.gov.sg/
-  external: true
-- title: Centre for Strategic Futures
-  url: https://www.csf.gov.sg/
-  external: true
-- title: Media Centre
-  url: /media-centre/
-- title: Careers
-  url: /careers/
-- title: FAQ
-  url: /faq/
-- title: Contact Us
-  url: /contact-us/
-
+show_reach: true
+copyright_agency: 'Open Government Products'
+contact_us: /contact-us/
+faq: /faq/
+feedback: 'https://form.gov.sg/forms/pmo/5b6ac50ad7059a000ff7f98e'
+privacy: /privacy/
+terms_of_use: /terms-of-use/

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by DPM Teo Chee Hean on emigration"
-date:   2012-07-09
+title: 'Parliamentary reply by DPM Teo Chee Hean on emigration'
+date: 2012-07-09T00:00:00.000Z
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jan-2012
+
 ---
+
 
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

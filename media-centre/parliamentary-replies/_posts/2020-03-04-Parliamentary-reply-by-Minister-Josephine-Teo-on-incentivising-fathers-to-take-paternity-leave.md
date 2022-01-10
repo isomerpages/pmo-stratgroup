@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Josephine Teo on incentivising fathers to take paternity leave"
-date:   2020-03-04
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-incentivising-fathers-to-take-paternity-leave"
+title: 'Parliamentary reply by Minister Josephine Teo on incentivising fathers to take paternity leave'
+date: 2020-03-04T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-incentivising-fathers-to-take-paternity-leave
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  

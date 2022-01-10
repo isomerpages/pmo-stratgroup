@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Min Josephine Teo on compulsory programme to integrate foreigners"
-date:   2017-05-08
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-min-josephine-teo-on-8-may-2017"
+title: 'Parliamentary reply by Min Josephine Teo on compulsory programme to integrate foreigners'
+date: 2017-05-08T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-min-josephine-teo-on-8-may-2017
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 ORAL ANSWER  

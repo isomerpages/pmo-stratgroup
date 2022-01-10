@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Senior Minister of State Josephine Teo at the 2nd Multipartite Regional Meeting on Financial Security of Older Women in the East and Southeast Asia, 10 Oct 2016"
-date:   2016-10-10
-permalink: "/media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-2nd-multipartite-regional-meeting-on-financial-security-of-older-women-in-the-east-and-southeast-asia-10-oct-2016"
+title: 'Speech by Senior Minister of State Josephine Teo at the 2nd Multipartite Regional Meeting on Financial Security of Older Women in the East and Southeast Asia, 10 Oct 2016'
+date: 2016-10-10T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-2nd-multipartite-regional-meeting-on-financial-security-of-older-women-in-the-east-and-southeast-asia-10-oct-2016
+
 ---
+
 
 Partners from the Tsao Foundation and Citi Foundation,
 

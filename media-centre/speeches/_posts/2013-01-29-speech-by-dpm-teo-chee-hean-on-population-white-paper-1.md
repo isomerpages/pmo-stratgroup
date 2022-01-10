@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by DPM Teo Chee Hean at the Media Conference on Population White Paper"
-date:   2013-01-29
-permalink: "/media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper-1"
+title: 'Speech by DPM Teo Chee Hean at the Media Conference on Population White Paper'
+date: 2013-01-29T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper-1
+
 ---
+
 
 Thank you for joining us here today.
 

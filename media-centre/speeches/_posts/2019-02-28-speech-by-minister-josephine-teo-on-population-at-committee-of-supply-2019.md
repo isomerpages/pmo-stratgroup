@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister Josephine Teo on Population at Committee of Supply 2019"
-date:   2019-02-28
-permalink: "/media-centre/speeches/speech-by-minister-josephine-teo-on-population-at-committee-of-supply-2019"
+title: 'Speech by Minister Josephine Teo on Population at Committee of Supply 2019'
+date: 2019-02-28T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-minister-josephine-teo-on-population-at-committee-of-supply-2019
+
 ---
+
 
 _**Theme: Building a Sustainable Population, Together**_
  

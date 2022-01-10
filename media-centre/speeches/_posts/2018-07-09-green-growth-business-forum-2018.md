@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Opening address by Mr Tan Kok Yam, Deputy Secretary, Smart Nation and Digital Government, and Strategy Group, Prime Minister's Office, at Green Growth Business Forum 2018, 9 July 2018"
-date:   2018-07-09
-permalink: "/media-centre/speeches/green-growth-business-forum-2018"
+title: 'Opening address by Mr Tan Kok Yam, Deputy Secretary, Smart Nation and Digital Government, and Strategy Group, Prime Minister''s Office, at Green Growth Business Forum 2018, 9 July 2018'
+date: 2018-07-09T00:00:00.000Z
+permalink: /media-centre/speeches/green-growth-business-forum-2018
+
 ---
+
 
 Your Excellency, British High Commissioner, Scott Wightman
 Mr. Nick Bridge, UK Special Representative for Climate Change

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Senior Minister of State Josephine Teo on population at the Committee of Supply"
-date:   2017-03-02
-permalink: "/media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-on-population"
+title: 'Speech by Senior Minister of State Josephine Teo on population at the Committee of Supply'
+date: 2017-03-02T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-on-population
+
 ---
+
 
 **Strengthening our Singapore Family**
 

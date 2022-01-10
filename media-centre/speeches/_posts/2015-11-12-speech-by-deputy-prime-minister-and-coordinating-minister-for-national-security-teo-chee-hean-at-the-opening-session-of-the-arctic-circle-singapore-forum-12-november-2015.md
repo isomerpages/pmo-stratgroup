@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Deputy Prime Minister and Coordinating Minister for National Security, Teo Chee Hean at the opening session of the Arctic Circle Singapore Forum, 12 November 2015"
-date:   2015-11-12
-permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015"
+title: 'Speech by Deputy Prime Minister and Coordinating Minister for National Security, Teo Chee Hean at the opening session of the Arctic Circle Singapore Forum, 12 November 2015'
+date: 2015-11-12T00:00:00.000Z
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015
+
 ---
+
 
 His Excellency Ólafur Grímsson,  
 

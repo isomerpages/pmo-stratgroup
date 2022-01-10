@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "State of the Population"
-date:   2008-05-10
-permalink: "/media-centre/press-releases/wog-briefing-on-state-of-the-population-1"
+title: 'State of the Population'
+date: 2008-05-10T00:00:00.000Z
+permalink: /media-centre/press-releases/wog-briefing-on-state-of-the-population-1
+
 ---
+
 
 Singapore’s population hit 4.84 million in June 2008, a 5.5% increase from the 4.59 million in June 2007. The Government released this figure, together with a range of other population-related information in the first-ever “State of the Population” briefing to the media on 26 Sep 2008. The briefing was coordinated by the National Population Secretariat (NPS) in the Prime Minister’s Office. The briefing also involved relevant government agencies such as the Singapore Department of Statistics (DOS), Ministry of Community Development, Youth and Sports (MCYS), Ministry of Home Affairs (MHA), Immigration and Checkpoints Authority (ICA), and Ministry of Manpower (MOM).
 

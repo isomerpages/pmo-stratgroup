@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Parliamentary reply by Minister Josephine Teo on Paternity Leave"
-date:   2020-02-18
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-Minister-Josephine-Teo-on-paternity-leave"
+title: 'Parliamentary reply by Minister Josephine Teo on Paternity Leave'
+date: 2020-02-18T00:00:00.000Z
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-Minister-Josephine-Teo-on-paternity-leave
+
 ---
+
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
 ORAL REPLY  

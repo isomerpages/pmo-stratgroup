@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, on Climate Change at at the Committee of Supply Debate, 7 March 2013"
-date:   2013-03-07
-permalink: "/media-centre/speeches/speech-on-climate-change-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-committee-of-supply-debate-7-march-2013"
+title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, on Climate Change at at the Committee of Supply Debate, 7 March 2013'
+date: 2013-03-07T00:00:00.000Z
+permalink: /media-centre/speeches/speech-on-climate-change-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-committee-of-supply-debate-7-march-2013
+
 ---
+
 
 Associate Professor Fatimah Lateef asked if we are on target to meet our climate change pledges and if we are considering any form of carbon pricing. 
 
