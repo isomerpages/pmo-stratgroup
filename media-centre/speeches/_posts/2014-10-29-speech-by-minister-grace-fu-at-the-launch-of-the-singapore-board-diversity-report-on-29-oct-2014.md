@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Speech by Minister Grace Fu at the launch of the Singapore Board Diversity Report'
+title: Speech by Minister Grace Fu at the launch of the Singapore Board
+  Diversity Report
 date: 2014-10-29T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-the-singapore-board-diversity-report-on-29-oct-2014
-
 ---
-
-
 **“Champions needed to spur diversity in leadership”**
 
 Mrs Laura Hwang and Ms Junie Foo  
@@ -71,28 +69,24 @@ While we have made some progress over the years, we should do more to ensure gre
 
 <sub><sup>1</sup> Singapore Board Diversity Report 2014 found that the 7.7% of companies that displayed diversity in gender, ethnicity and age, were also the most successful, with an average Return on Assets of 5.1%, compared to 1.3% of the other firms.</sub>
 
-<sub><sup>2</sup> The share price performance of small-to-mid cap companies with at least one woman on their boards was 17% higher than small-to-mid cap companies without women on their boards, over the period of 2005 to 2011. Credit Suisse, “Gender diversity and corporate performance”, 2012. [https://www.creditsuisse.com/newsletter/doc/gender_diversity.pdf](https://www.creditsuisse.com/newsletter/doc/gender_diversity.pdf) </sub>
+<sub><sup>2</sup> The share price performance of small-to-mid cap companies with at least one woman on their boards was 17% higher than small-to-mid cap companies without women on their boards, over the period of 2005 to 2011. Credit Suisse, “Gender diversity and corporate performance”, 2012. [https://wappp.hks.harvard.edu/files/wappp/files/gender_diversity.pdf](https://wappp.hks.harvard.edu/files/wappp/files/gender_diversity.pdf) </sub>
 
 <sub><sup>3</sup> Data on female lawyers as at 2005 and 2013, from the Law Society. “Gender in Justice – Women in the Law in Singapore”, [http://www.lawgazette.com.sg/2005-10/Oct05-feature3.htm](http://www.lawgazette.com.sg/2005-10/Oct05-feature3.htm) and [http://www.lawsociety.org.sg/AboutUs/GeneralStatistics.aspx.](http://www.lawsociety.org.sg/AboutUs/GeneralStatistics.aspx.) Data on state court judges as at 2003 and 2013, from OWD/MSF. </sub>
 
 <sub><sup>4</sup> Data on Singapore citizen female doctors from MOH.</sub>
 
-<sub><sup>5</sup> Data as at 2013, from MOE.
-[http://app.msf.gov.sg/Research-Room/Research-Statistics/Principalsby-Gender](http://app.msf.gov.sg/Research-Room/Research-Statistics/Principalsby-Gender) </sub>
+<sub><sup>5</sup> Data as at 2013, from MOE </sub>
 
 <sub><sup>6</sup> Data as at 2014, from Straits Times forum writer who analysed boards from 36 VWOs in Singapore. [http://www.straitstimes.com/premium/forum-letters/story/women-more-drawn-boards-non-profitgroups-20140930](http://www.straitstimes.com/premium/forum-letters/story/women-more-drawn-boards-non-profitgroups-20140930) </sub>
 
-<sub><sup>7</sup> Data from Parliament, as at 2014. 
-[http://app.msf.gov.sg/Research-Room/ResearchStatistics/Women-Members-of-Parliament](http://app.msf.gov.sg/Research-Room/ResearchStatistics/Women-Members-of-Parliament) </sub>
+<sub><sup>7</sup> Data from Parliament, as at 2014. </sub>
 
 <sub><sup>8</sup> Data from the 2014 Diversity Task Force report, for female representation in senior management level of SGX-listed companies, excluding executive directors. The report noted that females are wellrepresented in senior management positions relating to HR, administration, legal, compliance and regulatory, as well as finance (30-61% of positions). But they were poorly represented in strategy/planning, operations, technology and sales (11-18%) which may be why there is a smallerpipeline of female candidates considered for board director positions, as the type of skills sought by boards tend to be from the male-dominated functions. </sub>
 
-<sub><sup>9</sup> The global average proportion of women in senior management roles was 24% according to a report by Forbes Insight and Grant Thornton’s International Business Report 2013, which surveyed 13,000 business leaders in 44 economies. [http://www.gti.org/files/ibr2013_wib_report_final.pdf](http://www.gti.org/files/ibr2013_wib_report_final.pdf)  </sub>
+<sub><sup>9</sup> The global average proportion of women in senior management roles was 24% according to a report by Forbes Insight and Grant Thornton’s International Business Report 2013, which surveyed 13,000 business leaders in 44 economies. [https://wappp.hks.harvard.edu/files/wappp/files/gender_diversity.pdf](https://wappp.hks.harvard.edu/files/wappp/files/gender_diversity.pdf) </sub>
 
 <sub><sup>10</sup> For instance, the proportion of women on boards is 18.2% in Australia, 16.6% in the EU on average, 16.9% in the US and 20.7% in the UK. Singapore also lags behind Hong Kong (9.6%) and Indonesia (11.6%), though we are ahead of Japan (2.0%) and South Korea (1.9%) in the proportion of women on boards. Data as cited in the Singapore Board Diversity Report 2014. </sub>
 
 <sub><sup>11</sup> A study by the Diversity Task Force published earlier this year found that 89% of SGX-listed companies used personal networks to recruit new directors.</sub>
 
 <sub><sup>12</sup> P&G is a US-based MNC, ranked as the 40th largest global company and one of the 100 most innovative companies in the world by Forbes in 2014. 45% of its board members (five out of 11) are female. Info on the Singapore based office from “Flexibility in the workplace”, a report that showcases companies that won the “Best Companies for Mums” 2013 award by NTUC.</sub>
-
-
