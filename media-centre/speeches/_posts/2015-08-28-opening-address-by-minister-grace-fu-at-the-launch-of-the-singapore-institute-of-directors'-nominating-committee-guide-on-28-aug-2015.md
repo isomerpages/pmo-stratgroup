@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Opening Address by Minister Grace Fu at the launch of the Singapore Institute of Directors'' Nominating Committee Guide on 28 Aug 2015'
+title: Opening Address by Minister Grace Fu at the launch of the Singapore
+  Institute of Directors' Nominating Committee Guide on 28 Aug 2015
 date: 2015-08-28T00:00:00.000Z
-permalink: '/media-centre/speeches/opening-address-by-minister-grace-fu-at-the-launch-of-the-singapore-institute-of-directors''-nominating-committee-guide-on-28-aug-2015'
-
+permalink: /media-centre/speeches/opening-address-by-minister-grace-fu-at-the-launch-of-the-singapore-institute-of-directors'-nominating-committee-guide-on-28-aug-2015
 ---
-
-
 _**Promoting Gender Diversity on Boards**_
 
 Mr Willie Cheng Chairman of the Singapore Institute of Directors
@@ -56,7 +54,7 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 
 <sub><sup>1</sup> Ministry of Manpower (2014). Labour Force in Singapore, 2014. (Pg T9) </sub>
 
-<sub><sup>2</sup> Diversity Action Committee (2015). Facts and Numbers. [http://www.diversityaction.sg/resources/facts-and-numbers/](http://www.diversityaction.sg/resources/facts-and-numbers/)  </sub>
+<sub><sup>2</sup> Diversity Action Committee (2015). Facts and Numbers. [https://www.councilforboarddiversity.sg/statistics/as-at-dec-2014/](https://www.councilforboarddiversity.sg/statistics/as-at-dec-2014/) </sub>
 
 <sub><sup>3</sup> Diversity Action Committee (2015). Report on Women’s Representation on SGX-listed Companies’ Boards as at end 2014.</sub>
 
@@ -87,5 +85,3 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 <sub><sup>14</sup> USA Today (12 March, 2015). “Hillary Clinton drops in on eBay women’s summit.” [http://www.usatoday.com/story/tech/2015/03/11/hillary-clinton-ebay-womens-initiative-network-summit/70174034/](http://www.usatoday.com/story/tech/2015/03/11/hillary-clinton-ebay-womens-initiative-network-summit/70174034/)</sub>
 
 <sub><sup>15</sup> eBay Inc. (31 July, 2014). “Building a Stronger, Better, More Diverse eBay”. [http://blog.ebay.com/building-stronger-better-diverse-ebay/](http://blog.ebay.com/building-stronger-better-diverse-ebay/)</sub>
-
-
