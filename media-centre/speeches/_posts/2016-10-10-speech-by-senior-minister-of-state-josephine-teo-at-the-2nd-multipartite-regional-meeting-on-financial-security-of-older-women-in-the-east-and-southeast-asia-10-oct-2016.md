@@ -78,7 +78,7 @@ I thank Tsao Foundation, Citi Foundation and the Regional Network partners from 
 
 Thank you.
 
-<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. <http://www.nptd.gov.sg/Portals/0/Homepage/Highlights/population-in-brief-2016.pdf></sub>
+<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. [https://raw.githubusercontent.com/isomerpages/isomerpages-stratgroup/master/images/PublicationImages/population-in-brief-2016.pdf](https://raw.githubusercontent.com/isomerpages/isomerpages-stratgroup/master/images/PublicationImages/population-in-brief-2016.pdf) </sub>
 
 <sub><sup>2</sup> Population SG. Feng Zengkun. “Singapore’s Silver Age”, 3 August 2016. [https://web.archive.org/web/20201022003510/http://www.population.sg:80/Articles/singapores-silver-age](https://web.archive.org/web/20201022003510/http://www.population.sg:80/Articles/singapores-silver-age) </sub>
 
