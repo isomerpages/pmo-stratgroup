@@ -80,7 +80,7 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 <sub><sup>12</sup> Microsoft (2015). Our Global Diversity & Inclusion.
 [https://www.microsoft.com/en-us/diversity/business-of-inclusion/default.aspx](https://www.microsoft.com/en-us/diversity/business-of-inclusion/default.aspx)</sub>
 
-<sub><sup>13</sup> McKinsey & Company (2014). “Realizing the power of talented women”. [http://www.mckinsey.com/insights/organization/realizing_the_power_of_talented_women](http://www.mckinsey.com/insights/organization/realizing_the_power_of_talented_women) </sub>
+<sub><sup>13</sup> McKinsey & Company (2014). “Realizing the power of talented women”. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women) </sub>
 
 <sub><sup>14</sup> USA Today (12 March, 2015). “Hillary Clinton drops in on eBay women’s summit.” [http://www.usatoday.com/story/tech/2015/03/11/hillary-clinton-ebay-womens-initiative-network-summit/70174034/](http://www.usatoday.com/story/tech/2015/03/11/hillary-clinton-ebay-womens-initiative-network-summit/70174034/)</sub>
 
