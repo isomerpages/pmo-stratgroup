@@ -71,7 +71,7 @@ While we have made some progress over the years, we should do more to ensure gre
 
 <sub><sup>2</sup> The share price performance of small-to-mid cap companies with at least one woman on their boards was 17% higher than small-to-mid cap companies without women on their boards, over the period of 2005 to 2011. Credit Suisse, “Gender diversity and corporate performance”, 2012. [https://wappp.hks.harvard.edu/files/wappp/files/gender_diversity.pdf](https://wappp.hks.harvard.edu/files/wappp/files/gender_diversity.pdf) </sub>
 
-<sub><sup>3</sup> Data on female lawyers as at 2005 and 2013, from the Law Society. “Gender in Justice – Women in the Law in Singapore”, [http://www.lawgazette.com.sg/2005-10/Oct05-feature3.htm](http://www.lawgazette.com.sg/2005-10/Oct05-feature3.htm) and [http://www.lawsociety.org.sg/AboutUs/GeneralStatistics.aspx.](http://www.lawsociety.org.sg/AboutUs/GeneralStatistics.aspx.) Data on state court judges as at 2003 and 2013, from OWD/MSF. </sub>
+<sub><sup>3</sup> Data on female lawyers as at 2005 and 2013, from the Law Society. “Gender in Justice – Women in the Law in Singapore”, [https://v1.lawgazette.com.sg/2005-10/Oct05-feature3.htm](https://v1.lawgazette.com.sg/2005-10/Oct05-feature3.htm) and [https://www.lawsociety.org.sg/news-media/statistics/](https://www.lawsociety.org.sg/news-media/statistics/) Data on state court judges as at 2003 and 2013, from OWD/MSF. </sub>
 
 <sub><sup>4</sup> Data on Singapore citizen female doctors from MOH.</sub>
 
