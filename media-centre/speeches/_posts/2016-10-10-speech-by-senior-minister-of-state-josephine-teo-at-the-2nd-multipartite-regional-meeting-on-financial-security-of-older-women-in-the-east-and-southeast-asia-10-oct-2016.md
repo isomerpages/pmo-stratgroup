@@ -80,7 +80,7 @@ Thank you.
 
 <sub><sup>1</sup> NPTD Population in Brief 2016, 2016. <http://www.nptd.gov.sg/Portals/0/Homepage/Highlights/population-in-brief-2016.pdf></sub>
 
-<sub><sup>2</sup> Population SG. Feng Zengkun. “Singapore’s Silver Age”, 3 August 2016. [https://www.population.sg/articles/singapores-silver-age](https://www.population.sg/articles/singapores-silver-age) </sub>
+<sub><sup>2</sup> Population SG. Feng Zengkun. “Singapore’s Silver Age”, 3 August 2016. [https://web.archive.org/web/20201022003510/http://www.population.sg:80/Articles/singapores-silver-age](https://web.archive.org/web/20201022003510/http://www.population.sg:80/Articles/singapores-silver-age) </sub>
 
 <sub><sup>3</sup> Ministry of Manpower, 2016. “Time Series Table: Labour Force”. [http://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx](http://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx)</sub>
 
