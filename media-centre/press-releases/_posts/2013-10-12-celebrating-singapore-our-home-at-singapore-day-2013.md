@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Celebrating Singapore, Our Home at Singapore Day 2013"
-date:   2013-10-12
-permalink: "/media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2013"
+title: Celebrating Singapore, Our Home at Singapore Day 2013
+date: 2013-10-12
+permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2013
 ---
-
 Deputy Prime Minister Teo Chee Hean and Minister in the Prime Minister’s Office Grace Fu joined 6,200 Singaporeans living, working and studying in Australia at The Royal Botanic Gardens, Sydney for Singapore Day 2013 to “Celebrate Singapore, Our Home”<sup>1</sup> today.
 
 "We want to make sure that we continue to reach out to all Singaporeans including our Singaporeans who are overseas - working, studying and living. Singapore Day is important because it helps all of us to remain connected with families, with friends and with Singapore," DPM Teo said in his opening address at the event.
@@ -59,7 +58,7 @@ Jenny Foo
 Senior Executive, Corporate Communications   
 National Population and Talent Division   
 Tel: +65 9622 8565   
-Email: [jenny_foo@nptd.gov.sg](jenny_foo@nptd.gov.sg)
+Email: [jenny_foo@nptd.gov.sg](mailto:jenny_foo@nptd.gov.sg)
 
 Annexes
 
@@ -121,7 +120,7 @@ During the summer break, OSU creates platforms for student leaders from differen
 
 The Overseas Singaporean Portal is a one-stop online platform that contains updates from home, links to relevant government policies, as well as tips and advice from overseas Singaporeans who have shared their stories of life abroad. 
 
-The Overseas Singaporean Portal is at [www.overseassingaporean.sg](https://www.overseassingaporean.sg)
+The Overseas Singaporean Portal is at [www.overseassingaporean.sg](http://web.archive.org/web/20160317224334/https://www.overseassingaporean.sg/)
 
 **OSU Facebook**
 
@@ -249,5 +248,3 @@ Minister, you had a dialogue with Singaporeans overseas earlier. What issues do 
 (pls refer to [powerpoint slides](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapor.ppt))
 
 <sub><sup>1</sup>Please refer to Annexes B, C and D for DPM Teo Chee Hean’s and Minister Grace Fu’s comments at Singapore Day.</sub>
-
-
