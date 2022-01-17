@@ -29,7 +29,7 @@ _**More Singaporeans going overseas for work and study.**_ As of June 2008, ther
 The new statistical publication, “Population in Brief”, can be downloaded from [www.nps.gov.sg](https://www.population.gov.sg) (hardcopies can be obtained from the agencies below). Other population-related information is also available on the following websites:
 
 Singapore Department of Statistics : [www.singstat.gov.sg](https://www.singstat.gov.sg)  
-Ministry of Community Development, Youth and Sports : [www.mcys.gov.sg](https://www.mcys.gov.sg)  
+Ministry of Social and Family Development : [https://www.msf.gov.sg](https://www.msf.gov.sg) 
 Ministry of Home Affairs : [www.mha.gov.sg](https://www.mha.gov.sg)  
 Immigration and Checkpoints Authority : [www.ica.gov.sg](https://www.ica.gov.sg)  
 Ministry of Manpower : [www.mom.gov.sg](https://www.mom.gov.sg)  
