@@ -89,11 +89,10 @@ Thank you.
 
 <sub><sup>5</sup> Central Provident Fund Board, 2014. “Analysis of Balances of CPF Members by Gender”</sub>
 
-<sub><sup>6</sup> Central Provident Fund Board, 2016. “CPF: Your Assurance in Retirement” [https://www.cpf.gov.sg/Assets/members/Documents/CPF_Retirement_Booklet.pdf](https://www.cpf.gov.sg/Assets/members/Documents/CPF_Retirement_Booklet.pdf)</sub>
+<sub><sup>6</sup> Central Provident Fund Board, 2016. “CPF: Your Assurance in Retirement” [https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/CPF%20Retirement%20Booklet.pdf](https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/CPF%20Retirement%20Booklet.pdf)</sub>
 
 <sub><sup>7</sup> Housing and Development Board, 2016. “Right-sizing with Silving Housing Bonus” [http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silverhousing-bonus](http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silverhousing-bonus) </sub>
 
 <sub><sup>8</sup> Ministry of Health, 2015. “$3billion Action Plan to Enable Singaporeans to Age Successfully” [https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully](https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully) </sub>
 
-<sub><sup>9</sup> The Times with stats provided by Ministry of Manpower, 2016. “More in Singapore remaining in workforce past 65”
-[https://www.gov.sg/news/content/the-straits-times-more-in-singapore-remaining-in-workforce-past-65](https://www.gov.sg/news/content/the-straits-times-more-in-singapore-remaining-in-workforce-past-65) </sub>
+<sub><sup>9</sup> The Times with stats provided by Ministry of Manpower, 2016. “More in Singapore remaining in workforce past 65” [https://www.asiaone.com/singapore/more-remaining-workforce-past-65?amp](https://www.asiaone.com/singapore/more-remaining-workforce-past-65?amp) </sub>
