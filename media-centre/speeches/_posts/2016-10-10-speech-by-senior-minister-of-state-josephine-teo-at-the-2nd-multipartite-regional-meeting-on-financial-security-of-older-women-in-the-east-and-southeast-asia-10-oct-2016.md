@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Speech by Senior Minister of State Josephine Teo at the 2nd Multipartite Regional Meeting on Financial Security of Older Women in the East and Southeast Asia, 10 Oct 2016'
+title: Speech by Senior Minister of State Josephine Teo at the 2nd Multipartite
+  Regional Meeting on Financial Security of Older Women in the East and
+  Southeast Asia, 10 Oct 2016
 date: 2016-10-10T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-2nd-multipartite-regional-meeting-on-financial-security-of-older-women-in-the-east-and-southeast-asia-10-oct-2016
-
 ---
-
-
 Partners from the Tsao Foundation and Citi Foundation,
 
 Ladies and Gentlemen,
@@ -88,15 +87,13 @@ Thank you.
 <sub><sup>4</sup> UN Women, 2015. “Expert’s take: Old age – a double whammy for women?” <http://www.unwomen.org/en/news/stories/2015/9/experts-take-old-age-a-double-whammy-for-women>
 <http://progress.unwomen.org/en/2015/pdf/ch3.pdf> </sub>
 
-<sub><sup>5</sup> Central Provident Fund Board, 2014. “Analysis of Balances of CPF Members by Gender” [https://www.cpf.gov.sg/Assets/members/Documents/CPFTrends_AnalysisOfBalancesByGender2013.pdf](https://www.cpf.gov.sg/Assets/members/Documents/CPFTrends_AnalysisOfBalancesByGender2013.pdf) </sub>
+<sub><sup>5</sup> Central Provident Fund Board, 2014. “Analysis of Balances of CPF Members by Gender”</sub>
 
 <sub><sup>6</sup> Central Provident Fund Board, 2016. “CPF: Your Assurance in Retirement” [https://www.cpf.gov.sg/Assets/members/Documents/CPF_Retirement_Booklet.pdf](https://www.cpf.gov.sg/Assets/members/Documents/CPF_Retirement_Booklet.pdf)</sub>
 
 <sub><sup>7</sup> Housing and Development Board, 2016. “Right-sizing with Silving Housing Bonus” [http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silverhousing-bonus](http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silverhousing-bonus) </sub>
 
-<sub><sup>8</sup> Ministry of Health, 2015. “$3billion Action Plan to Enable Singaporeans to Age Successfully” [https://www.moh.gov.sg/content/moh_web/home/pressRoom/pressRoomItemRelease/2015/-3billionaction-plan-to-enable-singaporeans-to-age-successfully.html](https://www.moh.gov.sg/content/moh_web/home/pressRoom/pressRoomItemRelease/2015/-3billionaction-plan-to-enable-singaporeans-to-age-successfully.html) </sub>
+<sub><sup>8</sup> Ministry of Health, 2015. “$3billion Action Plan to Enable Singaporeans to Age Successfully” [https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully](https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully) </sub>
 
 <sub><sup>9</sup> The Times with stats provided by Ministry of Manpower, 2016. “More in Singapore remaining in workforce past 65”
 [https://www.gov.sg/news/content/the-straits-times-more-in-singapore-remaining-in-workforce-past-65](https://www.gov.sg/news/content/the-straits-times-more-in-singapore-remaining-in-workforce-past-65) </sub>
-
-
