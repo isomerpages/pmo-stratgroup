@@ -78,7 +78,7 @@ Thank you very much and congratulations.
 
 <sub><sup>4</sup> MorganMckinley, (2014), Long working hours leads to a poor work-life balance for Singapore’s professionals, retrieved [https://www.m3ssolutions.com/article/long-working-hours-leads-poor-work-life-balance-singapores-professionals](https://www.m3ssolutions.com/article/long-working-hours-leads-poor-work-life-balance-singapores-professionals) </sub>
 
-<sub><sup>5</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews </sub>
+<sub><sup>5</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews. </sub>
 
 <sub><sup>6</sup> The Economist (31 May 2014), retrieved from [http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country](http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country) </sub> 
 
