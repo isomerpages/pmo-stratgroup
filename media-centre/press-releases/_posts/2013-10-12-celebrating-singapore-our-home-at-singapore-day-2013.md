@@ -16,7 +16,7 @@ Participants enjoyed familiar tastes, sights and sounds of home including authen
 
 Singapore Day is a collaborative effort by OSU and its partners from the public, people and private sectors. It is held annually in major cities where there are a significant number of Singaporeans. Singapore Days have been held in New York (2007), Melbourne (2008), London (2009), Shanghai (2011) and New York (2012).
 
-More details on Singapore Day 2013 can be found on [www.SingaporeDay.sg](https://www.overseassingaporean.sg/event/singapore-day/) and [www.fb.com/SingaporeDay.](https://www.facebook.com/SingaporeDay)
+More details on Singapore Day 2013 can be found on [www.SingaporeDay.sg](http://web.archive.org/web/20160318023759/https://overseassingaporean.sg/event/singapore-day) and [www.fb.com/SingaporeDay.](https://www.facebook.com/SingaporeDay)
 
 **Quotes from Singapore Day participants:**
 
@@ -126,7 +126,7 @@ The Overseas Singaporean Portal is at [www.overseassingaporean.sg](http://web.ar
 
 The OSU Facebook page is an online space for overseas Singaporeans to come together and connect with home and each other. Featuring bite-sized updates on things that are trending or happenings in Singapore, overseas Singaporeans can share and connect with each other over all things distinctively Singapore, be it food, Singlish, quirks or simple things that they miss.
 
-OSU Facebook is at [http://www.facebook.com/OverseasSingaporean.](https://www.facebook.com/OverseasSingaporean)
+OSU Facebook is at [https://www.facebook.com/singaporeglobalnetwork/](https://www.facebook.com/singaporeglobalnetwork/)
 
 ----------------
 
