@@ -56,6 +56,6 @@ The Government is driving deeper technology adoption in its operations. For exam
 
 **Background**
 
-SPOR is prepared by the Ministry of Finance with inputs from all ministries. Published every two years, SPOR provides a perspective on how the public sector and Singapore have fared in a broad range of areas of national interest. SPOR 2018 is available at [https://www.mof.gov.sg/singapore-public-sector-outcomes-review](https://www.mof.gov.sg/singapore-public-sector-outcomes-review)
+SPOR is prepared by the Ministry of Finance with inputs from all ministries. Published every two years, SPOR provides a perspective on how the public sector and Singapore have fared in a broad range of areas of national interest. SPOR 2018 is available at [https://www.mof.gov.sg/docs/default-source/default-document-library/spor-past-editions/spor_2018.pdf](https://www.mof.gov.sg/docs/default-source/default-document-library/spor-past-editions/spor_2018.pdf).
 
 Source: [Ministry of Finance](https://www.mof.gov.sg/news-publications/press-releases/spor-2018-progressing-together-amidst-an-uncertain-global-environment)
