@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'State of the Population'
+title: State of the Population
 date: 2008-05-10T00:00:00.000Z
 permalink: /media-centre/press-releases/wog-briefing-on-state-of-the-population-1
-
 ---
-
-
 Singapore’s population hit 4.84 million in June 2008, a 5.5% increase from the 4.59 million in June 2007. The Government released this figure, together with a range of other population-related information in the first-ever “State of the Population” briefing to the media on 26 Sep 2008. The briefing was coordinated by the National Population Secretariat (NPS) in the Prime Minister’s Office. The briefing also involved relevant government agencies such as the Singapore Department of Statistics (DOS), Ministry of Community Development, Youth and Sports (MCYS), Ministry of Home Affairs (MHA), Immigration and Checkpoints Authority (ICA), and Ministry of Manpower (MOM).
 
 Mr Roy Quek, Director of the NPS, said: “There is much greater interest in population-related information among the public. Through this coordinated briefing, the Government seeks to provide the public with a more coherent and comprehensive picture of the state of the population in Singapore. Even as our total population is growing, there are some underlying factors such as our continued low fertility rate that present significant demographic challenges to Singapore. We hope to raise awareness of these challenges and provide a proper context to the population policies that the Government has put in place.”
@@ -29,13 +26,13 @@ _**More Singaporeans going overseas for work and study.**_ As of June 2008, ther
 
 #### **FOR MORE INFORMATION**
 
-The new statistical publication, “Population in Brief”, can be downloaded from [www.nps.gov.sg](www.nps.gov.sg) (hardcopies can be obtained from the agencies below). Other population-related information is also available on the following websites:
+The new statistical publication, “Population in Brief”, can be downloaded from [www.nps.gov.sg](https://www.population.gov.sg) (hardcopies can be obtained from the agencies below). Other population-related information is also available on the following websites:
 
-Singapore Department of Statistics : [www.singstat.gov.sg](www.singstat.gov.sg)  
-Ministry of Community Development, Youth and Sports : [www.mcys.gov.sg](www.mcys.gov.sg)  
-Ministry of Home Affairs : [www.mha.gov.sg](www.mha.gov.sg)  
-Immigration and Checkpoints Authority : [www.ica.gov.sg](www.ica.gov.sg)  
-Ministry of Manpower : [www.mom.gov.sg](www.mom.gov.sg)  
+Singapore Department of Statistics : [www.singstat.gov.sg](https://www.singstat.gov.sg)  
+Ministry of Social and Family Development : [https://www.msf.gov.sg](https://www.msf.gov.sg)  
+Ministry of Home Affairs : [www.mha.gov.sg](https://www.mha.gov.sg)  
+Immigration and Checkpoints Authority : [www.ica.gov.sg](https://www.ica.gov.sg)  
+Ministry of Manpower : [www.mom.gov.sg](https://www.mom.gov.sg)  
 
 **ANNEX A**  
 
@@ -86,4 +83,3 @@ Notes
 <tr><td>2</td>    <td>Parents can open a CDA any time before the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr> 
 <tr><td>3</td>    <td>Parents can make a deposit in the CDA at any time until 31 December in the year the child turns six years of age. Hence, for a complete take-up rate, only data for children born in 2001 are available.</td> </tr>
 <tr><td>4</td>    <td>Mothers have six months from the birth of their child to utilise their leave, while their employers have three months thereafter to submit their claims. Hence, for a complete take-up rate, only data from women who had children in 2005 and 2006 are available.</td> </tr> </table>
-

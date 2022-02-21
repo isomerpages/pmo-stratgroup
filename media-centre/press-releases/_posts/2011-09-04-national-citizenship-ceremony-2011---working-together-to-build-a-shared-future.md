@@ -2,7 +2,7 @@
 layout: post
 title:  "National Citizenship Ceremony 2011 - Working together to build a shared future"
 date:   2011-09-04
-permalink: "/media-centre/press-releases/national-citizenship-ceremony-2011---working-together-to-build-a-shared-future"
+permalink: "/media-centre/press-releases/national-citizenship-ceremony-2011-working-together-to-build-a-shared-future"
 ---
 
 The National Citizenship Ceremony 2011 (NCC 2011), held on 4 September 2011, saw 133 new citizens receiving their citizenship certificates from Guest-of-Honour Assoc Prof Yaacob Ibrahim, Minister for Information, Communications and the Arts, Minister-in-charge of Muslim Affairs and Grassroots Adviser to Moulmein-Kallang GRC (Kolam Ayer). Similar GRC-level ceremonies were also held over the same weekend, which saw about 2800 other new citizens affirming their commitment to the nation.

@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Public voting for Jubilee baby gift items begins today"
-date:   2014-04-16
-permalink: "/media-centre/press-releases/public-voting-for-the-jubilee-baby-gift-items"
+title: Public voting for Jubilee baby gift items begins today
+date: 2014-04-16
+permalink: /media-centre/press-releases/public-voting-for-the-jubilee-baby-gift-items
 ---
-
 Singaporeans have given about 6,500 suggestions on possible items that can go into the Jubilee Baby Gift. These were collected from various platforms, namely The Jubilee BabyGift microsite, feedback booths, focus group sessions, and REACH’s online platforms from 1 – 15 April. Baby-related items as well as commemorative gifts comprised 70% of all suggestions. The breakdown of the types of suggestions received can be found in Annex A.
 
 The five-member Jubilee Baby Gift Advisory Panel 1 comprising people sector representatives have curated and shortlisted the items based on suggestions by Singaporeans. The shortlist includes a mix of items incorporating three elements, namely - “Care” for the baby; “Celebrate” the baby and family bonding, and “Commemorate” the baby’s birth in SG50 with keepsake items. The Advisory Panel also took into account feedback from The Jubilee Baby Gift focus group discussions, such as the need to ensure that the cost of the Gift is reasonable and on items that should not be included (e.g. no perishables and food/medicinal items). Items that were not shortlisted included those which would be consumed quickly or which might not be suitable for all babies, such as diapers or milk powder, or those that were not commemorative or keepsake in nature, such as vouchers.
@@ -139,7 +138,7 @@ Ms Anita Fam, Chairperson of The Jubilee Baby Gift Advisory Panel said: “We ha
 
 **Public Voting Starts Today**
 
-The second phase of the public engagement exercise starts today until 15 May 2014. During this period, Singaporeans can select their five preferred items that they would like to see in the Jubilee Baby Gift. They can do so online at [www.nptd.gov.sg/jubilee](https://www.nptd.gov.sg/jubilee)
+The second phase of the public engagement exercise starts today until 15 May 2014. During this period, Singaporeans can select their five preferred items that they would like to see in the Jubilee Baby Gift. They can do so online at www.nptd.gov.sg/jubilee.
 
 The final set of items will be announced in the middle of the year following the close of the public engagement exercise.
 

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Speech by DPM Teo Chee Hean on Population White Paper at the Parliamentary Debate'
+title: Speech by DPM Teo Chee Hean on Population White Paper at the
+  Parliamentary Debate
 date: 2013-02-04T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population-white-paper
-
 ---
-
-
 #### **INTRODUCTION**
 
 Madam Speaker, I beg to move: That this House endorses Paper Cmd. 1 of 2013 on “A Sustainable Population for a Dynamic Singapore” as the population policy roadmap to address Singapore’s demographic challenge and Paper Misc. 1 of 2013 on “A High Quality Living Environment for all Singaporeans” as the land use plan to support Singapore’s future population.
@@ -224,15 +222,12 @@ Madam Speaker, I beg to move. Question proposed.
 
 <sub><sup>3</sup> Bloomberg, “Elderly at Record Spurs Japan Stores Chase $1.4 Trillion”, 10 May 2012. (<http://www.bloomberg.com/news/2012-05-09/elderly-at-record-spurs-japan-stores-chase-1-4-trillion.html>)</sub>
 
-<sub><sup>4</sup> Statistical Handbook of Japan 2012, published by the Statistics Bureau, Ministry of Internal Affairs and Communications, Japan. (<http://www.stat.go.jp/english/data/handbook/c02cont.htm>) Having 7 percent of the population aged 65 and above is deemed to be an “ageing” population by the World Health Organisation, while 14 percent aged 65 and above is deemed to be an “aged” population.</sub>
+<sub><sup>4</sup> Statistical Handbook of Japan 2012, published by the Statistics Bureau, Ministry of Internal Affairs and Communications, Japan. [https://www.stat.go.jp/english/data/handbook/pdf/2012all.pdf](https://www.stat.go.jp/english/data/handbook/pdf/2012all.pdf) Having 7 percent of the population aged 65 and above is deemed to be an “ageing” population by the World Health Organisation, while 14 percent aged 65 and above is deemed to be an “aged” population.</sub>
 
 <sub><sup>5</sup> Based on current Singapore birth rates and if we do not take in any new immigrants,</sub>
 
 <sub><sup>6</sup> msnbc.com, “Japan's population to drop by 1 million each year in coming decades, experts say”, 30 January 2012. (<http://www.nbcnews.com/id/46187200/ns/world_news-asia_pacific/t/japans-population-drop-million-each-year-coming-decades-experts-say/#.UQqAyB2ceng>)</sub>
 
-<sub><sup>7</sup> Japan Times: “Japan’s population time bomb”, 8 February 2012. (<http://www.japantimes.co.jp/text/ed20120208a1.html>)</sub>
+<sub><sup>7</sup> Japan Times: “Japan’s population time bomb”, 8 February 2012. [https://www.japantimes.co.jp/opinion/2012/02/08/editorials/japans-population-time-bomb/](https://www.japantimes.co.jp/opinion/2012/02/08/editorials/japans-population-time-bomb/)</sub>
 
 <sub><sup>8</sup> Developable land excludes undevelopable or large undeveloped land such as water catchment areas, nature reserves, areas for military use, airports, port and undeveloped islands.</sub>
-
-
-

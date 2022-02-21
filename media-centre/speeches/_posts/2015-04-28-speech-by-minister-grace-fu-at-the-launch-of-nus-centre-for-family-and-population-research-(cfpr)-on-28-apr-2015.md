@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Speech by Minister Grace Fu, at the launch of NUS Centre for Family and Population Research (CFPR)'
+title: Speech by Minister Grace Fu, at the launch of NUS Centre for Family and
+  Population Research (CFPR)
 date: 2015-04-28T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015
-
 ---
-
-
 **New Centre to further understanding and discourse on Singapore’s demographic challenges**
 
 Professor Tan Chorh Chuan  
@@ -78,12 +76,10 @@ Thank you very much and congratulations.
 
 <sub><sup>3</sup> US Census Bureau (2009) International Population Reports, P95/09-1, An Aging World: 2008.  The definitions of an ageing and aged society are where 7% and 14%, respectively, of the population is aged 65 and above. </sub>
 
-<sub><sup>4</sup> MorganMckinley, (2014), Long working hours leads to a poor work-life balance for Singapore’s professionals, retrieved [http://www.morganmckinley.com.sg/article/press-release-long-working-hours-leads-poor-work-lifebalance-singapore%E2%80%99s-professionals](http://www.morganmckinley.com.sg/article/press-release-long-working-hours-leads-poor-work-lifebalance-singapore%E2%80%99s-professionals) </sub>
+<sub><sup>4</sup> MorganMckinley, (2014), Long working hours leads to a poor work-life balance for Singapore’s professionals, retrieved [https://www.m3ssolutions.com/article/long-working-hours-leads-poor-work-life-balance-singapores-professionals](https://www.m3ssolutions.com/article/long-working-hours-leads-poor-work-life-balance-singapores-professionals) </sub>
 
-<sub><sup>5</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews, retrieved from [http://news.efinancialcareers.com/sg-en/183254/finance-professionals-asia-fearslacker-tag-ask-work-life-balance-interviews/](http://news.efinancialcareers.com/sg-en/183254/finance-professionals-asia-fearslacker-tag-ask-work-life-balance-interviews/)</sub>
+<sub><sup>5</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews. </sub>
 
 <sub><sup>6</sup> The Economist (31 May 2014), retrieved from [http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country](http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country) </sub> 
 
 <sub><sup>7</sup> Figures as at 2013.  Source: Population in Brief, 2014 </sub>
-
-

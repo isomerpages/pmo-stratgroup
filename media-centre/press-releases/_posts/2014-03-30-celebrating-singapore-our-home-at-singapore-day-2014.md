@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Celebrating Singapore, Our Home at Singapore Day 2014"
-date:   2014-03-30
-permalink: "/media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2014"
+title: Celebrating Singapore, Our Home at Singapore Day 2014
+date: 2014-03-30
+permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2014
 ---
-
 On 29th March, Prime Minister Lee Hsien Loong, Deputy Prime Minister Teo Chee Hean and Minister in the Prime Minister’s Office Grace Fu joined over 9,000 Singaporeans in Victoria Park, London for Singapore Day 2014. The event was a reunion for Singaporeans living, working and studying in the United Kingdom and Europe to come together and “Celebrate Singapore, Our Home”.
 
 “I could feel the strong Singapore spirit among the participants today. More than 180 overseas Singaporeans volunteered to help organise and contribute to the event. Apart from Singapore Day, Singaporeans abroad do organise their own programmes to keep in touch with home and with one another. I am glad to see that many have a keen interest in what is happening in Singapore and want to contribute to make Singapore a better home for us all.” said Deputy Prime Minister Teo Chee Hean.
@@ -23,5 +22,4 @@ She said, "Singaporeans based overseas are an integral part of our Singapore fam
 
 _Background on Singapore Day 2014_
 
-Singapore Day is a collaborative effort by the Overseas Singaporean Unit and its partners from the public, people and private sectors. It is held annually in major cities where there are a significant number of Singaporeans. Singapore Days have been held in New York (2007), Melbourne (2008), London (2009), Shanghai (2011), New York (2012) and Sydney (2013). More details on Singapore Day 2014 can be found on [www.SingaporeDay.sg](https://www.facebook.com/SingaporeDay) and [www.fb.com/SingaporeDay.](https://www.overseassingaporean.sg/event/singapore-day/)
-
+Singapore Day is a collaborative effort by the Overseas Singaporean Unit and its partners from the public, people and private sectors. It is held annually in major cities where there are a significant number of Singaporeans. Singapore Days have been held in New York (2007), Melbourne (2008), London (2009), Shanghai (2011), New York (2012) and Sydney (2013). More details on Singapore Day 2014 can be found on [www.SingaporeDay.sg](http://web.archive.org/web/20160318023759/https://overseassingaporean.sg/event/singapore-day) and [www.fb.com/SingaporeDay.](https://www.facebook.com/SingaporeDay/)
