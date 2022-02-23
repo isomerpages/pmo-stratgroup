@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'National Statement of Singapore by Minister on the Environment and Water Resources,Mr Masagos Zulkifli, at the UNFCCC COP-22, 16 November 2016, Marrakech, Morocco'
+title: National Statement of Singapore by Minister on the Environment and Water
+  Resources,Mr Masagos Zulkifli, at the UNFCCC COP-22, 16 November 2016,
+  Marrakech, Morocco
 date: 2016-11-16T00:00:00.000Z
 permalink: /media-centre/speeches/national-statement-of-singapore-by-minister-on-the-environment-and-water-resources-mr-masagos-zulkifli
-
 ---
-
-
 Mr President,  
 
 The Paris Agreement has entered into force on 4th November, less than a year after it was adopted.
@@ -73,5 +72,4 @@ Thank you Mr President.
 
  
 
-Source: [Ministry of the Environment and Water Resources](http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco)
-
+Source: [The United Nations Framework Convention on Climate Change](https://unfccc.int/files/meetings/marrakech_nov_2016/statements/application/pdf/singapore_cop22cmp12cma1_hls.pdf)
