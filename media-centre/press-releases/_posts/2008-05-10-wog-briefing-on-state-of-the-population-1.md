@@ -39,7 +39,7 @@ Ministry of Manpower : [www.mom.gov.sg](https://www.mom.gov.sg)
 **M&P Package Indicators**
 
 ---
-<table class="table-h">  <tr>    <th> </th>    <th>2007</th> <th>2008(January-June)</th> </tr>  
+<table class="table-h">  <tr>    <th> </th>    <th>2007</th> <th>2008 (January-June)</th> </tr>  
 <tr>    <th> Cpf Top Up Grant </th>    <td> </td> <td> </td> </tr>    
 <tr>    <td> Number of Applicants During Period</td> <td>26</td> <td>8 </td> </tr>
 <tr>    <th> Medisave Maternity Package </th>    <td> </td> <td> </td> </tr>  
