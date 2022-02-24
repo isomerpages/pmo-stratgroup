@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Speech by Deputy Prime Minister and Coordinating Minister for National Security, Teo Chee Hean at the opening session of the Arctic Circle Singapore Forum, 12 November 2015'
+title: Speech by Deputy Prime Minister and Coordinating Minister for National
+  Security, Teo Chee Hean at the opening session of the Arctic Circle Singapore
+  Forum, 12 November 2015
 date: 2015-11-12T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015
-
 ---
-
-
 His Excellency Ólafur Grímsson,  
 
 President of Iceland  
@@ -75,7 +74,7 @@ I wish all of you a very fruitful Forum. Thank you.
 
 <sub><sup>1</sup> This refers to the lowering of the Earth’s albedo, the fraction of solar energy (shortwave radiation) reflected from the Earth back into space.  Ice, especially with snow on top of it, has a high albedo; most sunlight hitting the surface bounces back towards space. See Perovich, D. et al. “Increasing Solar Heating of the Arctic Ocean and Adjacent Seas, 1979-2005: Attribution and Role in the Ice-Albedo Feedback”. Geophysical Research Letters 34 (October 11, 2007). DOI: 10.1029/2007GL031480</sub>
 
-<sub><sup>2</sup> Schaefer, K., Lantuit, H., Romanovsky, V., and Schuur, E.  Policy Implications of Warming Permafrost (UN Environmental Programme, 2012).  Accessed at: [http://www.unep.org/pdf/permafrost.pdf](http://www.unep.org/pdf/permafrost.pdf)</sub>
+<sub><sup>2</sup> Schaefer, K., Lantuit, H., Romanovsky, V., and Schuur, E.  Policy Implications of Warming Permafrost (UN Environmental Programme, 2012).</sub>
 
 <sub><sup>3</sup> Hope, C. and Schaefer, K. “Economic impacts of carbon dioxide and methane released from thawing permafrost”. Nature Climate Change (2015). DOI: 10.1038/nclimate2807</sub>
 
@@ -83,11 +82,6 @@ I wish all of you a very fruitful Forum. Thank you.
 
 <sub><sup>5</sup> Farré, A.B., et al.  “Commercial Arctic Shipping Through the Northeast Passage: Routes, Resources, Governance, Technology, and Infrastructure.” Polar Geography 37:4, 298-324 (2014). DOI: 10.1080/1088937X.2014.965769</sub>
 
-<sub><sup>6</sup> International Maritime Organisation.  “Adoption of an International Code of Safety for Ships Operating in Polar Waters (Polar Code)”.  Accessed at [http://www.imo.org/en/MediaCentre/HotTopics/polar/Pages/default.aspx](http://www.imo.org/en/MediaCentre/HotTopics/polar/Pages/default.aspx) </sub>
+<sub><sup>6</sup> International Maritime Organisation.  “Adoption of an International Code of Safety for Ships Operating in Polar Waters (Polar Code)”. </sub>
 
 <sub><sup>7</sup> MPA has recognised eight classification societies to carry out the appropriate surveys and certifications: American Bureau of Shipping, Bureau Veritas, China Classification Society, DNV-GL, Korean Register of Shipping, Lloyd’s Register, Nippon Kaiji Kyokai, and Registro Italiano Navale. </sub>
-
-
-
-
-
