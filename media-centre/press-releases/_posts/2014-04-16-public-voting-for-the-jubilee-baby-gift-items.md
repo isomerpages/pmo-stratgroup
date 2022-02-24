@@ -138,7 +138,7 @@ Ms Anita Fam, Chairperson of The Jubilee Baby Gift Advisory Panel said: “We ha
 
 **Public Voting Starts Today**
 
-The second phase of the public engagement exercise starts today until 15 May 2014. During this period, Singaporeans can select their five preferred items that they would like to see in the Jubilee Baby Gift. They can do so online at www.nptd.gov.sg/jubilee.
+The second phase of the public engagement exercise starts today until 15 May 2014. During this period, Singaporeans can select their five preferred items that they would like to see in the Jubilee Baby Gift. They can do so online at www.nptd.gov.sg.
 
 The final set of items will be announced in the middle of the year following the close of the public engagement exercise.
 
