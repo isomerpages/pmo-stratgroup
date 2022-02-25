@@ -38,7 +38,7 @@ Developed in collaboration with industry stakeholders, academic experts and tech
  <br>  [Solar Photovoltaic](https://go.gov.sg/solar-photovoltaic-roadmap-march-2020)  
  [Carbon Capture and Storage/ Utilisation](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus)  
   [Green Data Centre](https://go.gov.sg/green-data-centre-roadmap)
-  [Building Energy Efficiency](https://go.gov.sg/building-energy-efficiency-roadmap)
+ <br> [Building Energy Efficiency](https://go.gov.sg/building-energy-efficiency-roadmap)
 	<br>[Industry Energy Efficiency](https://go.gov.sg/industry-energy-efficiency-roadmap)
 
   
