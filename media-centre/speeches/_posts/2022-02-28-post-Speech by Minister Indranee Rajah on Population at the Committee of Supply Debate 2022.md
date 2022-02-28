@@ -9,4 +9,4 @@ description: ""
 Theme: Building a Resilient Population
 
 
-  * Infographic: [Infographic on comprehensive support on marriage and parenthood](https://www.strategygroup.gov.sg/media/press-release/parents-who-have-a-second-child-can-now-get-more-financial-support-cash-benefit-for-those-not-eligible-for-paternity-or-adoption-leave)
+  * Infographic: [Comprehensive support on marriage and parenthood](https://www.strategygroup.gov.sg/media/press-release/parents-who-have-a-second-child-can-now-get-more-financial-support-cash-benefit-for-those-not-eligible-for-paternity-or-adoption-leave)
