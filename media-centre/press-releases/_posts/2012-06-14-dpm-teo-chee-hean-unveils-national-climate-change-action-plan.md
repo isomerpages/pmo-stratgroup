@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "DPM Teo Chee Hean unveils national climate change action plan"
-date:   2012-06-14
-permalink: "/media-centre/press-releases/dpm-teo-chee-hean-unveils-national-climate-change-action-plan"
+title: DPM Teo Chee Hean unveils national climate change action plan
+date: 2012-06-14
+permalink: /media-centre/press-releases/dpm-teo-chee-hean-unveils-national-climate-change-action-plan
 ---
-
 **Singapore, 14June 2012-** Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC) launched the National Climate Change Strategy 2012 (NCCS-2012) document at the National Climate Change Youth Conference (NCCYC) 2012 today.
 
 Developed by the National Climate Change Secretariat (NCCS) in collaboration with IMCCC agencies, the NCCS-2012 outlines Singapore’s strategy and plans to address climate change. It describes the growth in carbon emissions up to the year 2020 and the plans to reduce emissions to meet our target of 7% to 11% below Business as Usual (BAU) levels. It also outlines the direction post 2020 when Singapore needs to study how to stabilise our long-term emissions. Other elements of the strategy document include building capabilities to adapt to the impact of climate change, harnessing green growth opportunities as well as forging partnerships on climate change action. (See factsheet at [Annex A](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nccs-2012_press_release_annex_a.pdf) for more information).
@@ -19,11 +18,10 @@ NCCS-2012 is accompanied by a brochure ‘The Fight Against Climate Change Begin
 
 At the National Climate Change Youth Conference, DPM Teo also presented prizes to the winning teams of the Short Film category of the National Climate Change Competition (NCCC) 2012. The theme for the NCCC 2012 is ‘Singapore: A Climate Change Resilient City’. The competition, which aims to raise awareness on climate change among the youth, comprises a Short Film category and a Technology Project category. It encourages students to apply what they understand of climate change and its impact, and propose ways to reduce carbon emissions.
 
-The short film category attracted 126 entries from students from primary to tertiary institutions. A list of the winning videos in each of the categories is at [Annex B.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nccs-2012_press_release_annex_b.pdf) The videos can also be viewed at [https://www.nccs.gov.sg/competition/NCCC2012/winning_videos.html.](https://www.youtube.com/user/NCCSsg)
+The short film category attracted 126 entries from students from primary to tertiary institutions. A list of the winning videos in each of the categories is at [Annex B.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nccs-2012_press_release_annex_b.pdf) 
 
 _About the National Climate Change Secretariat (NCCS)_  
 The NCCS was set up as a dedicated agency under the Prime Minister’s Office on 1 July 2010 to coordinate Singapore's domestic and international policies, plans and actions on climate change so as to secure a sustainable living environment for our future generations. NCCS will achieve this by adopting a Whole-of-Government approach and working with the People and Private sectors to devise and implement cost-effective mitigation and adaptation solutions, reap the opportunities arising from addressing climate change challenges and contribute towards global efforts to address climate change. For more information, please visit [www.nccs.gov.sg.](https://www.nccs.gov.sg)
 
 _About the National Climate Change Youth Conference (NCCYC)_  
 The NCCYC is co-organised by the National Youth Achievement Award Council of Singapore (NYAA) and the National Climate Change Secretariat (NCCS) for youths to discuss climate change and the actions that individuals, the community and businesses can take in addressing the challenges.
-

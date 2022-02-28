@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, at the National Climate Change Youth Conference on 14 June 2012'
+title: Speech by Deputy Prime Minister, Coordinating Minister for National
+  Security and Minister for Home Affairs, Mr Teo Chee Hean, at the National
+  Climate Change Youth Conference on 14 June 2012
 date: 2012-06-14T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-national-climate-change-youth-conference-on-14-june-2012
-
 ---
-
-
 Distinguished Guests, 
 
 Teachers & Students, 
@@ -60,7 +59,5 @@ Thank you and I wish everyone a fulfilling and enjoyable Conference.
 
 
 <sub>Footnotes:</sub>  
-<sub><sup>1</sup> World Meteorological Organization, “WMO statement on the status of the global climate in 2011”, March 2012 [http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf](http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf)</sub>
-
-<sub><sup>2</sup> The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7).</sub>
-
+<sub><sup>1</sup> World Meteorological Organization, “WMO statement on the status of the global climate in 2011”, March 2012 </sub>
+<br><sub><sup>2</sup> The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7).</sub>

@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Singapore unveils national technology roadmaps to address energy and climate change challenges"
-date:   2014-07-30
-permalink: "/media-centre/press-releases/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges"
+title: Singapore unveils national technology roadmaps to address energy and
+  climate change challenges
+date: 2014-07-30
+permalink: /media-centre/press-releases/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges
 ---
-
-
 **Singapore, 30 July 2014 -** The National Climate Change Secretariat (NCCS) and the National Research Foundation (NRF), Prime Minister's Office, Singapore, unveiled today five national energy technology roadmaps that will guide government agencies in formulating their technology master plans and funding initiatives to secure Singapore's energy future and address climate change challenges.
 
 The energy technology roadmaps are part of efforts under the Energy National Innovation Challenge (ENIC) announced in 2011 to bring significant changes to Singapore's energy landscape in a whole-of-government effort. The goals of the ENIC are to develop cost-competitive energy solutions that can be deployed within 20 years to improve Singapore's energy efficiency, reduce its carbon emissions and broaden its energy options to sustain economic growth.
@@ -35,12 +34,13 @@ Developed in collaboration with industry stakeholders, academic experts and tech
   </tr>
   </table>
   
-  * Roadmaps can be found here  
-  _[Solar Photovoltaic](https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf)  
-  [Carbon Capture and Storage/ Utilisation](https://www.nccs.gov.sg/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf)  
-  [Green Data Centre](https://www.nccs.gov.sg/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf)  
-  [Building Energy Efficiency](https://www.nccs.gov.sg/docs/default-source/default-document-library/building-energy-efficiency-r-and-d-roadmap.pdf)  
-  [Industry Energy Efficiency](https://www.nccs.gov.sg/docs/default-source/default-document-library/industry-energy-efficiency-technology-roadmap.pdf)_  
+  * Roadmaps can be found here<sup>2</sup> 
+ <br>  [Solar Photovoltaic](https://go.gov.sg/solar-photovoltaic-roadmap-march-2020)  
+ [Carbon Capture and Storage/ Utilisation](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus)  
+  [Green Data Centre](https://go.gov.sg/green-data-centre-roadmap)
+ <br> [Building Energy Efficiency](https://go.gov.sg/building-energy-efficiency-roadmap)
+	<br>[Industry Energy Efficiency](https://go.gov.sg/industry-energy-efficiency-roadmap)
+
   
 As part of follow-up to the technology roadmapping exercise, two major energy R&D initiatives, namely the Building Energy Efficiency RD&D Hub to be implemented and managed by BCA and the Green Data Centre Research Hub Programme to be managed by IDA will receive funding totalling $100 million.
 
@@ -51,8 +51,5 @@ An inaugural symposium, the Energy TechRoadMap 2014, was held today to discuss t
 
 Ms Yong Ying-I, Co-Chairman, Energy Research Development & Demonstration Executive Committee, Permanent Secretary (Public Service Division) and Permanent Secretary (National Research and Development), and Mr Niam Chiang Meng, Permanent Secretary (National Climate Change) and Permanent Secretary (National Population and Talent Division) were also present at the symposium, which discussed the carbon mitigation potential of key technologies and platforms for research, development, demonstration and deployment (RDD&D) in Singapore.
 
-<sub><sup>1</sup> The roadmaps were developed as a follow-up to the Technology Primers that NCCS and NRF produced in 2011 to assess the potential of climate change change-related technologies and their relevance to Singapore.</sub>
-
-
-
-
+<sub><sup>1</sup> The roadmaps were developed as a follow-up to the Technology Primers that NCCS and NRF produced in 2011 to assess the potential of climate change change-related technologies and their relevance to Singapore.
+<br><sup>2</sup> Original 2011 roadmaps are no longer available. Attached are the latest roadmaps for your viewing.</sub>

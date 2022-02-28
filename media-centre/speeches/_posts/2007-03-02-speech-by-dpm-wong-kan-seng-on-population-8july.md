@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'Speech by DPM Wong Kan Seng on population at the Committee of Supply'
+title: Speech by DPM Wong Kan Seng on population at the Committee of Supply
 date: 2007-03-02T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-on-population-8july
-
 ---
-
-
 #### **OVERVIEW**
 
 Mr Speaker, Sir. I thank the Members for raising important issues concerning our population growth, immigration and integration between Singapore-born citizens and our new compatriots this afternoon, as well as during the Budget Debate. Members have raised many key issues, including the impact of significant increases of foreigners in our midst competing for jobs with Singaporeans, the impact of immigration on the social fabric of Singapore and the value of citizenship. Many Singaporeans have also given suggestions on how to deal with our population challenge. I am encouraged that they have taken a personal interest in this serious challenge that we face today.
@@ -90,7 +87,7 @@ b. United as One: To encourage all Singaporeans, whether they are newly-minted c
 
 c. Citizens will always be valued more than foreigners: Singaporeans can rest assured that they will always come first. In fact, all our policies are targeted at improving the lives of our citizens – we have recently reduced healthcare and education subsidies granted to foreigners and PRs to ensure that citizens enjoy the fullest support from the Government. Many Government surplus sharing schemes – CPF top-ups, New Singapore Shares, Economic Restructuring Shares, Workfare – favour only Singaporeans. But let us also remember that the value of citizenship cannot be measured by “dollars and cents”. Singapore is our home; it is what we have to call our own. You cannot put a price on the feeling of being in a place that belongs to us, where we belong. Home, as it is often said, is where the heart is.
 
-d. We care for Singaporeans who are overseas too. Some of our best and brightest Singaporeans are similarly attracted to study and work overseas. This is not necessarily a bad thing. What we can do is to ensure that they remain connected to Singapore. The Overseas Singaporean Unit was set up for this purpose and it has a dedicated online portal for OS – [www.overseassingaporean.sg](https://www.overseassingaporean.sg) – to keep in touch with one another and Singapore. The Government will do its part. As most of our overseas Missions have very few staff who have many duties to attend to as well, our Overseas Singaporeans must not rely solely on them but take the initiative to help each other and stay in touch with Singapore too. I know some of our Singapore Associations or Business Groups overseas are very active, and many of them also make contributions back to the communities they are in, e.g. Vietnam, the Philippines, China and the US.
+d. We care for Singaporeans who are overseas too. Some of our best and brightest Singaporeans are similarly attracted to study and work overseas. This is not necessarily a bad thing. What we can do is to ensure that they remain connected to Singapore. The Overseas Singaporean Unit was set up for this purpose and it has a dedicated online portal for OS – [https://singaporeglobalnetwork.gov.sg/](https://singaporeglobalnetwork.gov.sg/) – to keep in touch with one another and Singapore. The Government will do its part. As most of our overseas Missions have very few staff who have many duties to attend to as well, our Overseas Singaporeans must not rely solely on them but take the initiative to help each other and stay in touch with Singapore too. I know some of our Singapore Associations or Business Groups overseas are very active, and many of them also make contributions back to the communities they are in, e.g. Vietnam, the Philippines, China and the US.
 
 #### **PROMOTING MARRIAGE AND PARENTHOOD**
 

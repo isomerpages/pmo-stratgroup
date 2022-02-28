@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, at the World Oceans Summit, 23 February 2012, at Capella Singapore'
+title: Speech by Deputy Prime Minister, Coordinating Minister for National
+  Security and Minister for Home Affairs, Mr Teo Chee Hean, at the World Oceans
+  Summit, 23 February 2012, at Capella Singapore
 date: 2012-02-23T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore
-
 ---
-
-
 His Excellency, Mr Olafur Ragnar Grimsson   
 President, Republic of Iceland  
 
@@ -103,7 +102,7 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 
 
 <sub><sup>1</sup> International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
-[http://www.imo.org/KnowledgeCentre/ShipsAndShippingFactsAndFigures/Statisticalresources/Documents/December-2011-update-to-July-2011-version-of-International-Shipping-Facts-and-Figures.pdf](http://www.imo.org/KnowledgeCentre/ShipsAndShippingFactsAndFigures/Statisticalresources/Documents/December-2011-update-to-July-2011-version-of-International-Shipping-Facts-and-Figures.pdf)</sub>
+</sub>
 
 <sub><sup>2</sup> Global Marine Oil Pollution Information Gateway [http://oils.gpa.unep.org](http://oils.gpa.unep.org/) </sub>
 
@@ -115,7 +114,7 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 
 <sub><sup>6</sup> Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. [http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf)</sub> 
 
-<sub><sup>7</sup> United Nations Environment Programme, “Land Based Sources of Pollution”, [http://www.unep.org/regionalseas/issues/landactivities/default.asp](http://www.unep.org/regionalseas/issues/landactivities/default.asp)</sub> 
+<sub><sup>7</sup> United Nations Environment Programme, “Land Based Sources of Pollution”. </sub> 
 
 <sub><sup>8</sup> The Economist, “Troubled waters: A special report on the seas”, January 3, 2009. Scientists believe that as much as 100 million tonnes of plastic jetsam are suspended in two separate gyres of garbage in the central Pacific, over an area twice the size of the US.</sub> 
 
@@ -123,13 +122,12 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 
 <sub><sup>10</sup> The Co-operative Mechanism was a landmark initiative as it realised, for the first time, Article 43 of UNCLOS which states that "user states and states bordering a strait should by agreement cooperate: (a) in the establishment and maintenance in a strait of necessary navigational and safety aids or other improvements in aid of international navigation; and (b) for the prevention, reduction and control of pollution from ships". </sub>
 
-<sub><sup>11</sup> United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts” [http://www.grida.no/publications/climate-in-peril/page/3545.aspx](http://www.grida.no/publications/climate-in-peril/page/3545.aspx) </sub>
+<sub><sup>11</sup> United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts”  </sub>
 
-<sub><sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011 [http://www.pub.gov.sg/mpublications/Pages/PressReleases.aspx?ItemId=327](http://www.pub.gov.sg/mpublications/Pages/PressReleases.aspx?ItemId=327) </sub>
+<sub><sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011  </sub>
 
 <sub><sup>13</sup> Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. [http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all](http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all) </sub>
 
 <sub><sup>14</sup> The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7)</sub>
 
-<sub><sup>15</sup> Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. [http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm](http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm)</sub> 
-
+<sub><sup>15</sup> Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. </sub>

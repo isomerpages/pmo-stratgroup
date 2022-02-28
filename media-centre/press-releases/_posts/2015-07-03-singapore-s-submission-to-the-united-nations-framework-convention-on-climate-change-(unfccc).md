@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Singapore’s Submission to the United Nations Framework Convention on Climate Change (UNFCCC)"
-date:   2015-07-03
-permalink: "/media-centre/press-releases/singapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)"
+title: Singapore’s Submission to the United Nations Framework Convention on
+  Climate Change (UNFCCC)
+date: 2015-07-03
+permalink: /media-centre/press-releases/singapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)
 ---
-
-
 _Singapore intends to reduce its Emissions Intensity by 36% from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030_
 
 Singapore has submitted its Intended Nationally Determined Contribution (INDC) to the United Nations Framework Convention on Climate Change (UNFCCC) Secretariat (see Appendix I). This takes into account the UNFCCC request for Parties to submit their INDCs “well in advance” of the annual Conference of Parties (COP) in Paris in December 2015 so as to facilitate the development of a new global climate agreement for the post-2020 period.
@@ -33,5 +32,3 @@ Climate change is a global challenge and it requires a global solution where all
 <sub><sup>1</sup> Emissions Intensity refers to the amount of greenhouse gas emitted per dollar GDP. It is a measure of how efficient a country is in terms of greenhouse gas emissions relative to its economic activities.</sub>
 
 <sub><sup>2</sup> Source: IEA Key World Energy Statistics, 2014. Comparisons based on available carbon emissions per US$GDP data.</sub>
-
-

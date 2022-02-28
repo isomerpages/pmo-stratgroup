@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Businesses, Communities, And Individuals Helping To Shape Singapore’s Long-Term Low Emissions Development Strategy"
-date:   2020-02-07
-permalink: "/media-centre/press-releases/businesses-communities-and-individuals-helping-to-shape-singapores-long-term-low-emissions-development-strategy"
+title: Businesses, Communities, And Individuals Helping To Shape Singapore’s
+  Long-Term Low Emissions Development Strategy
+date: 2020-02-07
+permalink: /media-centre/press-releases/businesses-communities-and-individuals-helping-to-shape-singapores-long-term-low-emissions-development-strategy
 ---
-
 The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a public consultation exercise from 16 July to 30 September 2019 on the Long-Term Low Emissions Development Strategy (LEDS) to create a sustainable environment. About 2,000[1] submissions were received from businesses, community groups, and individuals. Several stakeholder engagement sessions were also organised between August 2019 and January 2020 to facilitate in-depth discussions with youths, green groups, green councils, academics and businesses from a variety of sectors.
 
 Views on measures and actions that could be taken by the Government, businesses, households, and individuals were sought on the following key areas:
@@ -40,7 +40,7 @@ Solar energy was identified as the most viable clean energy source for deploymen
   
 Respondents highlighted reducing waste and plastic use, improving recycling, and adopting plant-based diets, as concrete ways to reduce individuals’ emissions. Many called for greater dialogue and engagement between the Government and the public to facilitate more effective collective climate action.
 
-An [executive summary](https://www.nccs.gov.sg/public-consultation/response-to-feedback-on-singapore%27s-long-term-low-emissions-development-strategy) and detailed document of the feedback and the Government’s responses can be found in the  [Annex](https://www.nccs.gov.sg/docs/default-source/default-document-library/annex-for-singapore's-leds-public-consultation-response-(final).pdf)  which will be released on the REACH ([www.reach.gov.sg](http://www.reach.gov.sg/)) and NCCS ([www.nccs.gov.sg](http://www.nccs.gov.sg/)) websites. Members of the public who would like to make their submissions publicly available can do so using the following web link:  [http://bit.ly/ledsform](http://bit.ly/ledsform).
+An [executive summary](https://www.nccs.gov.sg/public-consultation/response-to-feedback-on-singapore%27s-long-term-low-emissions-development-strategy) and detailed document of the feedback and the Government’s responses can be found in the  [Annex](https://www.nccs.gov.sg/files/docs/default-source/default-document-library/annex-for-singapore's-leds-public-consultation-response-(final).pdf)  which will be released on the REACH ([www.reach.gov.sg](http://www.reach.gov.sg/)) and NCCS ([www.nccs.gov.sg](http://www.nccs.gov.sg/)) websites. Members of the public who would like to make their submissions publicly available can do so using the following web link:  [http://bit.ly/ledsform](http://bit.ly/ledsform).
 
 _Continued Partnerships with Stakeholders_
 
