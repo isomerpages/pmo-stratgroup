@@ -14,4 +14,3 @@ Theme: Building a Resilient Population
 
 
   * Infographic: [Comprehensive support on marriage and parenthood](/files/media-centre/press-releases/IInfographic-comprehensive-support-for-Singaporeans-to-start-and-raise-families.pdf)
-
