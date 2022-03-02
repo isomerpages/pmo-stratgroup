@@ -15,8 +15,11 @@ Mr Chairman, I thank members for their cuts.
 Family is a key source of strength and support, especially in tough times. The pandemic has underscored this. As such, supporting Singaporeans who want to start and raise families remains the government’s top priority. 
 
 I will speak about three Government strategies to build a more resilient population in Singapore.
+
 •	First, building a Singapore that is Made For Families; 
+
 •	Second, moderating the impact of low birth rates and ageing through selective immigration; and
+
 •	Third, strengthening our local workforce and complementing it with a foreign workforce, to grow opportunities for Singaporeans.
 
  
