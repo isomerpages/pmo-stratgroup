@@ -151,3 +151,5 @@ Ultimately, we recognise that integration may take some time. We must cherish th
 We will press on to build a more inclusive and brighter future for Singaporeans. With many Singaporeans still aspiring to start and raise families, we will continue to build a Singapore that is Made For Families.
 
 We will also continue to review our population strategies to ensure that they remain relevant to our needs. Together we will build a more resilient population, and keep Singaporeans at the heart of our population strategies.
+
+  * Infographic: [Comprehensive support for Singaporeans to start and raise families](/files/media-centre/press-releases/Infographic-comprehensive-support-to-start-and-raise-families.pdf)
