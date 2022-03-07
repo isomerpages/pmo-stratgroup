@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'WoG Briefing on State of the Population'
+title: WoG Briefing on State of the Population
 date: 2009-06-17T00:00:00.000Z
 permalink: /media-centre/press-releases/wog-briefing-on-state-of-the-population
-
 ---
-
-
 Singapore’s total population stands at 4.84 million, an increase of 5.5% over the previous year. The growth is largely due to the increase in the number of non-residents. The number of residents, i.e. Singapore citizens and permanent residents (PR), grew 1.7% to reach 3.64 million in June 2008.
 
 Singapore continues to face the long-term demographic challenge of low fertility and an ageing population. Singapore’s total fertility rate (TFR) of 1.28 in 2008 remained below the replacement level of 2.1. The proportion of residents aged 65 and above continued to increase from 6.8% in 1998 to 8.7% in 2008. These trends underscore the need to continue working on long-term strategies to build a sustainable population, in spite of the economic downturn.
@@ -35,5 +32,4 @@ As more foreigners choose to sink roots in Singapore, helping them integrate int
 
 As of June 2008, there were more than 180,000 Overseas Singaporeans (OS), of which 63% were aged between 20 and 54. With more Singaporeans going overseas to work and study, it is crucial to help them stay connected and engaged with home, so that they can continue to identify with the larger Singapore family.
 
-The Overseas Singaporean Unit (OSU) was set up in 2006 to reach out to Singaporeans overseas. In addition to the one-stop Overseas Singaporean Portal [www.overseassingaporean.sg](https://www.overseassingaporean.sg), OSU’s programmes include Singapore Day and the Distinguished Business Leaders Series. OSU has also collaborated with Singaporelinked partners to establish Overseas Singaporean Clubs in major cities for OS to come together, network and bond. Beijing-based business developer Mr Lionel Wong has actively organised activities for OS through the OS Club. "A support group is much needed by anyone who goes overseas to work or study, as they tend to be homesick and lonely. Nothing beats the nostalgic feeling of having a home away from home at gatherings with fellow Overseas Singaporeans. These gatherings remind us of who we are, and the importance of staying connected to Singapore and to fellow Singaporeans overseas," said Mr Wong.
-
+The Overseas Singaporean Unit (OSU) was set up in 2006 to reach out to Singaporeans overseas. In addition to the one-stop Overseas Singaporean Portal [www.overseassingaporean.sg](http://web.archive.org/web/20160317224334/https://www.overseassingaporean.sg/), OSU’s programmes include Singapore Day and the Distinguished Business Leaders Series. OSU has also collaborated with Singaporelinked partners to establish Overseas Singaporean Clubs in major cities for OS to come together, network and bond. Beijing-based business developer Mr Lionel Wong has actively organised activities for OS through the OS Club. "A support group is much needed by anyone who goes overseas to work or study, as they tend to be homesick and lonely. Nothing beats the nostalgic feeling of having a home away from home at gatherings with fellow Overseas Singaporeans. These gatherings remind us of who we are, and the importance of staying connected to Singapore and to fellow Singaporeans overseas," said Mr Wong.
