@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Celebrating My Home, My Future at Singapore Day 2012"
-date:   2012-04-14
-permalink: "/media-centre/press-releases/celebrating-my-home-my-future-at-singapore-day-2012"
+title: Celebrating My Home, My Future at Singapore Day 2012
+date: 2012-04-14
+permalink: /media-centre/press-releases/celebrating-my-home-my-future-at-singapore-day-2012
 ---
-
 About 4,900 Singaporeans living, working and studying in the USA gathered at Prospect Park in Brooklyn, New York to celebrate all things Singaporean at Singapore Day 2012. Deputy Prime Minister and Minister-in-charge of National Population and Talent Division Teo Chee Hean was present at the event, whose theme was “My Home, My Future”.
 
 In his remarks, DPM Teo highlighted the need for an inclusive society and a stronger Singapore. DPM Teo said that amidst the changes evident in Singapore’s transformation into a modern and attractive global city, Singapore remained our home, and a place for Singaporeans to build their future. He hoped Singapore Day would bring Singaporeans closer and enjoy a slice of home together; and that it would foster close-knit Singaporean communities around the world.
@@ -50,9 +49,9 @@ Attendees enjoyed authentic hawker fare, such as char kway teow, laksa, satay, b
 
 The support of our partners from the private, public and people sectors gave attendees the opportunity to learn about developments such as changes in our arts and cultural scene, the urban transformation of downtown Singapore, and the modern public housing developments back home through the experiential showcases put up by public sector partners such as the Singapore Memory Project, the Ministry of Home Affairs and the Singapore Sports Council. They also had the chance to find out about economic and career opportunities back in Singapore at the Careers@Home showcase by Contact Singapore, which saw 16 employers from the public and private sectors participating, such as the National Environment Agency, Lee Kong Chian School of Medicine, PricewaterhouseCoopers and Standard Chartered. Eight employers participated in Singapore Day for the first time.
 
-More details on Singapore Day 2012 can be found on [www.SingaporeDay.sg](https://www.overseassingaporean.sg/event/singapore-day/) and [www.fb.com/SingaporeDay](https://www.facebook.com/SingaporeDay/).
+More details on Singapore Day 2012 can be found on [www.SingaporeDay.sg](http://web.archive.org/web/20160318023759/https://overseassingaporean.sg/event/singapore-day) and [www.fb.com/SingaporeDay](https://www.facebook.com/SingaporeDay/).
 
-Singapore Day is part of the OSU’s suite of programmes and initiatives to engage Singaporeans overseas, who are part of the larger Singaporean family. In addition to Singapore Day, OSU’s engagement efforts span a range of platforms, both face-toface and online. These include Singapore Buzz, the Distinguished Business Leaders Series, the Overseas Singaporean Portal [www.overseassingaporean.sg](https://www.overseassingaporean.sg/event/singapore-day/) and our Facebook page [www.facebook.com/OverseasSingaporean](https://www.facebook.com/OverseasSingaporean). OSU also works closely with Singaporean organisations and clubs overseas as well as other Government agencies on ground-up initiatives to engage Singaporeans overseas. As more Singaporeans venture abroad to live, work or study, OSU remains committed to engaging Singaporeans overseas and keeping them connected to home and with each other.
+Singapore Day is part of the OSU’s suite of programmes and initiatives to engage Singaporeans overseas, who are part of the larger Singaporean family. In addition to Singapore Day, OSU’s engagement efforts span a range of platforms, both face-toface and online. These include Singapore Buzz, the Distinguished Business Leaders Series, the Overseas Singaporean Portal [www.overseassingaporean.sg](https://www.overseassingaporean.sg/event/singapore-day/) and our Facebook page [www.facebook.com/OverseasSingaporean/](https://www.facebook.com/singaporeglobalnetwork/). OSU also works closely with Singaporean organisations and clubs overseas as well as other Government agencies on ground-up initiatives to engage Singaporeans overseas. As more Singaporeans venture abroad to live, work or study, OSU remains committed to engaging Singaporeans overseas and keeping them connected to home and with each other.
 
 **ANNEX B**
 
