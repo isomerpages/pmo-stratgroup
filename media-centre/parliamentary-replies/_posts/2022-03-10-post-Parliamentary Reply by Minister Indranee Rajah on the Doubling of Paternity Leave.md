@@ -6,7 +6,6 @@ date: 2022-03-10
 layout: post
 description: ""
 ---
-
 **FOURTEENTH PARLIAMENT OF SINGAPORE
 ORAL ANSWER
 THURSDAY, 10 MARCH 2022**
@@ -26,5 +25,5 @@ However, supporting the caregiving needs of parents must be balanced with the ma
 We welcome these progressive companies to share their experiences and best practices with other companies. As the needs of companies vary, employers, in partnership with their employees, are best placed to assess and implement the family-friendly arrangements suited to the company’s context. We will continue to work with tripartite partners to review the scope for more parental leave provisions, and build a Singapore that is Made For Families.
 
 ----------
-<sup>1</sup> This comprises two weeks of paid paternity leave, four weeks of paid shared parental leave, about one week (six days) of paid childcare leave, and about one week (six days) of unpaid infant care leave.
+<sup>1</sup> This comprises two weeks of paid paternity leave, four weeks of paid shared parental leave, about one week (six days) of paid childcare leave, and about one week (six days) of unpaid infant care leave.  
 <sup>2</sup> Employees which adopt this set of Tripartite Standards will allow parents to take up to four weeks of unpaid leave per year if their child is (a) aged below two, and (b) born preterm, part of multiple births, or has medical conditions.
