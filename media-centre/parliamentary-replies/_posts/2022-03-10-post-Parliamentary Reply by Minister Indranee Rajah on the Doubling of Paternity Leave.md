@@ -7,7 +7,7 @@ layout: post
 description: ""
 ---
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
-**ORAL ANSWER**  
+**ORAL REPLY**  
 **THURSDAY, 10 MARCH 2022**
 
 **Mr Louis Ng:**
