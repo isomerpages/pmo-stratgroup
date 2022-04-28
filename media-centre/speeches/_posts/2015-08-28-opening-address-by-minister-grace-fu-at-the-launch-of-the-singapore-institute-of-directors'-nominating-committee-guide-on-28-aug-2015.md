@@ -54,7 +54,7 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 
 <sub><sup>1</sup> Ministry of Manpower (2014). Labour Force in Singapore, 2014. (Pg T9) </sub>
 
-<sub><sup>2</sup> Diversity Action Committee (2015). Facts and Numbers. [https://www.councilforboarddiversity.sg/statistics/as-at-dec-2014/](https://www.councilforboarddiversity.sg/statistics/as-at-dec-2014/) </sub>
+<sub><sup>2</sup> Diversity Action Committee (2015). Facts and Numbers.</sub>
 
 <sub><sup>3</sup> Diversity Action Committee (2015). Report on Women’s Representation on SGX-listed Companies’ Boards as at end 2014.</sub>
 
