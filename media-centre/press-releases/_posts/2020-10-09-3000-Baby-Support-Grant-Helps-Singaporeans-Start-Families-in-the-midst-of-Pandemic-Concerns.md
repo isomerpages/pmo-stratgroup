@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "$3,000 Baby Support Grant Helps Singaporeans Start Families in the midst of Pandemic Concerns"
-date:   2020-10-09
-permalink: "/media-centre/press-releases/3000-Baby-Support-Grant-Helps-Singaporeans-Start-Families-in-the-midst-of-Pandemic-Concerns"
+title: $3,000 Baby Support Grant Helps Singaporeans Start Families in the midst
+  of Pandemic Concerns
+date: 2020-10-09
+permalink: /media-centre/press-releases/3000-Baby-Support-Grant-Helps-Singaporeans-Start-Families-in-the-midst-of-Pandemic-Concerns
 ---
-
 To ease couples’ financial concerns about having a child in the midst of the COVID-19 pandemic and recession, the Government will provide a **one-off Baby Support Grant (BSG) of $3,000 to supplement the existing Baby Bonus Cash Gift (BBCG), for children born from 1 October 2020 to 30 September 2022**. The BSG adds to the Marriage and Parenthood (M&P) Package, to further help couples defray child-raising costs during these extraordinary times.
 
 ![Overview Infographic](/images/overview-cover-page-01.png)
@@ -37,4 +37,4 @@ Download:
 [Examples of companies joining the Government in providing support to families](/files/media-centre/press-releases/Examples-of-businesses-showing-support-for-families-2.pdf)
 
 *For more information on Made For Families, visit [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg)  
-For more information on Baby Bonus Parenting Resources portal, visit [http://www.babybonus.msf.gov.sg/parentingresources](http://www.babybonus.msf.gov.sg/parentingresources)*
+For more information on Baby Bonus Parenting Resources portal, visit [https://familiesforlife.sg/Parenting/Pages/Home.aspx](https://familiesforlife.sg/Parenting/Pages/Home.aspx)*
