@@ -5,15 +5,17 @@ date: 2022-05-07
 layout: post
 description: Parliamentary reply by Minister Indranee Rajah on the Baby Support Grant
 ---
-FOURTEENTH PARLIAMENT OF SINGAPORE
-ORAL REPLY
-MONDAY, 9 MAY 2022
+**FOURTEENTH PARLIAMENT OF SINGAPORE**
 
-Mr Leon Perera:
+**ORAL REPLY**
+
+**MONDAY, 9 MAY 2022**
+
+**Mr Leon Perera:**
  
 To ask the Prime Minister (a) to date, whether any exceptions have been made in the disbursement of the Baby Support Grant (BSG), for instance giving the grant to single mothers; and (b) whether the Government is considering an extension of the BSG beyond September 2022 in view of the continuing low total fertility rate at 1.12 in 2021.
 
-Ms Indranee Rajah (for the Prime Minister): 
+**Ms Indranee Rajah (for the Prime Minister):**
 
 The Baby Support Grant (BSG) was introduced for parents of all Singaporean children born from 1 October 2020 to 30 September 2022. Single mothers who were lawfully married to their child's father, but are divorced or widowed, are eligible for the BSG. We also allowed appeals from parents whose babies were born before 1 October 2020, but whose certified Estimated Delivery Date was on or after 1 October 2020. 
 
