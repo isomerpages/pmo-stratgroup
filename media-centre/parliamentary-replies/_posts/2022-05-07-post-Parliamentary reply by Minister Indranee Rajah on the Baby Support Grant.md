@@ -6,7 +6,7 @@ layout: post
 description: Parliamentary reply by Minister Indranee Rajah on the Baby Support Grant
 ---
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
-**ORAL REPLY**  
+**WRITTEN REPLY**  
 **MONDAY, 9 MAY 2022**
 
 **Mr Leon Perera:**
