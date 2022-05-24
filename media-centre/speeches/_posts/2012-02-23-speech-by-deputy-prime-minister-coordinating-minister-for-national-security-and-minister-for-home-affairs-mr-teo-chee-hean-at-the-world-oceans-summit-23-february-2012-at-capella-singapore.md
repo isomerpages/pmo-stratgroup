@@ -11,7 +11,7 @@ President, Republic of Iceland
 
 Ministers, Distinguished Guests, 
 
-Ladies and gentlemen 
+Ladies and Gentlemen 
 
 Good morning. It gives me great pleasure to join you this morning, at the World Oceans Summit. 
 
