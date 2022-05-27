@@ -71,5 +71,5 @@ Thank you Mr President.
 <sub><sup>3</sup> Source: IEA Key World Energy Stat</sub>
 
  
-
-Source: [The United Nations Framework Convention on Climate Change](https://unfccc.int/files/meetings/marrakech_nov_2016/statements/application/pdf/singapore_cop22cmp12cma1_hls.pdf)
+<br><br>
+*Source: The United Nations Framework Convention on Climate Change*
