@@ -89,7 +89,7 @@ Thank you.
 
 <sub><sup>5</sup> Central Provident Fund Board, 2014. “Analysis of Balances of CPF Members by Gender”</sub>
 
-<sub><sup>6</sup> Central Provident Fund Board, 2016. “CPF: Your Assurance in Retirement” [https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/CPF%20Retirement%20Booklet.pdf](https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/CPF%20Retirement%20Booklet.pdf)</sub>
+<sub><sup>6</sup> Central Provident Fund Board, 2016. “CPF: Your Assurance in Retirement”</sub>
 
 <sub><sup>7</sup> Housing and Development Board, 2016. “Right-sizing with Silving Housing Bonus” [http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silverhousing-bonus](http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silverhousing-bonus) </sub>
 
