@@ -40,7 +40,7 @@ Solar energy was identified as the most viable clean energy source for deploymen
   
 Respondents highlighted reducing waste and plastic use, improving recycling, and adopting plant-based diets, as concrete ways to reduce individuals’ emissions. Many called for greater dialogue and engagement between the Government and the public to facilitate more effective collective climate action.
 
-An [executive summary](https://www.nccs.gov.sg/public-consultation/response-to-feedback-on-singapore%27s-long-term-low-emissions-development-strategy) and detailed document of the feedback and the Government’s responses can be found in the  [Annex](https://www.nccs.gov.sg/files/docs/default-source/default-document-library/annex-for-singapore's-leds-public-consultation-response-(final).pdf)  which will be released on the REACH ([www.reach.gov.sg](http://www.reach.gov.sg/)) and NCCS ([www.nccs.gov.sg](http://www.nccs.gov.sg/)) websites. 
+An [executive summary](https://www.nccs.gov.sg/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/) and detailed document of the feedback and the Government’s responses can be found in the  [Annex](https://www.nccs.gov.sg/files/docs/default-source/default-document-library/annex-for-singapore's-leds-public-consultation-response-(final).pdf)  which will be released on the REACH ([www.reach.gov.sg](http://www.reach.gov.sg/)) and NCCS ([www.nccs.gov.sg](http://www.nccs.gov.sg/)) websites. 
 
 _Continued Partnerships with Stakeholders_
 
