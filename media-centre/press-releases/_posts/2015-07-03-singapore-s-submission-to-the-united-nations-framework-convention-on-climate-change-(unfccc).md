@@ -5,7 +5,7 @@ title: Singapore’s Submission to the United Nations Framework Convention on
 date: 2015-07-03
 permalink: /media-centre/press-releases/singapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)
 ---
-[Appendix I](/files/appendix-i-singapore's-indc.pdf)_Singapore intends to reduce its Emissions Intensity by 36% from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030_
+_Singapore intends to reduce its Emissions Intensity by 36% from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030_
 
 Singapore has submitted its Intended Nationally Determined Contribution (INDC) to the United Nations Framework Convention on Climate Change (UNFCCC) Secretariat (see Appendix I). This takes into account the UNFCCC request for Parties to submit their INDCs “well in advance” of the annual Conference of Parties (COP) in Paris in December 2015 so as to facilitate the development of a new global climate agreement for the post-2020 period.
 
@@ -25,9 +25,9 @@ Details of new measures or enhancements to existing incentive schemes will be an
 
 Climate change is a global challenge and it requires a global solution where all countries play their part. Although Singapore contributes only about 0.11% of global emissions, we are fully committed to reducing carbon emissions and to supporting the UNFCCC process for an international agreement on climate change. Singapore’s INDC is a demonstration of our commitment to UNFCCC objectives.
 
-[Appendix I](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/appendix-i-singapore's-indc.pdf) [Appendix I](/files/appendix-i-singapore's-indc.pdf) 
-[Appendix II](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/appendix-ii-international-comparison-of-emissions-intensity.pdf)  
-[Appendix III](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/appendix-iii-indc-infographic.pdf)  
+[Appendix I](/files/appendix-i-singapore's-indc.pdf) 
+<br>[Appendix II](/files/appendix-ii-international-comparison-of-emissions-intensity.pdf)
+<br>[Appendix III](/files/appendix-iii-indc-infographic.pdf)
 
 <sub><sup>1</sup> Emissions Intensity refers to the amount of greenhouse gas emitted per dollar GDP. It is a measure of how efficient a country is in terms of greenhouse gas emissions relative to its economic activities.</sub>
 
