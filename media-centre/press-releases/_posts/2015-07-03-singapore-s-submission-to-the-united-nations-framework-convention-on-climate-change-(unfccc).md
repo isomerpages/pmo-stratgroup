@@ -25,9 +25,9 @@ Details of new measures or enhancements to existing incentive schemes will be an
 
 Climate change is a global challenge and it requires a global solution where all countries play their part. Although Singapore contributes only about 0.11% of global emissions, we are fully committed to reducing carbon emissions and to supporting the UNFCCC process for an international agreement on climate change. Singapore’s INDC is a demonstration of our commitment to UNFCCC objectives.
 
-[Appendix I](/files/appendix-i-singapore's-indc.pdf) 
-<br>[Appendix II](/files/appendix-ii-international-comparison-of-emissions-intensity.pdf)
-<br>[Appendix III](/files/appendix-iii-indc-infographic.pdf)
+[Appendix I](https://go.gov.sg/appendix-i-singapores-indc-pdf)
+<br>[Appendix II](https://go.gov.sg/appendix-ii-international-comparison-of-emissions-intensity-pdf)
+<br>[Appendix III](https://go.gov.sg/appendix-iii-indc-infographic-pdf)
 
 <sub><sup>1</sup> Emissions Intensity refers to the amount of greenhouse gas emitted per dollar GDP. It is a measure of how efficient a country is in terms of greenhouse gas emissions relative to its economic activities.</sub>
 
