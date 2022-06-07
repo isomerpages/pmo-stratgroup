@@ -31,4 +31,4 @@ A smartphone application was also developed in partnership with A*Star SIMTECH, 
 
 The public also had the opportunity to try out the new Nissan LEAF at the Marina Barrage. It is the world’s first mass-produced 100% electric vehicle, which does not produce any tailpipe pollution or greenhouse gas emissions during operation. The vehicle served as the environmentally-friendly transport ambassador for the event. This was made possible by Tan Chong Motor Sales’ support of SEC’s objectives to create a lasting impact on climate change by collaborating with people, industries and governments to encourage and achieve sustainable urbanisation.
 
-Jointly issued by the [Singapore Environment Council](http://sec.org.sg/) and the [National Climate Change Secretariat](https://www.nccs.gov.sg/)
+Jointly issued by the Singapore Environment Council and the National Climate Change Secretariat
