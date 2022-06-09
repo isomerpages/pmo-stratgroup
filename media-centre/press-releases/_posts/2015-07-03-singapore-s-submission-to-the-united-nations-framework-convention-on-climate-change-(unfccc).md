@@ -11,7 +11,7 @@ Singapore has submitted its Intended Nationally Determined Contribution (INDC) t
 
 Singapore’s INDC states its intention to reduce its Emissions Intensity<sup>1</sup> by 36% from 2005 levels by 2030, and to stabilise emissions with the aim of peaking around 2030.  It reflects Singapore’s support towards global efforts to achieve peaking of global and national greenhouse gas emissions as soon as possible.
 
-Currently, Singapore’s emissions intensity is ranked 113th out of 140 countries<sup>2</sup> globally, i.e. among the best 20% of countries (see Appendix II).  To achieve a 36% reduction in Emissions Intensity by 2030, Singapore will build on its past and ongoing efforts to achieve economic growth in a carbon efficient way.  Singapore had pledged in 2009 to reduce its emissions by 16% below business-as-usual levels (BAU-16%) by 2020 if there is a legally binding global agreement.  In the meantime, Singapore is taking actions to reduce its emissions to achieve its unconditional pledge of BAU-7 to 11% by 2020.  For example, it has progressively switched from fuel oil to natural gas, the cleanest form of fossil fuel, for power generation. Today, over 90% of electricity is generated from natural gas. 
+Currently, Singapore’s emissions intensity is ranked 113<sup>th</sup> out of 140 countries<sup>2</sup> globally, i.e. among the best 20% of countries (see Appendix II).  To achieve a 36% reduction in Emissions Intensity by 2030, Singapore will build on its past and ongoing efforts to achieve economic growth in a carbon efficient way.  Singapore had pledged in 2009 to reduce its emissions by 16% below business-as-usual levels (BAU-16%) by 2020 if there is a legally binding global agreement.  In the meantime, Singapore is taking actions to reduce its emissions to achieve its unconditional pledge of BAU-7 to 11% by 2020.  For example, it has progressively switched from fuel oil to natural gas, the cleanest form of fossil fuel, for power generation. Today, over 90% of electricity is generated from natural gas. 
 
 “Singapore plans to further reduce our emissions intensity as part of international efforts to address climate change.  For a very small country with limited alternative energy options, the stabilisation of our emissions with the aim of peaking around 2030 requires serious efforts by everyone.  We have to strive for higher levels of energy efficiency, including deployment of best-in-class technologies”, said DPM Teo Chee Hean, Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC).
 
@@ -25,9 +25,9 @@ Details of new measures or enhancements to existing incentive schemes will be an
 
 Climate change is a global challenge and it requires a global solution where all countries play their part. Although Singapore contributes only about 0.11% of global emissions, we are fully committed to reducing carbon emissions and to supporting the UNFCCC process for an international agreement on climate change. Singapore’s INDC is a demonstration of our commitment to UNFCCC objectives.
 
-[Appendix I](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/appendix-i-singapore's-indc.pdf)  
-[Appendix II](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/appendix-ii-international-comparison-of-emissions-intensity.pdf)  
-[Appendix III](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/appendix-iii-indc-infographic.pdf)  
+[Appendix I](https://go.gov.sg/appendix-i-singapores-indc-pdf)
+<br>[Appendix II](https://go.gov.sg/appendix-ii-international-comparison-of-emissions-intensity-pdf)
+<br>[Appendix III](https://go.gov.sg/appendix-iii-indc-infographic-pdf)
 
 <sub><sup>1</sup> Emissions Intensity refers to the amount of greenhouse gas emitted per dollar GDP. It is a measure of how efficient a country is in terms of greenhouse gas emissions relative to its economic activities.</sub>
 

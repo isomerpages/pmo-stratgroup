@@ -34,7 +34,7 @@ Developed in collaboration with industry stakeholders, academic experts and tech
   </tr>
   </table>
   
-  * Roadmaps can be found here<sup>2</sup> 
+  * Updated roadmaps can be found here. 
  <br>  [Solar Photovoltaic](https://go.gov.sg/solar-photovoltaic-roadmap-march-2020)  
  [Carbon Capture and Storage/ Utilisation](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus)  
   [Green Data Centre](https://go.gov.sg/green-data-centre-roadmap)
@@ -52,4 +52,3 @@ An inaugural symposium, the Energy TechRoadMap 2014, was held today to discuss t
 Ms Yong Ying-I, Co-Chairman, Energy Research Development & Demonstration Executive Committee, Permanent Secretary (Public Service Division) and Permanent Secretary (National Research and Development), and Mr Niam Chiang Meng, Permanent Secretary (National Climate Change) and Permanent Secretary (National Population and Talent Division) were also present at the symposium, which discussed the carbon mitigation potential of key technologies and platforms for research, development, demonstration and deployment (RDD&D) in Singapore.
 
 <sub><sup>1</sup> The roadmaps were developed as a follow-up to the Technology Primers that NCCS and NRF produced in 2011 to assess the potential of climate change change-related technologies and their relevance to Singapore.
-<br><sup>2</sup> Original 2011 roadmaps are no longer available. Attached are the latest roadmaps for your viewing.</sub>

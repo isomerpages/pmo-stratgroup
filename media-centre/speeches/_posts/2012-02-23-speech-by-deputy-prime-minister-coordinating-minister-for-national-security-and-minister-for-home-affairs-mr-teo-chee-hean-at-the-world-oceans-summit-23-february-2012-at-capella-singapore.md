@@ -11,7 +11,7 @@ President, Republic of Iceland
 
 Ministers, Distinguished Guests, 
 
-Ladies and gentlemen 
+Ladies and Gentlemen 
 
 Good morning. It gives me great pleasure to join you this morning, at the World Oceans Summit. 
 
@@ -112,7 +112,7 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 
 <sub><sup>5</sup> Liz Creel, “Ripple Effects: Population and Coastal Regions”, Population Reference Bureau, September 2003. </sub> 
 
-<sub><sup>6</sup> Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. [http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf)</sub> 
+<sub><sup>6</sup> Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. <br>Read the blueprint [here](https://go.gov.sg/a-blueprint-for-ocean-and-coast-sustainability-2011). </sub> 
 
 <sub><sup>7</sup> United Nations Environment Programme, “Land Based Sources of Pollution”. </sub> 
 
