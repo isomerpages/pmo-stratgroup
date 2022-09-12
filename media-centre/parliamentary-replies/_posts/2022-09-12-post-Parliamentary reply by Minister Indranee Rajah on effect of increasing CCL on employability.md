@@ -6,7 +6,6 @@ date: 2022-09-12
 layout: post
 description: ""
 ---
-
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN REPLY**  
 **MONDAY, 12 SEPTEMBER 2022**
