@@ -1,12 +1,12 @@
 ---
-title: "Marriage and Parenthood Survey 2021:  Strong Aspirations Among
-  Singaporeans to Start Families, FWA"
+title: Key Findings of Marriage and Parenthood Survey 2021
 permalink: /media-centre/press-releases/marriage-and-parenthood-survey-2021/
 date: 2022-10-10
 layout: post
 description: ""
 image: ""
 ---
+
 The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood aspirations remain strong. However, many married respondents have fewer children than they prefer, and many single respondents have not dated before. The survey was conducted from February to June 2021, with respondents comprising 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old (refer to [Annex A](/files/media-centre/press-releases/Annex%20A.pdf) for details on the profile of survey respondents).
 
 **Key points highlighted by the survey:**
