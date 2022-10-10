@@ -23,7 +23,7 @@ The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood
 
 4. When asked about their ideal number of children, the vast majority (92%) of married respondents indicated preference to have two or more children, comparable to previous surveys. However, in practice, about half of married respondents (51%) had fewer than two children (Annex B, Chart 2).
 
-**_In making parenthood decisions, key considerations include ability to manage costs of child-raising, as well as manage work and family commitments_** 
+* **_In making parenthood decisions, key considerations include ability to manage costs of child-raising, as well as manage work and family commitments_** 
 
 5. Financial cost was the most common reason cited by married respondents who did not want to have (more) children. Other concerns included the stress of raising children, and difficulties in managing work and family demands (Annex B, Table 3).
 
@@ -31,7 +31,7 @@ The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood
 
 7. For the single respondents, the majority (77%) of them want children. Those who were unsure or did not want children had similar concerns about the costs of child raising, a lack of time and energy to care for children, and balancing work and family commitments (Annex B, Table 5).
 
-**_Fathers equally important as caregivers, can play a greater role at home_**
+* **_Fathers equally important as caregivers, can play a greater role at home_**
 
 8. Almost all (99%) married respondents agreed that fathers and mothers were equally important as caregivers for children, and 95% agreed that both parents should share equal responsibilities at home (Annex B, Table 6).
 
@@ -47,27 +47,27 @@ The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood
 
 13. FWAs also help companies to attract talent and foster stronger employee commitment. 92% of married respondents agreed that they were more likely to join an organisation that provided FWAs, while 94% agreed that they were more likely to stay in such an organisation (Annex B, Table 7).
 
-**_Significant proportion of single respondents have never dated before, and are not proactive in dating_**
+* **_Significant proportion of single respondents have never dated before, and are not proactive in dating_**
 
 14. Of the single respondents surveyed, 50% were not currently dating. 38% of those who were not currently dating had never dated before (Annex B, Chart 8).
 
 15. Among those not currently dating, top reasons cited were having a limited social circle (58%), not having many opportunities to meet potential partners (57%), and their preference to leave dating to chance (48%) (Annex B, Chart 9).
 
-**_Growth in acceptance and use of online dating methods_**
+* **_Growth in acceptance and use of online dating methods_**
 
 16. The use of dating websites and apps have become more prevalent. Among single respondents who were dating, 29% met their partner through online channels, a significant increase from 2016 (13%) and 2012 (7%) (Annex B, Chart 10).
 
 17. Around 58% were comfortable with meeting a partner through online dating websites or apps, compared to 43% in 2016, and 19% in 2012. That said, single respondents were still most comfortable meeting potential partners through more organic and face-to-face settings, including through social/recreational activities (90%), friends (88%), or through colleagues (82%) (Annex B, Chart 11).
 
-**_Need to raise awareness on fertility health_**
+* **_Need to raise awareness on fertility health_**
 
 18. Many are not aware that reproduction technology cannot compensate for age-related decline in fertility. Over 70% of married and single respondents have the misconception that assisted reproductive technologies like IVF would have very high success rates for women above age 40 (Annex B, Table 12).
 
 **Building a Singapore Made For Families**
 
-19. Marriage and parenthood are highly personal life goals that most Singaporeans aspire towards. The Government will continue to support Singaporeans in fulfilling their aspirations to marry and have children, managing work and family commitments, and sharing parental responsibilities. The views expressed through the Marriage &amp; Parenthood Survey will be taken into consideration as the Government reviews and strengthens our suite of marriage and parenthood support measures. More details about our marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg) and the Marriage &amp; Parenthood booklet at [go.gov.sg/mpbooklet](https://my-sgdcs.sgnet.gov.sg/personal/PMOSGKMLA/Documents/go.gov.sg/mpbooklet).
+19. Marriage and parenthood are highly personal life goals that most Singaporeans aspire towards. The Government will continue to support Singaporeans in fulfilling their aspirations to marry and have children, managing work and family commitments, and sharing parental responsibilities. The views expressed through the Marriage & Parenthood Survey will be taken into consideration as the Government reviews and strengthens our suite of marriage and parenthood support measures. More details about our marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg) and the Marriage & Parenthood booklet at [go.gov.sg/mpbooklet](https://my-sgdcs.sgnet.gov.sg/personal/PMOSGKMLA/Documents/go.gov.sg/mpbooklet).
 
-**About the Marriage &amp; Parenthood Survey 2021**
+**About the Marriage & Parenthood Survey 2021**
 
 20. The 2021 M&P Survey was commissioned by the National Population and Talent Division, Strategy Group, Prime Minister’s Office, to understand public attitudes and perceptions towards marriage and parenthood. Please refer to Annex A for the profile of the respondents. Similar surveys were conducted in 2004, 2007, 2012, and 2016.
 
@@ -81,7 +81,7 @@ The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood
 
 **PROFILE OF RESPONDENTS**
 
-The Marriage and Parenthood (M&amp;P) Survey 2021 surveyed 2,848 single (never-married) and 3,017 married Singapore residents aged 21 to 45 years old. The profile of the respondents was as follows:
+The Marriage and Parenthood (M&P) Survey 2021 surveyed 2,848 single (never-married) and 3,017 married Singapore residents aged 21 to 45 years old. The profile of the respondents was as follows:
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.2pt"><td style="width:141.4pt;border:solid windowtext 1.0pt;background:
