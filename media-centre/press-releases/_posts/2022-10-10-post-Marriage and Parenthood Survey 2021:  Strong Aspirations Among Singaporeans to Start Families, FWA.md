@@ -756,3 +756,9 @@ Table 7: Sentiments of married respondents toward FWAs
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:30.15pt" valign="top" width="23%"><p style="margin-bottom:0in;text-align:center;
   line-height:115%" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-themecolor:text1">94%</span></p></td></tr></tbody></table>
+
+Chart 8: Breakdown of single respondents by relationship status
+
+
+	
+	
