@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-The 2021 Marriage and Parenthood (M&amp;P) Survey shows that marriage and parenthood aspirations remain strong. However, many married respondents have fewer children than they prefer, and many single respondents have not dated before. The survey was conducted from February to June 2021, with respondents comprising 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old (refer to Annex A for details on the profile of survey respondents).
+The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood aspirations remain strong. However, many married respondents have fewer children than they prefer, and many single respondents have not dated before. The survey was conducted from February to June 2021, with respondents comprising 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old (refer to Annex A for details on the profile of survey respondents).
 
 2.	Key points highlighted by the survey:
 
