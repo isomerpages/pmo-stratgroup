@@ -759,3 +759,4 @@ Table 7: Sentiments of married respondents toward FWAs
 
 Chart 8: Breakdown of single respondents by relationship status
 
+![](/images/Press%20Release%20images/Chart%208%20-%20Breakdown%20of%20single%20respondents%20by%20relationship%20status.png)
