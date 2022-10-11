@@ -1,6 +1,5 @@
 ---
-title: "M&P Survey 2021: Strong Aspirations Among Singaporeans To Start
-  Families, FWAs Preferred"
+title: "Marriage and Parenthood Survey 2021: Strong Aspirations Among Singaporeans To Start Families, Flexible Work Arrangements Preferred"
 permalink: /media-centre/press-releases/marriage-and-parenthood-survey-2021/
 date: 2022-10-10
 layout: post
