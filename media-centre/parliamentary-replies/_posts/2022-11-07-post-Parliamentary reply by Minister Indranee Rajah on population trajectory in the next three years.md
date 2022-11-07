@@ -22,4 +22,4 @@ Singapore’s population size is influenced by several factors. Our resident pop
 
 The global economic outlook over the next three years remains uncertain and the effects of COVID-19 on population trends may persist for some time. While our population trajectory in the near term may experience some fluctuations, the pace of population growth in this decade is likely to remain slower than that in the previous decade, in line with trends before the pandemic hit. We expect our total population to remain significantly below 6.9 million by 2030.
 
-We will continue to monitor our population trends closely to ensure that our policies and plans meet Singaporeans’
+We will continue to monitor our population trends closely to ensure that our policies and plans meet Singaporeans’ needs.
