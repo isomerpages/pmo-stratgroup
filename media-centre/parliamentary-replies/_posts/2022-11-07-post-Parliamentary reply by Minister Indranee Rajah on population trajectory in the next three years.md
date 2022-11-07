@@ -7,9 +7,10 @@ layout: post
 description: ""
 image: ""
 ---
-**FOURTEENTH PARLIAMENT OF SINGAPORE**
-**WRITTEN REPLY**
+**FOURTEENTH PARLIAMENT OF SINGAPORE**  
+**WRITTEN REPLY**  
 **MONDAY, 7 NOVEMBER 2022**
+
 
 **Mr Chua Kheng Wee Louis:**
 
