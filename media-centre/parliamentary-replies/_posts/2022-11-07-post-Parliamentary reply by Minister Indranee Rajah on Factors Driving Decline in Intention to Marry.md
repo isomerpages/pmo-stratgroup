@@ -9,7 +9,7 @@ image: ""
 ---
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN REPLY**  
-**TUESDAY, 7 NOVEMBER 2022**
+**MONDAY, 7 NOVEMBER 2022**
 
 **Mr Melvin Yong Yik Chye:**
 
