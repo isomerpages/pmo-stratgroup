@@ -26,7 +26,7 @@ The Government will **enhance the CDA by increasing the (i) CDA First Step Grant
 
 As time is needed to effect changes to legislation, IT and payment systems, the increased financial support will be paid from early 2024, for eligible children who are born from 14 February 2023 onwards. Parents will automatically be notified when the enhanced BBCG and CDA First Step Grant are paid to them. However, the enhanced CDA co-matching cap will only be implemented from early 2024. For the rest of 2023, parents can save up to the current CDA co-matching caps. They will be notified on when they can make the additional deposits to save up to the enhanced CDA co-matching cap. 
 
-Depending on the birth order, each child will get $5,000 to $6,000 more in total Government contributions through both the BBCG and CDA. With these enhancements, parents will receive up to $24,000 in financial support for their first child, and up to $37,000 for subsequent children.1 Please refer to the summary table below on the enhanced Baby Bonus Scheme (comprising BBCG and CDA enhancements).
+Depending on the birth order, each child will get $5,000 to $6,000 more in total Government contributions through both the BBCG and CDA. With these enhancements, parents will receive up to $24,000 in financial support for their first child, and up to $37,000 for subsequent children.<sup>1</sup> Please refer to the summary table below on the enhanced Baby Bonus Scheme (comprising BBCG and CDA enhancements).
 
 ![Enhanced Baby Bonus Table](/images/Baby%20Bonus%20Scheme%20Table.jpg)
 
@@ -44,7 +44,7 @@ Self-employed persons who have been engaged in a particular business, trade, pro
 
 This gives working parents the option and flexibility to take more time off from work to care for their child in the first two years. This will apply from 1 January 2024 onwards for eligible working parents with Singaporean children aged under two.
 
-Taken together, these enhancements will increase parental leave for a working couple from 22 weeks to up to 26 weeks in their child’s first year.
+Taken together, these enhancements will increase parental leave for a working couple from 22 weeks to up to 26 weeks<sup>2</sup> in their child’s first year.
 
 **Adjustments to tax reliefs**
 
@@ -69,6 +69,11 @@ Refer to **Annex B** for a summary table on the eligibility for the various meas
 
 Since 2021, the National Population and Talent Division, Strategy Group, Prime Minister’s Office has engaged and surveyed close to 20,000 Singaporeans in different stages of their marriage and parenthood journey, including through the “Emerging Stronger Conversations – Building a Singapore that is Made For Families” and 2021 Marriage and Parenthood (M&P) Survey, to understand their concerns and views on M&P.
 
-M&P aspirations remain strong among Singaporeans, but many married Singaporeans have fewer children than they prefer. The above enhanced measures will address key considerations for Singaporeans in making parenthood decisions, including the cost of raising a child – where parents have regularly highlighted that they would like more financial support, especially when their children are younger (ages 0-6), as well as the ability to manage work and family commitments.
+M&P aspirations remain strong among Singaporeans, but many married Singaporeans have fewer children than they prefer.<sup>3</sup> The above enhanced measures will address key considerations for Singaporeans in making parenthood decisions, including the cost of raising a child – where parents have regularly highlighted that they would like more financial support, especially when their children are younger (ages 0-6), as well as the ability to manage work and family commitments.<sup>4</sup>
 
 The Government is strongly committed to supporting Singaporeans who wish to get married and have children. We have continually invested significant resources and enhanced our support measures for every stage of the M&P journey. Beyond Government support, we also need a whole-of-society effort – from individuals and co-workers, to businesses, employers and community partners – to build a Singapore Made For Families. Details about our M&P support measures can be found at [www.madeforfamilies.gov.sg.](www.madeforfamilies.gov.sg)
+
+<sup>1</sup> *This comprises the Baby Bonus Scheme benefits and the MediSave Grant for Newborns.*
+<sup>2</sup> *The 26 weeks comprise 16 weeks of Maternity Leave, 4 weeks of Paternity Leave, ~2 weeks of Childcare Leave (six days per parent) and ~4 weeks of Unpaid Infant Care Leave (12 days per parent) in total for both parents.*
+<sup>3</sup> *According to the 2021 Marriage and Parenthood (M&P) Survey conducted by NPTD. The survey was conducted from February to June 2021. Respondents comprised 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old.*
+<sup>4</sup> *This is based on NPTD’s survey of sentiments towards M&P benefits conducted in 2021, with 1,239 respondents at different stages of their parenthood journey. When asked which age range of their child they would like more financial support for, the majority of respondents said age 0-6.*
