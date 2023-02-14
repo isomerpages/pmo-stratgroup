@@ -74,6 +74,9 @@ M&P aspirations remain strong among Singaporeans, but many married Singaporeans 
 The Government is strongly committed to supporting Singaporeans who wish to get married and have children. We have continually invested significant resources and enhanced our support measures for every stage of the M&P journey. Beyond Government support, we also need a whole-of-society effort – from individuals and co-workers, to businesses, employers and community partners – to build a Singapore Made For Families. Details about our M&P support measures can be found at [www.madeforfamilies.gov.sg.](www.madeforfamilies.gov.sg)
 
 <sup>1</sup> *This comprises the Baby Bonus Scheme benefits and the MediSave Grant for Newborns.*
+
 <sup>2</sup> *The 26 weeks comprise 16 weeks of Maternity Leave, 4 weeks of Paternity Leave, ~2 weeks of Childcare Leave (six days per parent) and ~4 weeks of Unpaid Infant Care Leave (12 days per parent) in total for both parents.*
+
 <sup>3</sup> *According to the 2021 Marriage and Parenthood (M&P) Survey conducted by NPTD. The survey was conducted from February to June 2021. Respondents comprised 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old.*
+
 <sup>4</sup> *This is based on NPTD’s survey of sentiments towards M&P benefits conducted in 2021, with 1,239 respondents at different stages of their parenthood journey. When asked which age range of their child they would like more financial support for, the majority of respondents said age 0-6.*
