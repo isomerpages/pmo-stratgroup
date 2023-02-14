@@ -44,12 +44,13 @@ Self-employed persons who have been engaged in a particular business, trade, pro
 
 This gives working parents the option and flexibility to take more time off from work to care for their child in the first two years. This will apply from 1 January 2024 onwards for eligible working parents with Singaporean children aged under two.
 
-Taken together, these enhancements will increase parental leave for a working couple from 22 weeks to up to 26 weeks2 in their child’s first year.
+Taken together, these enhancements will increase parental leave for a working couple from 22 weeks to up to 26 weeks in their child’s first year.
 
 **Adjustments to tax reliefs**
 
 From the Year of Assessment (YA) 2025 onwards, these tax benefits will be adjusted:
 ***Working Mother’s Child Relief***
+
 The **Working Mother’s Child Relief (WMCR)** aims to encourage women to continue working after having Singaporean children. It will be changed from a percentage of the eligible mother’s earned income to a **fixed dollar tax relief** for qualifying Singaporean children born or adopted on or after 1 January 2024, with effect from the YA 2025. Eligible working mothers will be able to claim $8,000 annual relief for her first child, $10,000 for her second child, and $12,000 each for her third and subsequent child.
 
 For eligible working mothers with qualifying Singaporean children born or adopted before 1 January 2024, there is no change to the WMCR that these mothers can claim in respect of these children. Eligible working mothers of these children will continue to claim the WMCR based on the existing design and quantum, which is based on a percentage of their earned income. Refer to Annex A – Table 3 for more details.
