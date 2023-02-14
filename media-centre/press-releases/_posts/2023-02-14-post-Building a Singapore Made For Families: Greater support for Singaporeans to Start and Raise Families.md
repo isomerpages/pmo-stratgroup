@@ -74,7 +74,7 @@ M&P aspirations remain strong among Singaporeans, but many married Singaporeans 
 
 The Government is strongly committed to supporting Singaporeans who wish to get married and have children. We have continually invested significant resources and enhanced our support measures for every stage of the M&P journey. Beyond Government support, we also need a whole-of-society effort – from individuals and co-workers, to businesses, employers and community partners – to build a Singapore Made For Families. Details about our M&P support measures can be found at [www.madeforfamilies.gov.sg.](www.madeforfamilies.gov.sg)
 
-Click [here](/files/M&P%20FAQs.pdf) for a list of FAQs.
+Click[here](/files/M&P%20FAQs.pdf) for a list of FAQs.
 
 <sup>1</sup> *This comprises the Baby Bonus Scheme benefits and the MediSave Grant for Newborns.*
 
