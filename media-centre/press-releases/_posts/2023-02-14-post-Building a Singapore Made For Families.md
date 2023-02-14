@@ -53,6 +53,7 @@ The **Working Mother’s Child Relief (WMCR)** aims to encourage women to contin
 For eligible working mothers with qualifying Singaporean children born or adopted before 1 January 2024, there is no change to the WMCR that these mothers can claim in respect of these children. Eligible working mothers of these children will continue to claim the WMCR based on the existing design and quantum, which is based on a percentage of their earned income. Refer to Annex A – Table 3 for more details.
 
 ***Foreign Domestic Worker Levy Tax Relief***
+
 The Foreign Domestic Worker Levy Tax Relief (FDWLR) was introduced in 1989 to support working married women who needed the help of a Migrant Domestic Worker, especially those with childcare needs. The amount of FDWLR is twice the total Migrant Domestic Worker levy paid in the year immediately preceding the YA of claim on one Migrant Domestic Worker.
 
 To support working mothers, in particular those living with children below 16 years old, elderly or persons with disabilities who require domestic help, the Government introduced a concessionary levy of $60 per month (usual levy is $300 or $450 per month for the first and subsequent helper respectively). The concessionary levy benefits families who need caregiving help, including those who do not pay income tax.
