@@ -28,6 +28,8 @@ As time is needed to effect changes to legislation, IT and payment systems, the 
 
 Depending on the birth order, each child will get $5,000 to $6,000 more in total Government contributions through both the BBCG and CDA. With these enhancements, parents will receive up to $24,000 in financial support for their first child, and up to $37,000 for subsequent children.1 Please refer to the summary table below on the enhanced Baby Bonus Scheme (comprising BBCG and CDA enhancements).
 
+![Enhanced Baby Bonus Table](/images/Baby%20Bonus%20Scheme%20Table.jpg)
+
 **Extension of Baby Support Grant (BSG)**
 
 As part of this new package of measures, parents of babies born from 1 October 2022 to 13 February 2023 will also receive additional financial support. We will extend to this group the BSG of $3,000. The BSG was a one-off payment for eligible Singaporean children born from 1 October 2020 to 30 September 2022 during the COVID-19 pandemic, to encourage couples to proceed with their parenthood plans. Parents will be notified when the extended BSG is disbursed in the second half of 2023.
