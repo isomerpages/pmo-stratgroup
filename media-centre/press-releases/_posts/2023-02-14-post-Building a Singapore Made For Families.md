@@ -18,11 +18,11 @@ Parents of eligible Singaporean children born on or after 14 February 2023 will 
 
 **Increased Baby Bonus Cash Gift (BBCG).** 
 
-The Government will **increase the BBCG by $3,000 for children in all birth orders, and adjust the payout schedule to provide financial support on a regular basis every six months till the child turns six-and-a-half years.** This way, parents can receive sustained support all the way till their child enters primary school. Currently, the BBCG is disbursed in five instalments over the first 18 months following the child’s birth, to help defray child-raising costs during infancy. Refer to Annex A – Table 1 for more details.
+The Government will **increase the BBCG by $3,000 for children in all birth orders, and adjust the payout schedule to provide financial support on a regular basis every six months till the child turns six-and-a-half years.** This way, parents can receive sustained support all the way till their child enters primary school. Currently, the BBCG is disbursed in five instalments over the first 18 months following the child’s birth, to help defray child-raising costs during infancy. Refer to [Annex A – Table 1](/files/Annex%20A%20M&P.pdf) for more details.
 
 **Higher Government’s contributions to Child Development Account (CDA).** 
 
-The Government will **enhance the CDA by increasing the (i) CDA First Step Grant by $2,000 for children in all birth orders, and (ii) co-matching cap by $1,000 for children in the first and second birth orders.** Parents can use the CDA funds for approved areas of child-raising expenditure, which include healthcare and preschool fees. Refer to Annex A – Table 2 for more details.
+The Government will **enhance the CDA by increasing the (i) CDA First Step Grant by $2,000 for children in all birth orders, and (ii) co-matching cap by $1,000 for children in the first and second birth orders.** Parents can use the CDA funds for approved areas of child-raising expenditure, which include healthcare and preschool fees. Refer to [Annex A – Table 2](/files/Annex%20A%20M&P.pdf) for more details.
 
 As time is needed to effect changes to legislation, IT and payment systems, the increased financial support will be paid from early 2024, for eligible children who are born from 14 February 2023 onwards. Parents will automatically be notified when the enhanced BBCG and CDA First Step Grant are paid to them. However, the enhanced CDA co-matching cap will only be implemented from early 2024. For the rest of 2023, parents can save up to the current CDA co-matching caps. They will be notified on when they can make the additional deposits to save up to the enhanced CDA co-matching cap. 
 
