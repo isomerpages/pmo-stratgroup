@@ -63,7 +63,7 @@ To support working mothers, in particular those living with children below 16 ye
 
 As the concessionary levy is a more targeted and progressive way of supporting our families who need help with caring for their dependants, the FDWLR will therefore be lapsed from YA 2025 onwards. There is no change to the concessionary levy.
 
-Refer to **Annex B** for a summary table on the eligibility for the various measures and **Annex C** for an example of how a family will benefit from the above enhancements.
+Refer to **[Annex B](/files/M&P%20Annex%20B.pdf)** for a summary table on the eligibility for the various measures and **[Annex C](/files/M&P%20Annex%20C.pdf)** for an example of how a family will benefit from the above enhancements.
 
 **Supporting Singaporeans’ Marriage & Parenthood Aspirations**
 
