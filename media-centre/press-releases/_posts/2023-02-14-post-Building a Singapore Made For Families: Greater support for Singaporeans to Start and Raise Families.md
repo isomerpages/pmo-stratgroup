@@ -7,9 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
 As announced by Deputy Prime Minister and Minister for Finance Lawrence Wong in the 2023 Budget Statement, the Government will enhance financial and parental leave measures for parents, to provide more support in the child’s early years. This is part of the Government’s efforts to strengthen support for Singaporeans who aspire to have children and raise a family.
 
 Families with eligible Singaporean children born on or after 14 February 2023 will receive an increased Baby Bonus Cash Gift with longer payout period and higher Government contributions to the Child Development Account.
@@ -76,6 +73,8 @@ Since 2021, the National Population and Talent Division, Strategy Group, Prime M
 M&P aspirations remain strong among Singaporeans, but many married Singaporeans have fewer children than they prefer.<sup>3</sup> The above enhanced measures will address key considerations for Singaporeans in making parenthood decisions, including the cost of raising a child – where parents have regularly highlighted that they would like more financial support, especially when their children are younger (ages 0-6), as well as the ability to manage work and family commitments.<sup>4</sup>
 
 The Government is strongly committed to supporting Singaporeans who wish to get married and have children. We have continually invested significant resources and enhanced our support measures for every stage of the M&P journey. Beyond Government support, we also need a whole-of-society effort – from individuals and co-workers, to businesses, employers and community partners – to build a Singapore Made For Families. Details about our M&P support measures can be found at [www.madeforfamilies.gov.sg.](www.madeforfamilies.gov.sg)
+
+Click [here](/files/M&P%20FAQs.pdf) for a list of FAQs.
 
 <sup>1</sup> *This comprises the Baby Bonus Scheme benefits and the MediSave Grant for Newborns.*
 
