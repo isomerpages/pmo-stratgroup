@@ -39,7 +39,7 @@ sections:
       alt: alt text
       button: Read More
   - infopic:
-      subtitle: Singapore Public Sector Outcomes Review 2020
+      subtitle: Singapore Public Sector Outcomes Review 2022
       description: Learn how our fellow citizens and businesses have progressed over
         the past two years.
       url: https://www.go.gov.sg/SPOR
