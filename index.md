@@ -43,7 +43,7 @@ sections:
       description: Learn how our fellow citizens and businesses have progressed over
         the past two years.
       url: https://www.go.gov.sg/SPOR
-      image: /images/spor-banner.png
+      image: /images/SPOR 2022 Banner.png
       alt: alt text
       button: Read More
   - resources:
