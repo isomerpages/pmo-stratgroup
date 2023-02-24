@@ -1,6 +1,6 @@
 ---
-title: Speech by Senior Minister and Coordinating Minister for National Security
-permalink: /media-centre/speeches/speech-by-senior-minister-and-coordinating-minister/
+title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2023
+permalink: /media-centre/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2023/
 date: 2023-02-24
 layout: post
 description: ""
