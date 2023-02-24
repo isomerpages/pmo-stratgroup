@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-   **Creating Opportunities and Better Lives for All Singaporeans****
+**Creating Opportunities and Better Lives for All Singaporeans**
 
 **Introduction**
 
@@ -40,11 +40,11 @@ Ms **Mariam Jaafar** asked how these strategies relate to the Forward Singapore 
 Our population strategies take into account these views and seek to achieve a stronger social compact by:   
 
 * Strengthening **assurance** for Singaporeans;
-* 
+
 * Growing **opportunities** for Singaporeans, through a vibrant and resilient economy;
-* 
+
 * And strengthening **solidarity** for a more cohesive society; as well as
-* 
+
 * **Planning ahead** for a better home for ourselves and for generations to come.
 
 Let me elaborate on each of these in turn.
