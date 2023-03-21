@@ -19,4 +19,6 @@ To ask the Prime Minister for women holding bachelor degrees or higher education
 
 The Census of Population published by the Department of Statistics provides the number of children born to ever-married resident women, by age group and highest qualification attained. The relevant figures published in the Census of Population 2020 are extracted below for reference.
 
+![](/images/parliamentary%20files/parl-reply-by-min-indranee-on-children-born-to-women-with-uni-qual.jpg)
+
 The relevant percentages can be ascertained from this publicly available information.
