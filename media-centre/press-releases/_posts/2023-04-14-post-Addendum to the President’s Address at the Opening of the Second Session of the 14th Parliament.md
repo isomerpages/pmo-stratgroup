@@ -35,7 +35,7 @@ We will update our population strategies to tackle these challenges. First, we w
 
 We will do more to support the marriage and parenthood aspirations of Singaporeans. The Government has announced a package of pro-family measures at Budget 2023. The Strategy Group will continue to review and update our policies, including ways to extend more help to parents caring for their infants, and to those seeking to better manage their work and family commitments.
 
-Beyond government measures, the whole of society has to come together to develop an environment that supports families and values family well-being. The Government will continue to work with the community, employers, and other stakeholders to build a Singapore Made For Families.
+Beyond Government measures, the whole of society has to come together to develop an environment that supports families and values family well-being. The Government will continue to work with the community, employers, and other stakeholders to build a Singapore Made For Families.
 
 **Our Response to Climate Change – A Resilient and Sustainable Singapore** 
 
