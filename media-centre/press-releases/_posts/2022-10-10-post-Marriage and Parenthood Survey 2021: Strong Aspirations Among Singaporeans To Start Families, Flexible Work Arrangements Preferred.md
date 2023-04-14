@@ -3,7 +3,7 @@ title: "Marriage and Parenthood Survey 2021: Strong Aspirations Among Singaporea
 permalink: /media-centre/press-releases/marriage-and-parenthood-survey-2021/
 date: 2022-10-10
 layout: post
-description: ""
+description: "Marriage and Parenthood Survey 2021: Strong Aspirations Among Singaporeans To Start Families, Flexible Work Arrangements Preferred"
 image: ""
 ---
 
