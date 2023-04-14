@@ -51,4 +51,4 @@ The Government will also continue to participate actively at the United Nations 
 
 **Building a Better Singapore for All**  
 
-he Government’s ability to think ahead and plan for the long term is key in ensuring Singapore’s continued survival and success. We will continue to strengthen forward planning capabilities across the Government. We will work with Singaporeans to achieve a better Singapore that will endure and thrive for generations to come.
+The Government’s ability to think ahead and plan for the long term is key in ensuring Singapore’s continued survival and success. We will continue to strengthen forward planning capabilities across the Government. We will work with Singaporeans to achieve a better Singapore that will endure and thrive for generations to come.
