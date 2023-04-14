@@ -11,7 +11,8 @@ PRIME MINISTER’S OFFICE (STRATEGY GROUP)
 
 ADDENDUM TO THE PRESIDENT’S ADDRESS 
 
-MR LAWRENCE WONG DEPUTY PRIME MINISTER AND MINISTER-IN-CHARGE OF STRATEGY GROUP
+MR LAWRENCE WONG  
+DEPUTY PRIME MINISTER AND MINISTER-IN-CHARGE OF STRATEGY GROUP
 
 The Strategy Group will continue to lead the Public Service to develop and implement strategic priorities, tackle long-term national challenges, and build a better Singapore for all.
 
