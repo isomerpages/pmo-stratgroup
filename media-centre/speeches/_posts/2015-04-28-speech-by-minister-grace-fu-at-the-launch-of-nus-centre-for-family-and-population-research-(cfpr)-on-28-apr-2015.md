@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister Grace Fu, at the launch of NUS Centre for Family and
   Population Research (CFPR)
 date: 2015-04-28T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015/
 ---
 **New Centre to further understanding and discourse on Singapore’s demographic challenges**
 
@@ -39,11 +39,11 @@ Research into ageing issues is thus crucial in making a successful transition.  
 
 These demographic shifts are not unique to Singapore.  Many other developed Asian societies face the same challenges of low fertility, ageing population, and shifting family profiles.  In this regard, the Centre for Family and Population Research can serve as a hub for exchanges between researchers from across Asia.  A wide exchange of knowledge will improve our understanding and better inform us of population dynamics in the Asian context.
 
-For instance, Asian societies that are influenced by Confucian values have commonalities such as strong family values, structured hierarchies in the work place and at home, and an emphasis on academic achievement. A recent survey found that over 80% of professionals in Singapore, Hong Kong and Japan work longer hours than contractually required.<sup>4</sup>  HR consultants have noted that in Asia, it is taboo to mention the words “work-life balance” at a job interview.<sup>5</sup>  In places like Japan and Korea, the corporate culture for long hours and late night bonding sessions with colleagues make it a challenge for women with young children to remain in the workforce.  And in many of these societies, the burden of housework and child care falls disproportionately or sometimes even solely on women.
+For instance, Asian societies that are influenced by Confucian values have commonalities such as strong family values, structured hierarchies in the work place and at home, and an emphasis on academic achievement. A recent survey found that over 80% of professionals in Singapore, Hong Kong and Japan work longer hours than contractually required. HR consultants have noted that in Asia, it is taboo to mention the words “work-life balance” at a job interview.<sup>4</sup>  In places like Japan and Korea, the corporate culture for long hours and late night bonding sessions with colleagues make it a challenge for women with young children to remain in the workforce.  And in many of these societies, the burden of housework and child care falls disproportionately or sometimes even solely on women.
 
 These cultural norms continue to influence perceptions towards flexible working arrangements, gender diversity in the workplace, and shared parental responsibility.  However, norms are changing and an Asian-oriented study into the changes will give useful inputs on policy solutions in an Asian context.   
 
-Migration is another area where an Asian perspective is important.  Economically vibrant cities attract talent.  Japan is cautiously moving away from its longstanding policy against immigration, and is very carefully opening its doors toward foreign workers.<sup>6</sup>  People migrate for non-economic reasons as well.  In Singapore, unions between citizens and non-citizens comprise almost 40% of all marriages involving Singaporeans.<sup>7</sup>   
+Migration is another area where an Asian perspective is important.  Economically vibrant cities attract talent.  Japan is cautiously moving away from its longstanding policy against immigration, and is very carefully opening its doors toward foreign workers.<sup>5</sup>  People migrate for non-economic reasons as well.  In Singapore, unions between citizens and non-citizens comprise almost 40% of all marriages involving Singaporeans.<sup>6</sup>   
 Migration meets important economic and social needs. We need to remain open to migration and continue to retain a high quality of life, strong cultural heritage and a sense of identity.  Collaborative, crosscountry research can deepen our shared understanding of the interrelations between migration, societal resilience and cohesion, as well as the benefits of human capital flows.       
 
 **Holistic insights from a multi-disciplinary approach**  
@@ -76,10 +76,8 @@ Thank you very much and congratulations.
 
 <sub><sup>3</sup> US Census Bureau (2009) International Population Reports, P95/09-1, An Aging World: 2008.  The definitions of an ageing and aged society are where 7% and 14%, respectively, of the population is aged 65 and above. </sub>
 
-<sub><sup>4</sup> MorganMckinley, (2014), Long working hours leads to a poor work-life balance for Singapore’s professionals, retrieved [https://www.m3ssolutions.com/article/long-working-hours-leads-poor-work-life-balance-singapores-professionals](https://www.m3ssolutions.com/article/long-working-hours-leads-poor-work-life-balance-singapores-professionals) </sub>
+<sub><sup>4</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews. </sub>
 
-<sub><sup>5</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews. </sub>
+<sub><sup>5</sup> The Economist (31 May 2014), retrieved from [http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country](http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country) </sub> 
 
-<sub><sup>6</sup> The Economist (31 May 2014), retrieved from [http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country](http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country) </sub> 
-
-<sub><sup>7</sup> Figures as at 2013.  Source: Population in Brief, 2014 </sub>
+<sub><sup>6</sup> Figures as at 2013.  Source: Population in Brief, 2014 </sub>
