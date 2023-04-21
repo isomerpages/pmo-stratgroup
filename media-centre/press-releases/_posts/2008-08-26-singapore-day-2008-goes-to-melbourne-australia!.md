@@ -1,15 +1,9 @@
 ---
 layout: post
-title: 'Singapore Day 2008 goes to Melbourne, Australia!'
+title: Singapore Day 2008 goes to Melbourne, Australia!
 date: 2008-08-26T00:00:00.000Z
-permalink: /media-centre/press-releases/singapore-day-2008-goes-to-Melbourne-Australia!
-
+permalink: /media-centre/press-releases/singapore-day-2008-goes-to-Melbourne-Australia!/
 ---
-
-
-
-Singaporeans in Australia will get to enjoy a full day of fun with Singaporean sights, sounds and tastes at Singapore Day 2008 on 4 October in Melbourne, Australia, at the Sidney Myer Music Bowl. Register today at [www.singaporeday.sg](https://www.overseassingaporean.sg/event/singapore-day/) for entry and get a special collector’s item goodie bag!
-
 With the theme of “Rekindle and Rediscover”, Overseas Singaporeans in Australia will get a slice of home away from home and experience the old and the new that Singapore offers. A line-up of prominent home-grown artistes such as Dick Lee, Hady Mirza, the Phua Chu Kang family, Electrico and many more will perform for their fellow Singaporeans in Australia. The attendees can also look forward to authentic culinary delights presented by hawkers specially chosen by Food Republic. A wide selection of local favourites ranging from Hainanese Chicken Rice, Char Kway Teow, Satay to Ice Kacang will be prepared and served right in the heart of Melbourne for our Overseas Singaporeans.
 
 Singaporeans will also get to see and participate in interactive multi-media displays showcasing Singapore’s key developments amidst the backdrop of iconic Singapore skyline. They can get a first-hand glimpse of the evolving cityscape at the Marina Bay and the new downtown, transformation of familiar areas like Jurong Lake district into a new vibrant hub and new lifestyle, and recreation options in areas like Punggol and Kallang Basin. For parents, the Ministry of Education’s SEED (Strategies for Effective Engagement and Development) Classroom will allow visitors an opportunity to get a first-hand experience of the new learning environment through sample lessons conducted by teachers from Singapore. In the National Service showcase, Overseas Singaporeans will get a chance to experience the modern training and sophistication of our armed forces with the various simulators and high-tech training equipment. For Singaporeans seeking careers back home, many opportunities await them in a wide range of industries and companies will be present at the Recruitment Showcase.
