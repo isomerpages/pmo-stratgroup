@@ -4,7 +4,7 @@ title: Speech by Deputy Prime Minister, Coordinating Minister for National
   Security and Minister for Home Affairs, Mr Teo Chee Hean, at the World Oceans
   Summit, 23 February 2012, at Capella Singapore
 date: 2012-02-23T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore/
 ---
 His Excellency, Mr Olafur Ragnar Grimsson   
 President, Republic of Iceland  
@@ -126,7 +126,7 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 
 <sub><sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011  </sub>
 
-<sub><sup>13</sup> Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. [http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all](http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all) </sub>
+<sub><sup>13</sup> Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. [https://www.politico.com/states/new-york/city-hall/story/2016/05/before-the-flood-new-york-city-is-just-beginning-to-gird-for-the-100-year-storm-if-its-not-already-too-late-051123](https://www.politico.com/states/new-york/city-hall/story/2016/05/before-the-flood-new-york-city-is-just-beginning-to-gird-for-the-100-year-storm-if-its-not-already-too-late-051123) </sub>
 
 <sub><sup>14</sup> The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7)</sub>
 
