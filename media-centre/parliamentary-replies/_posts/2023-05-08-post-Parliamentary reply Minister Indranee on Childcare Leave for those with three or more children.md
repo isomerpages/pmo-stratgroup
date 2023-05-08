@@ -7,10 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-**FOURTEENTH PARLIAMENT OF SINGAPORE**
-
-**WRITTEN REPLY** 
-
+**FOURTEENTH PARLIAMENT OF SINGAPORE**  
+**WRITTEN REPLY**   
 **MONDAY, 8 MAY 2023**
 
 **Mr Christopher de Souza**:
