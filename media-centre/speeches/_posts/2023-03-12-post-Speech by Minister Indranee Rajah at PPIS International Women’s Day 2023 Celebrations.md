@@ -7,9 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-PPIS President, Mdm Hazlina Abdul Halim
+PPIS President, Mdm Hazlina Abdul Halim,
 
-PPIS Board Members and CEO, Mdm Tuminah Sapawi
+PPIS Board Members and CEO, Mdm Tuminah Sapawi,
 
 Distinguished Speakers,
 
@@ -63,4 +63,4 @@ Thank you.
 
 * * *
 
-[](#_ftnref1)3 Singapore is ranked 7th worldwide on the Gender Inequality Index (GII) in the UN HDR report, published in Sep 2022.
+[](#_ftnref1)1 Singapore is ranked 7th worldwide on the Gender Inequality Index (GII) in the UN HDR report, published in Sep 2022.

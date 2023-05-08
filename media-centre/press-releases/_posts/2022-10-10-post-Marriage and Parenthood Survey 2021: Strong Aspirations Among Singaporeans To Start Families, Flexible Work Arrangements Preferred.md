@@ -1,15 +1,13 @@
 ---
-title: "Marriage and Parenthood Survey 2021: Strong Aspirations Among Singaporeans To Start Families, Flexible Work Arrangements Preferred"
+title: "Marriage and Parenthood Survey 2021: Strong Aspirations Among
+  Singaporeans To Start Families, Flexible Work Arrangements Preferred"
 permalink: /media-centre/press-releases/marriage-and-parenthood-survey-2021/
 date: 2022-10-10
 layout: post
-description: "Marriage and Parenthood Survey 2021: Strong Aspirations Among Singaporeans To Start Families, Flexible Work Arrangements Preferred"
+description: "Marriage and Parenthood Survey 2021: Strong Aspirations Among
+  Singaporeans To Start Families, Flexible Work Arrangements Preferred"
 image: ""
 ---
-
-
-
-
 The 2021 Marriage and Parenthood (M&P) Survey shows that marriage and parenthood aspirations remain strong. However, many married respondents have fewer children than they prefer, and many single respondents have not dated before. The survey was conducted from February to June 2021, with respondents comprising 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old (refer to [Annex A](/files/media-centre/press-releases/Annex%20A.pdf) for details on the profile of survey respondents).
 
 **Key points highlighted by the survey:**
@@ -68,7 +66,7 @@ Many are not aware that reproduction technology cannot compensate for age-relate
 
 **Building a Singapore Made For Families**
 
-Marriage and parenthood are highly personal life goals that most Singaporeans aspire towards. The Government will continue to support Singaporeans in fulfilling their aspirations to marry and have children, managing work and family commitments, and sharing parental responsibilities. The views expressed through the Marriage & Parenthood Survey will be taken into consideration as the Government reviews and strengthens our suite of marriage and parenthood support measures. More details about our marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg) and the Marriage & Parenthood booklet at [go.gov.sg/mpbooklet](https://my-sgdcs.sgnet.gov.sg/personal/PMOSGKMLA/Documents/go.gov.sg/mpbooklet).
+Marriage and parenthood are highly personal life goals that most Singaporeans aspire towards. The Government will continue to support Singaporeans in fulfilling their aspirations to marry and have children, managing work and family commitments, and sharing parental responsibilities. The views expressed through the Marriage & Parenthood Survey will be taken into consideration as the Government reviews and strengthens our suite of marriage and parenthood support measures. More details about our marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg) and the Marriage & Parenthood booklet at [go.gov.sg/mpbooklet](go.gov.sg/mpbooklet).
 
 **About the Marriage & Parenthood Survey 2021**
 

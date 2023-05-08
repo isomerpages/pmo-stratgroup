@@ -19,11 +19,11 @@ Parents of eligible Singaporean children born on or after 14 February 2023 will 
 
 **Increased Baby Bonus Cash Gift (BBCG).** 
 
-The Government will **increase the BBCG by $3,000 for children in all birth orders, and adjust the payout schedule to provide financial support on a regular basis every six months till the child turns six-and-a-half years.** This way, parents can receive sustained support all the way till their child enters primary school. Currently, the BBCG is disbursed in five instalments over the first 18 months following the child’s birth, to help defray child-raising costs during infancy. Refer to [Annex A – Table 1](/files/Annex%20A%20M&P.pdf) for more details.
+The Government will **increase the BBCG by $3,000 for children in all birth orders, and adjust the payout schedule to provide financial support on a regular basis every six months till the child turns six-and-a-half years.** This way, parents can receive sustained support all the way till their child enters primary school. Currently, the BBCG is disbursed in five instalments over the first 18 months following the child’s birth, to help defray child-raising costs during infancy. Refer to [Annex A – Table 1](/files/Annex%20A%20M&amp;P.pdf) for more details.
 
 **Higher Government’s contributions to Child Development Account (CDA).** 
 
-The Government will **enhance the CDA by increasing the (i) CDA First Step Grant by $2,000 for children in all birth orders, and (ii) co-matching cap by $1,000 for children in the first and second birth orders.** Parents can use the CDA funds for approved areas of child-raising expenditure, which include healthcare and preschool fees. Refer to [Annex A – Table 2](/files/Annex%20A%20M&P.pdf) for more details.
+The Government will **enhance the CDA by increasing the (i) CDA First Step Grant by $2,000 for children in all birth orders, and (ii) co-matching cap by $1,000 for children in the first and second birth orders.** Parents can use the CDA funds for approved areas of child-raising expenditure, which include healthcare and preschool fees. Refer to [Annex A – Table 2](/files/Annex%20A%20M&amp;P.pdf) for more details.
 
 As time is needed to effect changes to legislation, IT and payment systems, the increased financial support will be paid from early 2024, for eligible children who are born from 14 February 2023 onwards. Parents will automatically be notified when the enhanced BBCG and CDA First Step Grant are paid to them. However, the enhanced CDA co-matching cap will only be implemented from early 2024. For the rest of 2023, parents can save up to the current CDA co-matching caps. They will be notified on when they can make the additional deposits to save up to the enhanced CDA co-matching cap. 
 
@@ -54,7 +54,7 @@ From the Year of Assessment (YA) 2025 onwards, these tax benefits will be adjust
 
 The **Working Mother’s Child Relief (WMCR)** aims to encourage women to continue working after having Singaporean children. It will be changed from a percentage of the eligible mother’s earned income to a **fixed dollar tax relief** for qualifying Singaporean children born or adopted on or after 1 January 2024, with effect from the YA 2025. Eligible working mothers will be able to claim $8,000 annual relief for her first child, $10,000 for her second child, and $12,000 each for her third and subsequent child.
 
-For eligible working mothers with qualifying Singaporean children born or adopted before 1 January 2024, there is no change to the WMCR that these mothers can claim in respect of these children. Eligible working mothers of these children will continue to claim the WMCR based on the existing design and quantum, which is based on a percentage of their earned income. Refer to [Annex A – Table 3](/files/Annex%20A%20M&P.pdf) for more details.
+For eligible working mothers with qualifying Singaporean children born or adopted before 1 January 2024, there is no change to the WMCR that these mothers can claim in respect of these children. Eligible working mothers of these children will continue to claim the WMCR based on the existing design and quantum, which is based on a percentage of their earned income. Refer to [Annex A – Table 3](/files/Annex%20A%20M&amp;P.pdf) for more details.
 
 ***Foreign Domestic Worker Levy Tax Relief***
 
@@ -64,22 +64,22 @@ To support working mothers, in particular those living with children below 16 ye
 
 As the concessionary levy is a more targeted and progressive way of supporting our families who need help with caring for their dependants, the FDWLR will therefore be lapsed from YA 2025 onwards. There is no change to the concessionary levy.
 
-Refer to **[Annex B](/files/M&P%20Annex%20B.pdf)** for a summary table on the eligibility for the various measures and **[Annex C](/files/M&P%20Annex%20C.pdf)** for an example of how a family will benefit from the above enhancements.
+Refer to **[Annex B](/files/M&amp;P%20Annex%20B.pdf)** for a summary table on the eligibility for the various measures and **[Annex C](/files/M&amp;P%20Annex%20C.pdf)** for an example of how a family will benefit from the above enhancements.
 
-**Supporting Singaporeans’ Marriage & Parenthood Aspirations**
+**Supporting Singaporeans’ Marriage &amp; Parenthood Aspirations**
 
-Since 2021, the National Population and Talent Division, Strategy Group, Prime Minister’s Office has engaged and surveyed close to 20,000 Singaporeans in different stages of their marriage and parenthood journey, including through the “Emerging Stronger Conversations – Building a Singapore that is Made For Families” and 2021 Marriage and Parenthood (M&P) Survey, to understand their concerns and views on M&P.
+Since 2021, the National Population and Talent Division, Strategy Group, Prime Minister’s Office has engaged and surveyed close to 20,000 Singaporeans in different stages of their marriage and parenthood journey, including through the “Emerging Stronger Conversations – Building a Singapore that is Made For Families” and 2021 Marriage and Parenthood (M&amp;P) Survey, to understand their concerns and views on M&amp;P.
 
-M&P aspirations remain strong among Singaporeans, but many married Singaporeans have fewer children than they prefer.<sup>3</sup> The above enhanced measures will address key considerations for Singaporeans in making parenthood decisions, including the cost of raising a child – where parents have regularly highlighted that they would like more financial support, especially when their children are younger (ages 0-6), as well as the ability to manage work and family commitments.<sup>4</sup>
+M&amp;P aspirations remain strong among Singaporeans, but many married Singaporeans have fewer children than they prefer.<sup>3</sup> The above enhanced measures will address key considerations for Singaporeans in making parenthood decisions, including the cost of raising a child – where parents have regularly highlighted that they would like more financial support, especially when their children are younger (ages 0-6), as well as the ability to manage work and family commitments.<sup>4</sup>
 
-The Government is strongly committed to supporting Singaporeans who wish to get married and have children. We have continually invested significant resources and enhanced our support measures for every stage of the M&P journey. Beyond Government support, we also need a whole-of-society effort – from individuals and co-workers, to businesses, employers and community partners – to build a Singapore Made For Families. Details about our M&P support measures can be found at [www.madeforfamilies.gov.sg.](www.madeforfamilies.gov.sg)
+The Government is strongly committed to supporting Singaporeans who wish to get married and have children. We have continually invested significant resources and enhanced our support measures for every stage of the M&amp;P journey. Beyond Government support, we also need a whole-of-society effort – from individuals and co-workers, to businesses, employers and community partners – to build a Singapore Made For Families. Details about our M&amp;P support measures can be found at [www.madeforfamilies.gov.sg.](https://www.madeforfamilies.gov.sg/)
 
-Click[here](/files/M&P%20FAQs.pdf) for a list of FAQs.
+Click[here](/files/M&amp;P%20FAQs.pdf) for a list of FAQs.
 
 <sup>1</sup> *This comprises the Baby Bonus Scheme benefits and the MediSave Grant for Newborns.*
 
 <sup>2</sup> *The 26 weeks comprise 16 weeks of Maternity Leave, 4 weeks of Paternity Leave, ~2 weeks of Childcare Leave (six days per parent) and ~4 weeks of Unpaid Infant Care Leave (12 days per parent) in total for both parents.*
 
-<sup>3</sup> *According to the 2021 Marriage and Parenthood (M&P) Survey conducted by NPTD. The survey was conducted from February to June 2021. Respondents comprised 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old.*
+<sup>3</sup> *According to the 2021 Marriage and Parenthood (M&amp;P) Survey conducted by NPTD. The survey was conducted from February to June 2021. Respondents comprised 2,848 single (never-married) and 3,017 married Singapore residents, aged 21 to 45 years old.*
 
-<sup>4</sup> *This is based on NPTD’s survey of sentiments towards M&P benefits conducted in 2021, with 1,239 respondents at different stages of their parenthood journey. When asked which age range of their child they would like more financial support for, the majority of respondents said age 0-6.*
+<sup>4</sup> *This is based on NPTD’s survey of sentiments towards M&amp;P benefits conducted in 2021, with 1,239 respondents at different stages of their parenthood journey. When asked which age range of their child they would like more financial support for, the majority of respondents said age 0-6.*
