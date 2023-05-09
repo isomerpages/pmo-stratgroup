@@ -19,7 +19,7 @@ To ask the Prime Minister for each year since 2000, what is the breakdown of non
 
 **Ms Indranee Rajah (for the Prime Minister):**
 
-            From 2000 to 2022, around 92% of the non-residents in our population each year were aged between 15 and 64 years old, those aged 0 to 14 years old accounted for around 5%, while those aged 65 years old and over made up around 3%. Given our ageing population, it is important that we have non-residents in the prime working ages to supplement our workforce and support our economic and social needs.
+From 2000 to 2022, around 92% of the non-residents in our population each year were aged between 15 and 64 years old, those aged 0 to 14 years old accounted for around 5%, while those aged 65 years old and over made up around 3%. Given our ageing population, it is important that we have non-residents in the prime working ages to supplement our workforce and support our economic and social needs.
 
 Around 80% of non-residents were employed i.e. held a valid work pass. The remaining 20% who were not working included dependants and foreign students. The proportion of employed non-residents remained broadly stable between 2000 to 2022.
 
