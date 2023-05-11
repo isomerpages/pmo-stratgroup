@@ -9,8 +9,6 @@ image: ""
 ---
 **Theme: Building Singapore’s Population Towards a Better Future**
 
-
-
 PAS President, Professor Jean Yeung<br>
 PAS Governing Committee Members<br>
 Co-Directors of the NUS Centre for Family and Population Research <br>
@@ -90,7 +88,7 @@ To fully reap the benefits of FWAs, employers need to invest time and effort in 
 
 But mindsets at work will also have to change, to focus more on outcomes, rather than the amount of time spent at work, so both employers and employees feel more confident offering and taking up FWAs. I do recall reading an article that this is in part also a generation thing. The Baby Boomer generation still see coming and leaving work at a certain time and those tend to be the employers. The Millennials and Gen Z see it quite differently. For them, work and work-life balance, those should be blended interchangeably and for them, flexibility is the key. So, I think we need to understand that there is a generational difference in approach. Employers and employees do need to have that conversation on how to get the right balance, because if this does not take place and a new equilibrium is not established, then they will always be at odds. The employers are not going to be able to recruit and retain the talent that they need. And the opportunities for employees being able to work and have families at the same time is not going to be as great.
 
-If done well, FWAs will benefit both employers and employees. The Tripartite Partners which in Singapore, means the employers, the unions, and the employees, will support both employers and employees on this journey with resources to provide guidance and best practices. The Tripartite Guidelines on FWAs will be rolled out by 2024, which sets out practices that employers should adopt to fairly consider and respond to employees’ FWA requests. The Guidelines aim to shape enabling workplace norms, where employers and employees engage in open discussions on what FWAs would be most suitable to provide, to support both the business and the employee’s needs.
+If done well, FWAs will benefit both employers and employees. The Tripartite Partners which in Singapore, means the employers, the unions, and the employees, will support both employers and employees on this journey with resources to provide guidance and best practices. The Tripartite Guidelines on FWAs will be rolled out by 2024, which sets out practices that employers should adopt to fairly consider and respond to employees’ FWA requests. The Guidelines aim to shape enabling workplace norms, where employers and employees engage in open discussions on what FWAs would be most suitable to provide, to support both the business' and the employees' needs.
 
 **Going for Gold**
 
@@ -130,4 +128,4 @@ So in conclusion, let me say that in my speech today, I have covered some of the
 
 In the same vein, we are looking forward to hearing your views during this conference on how the public, private, and people sectors can come together to tackle our population challenge, and build a better future for Singapore.
 
-The Population Association of Singapore plays an important role in providing a platform for academics and other stakeholders to share research, discuss and exchange views on current and emerging population issues. We look forward to our continued partnership with your community, to build a Singapore where our people can continue to thrive. Researchers, like yourselves, should be a part of our journey in making Singapore a place that is Made For Families. I invite you to contribute your research, ideas, and solutions that businesses, the community and individuals can adopt, to build an environment that supports families and values family well-being. 
+The Population Association of Singapore plays an important role in providing a platform for academics and other stakeholders to share research, discuss and exchange views on current and emerging population issues. We look forward to our continued partnership with your community, to build a Singapore where our people can continue to thrive. Researchers, like yourselves, should be a part of our journey in making Singapore a place that is Made For Families. I invite you to contribute your research, ideas, and solutions that businesses, the community and individuals can adopt, to build an environment that supports families and values family well-being.
