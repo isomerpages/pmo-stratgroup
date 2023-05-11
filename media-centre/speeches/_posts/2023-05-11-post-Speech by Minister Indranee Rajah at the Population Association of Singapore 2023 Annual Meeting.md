@@ -24,7 +24,7 @@ c.	Third, some key strategies to achieve that vision.
 
 **Population – A Global and a National Issue**
 
-The population issue is not just a Singapore issue. It is also a global one.<br>
+The population issue is not just a Singapore issue. It is also a global one.
 Last year, the world’s population hit 8 billion. But despite that there are warnings that we should plan for population decline against a backdrop of falling fertility rates and ageing societies.<br> 
 
 The decline in total fertility rate or the TFR is a global phenomenon. For example, despite recent efforts to encourage more births, China’s TFR has seen a sharp decline, and its population shrank for the first time in more than six decades. South Korea recently announced an emergency plan to address its problem of the lowest birth rate in the world. And even countries with traditionally higher TFR, such as the Nordic countries, they are having difficulties sustaining their TFR as well.<br>
