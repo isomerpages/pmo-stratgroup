@@ -159,4 +159,4 @@ Thank you all very much.
 
 * * *
 
-[\[1\]](#_ftnref1)           [In social](https://www.duke-nus.edu.sg/allnews/white-coat-ceremony-2022) prescribing, the focus goes beyond treating patients when they are ill. This nascent area of family medicine seeks to encourage patients to live healthier lives by empowering them to manage their illnesses well and use the resources around them, such as Senior Activity Centres, to improve their overall wellbeing.
+[1] In social prescribing, the focus goes beyond treating patients when they are ill. This nascent area of family medicine seeks to encourage patients to live healthier lives by empowering them to manage their illnesses well and use the resources around them, such as Senior Activity Centres, to improve their overall wellbeing.
