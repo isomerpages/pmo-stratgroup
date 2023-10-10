@@ -12,7 +12,7 @@ The enhanced Baby Bonus Scheme, comprising the Baby Bonus Cash Gift (BBCG) and t
 
 Parents with eligible children who are born from 14 Feb 2023 are advised to take note of the payout period and implementation timeline of the enhanced Baby Bonus Scheme. Please refer to the table below for more details.
 
-![Baby Bonus Scheme](/images/Press%20Release%20images/baby%20bonus%20disbursement%20schedule.png)
+![Baby Bonus Scheme](/images/press%20release%20images/baby%20bonus%20disbursement%20schedule.png)
 
 For enquiries on the enhanced Baby Bonus Scheme, parents may call 1800 111 2222 (MSF Hotline) or visit the FAQs on Baby Bonus website at [www.babybonus.msf.gov.sg](https://www.babybonus.msf.gov.sg/Pages/Home.aspx)
 

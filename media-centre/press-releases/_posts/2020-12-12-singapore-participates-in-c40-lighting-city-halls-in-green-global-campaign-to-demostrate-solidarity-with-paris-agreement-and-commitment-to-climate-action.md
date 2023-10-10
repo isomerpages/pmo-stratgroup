@@ -7,7 +7,7 @@ permalink: /media/press-release/singapore-participates-in-c40-lighting-city-hall
 
 To mark the fifth anniversary of the landmark Paris Agreement, and reaffirm our commitment to its goals, Singapore will stand in solidarity with our global counterparts, to participate in C40’s “Lighting City Halls in Green” global campaign on 12 December, Saturday, from 7 to 11pm. 
 
-Buildings and landmarks around the Marina Bay area, including the National Gallery of Singapore (formerly City Hall) [(see Annex A)](/files/media-centre/press-releases/Annex%20for%20C40r.pdf), will switch their usual façade lighting to green. The public and private sectors have come together to support this event, signifying the commitment from all parties to build a sustainable and resilient city of the future. 
+Buildings and landmarks around the Marina Bay area, including the National Gallery of Singapore (formerly City Hall) [(see Annex A)](/files/media-centre/press-releases/annex%20for%20c40r.pdf), will switch their usual façade lighting to green. The public and private sectors have come together to support this event, signifying the commitment from all parties to build a sustainable and resilient city of the future. 
 
 A global response is needed to address the global problem of climate change. C40 is a network of megacities committed to working together to realise the goals of the Paris Agreement, and to drive global collaboration in addressing climate change. Other C40 cities, such as Austin, Boston, Lisbon, New York City, San Francisco, Venice, Paris and Seoul, are also expected to participate in this global event.
 

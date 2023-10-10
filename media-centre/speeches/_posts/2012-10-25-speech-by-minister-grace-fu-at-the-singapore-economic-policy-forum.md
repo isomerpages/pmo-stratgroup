@@ -24,7 +24,7 @@ Our demography is at a crossroads today. The demographic changes we will see ove
 
 Last year, our birth rate was 1.2 and has been below replacement levels of 2.1 for the last three decades. A TFR of 1.2 means that each successive generation of Singaporeans would only be about half that of the previous generation. If we do not have immigration, the number of Singaporeans will start to decline from 2025 . Our workforce of Singaporeans will decline earlier, from 2020. At the same time, Singaporeans are healthier and living longer into their silver years.
 
-![SpeechChart1](/images/Speeches/SpeechChart1.png)
+![SpeechChart1](/images/speeches/speechchart1.png)
 
 As we work towards a sustainable population to keep Singapore vibrant and dynamic, Singaporeans remain at the heart of our policy considerations. Let me talk about three issues in particular. First, parenthood and immigration. Second, jobs and economy. And third, liveable physical environment.
 
@@ -48,7 +48,7 @@ The Economic Strategies Committee has set out a target of 2 to 3 percent product
 
 At the same time, we must continue creating opportunities for Singaporeans at all skill levels. We are up-skilling our workers through Continuing Education and Training, or CET. About two-thirds [64%] of our residents aged 40 to 64 have secondary and below qualifications. To achieve an inclusive growth strategy, we are concerned with the welfare of this segment of workers, many of them in blue-collared jobs. Recently, the Tripartite Committee for Cleaners, comprising representatives from NTUC, SNEF, industry and government agencies, recommended a progressive wage model for the cleaning industry. . Recommendations were made on the wage levels for 3 segments of the industry, with clear progression of wages in tandem with skills and training. The Government is supportive of the recommendations and have included it in the enhanced accreditation framework, along with other requirements such as productivity initiatives, training road maps and workplace safety requirements. The Government is also taking the lead by requiring tenderers of our cleaning contracts to be accredited with effect from 1 April 2013. We are moving towards requiring all cleaning companies to adopt progressive wage practices and to raise the standard of the industry over time. The key point to note about this plan is that it is a targeted one, taking the needs of the employers, employees and companies of the industry into consideration. We believe this is a more effective and sustainable way of helping this targeted segment of our workers.
 
-![SpeechChart2](/images/Speeches/SpeechChart2.png)
+![SpeechChart2](/images/speeches/speechchart2.png)
 
 **Maintaining our Workforce Flexibility and Economic Resilience**
 

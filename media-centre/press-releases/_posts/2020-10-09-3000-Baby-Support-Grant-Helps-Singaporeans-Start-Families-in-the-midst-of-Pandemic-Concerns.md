@@ -34,7 +34,7 @@ The Government encourages more employers, companies and community groups to supp
 Minister Indranee Rajah, Minister in the Prime Minister’s Office, National Population and Talent Division, said: “This pandemic has not been easy on Singaporeans who are planning to get married and start their families. The Government will spare no effort to help couples meet their marriage and parenthood aspirations. We also hope that more businesses and community groups will play their part to support couples juggle work and family, provide affordable goods and services for young families, and ultimately, create a Singapore that is made for families.”  
 
 Download:  
-[Examples of companies joining the Government in providing support to families](/files/media-centre/press-releases/Examples-of-businesses-showing-support-for-families-2.pdf)
+[Examples of companies joining the Government in providing support to families](/files/media-centre/press-releases/examples-of-businesses-showing-support-for-families-2.pdf)
 
 *For more information on Made For Families, visit [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg)  
 For more information on Baby Bonus Parenting Resources portal, visit [https://familiesforlife.sg/Parenting/Pages/Home.aspx](https://familiesforlife.sg/Parenting/Pages/Home.aspx)*

@@ -32,6 +32,6 @@ The proportion of single Singaporeans has been rising. Among Singaporean men age
 
 Chart 2: Proportion of singles among citizens aged 30-39 (%)  
 
-![GraphHood](/images/GraphHood.jpg)  
+![GraphHood](/images/graphhood.jpg)  
 
 Source: Department of Statistics

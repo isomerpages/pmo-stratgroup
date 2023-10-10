@@ -49,7 +49,7 @@ Last year, our first cohort of Baby Boomers, those born after the Second World W
 
 By 2025, our citizen population will start to shrink if we do nothing. Let me explain what the trends mean. At a Total Fertility Rate of 1.2, for every 100 Singaporeans in this generation, there will be 60 Singaporeans in the next generation, and only 36 in the generation after that. And this poses a huge challenge to the sustainability of our Singaporean core population.
 
-![Slide1](/images/Speeches/slide1.png)
+![Slide1](/images/speeches/slide1.png)
 
 What does this mean for the lives of Singaporeans? For our seniors, many will continue to live active, healthy lives. But as age catches up, they and their families will want the assurance that their needs can be met, and that there will be enough care-givers and health workers to look after them.
 
@@ -57,7 +57,7 @@ Today, our Singaporean workforce is still growing, slowly. But as our Baby Boome
 
 What does this mean? Today, we have 5.9 working-age citizens for each citizen aged 65 and above. 5.9, so nearly 6. By 2030, this will fall to 2.1, or roughly one-third. This is about half the average of 4.1 for the OECD countries in 2010.<sup>2</sup> We can mitigate this by creating more opportunities for Singaporeans to continue working beyond the current retirement age. But, the support ratio will still fall significantly.
 
-![Slide2](/images/Speeches/slide2.png)
+![Slide2](/images/speeches/slide2.png)
 
 What does this mean for Singaporeans? Higher taxes on those working, to fund subsidised healthcare for a much larger number of seniors. Slower business activity and less investment in new sectors leading to fewer job and career opportunities. Young Singaporeans may decide to leave for more exciting opportunities in other growing cities. This would hollow out our population and workforce further. This is a real worry not just on a national level, but for parents too who wonder whether their children will go abroad in search of better opportunities, and they will be left here alone here during their silver years.
 
@@ -85,7 +85,7 @@ However, to support our families, we need the community, employers, extended fam
 
 In the short term, I hope our birth rate can increase to at least 1.4 or 1.5, which was our birth rate not so long ago, around the late 1990s and the early 2000s. Beyond that, we would like to see the birth rate rise above 1.5, perhaps to the replacement rate of 2.1, but it will take time, and we will need all Singaporeans to do their part to make it happen.
 
-![Slide3](/images/Speeches/slide3.png)
+![Slide3](/images/speeches/slide3.png)
 
 So, to prevent our Singaporean core from shrinking and ageing rapidly, we will need to augment our population with new citizens and permanent residents. A significant number of Singaporeans are themselves marrying non-Singaporeans, reflecting the more globalised nature of interactions between people today. About 40% of Singaporean marriages each year are between a Singaporean and a non- Singaporean, numbering some 9,000 in 2011.
 
@@ -93,7 +93,7 @@ Singapore has historically been an immigrant society, and has benefitted from th
 
 We should continue to welcome immigrants who can contribute to Singapore, share our values and integrate into our society. Taking in younger immigrants will supplement the smaller cohorts of younger Singaporeans born since the 1980s, and balance the ageing of our citizen population. Taking in between 15,000 and 25,000 new citizens each year is about equivalent to having a stable and sustainable Singapore citizen core population with a total fertility rate of 2.1. We have in fact been taking in new citizens at this controlled rate, averaging 19,000 per year over the past five years. We will review this immigration rate from time to time, depending on our birth rates, as well as the quality of applicants, and our changing needs. If we are able to raise our birth rates, we can eventually take in fewer immigrants. But a baby born today will only be 20 years old in 20 years’ time.
 
-![Slide4](/images/Speeches/slide4.png)
+![Slide4](/images/speeches/slide4.png)
 
 Permanent Residents are also counted as part of our resident population. They form a pool of potential new citizens who have a longer-term commitment to Singapore, but are not yet ready for citizenship. We have tightened up significantly on the number of PRs granted each year, down from a high of 79,000 new PRs in 2008 to about 30,000 each year for the past three years. We plan to maintain the current rate. This means that the PR population will remain stable, where it is, at between 0.5 and 0.6 million.
 
@@ -111,7 +111,7 @@ Let us look at who these non-resident foreigners will be. The largest group, the
 
 As Singaporeans become increasingly better educated and upgrade their skills, they will have higher job aspirations. Singaporeans in non-Professional, Managerial, Executive and Technical (PMET) jobs will also be higher skilled, but their numbers will fall by 200,000 by 2030. This is why we need more foreign work pass holders to take up more of the lower-skilled jobs, even as we upgrade industries and improve productivity. We will continue to take care of Singaporeans through upskilling programmes and Workfare, while imposing foreign worker levies and dependency ratios.
 
-![Slide5](/images/Speeches/slide5.png)
+![Slide5](/images/speeches/slide5.png)
 
 Let us be clear. These foreign workers are here to support Singaporeans’ needs. For example, we expect to need significantly more healthcare, eldercare and domestic services workers to support our ageing population and working families. A visit to any nursing home will show you that. They build our homes, rail lines and roads, and clean our housing estates. They thus enable Singaporeans to enjoy good social and municipal services while moderating the cost of these services, contribute to our quality of life, and allow more Singaporeans themselves to be in the workforce. But even so, the numbers of foreign workers will be controlled and their overall growth rate significantly reduced in the coming years. So, industries currently dependent on foreign workers will have to learn to do more with less.
 
@@ -145,7 +145,7 @@ So, neither of these extreme scenarios leads to desirable outcomes. And we don�
 
 We are proposing a significant change of gears in our development trajectory. For the rest of this decade, we plan for total workforce growth to be 1% to 2% per year, half of the 3.3% per year over the past 30 years. Beyond 2020, workforce growth is expected to slow further to about 1% per year.
 
-![Slide6](/images/Speeches/slide6-2.png)
+![Slide6](/images/speeches/slide6-2.png)
 Sustaining high productivity growth will also become harder, as our economy matures and ages. If we are able to achieve our ambitious stretch target of 2-3% productivity growth per year in this decade, and maintain overall workforce growth at 1% to 2%, we can expect GDP growth to average 3% to 4% up to 2020, though in good years, we may exceed that.
 
 From 2020 to 2030, with workforce growth further slowing to about 1% per year, and productivity growth moderating to 1% to 2% per year, we may see GDP growth of between 2% and 3% per year from 2020 to 2030, depending on both internal and external circumstances.
