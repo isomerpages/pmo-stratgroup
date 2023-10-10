@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Prime Minister Lee Hsien Loong on inter-agency coordination for new policy initiatives'
 date: 2021-02-01T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-prime-minister-lee-hsien-loong-on-inter-agency-coordination-for-new-policy-initiatives
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-prime-minister-lee-hsien-loong-on-inter-agency-coordination-for-new-policy-initiatives/
 
 ---
 

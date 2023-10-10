@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by DPM Teo Chee Hean at the 2013 Marriage and Parenthood Package Press Conference'
 date: 2013-01-21T00:00:00.000Z
-permalink: /media-centre/speeches/dpm-teo-chee-hean-at-the-2013-marriage-and-parenthood-package-press-conference
+permalink: /media-centre/speeches/dpm-teo-chee-hean-at-the-2013-marriage-and-parenthood-package-press-conference/
 
 ---
 

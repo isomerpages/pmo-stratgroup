@@ -2,7 +2,7 @@
 layout: post
 title: 'Government doubles budget to provide more support for Marriage and Parenthood'
 date: 2008-08-20T00:00:00.000Z
-permalink: /media-centre/press-releases/2008-08-20-government-doubles-budget-to-provide-more-support-for-marriage-and-parenthood
+permalink: /media-centre/press-releases/2008-08-20-government-doubles-budget-to-provide-more-support-for-marriage-and-parenthood/
 
 ---
 

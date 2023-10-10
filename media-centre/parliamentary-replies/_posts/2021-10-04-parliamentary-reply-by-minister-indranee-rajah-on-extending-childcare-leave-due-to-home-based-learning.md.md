@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on extending childcare leave due to home-based learning'
 date: 2021-10-04T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-extending-childcare-leave-due-to-home-based-learning
+permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-extending-childcare-leave-due-to-home-based-learning/
 
 ---
 

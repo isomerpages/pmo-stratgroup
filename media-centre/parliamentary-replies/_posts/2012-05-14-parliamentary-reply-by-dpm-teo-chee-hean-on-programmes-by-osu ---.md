@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary Reply by DPM Teo Chee Hean on programmes by OSU'
 date: 2012-05-14T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-programmes-by-osu
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-programmes-by-osu/
 
 ---
 

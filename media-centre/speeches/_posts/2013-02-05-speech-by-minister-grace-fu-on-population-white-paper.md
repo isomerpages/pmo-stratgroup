@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Grace Fu on Population White Paper at the Parliamentary Debate'
 date: 2013-02-05T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-grace-fu-on-population-white-paper
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-on-population-white-paper/
 
 ---
 

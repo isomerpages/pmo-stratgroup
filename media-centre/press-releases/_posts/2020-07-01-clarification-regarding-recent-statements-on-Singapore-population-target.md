@@ -2,7 +2,7 @@
 layout: post
 title:  "Clarification regarding recent statements on Singapore population 'target'"
 date:   2020-07-01
-permalink: "/media-centre/press-releases/clarification-regarding-recent-statements-on-Singapore-population-target"
+permalink: /media-centre/press-releases/clarification-regarding-recent-statements-on-singapore-population-target/
 ---
 
 **Clarification regarding recent statements on Singapore population 'target'**

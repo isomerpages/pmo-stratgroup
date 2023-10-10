@@ -2,7 +2,7 @@
 layout: post
 title:  "NPTD's Addendum to the President's Address 2016"
 date:   2016-01-20
-permalink: "/media-centre/press-releases/nptd's-addendum-to-the-president's-address-2016"
+permalink: /media-centre/press-releases/nptd's-addendum-to-the-president's-address-2016/
 ---
 
 **PRIME MINISTER’S OFFICE (NATIONAL POPULATION AND TALENT DIVISION)**

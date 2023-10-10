@@ -2,7 +2,7 @@
 layout: post
 title: 'Findings of Public Consultations on Marriage and Parenthood'
 date: 2008-07-15T00:00:00.000Z
-permalink: /media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood
+permalink: /media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood/
 
 ---
 

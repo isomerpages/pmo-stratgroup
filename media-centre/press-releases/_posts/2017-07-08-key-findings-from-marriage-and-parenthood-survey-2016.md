@@ -2,7 +2,7 @@
 layout: post
 title:  "Key findings from Marriage and Parenthood Survey 2016"
 date:   2017-07-08
-permalink: "/media-centre/press-releases/article/details/key-findings-from-marriage-and-parenthood-survey-2016"
+permalink: /media-centre/press-releases/article/details/key-findings-from-marriage-and-parenthood-survey-2016/
 ---
 
 * _Marriage aspirations remain high, although 4 in 10 singles have not dated seriously before, and close to half prefer to leave dating to chance;_  

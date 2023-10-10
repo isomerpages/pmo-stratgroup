@@ -2,7 +2,7 @@
 layout: post
 title: 'ESI Project 2.0: Future Deck'
 date: 2013-06-03T00:00:00.000Z
-permalink: /media-centre/publications/future-deck
+permalink: /media-centre/publications/future-deck/
 
 ---
 

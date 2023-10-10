@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Teo Chee Hean on plans to encourage Singaporeans to have more children'
 date: 2018-09-10T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-plans-to-encourage-singaporeans-to-have-more-children
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-plans-to-encourage-singaporeans-to-have-more-children/
 
 ---
 

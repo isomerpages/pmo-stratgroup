@@ -2,7 +2,7 @@
 layout: post
 title:  "Government seeks views on Singapore’s Long-Term Low Emissions Strategy"
 date:   2019-07-16
-permalink: "/media-centre/press-releases/government-seeks-views-on-Singapores-long-term-low-emissions-strategy"
+permalink: /media-centre/press-releases/government-seeks-views-on-singapores-long-term-low-emissions-strategy/
 ---
 
 The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, has launched a public consultation exercise from 16 July 2019 to 30 August 2019 on Singapore’s low carbon emissions strategy beyond 2030.

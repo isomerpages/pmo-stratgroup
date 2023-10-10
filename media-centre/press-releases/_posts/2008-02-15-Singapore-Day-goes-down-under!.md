@@ -2,7 +2,7 @@
 layout: post
 title: 'Singapore Day 2008 goes Down Under'
 date: 2008-02-15T00:00:00.000Z
-permalink: /media-centre/press-releases/2008-02-15-Singapore-Day-goes-down-under!
+permalink: /media-centre/press-releases/2008-02-15-singapore-day-goes-down-under!/
 
 ---
 

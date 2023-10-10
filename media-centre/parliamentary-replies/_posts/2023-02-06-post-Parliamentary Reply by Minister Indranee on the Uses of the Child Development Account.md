@@ -1,7 +1,7 @@
 ---
 title: Parliamentary Reply by Minister Indranee on the Uses of the Child
   Development Account
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-on-the-uses-of-the-CDA/
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-on-the-uses-of-the-cda/
 date: 2023-02-06
 layout: post
 description: ""

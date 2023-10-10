@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Indranee Rajah at the Debate on the Ministerial Statement on Overview of Government''s Strategy to Emerge Stronger from the COVID-19 Pandemic'
 date: 2020-10-15T00:00:00.000Z
-permalink: /media-centre/speeches/Speech-by-Minister-Indranee-Rajah-at-the-Debate-on-the-Ministerial-Statement-on-Overview-of-Government-s-Strategy-to-Emerge-Stronger-from-the-COVID-19-Pandemic
+permalink: /media-centre/speeches/speech-by-minister-indranee-rajah-at-the-debate-on-the-ministerial-statement-on-overview-of-government-s-strategy-to-emerge-stronger-from-the-covid-19-pandemic/
 
 ---
 

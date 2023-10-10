@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on the Total Fertility rate amongst Long-Term Visit Pass Holders'
 date: 2021-01-04T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-the-Total-Fertility-Rate-amongst-Long-Term-Visit-Pass-Holders
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-the-total-fertility-rate-amongst-long-term-visit-pass-holders/
 
 ---
 

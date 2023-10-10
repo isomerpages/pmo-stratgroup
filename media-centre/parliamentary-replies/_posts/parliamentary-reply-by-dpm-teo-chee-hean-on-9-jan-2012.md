@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Teo Chee Hean on EP holders who applied for PR'
 date: 2012-01-06T00:00:00.000Z
-permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-ep-holders-who-applied-for-pr
+permalink: /media-centre/parliamentary-reply-by-dpm-teo-chee-hean-on-ep-holders-who-applied-for-pr/
 
 ---
 

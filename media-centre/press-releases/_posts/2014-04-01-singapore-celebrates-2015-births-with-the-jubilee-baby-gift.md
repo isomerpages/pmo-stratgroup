@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore celebrates 2015 births with The Jubilee Baby Gift"
 date:   2014-04-01
-permalink: "/media-centre/press-releases/singapore-celebrates-2015-births-with-the-jubilee-baby-gift"
+permalink: /media-centre/press-releases/singapore-celebrates-2015-births-with-the-jubilee-baby-gift/
 ---
 
 

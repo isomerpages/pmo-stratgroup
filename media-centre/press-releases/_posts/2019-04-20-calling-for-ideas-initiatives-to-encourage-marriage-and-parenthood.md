@@ -2,7 +2,7 @@
 layout: post
 title:  "Calling for ideas, initiatives to encourage marriage and parenthood"
 date:   2019-04-20
-permalink: "/media-centre/press-releases/calling-for-ideas-initiatives-to-encourage-marriage-and-parenthood"
+permalink: /media-centre/press-releases/calling-for-ideas-initiatives-to-encourage-marriage-and-parenthood/
 ---
 
 The National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, together with its community partners, will be running a series of engagements to listen to the needs and concerns of Singaporeans surrounding marriage and parenthood, and seek their suggestions for strengthening support. We would also like to partner more Singaporeans and the community in co-creating

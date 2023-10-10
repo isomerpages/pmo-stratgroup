@@ -2,7 +2,7 @@
 layout: post
 title:  "Projection of foreign manpower demand for healthcare sector construction workers and foreign domestic workers"
 date:   2012-11-12
-permalink: "/media-centre/press-releases/projection-of-foreign-manpower-demand-for-healthcare-sector-construction-workers-and-foreign-domestic-workers"
+permalink: /media-centre/press-releases/projection-of-foreign-manpower-demand-for-healthcare-sector-construction-workers-and-foreign-domestic-workers/
 ---
 
 The National Population and Talent Division has released an Occasional Paper on the “Projection of Foreign Manpower Demand for Healthcare Sector, Construction Workers and Foreign Domestic Workers”. While our foreign workforce policies will continue to remain tight, a sustainable supply of manpower in the healthcare and built environment sectors as well as for foreign domestic workers is required to serve the needs of Singaporeans. Construction workers build our housing, transport and social infrastructure such as hospitals and educational institutes. Workers in the healthcare sector, particularly in Intermediate and Long-term Care, and foreign domestic workers, play a role in supporting the elderly, and families with children as our population ages. We will continue to work towards productivity improvements and where possible, train Singaporeans to enter these sectors.

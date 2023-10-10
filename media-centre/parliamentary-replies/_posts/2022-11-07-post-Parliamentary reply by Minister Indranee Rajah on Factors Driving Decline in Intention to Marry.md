@@ -1,7 +1,7 @@
 ---
 title: Parliamentary reply by Minister Indranee Rajah on Factors Driving Decline
   in Intention to Marry
-permalink: /media-centre/parliamentary-replies/Minister-Indranee-on-Decline-in-Intention-to-Marry-factors/
+permalink: /media-centre/parliamentary-replies/minister-indranee-on-decline-in-intention-to-marry-factors/
 date: 2022-11-07
 layout: post
 description: ""

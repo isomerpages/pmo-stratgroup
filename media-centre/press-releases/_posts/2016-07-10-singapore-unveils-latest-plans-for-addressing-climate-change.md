@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore unveils latest plans for addressing climate change"
 date:   2016-07-10
-permalink: "/media-centre/press-releases/singapore-unveils-latest-plans-for-addressing-climate-change"
+permalink: /media-centre/press-releases/singapore-unveils-latest-plans-for-addressing-climate-change/
 ---
 
 President Tony Tan Keng Yam has announced the release of Singapore’s Climate Action Plan at the joint opening ceremony of the World Cities Summit, Singapore International Water Week and CleanEnviro Summit Singapore this evening.

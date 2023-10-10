@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Mr S Iswaran, Minister for Communications and Information & Minister-in-charge of Trade Relations, at the West Coast GRC National Citizenship Ceremony on 4 August 2018'
 date: 2018-08-04T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-mr-s-iswaran-minister-for-communications-and-information-at-the-west-coast-grc-national-citizenship-ceremony-on-4-august-2018
+permalink: /media-centre/speeches/speech-by-mr-s-iswaran-minister-for-communications-and-information-at-the-west-coast-grc-national-citizenship-ceremony-on-4-august-2018/
 
 ---
 

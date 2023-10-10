@@ -2,7 +2,7 @@
 layout: post
 title: Celebrating My Home, My Future at Singapore Day 2012
 date: 2012-04-14
-permalink: /media-centre/press-releases/celebrating-my-home-my-future-at-singapore-day-2012
+permalink: /media-centre/press-releases/celebrating-my-home-my-future-at-singapore-day-2012/
 ---
 About 4,900 Singaporeans living, working and studying in the USA gathered at Prospect Park in Brooklyn, New York to celebrate all things Singaporean at Singapore Day 2012. Deputy Prime Minister and Minister-in-charge of National Population and Talent Division Teo Chee Hean was present at the event, whose theme was “My Home, My Future”.
 

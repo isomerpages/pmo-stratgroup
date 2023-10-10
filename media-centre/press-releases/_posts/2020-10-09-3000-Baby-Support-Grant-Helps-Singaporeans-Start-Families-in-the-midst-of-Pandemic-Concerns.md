@@ -3,7 +3,7 @@ layout: post
 title: $3,000 Baby Support Grant Helps Singaporeans Start Families in the midst
   of Pandemic Concerns
 date: 2020-10-09
-permalink: /media-centre/press-releases/3000-Baby-Support-Grant-Helps-Singaporeans-Start-Families-in-the-midst-of-Pandemic-Concerns
+permalink: /media-centre/press-releases/3000-baby-support-grant-helps-singaporeans-start-families-in-the-midst-of-pandemic-concerns/
 ---
 To ease couples’ financial concerns about having a child in the midst of the COVID-19 pandemic and recession, the Government will provide a **one-off Baby Support Grant (BSG) of $3,000 to supplement the existing Baby Bonus Cash Gift (BBCG), for children born from 1 October 2020 to 30 September 2022**. The BSG adds to the Marriage and Parenthood (M&P) Package, to further help couples defray child-raising costs during these extraordinary times.
 

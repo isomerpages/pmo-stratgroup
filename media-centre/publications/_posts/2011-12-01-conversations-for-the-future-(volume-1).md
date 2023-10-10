@@ -2,7 +2,7 @@
 layout: post
 title: 'Conversations for the Future (Volume 1)'
 date: 2011-12-01T00:00:00.000Z
-permalink: /media-centre/publications/conversations-for-the-future-(volume-1)
+permalink: /media-centre/publications/conversations-for-the-future-(volume-1)/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "National Climate Change Competition 2015"
 date:   2015-04-02
-permalink: "/media-centre/press-releases/national-climate-change-competition-2015"
+permalink: /media-centre/press-releases/national-climate-change-competition-2015/
 ---
 
 _Short films to rally support for Climate Change action_

@@ -2,7 +2,7 @@
 layout: post
 title: 'Singapore''s National Statement by Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change Mr Teo Chee Hean, at the UNFCCC COP-18 High Level Segment'
 date: 2012-12-05T00:00:00.000Z
-permalink: '/media-centre/speeches/singapore''s-national-statement-by-deputy-prime-minister-coordinating-minister-for-national-security-minister-for-home-affairs-and-chairman-of-the-inter-ministerial-committee-on-climate-change-mr-teo-chee-hean'
+permalink: /media-centre/speeches/singapore''s-national-statement-by-deputy-prime-minister-coordinating-minister-for-national-security-minister-for-home-affairs-and-chairman-of-the-inter-ministerial-committee-on-climate-change-mr-teo-chee-hean/
 
 ---
 

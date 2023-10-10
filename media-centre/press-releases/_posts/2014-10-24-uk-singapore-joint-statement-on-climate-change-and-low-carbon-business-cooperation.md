@@ -2,7 +2,7 @@
 layout: post
 title:  "UK-Singapore joint statement on climate change and low carbon business cooperation"
 date:   2014-10-24
-permalink: "/media-centre/press-releases/uk-singapore-joint-statement-on-climate-change-and-low-carbon-business-cooperation"
+permalink: /media-centre/press-releases/uk-singapore-joint-statement-on-climate-change-and-low-carbon-business-cooperation/
 ---
 
 

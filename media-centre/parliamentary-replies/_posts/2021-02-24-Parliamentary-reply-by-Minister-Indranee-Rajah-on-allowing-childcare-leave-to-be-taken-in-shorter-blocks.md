@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on allowing childcare leave to be taken in shorter blocks'
 date: 2021-02-24T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-allowing-childcare-leave-to-be-taken-in-shorter-blocks
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-allowing-childcare-leave-to-be-taken-in-shorter-blocks/
 
 ---
 

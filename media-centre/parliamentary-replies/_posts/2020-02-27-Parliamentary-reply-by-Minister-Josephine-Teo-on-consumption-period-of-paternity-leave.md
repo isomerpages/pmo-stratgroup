@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Josephine Teo on consumption period of paternity leave'
 date: 2020-02-27T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-consumption-period-of-paternity-leave
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-consumption-period-of-paternity-leave/
 
 ---
 

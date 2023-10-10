@@ -2,7 +2,7 @@
 layout: post
 title:  "DPM Teo Chee Hean announces Climate Change Exhibition at Prize Presentation Ceremony of National Climate Change Competition 2013"
 date:   2013-11-12
-permalink: "/media-centre/press-releases/dpm-teo-chee-hean-announces-climate-change-exhibition-at-prize-presentation-ceremony-of-national-climate-change-competition-2013"
+permalink: /media-centre/press-releases/dpm-teo-chee-hean-announces-climate-change-exhibition-at-prize-presentation-ceremony-of-national-climate-change-competition-2013/
 ---
 
 **Singapore, 12 November 2013 –** The winners of National Climate Change Competition (NCCC) 2013 were presented with their awards this morning by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change.

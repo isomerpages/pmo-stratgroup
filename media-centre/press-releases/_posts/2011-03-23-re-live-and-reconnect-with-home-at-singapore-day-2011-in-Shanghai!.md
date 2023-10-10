@@ -2,7 +2,7 @@
 layout: post
 title: 'Re-live and reconnect with home at Singapore Day 2011 in Shanghai!'
 date: 2011-03-23T00:00:00.000Z
-permalink: /media-centre/press-releases/re-live-and-reconnect-with-home-at-singapore-day-2011-in-shanghai!
+permalink: /media-centre/press-releases/re-live-and-reconnect-with-home-at-singapore-day-2011-in-shanghai!/
 
 ---
 

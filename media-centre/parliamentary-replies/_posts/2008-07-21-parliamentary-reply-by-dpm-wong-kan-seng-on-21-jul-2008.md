@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Wong Kan Seng on having new incentives to encourage mature married couples to have more children'
 date: 2008-07-21T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-21-jul-2008
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-21-jul-2008/
 
 ---
 

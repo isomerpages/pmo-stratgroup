@@ -2,7 +2,7 @@
 layout: post
 title:  "NPTD's Addendum to the President's Address 2014"
 date:   2014-06-21
-permalink: "/media-centre/press-releases/nptd's-addendum-to-the-president's-address-2014"
+permalink: /media-centre/press-releases/nptd's-addendum-to-the-president's-address-2014/
 ---
 
 **MR TEO CHEE HEAN   

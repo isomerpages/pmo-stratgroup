@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by DPM Wong Kan Seng at the DBS Gala Event'
 date: 2011-04-15T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-dbs-gala-event
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-dbs-gala-event/
 
 ---
 

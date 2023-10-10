@@ -2,7 +2,7 @@
 layout: post
 title: 'Driving Forces Cards 2035'
 date: 2016-12-15T00:00:00.000Z
-permalink: /media-centre/publications/driving-forces-cards-2035
+permalink: /media-centre/publications/driving-forces-cards-2035/
 
 ---
 

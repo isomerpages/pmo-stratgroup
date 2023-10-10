@@ -2,7 +2,7 @@
 layout: post
 title: 'Overseas Singaporeans in UK and Europe Reconnect with Home!'
 date: 2009-04-25T00:00:00.000Z
-permalink: /media-centre/press-releases/overseas-singaporeans-in-uk-and-europe-reconnect-with-home
+permalink: /media-centre/press-releases/overseas-singaporeans-in-uk-and-europe-reconnect-with-home/
 
 ---
 

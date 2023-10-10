@@ -2,7 +2,7 @@
 layout: post
 title:  " Singapore Participates in C40’s “Lighting City Halls in Green” Global Campaign to Demonstrate Solidarity with Paris Agreement and Commitment to Climate Action"
 date:   2020-12-12
-permalink: "/media/press-release/singapore-participates-in-c40-lighting-city-halls-in-green-global-campaign-to-demostrate-solidarity-with-paris-agreement-and-commitment-to-climate-action"
+permalink: /media/press-release/singapore-participates-in-c40-lighting-city-halls-in-green-global-campaign-to-demostrate-solidarity-with-paris-agreement-and-commitment-to-climate-action/
 ---
 
 To mark the fifth anniversary of the landmark Paris Agreement, and reaffirm our commitment to its goals, Singapore will stand in solidarity with our global counterparts, to participate in C40’s “Lighting City Halls in Green” global campaign on 12 December, Saturday, from 7 to 11pm. 

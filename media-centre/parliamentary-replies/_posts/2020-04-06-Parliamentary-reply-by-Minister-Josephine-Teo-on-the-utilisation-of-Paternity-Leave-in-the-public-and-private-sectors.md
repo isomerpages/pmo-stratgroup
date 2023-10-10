@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Josephine Teo on the utilisation of Paternity Leave in the public and private sectors'
 date: 2020-04-06T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-the-utilisation-of-Paternity-Leave-in-the-public-and-private-sectors
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-the-utilisation-of-paternity-leave-in-the-public-and-private-sectors/
 
 ---
 

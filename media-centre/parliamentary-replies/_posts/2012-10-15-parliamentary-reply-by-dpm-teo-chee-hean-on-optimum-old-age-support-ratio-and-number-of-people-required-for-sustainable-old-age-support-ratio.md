@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary Reply by DPM Teo Chee Hean on optimum old-age support ratio and number of people required for sustainable old-age support ratio'
 date: 2012-10-15T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-optimum-old-age-support-ratio-and-number-of-people-required-for-sustainable-old-age-support-ratio
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-optimum-old-age-support-ratio-and-number-of-people-required-for-sustainable-old-age-support-ratio/
 
 ---
 

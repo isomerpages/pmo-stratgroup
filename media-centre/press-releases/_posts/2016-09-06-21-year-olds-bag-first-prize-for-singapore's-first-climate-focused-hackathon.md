@@ -2,7 +2,7 @@
 layout: post
 title:  "21-year-olds bag first prize for Singapore's first climate-focused hackathon"
 date:   2016-09-06
-permalink: "/media-centre/press-releases/21-year-olds-bag-first-prize-for-singapore's-first-climate-focused-hackathon"
+permalink: /media-centre/press-releases/21-year-olds-bag-first-prize-for-singapore's-first-climate-focused-hackathon/
 ---
 
 * _Inaugural climate-focused hackathon crowd-sourced innovative and cost-effective green building solutions to mitigate climate change._

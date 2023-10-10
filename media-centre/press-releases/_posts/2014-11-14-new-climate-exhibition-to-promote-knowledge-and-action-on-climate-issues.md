@@ -2,7 +2,7 @@
 layout: post
 title:  "New climate exhibition to promote knowledge and action on climate issues"
 date:   2014-11-14
-permalink: "/media-centre/press-releases/new-climate-exhibition-to-promote-knowledge-and-action-on-climate-issues"
+permalink: /media-centre/press-releases/new-climate-exhibition-to-promote-knowledge-and-action-on-climate-issues/
 ---
 
 _Interactive exhibits at SCS will show the science and effects of climate change and how we can do our part_  

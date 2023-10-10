@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore’s Enhanced Nationally Determined Contribution and Long-Term Low-Emissions Development Strategy"
 date:   2020-02-28
-permalink: "/media/press-release/singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy"
+permalink: /media/press-release/singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy/
 ---
 
 ### SINGAPORE'S ENHANCED NATIONALLY DETERMINED CONTRIBUTION AND LONG-TERM LOW-EMISSIONS DEVELOPMENT STRATEGY

@@ -2,7 +2,7 @@
 layout: post
 title: 'Foresight: A Glossary'
 date: 2015-04-15T00:00:00.000Z
-permalink: /media-centre/publications/foresight
+permalink: /media-centre/publications/foresight/
 
 ---
 a-glossary

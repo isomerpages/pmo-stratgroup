@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Josephine Teo on Paternity Leave'
 date: 2020-02-18T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-Minister-Josephine-Teo-on-paternity-leave
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-paternity-leave/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Youths share their vision of a Climate-friendly Singapore in video making competition"
 date:   2016-11-04
-permalink: "/media-centre/press-releases/2016-11-04-youths-share"
+permalink: /media-centre/press-releases/2016-11-04-youths-share/
 ---
 
 A vacuum cleaner that sorts waste for recycling.  More widespread use of solar energy. More bicycles than cars on the roads. These are some of the future scenarios of a climate-friendly Singapore painted in the winning entries from this year’s National Climate Change Competition (NCCC).

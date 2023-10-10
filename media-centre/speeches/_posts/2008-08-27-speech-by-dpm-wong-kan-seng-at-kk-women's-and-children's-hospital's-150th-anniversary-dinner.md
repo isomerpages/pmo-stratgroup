@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by DPM Wong Kan Seng at KK Women''s and Children''s Hospital''s 150th Anniversary Dinner'
 date: 2008-08-27T00:00:00.000Z
-permalink: '/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-kk-women''s-and-children''s-hospital''s-150th-anniversary-dinner'
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-kk-women''s-and-children''s-hospital''s-150th-anniversary-dinner/
 
 ---
 

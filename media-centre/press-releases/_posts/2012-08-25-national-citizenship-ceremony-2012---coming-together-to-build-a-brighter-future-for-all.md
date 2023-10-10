@@ -3,7 +3,7 @@ layout: post
 title: National Citizenship Ceremony 2012 - Coming together to build a brighter
   future for all
 date: 2012-08-25
-permalink: /media-centre/press-releases/national-citizenship-ceremony-2012-coming-together-to-build-a-brighter-future-for-all
+permalink: /media-centre/press-releases/national-citizenship-ceremony-2012-coming-together-to-build-a-brighter-future-for-all/
 ---
 The National Citizenship Ceremony 2012 held on 25 August 2012 saw 128 new citizens receiving their Singapore citizenship certificates. Deputy Prime Minister Tharman Shanmugaratnam, Minister for Finance, MP for Jurong Group Representation Constituency and Adviser to Jurong GRC Grassroots Organisations, was the Guest-of-Honour at the event. About 2,800 other new citizens would also be affirming their commitment to Singapore at 12 GRC-level ceremonies across the island the same weekend.
 

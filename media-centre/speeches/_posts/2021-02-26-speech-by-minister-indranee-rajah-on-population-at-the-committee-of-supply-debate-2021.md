@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Indranee Rajah on Population at the Committee of Supply Debate 2021'
 date: 2021-02-26T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-indranee-rajah-on-population-at-the-committee-of-supply-debate-2021
+permalink: /media-centre/speeches/speech-by-minister-indranee-rajah-on-population-at-the-committee-of-supply-debate-2021/
 
 ---
 

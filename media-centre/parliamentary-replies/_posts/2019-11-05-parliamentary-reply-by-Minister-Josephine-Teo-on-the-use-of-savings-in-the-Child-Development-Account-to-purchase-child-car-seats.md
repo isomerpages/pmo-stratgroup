@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Josephine Teo on the use of savings in the Child Development Account (CDA) to purchase child car seats'
 date: 2019-11-05T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-Minister-Josephine-Teo-on-the-use-of-savings-in-the-Child-Development-Account-to-purchase-child-car-seats
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-the-use-of-savings-in-the-child-development-account-to-purchase-child-car-seats/
 
 ---
 

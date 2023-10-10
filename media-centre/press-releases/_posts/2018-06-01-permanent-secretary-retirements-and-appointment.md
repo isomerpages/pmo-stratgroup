@@ -2,7 +2,7 @@
 layout: post
 title:  "Permanent Secretary Retirements and Appointment - 1 June 2018"
 date:   2018-06-01
-permalink: "/media-centre/press-releases/permanent-secretary-retirements-and-appointment-1-june-2018"
+permalink: /media-centre/press-releases/permanent-secretary-retirements-and-appointment-1-june-2018/
 ---
 
 Ms Yeoh Chee Yan, Permanent Secretary of the Ministry of Culture, Community and Youth (MCCY), will retire on 1 July 2018, after 33 years of distinguished service in the Singapore Public Service. Ms Tan Gee Keow, Deputy Secretary, Strategy Group, Prime Minister’s Office (PMO) will be appointed Permanent Secretary of MCCY on the same date. 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Census of Population 2020'
 date: 2021-06-17T00:00:00.000Z
-permalink: /media-centre/publications/census-of-population-2020
+permalink: /media-centre/publications/census-of-population-2020/
 
 ---
 

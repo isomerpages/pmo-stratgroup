@@ -2,7 +2,7 @@
 layout: post
 title: 'National Statement of Singapore delivered by Minister for the Environment and Water Resources, Dr Vivian Balakrishnan, at the UNFCCC COP-20 High Level Segment, 9 December 2014, Lima, Peru'
 date: 2014-12-09T00:00:00.000Z
-permalink: /media-centre/speeches/national-statement-of-singapore-delivered-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-unfccc-cop-20-high-level-segment-9-december-2014-lima-peru
+permalink: /media-centre/speeches/national-statement-of-singapore-delivered-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-unfccc-cop-20-high-level-segment-9-december-2014-lima-peru/
 
 ---
 

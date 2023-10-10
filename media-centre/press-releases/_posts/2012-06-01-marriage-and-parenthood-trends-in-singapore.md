@@ -2,7 +2,7 @@
 layout: post
 title:  "Marriage and Parenthood Trends in Singapore"
 date:   2012-06-01
-permalink: "/media-centre/press-releases/marriage-and-parenthood-trends-in-singapore"
+permalink: /media-centre/press-releases/marriage-and-parenthood-trends-in-singapore/
 ---
 
 Introduction

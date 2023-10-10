@@ -1,6 +1,6 @@
 ---
 title: Parliamentary reply by Minister Indranee Rajah on the Baby Support Grant
-permalink: /media-centre/parliamentary-replies/permalink/Minister-Indranee-Rajah-on-the-Baby-Support-Grant
+permalink: /media-centre/parliamentary-replies/permalink/minister-indranee-rajah-on-the-baby-support-grant/
 date: 2022-05-09
 layout: post
 description: Parliamentary reply by Minister Indranee Rajah on the Baby Support Grant

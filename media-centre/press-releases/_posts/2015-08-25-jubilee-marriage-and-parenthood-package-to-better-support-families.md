@@ -2,7 +2,7 @@
 layout: post
 title:  "Jubilee Marriage and Parenthood Package to Better Support Families"
 date:   2015-08-25
-permalink: "/media-centre/press-releases/jubilee-marriage-and-parenthood-package-to-better-support-families"
+permalink: /media-centre/press-releases/jubilee-marriage-and-parenthood-package-to-better-support-families/
 ---
 
 The Government encourages and supports Singaporeans towards fulfilling their marriage and parenthood aspirations. The Government is therefore introducing the Jubilee Marriage & Parenthood Package to encourage families to have more children and improve support to families during the child’s first 18 months. The enhancements will (i) provide further help to defray out-of-pocket child-raising costs for parents, including those with more children, and (ii) encourage fathers to take a more active role in bringing up their children.

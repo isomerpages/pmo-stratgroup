@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Deputy Prime Minister and Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, on Climate Change 2015 and National Engineers Day (NED) at the Joint Opening of the World Engineers Summit (WES)'
 date: 2015-07-22T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-on-climate-change-2015-and-national-engineers-day-(ned)
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-on-climate-change-2015-and-national-engineers-day-(ned)/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "BCA, JTC and NCCS jointly launch Singapore's first climate-focused hackathon for green solutions"
 date:   2016-08-12
-permalink: "/media-centre/press-releases/bca-jtc-and-nccs-jointly-launch-singapore's-first-climate-focused-hackathon-for-green-solutions"
+permalink: /media-centre/press-releases/bca-jtc-and-nccs-jointly-launch-singapore's-first-climate-focused-hackathon-for-green-solutions/
 ---
 
 Funding and test-bed opportunities are available for teams with promising solutions to further develop their ideas

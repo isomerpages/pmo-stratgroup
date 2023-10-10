@@ -3,7 +3,7 @@ layout: post
 title: Speech by DPM Teo Chee Hean at the National Climate Change Competition
   Award Ceremony on 12 November 2013
 date: 2013-11-12T00:00:00.000Z
-permalink: /speech-by-dpm-teo-chee-hean-at-the-national-climate-change-competition-award-ceremony-on-12-november-2013
+permalink: /speech-by-dpm-teo-chee-hean-at-the-national-climate-change-competition-award-ceremony-on-12-november-2013/
 ---
 Distinguished guests  
 Teachers and students  

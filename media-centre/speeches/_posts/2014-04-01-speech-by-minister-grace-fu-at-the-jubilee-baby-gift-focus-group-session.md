@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Grace Fu at the Jubilee Baby Gift Focus Group Session'
 date: 2014-04-01T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-jubilee-baby-gift-focus-group-session
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-jubilee-baby-gift-focus-group-session/
 
 ---
 

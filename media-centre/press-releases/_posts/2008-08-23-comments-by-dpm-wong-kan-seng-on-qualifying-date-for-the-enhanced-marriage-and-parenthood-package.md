@@ -2,7 +2,7 @@
 layout: post
 title: 'Comments by DPM Wong Kan Seng on the qualifying date for the Marriage & Parenthood Package 2008'
 date: 2008-08-23T00:00:00.000Z
-permalink: /media-centre/press-releases/comments-by-dpm-wong-kan-seng-on-qualifying-date-for-the-enhanced-marriage-and-parenthood-package
+permalink: /media-centre/press-releases/comments-by-dpm-wong-kan-seng-on-qualifying-date-for-the-enhanced-marriage-and-parenthood-package/
 
 ---
 

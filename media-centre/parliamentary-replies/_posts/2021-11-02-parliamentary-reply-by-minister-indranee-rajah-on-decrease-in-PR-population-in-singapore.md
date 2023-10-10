@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on Decrease in PR Population in Singapore'
 date: 2021-11-02T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-decrease-in-PR-population-in-Singapore
+permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-decrease-in-pr-population-in-singapore/
 
 ---
 
