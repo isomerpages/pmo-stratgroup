@@ -32,8 +32,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://isomer-stratgroup-staging.netlify.app
-prod: https://isomer-stratgroup-prod.netlify.app
+staging: https://staging.d2wkr7wvq8p5dt.amplifyapp.com/
+prod: https://master.d2wkr7wvq8p5dt.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
