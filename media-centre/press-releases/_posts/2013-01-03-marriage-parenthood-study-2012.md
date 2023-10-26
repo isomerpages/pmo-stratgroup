@@ -2,7 +2,7 @@
 layout: post
 title:  "Marriage & Parenthood Study 2012"
 date:   2013-01-03
-permalink: "/media-centre/press-releases/marriage-parenthood-study-2012"
+permalink: /media-centre/press-releases/marriage-parenthood-study-2012/
 ---
 
 The Marriage and Parenthood (M&P) Study 2012 is a survey commissioned by the National Population and Talent Division (NPTD), to understand the attitudes and motivations behind Singapore residents’ marriage and parenthood trends. Similar surveys were conducted in 2007 and 2004. A total of 4,646 respondents aged 21 to 45 years old was surveyed for the 2012 study, comprising 2,120 single (never married) and 2,526 married individuals.<sup>1</sup> (Please see _Annex A_ for profile.)

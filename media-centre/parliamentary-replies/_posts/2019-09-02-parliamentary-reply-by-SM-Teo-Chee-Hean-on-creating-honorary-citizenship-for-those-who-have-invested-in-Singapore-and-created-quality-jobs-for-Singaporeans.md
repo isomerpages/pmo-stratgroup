@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by SM Teo Chee Hean on creating honorary citizenship for those who have invested in Singapore and created quality jobs for Singaporeans'
 date: 2019-09-02T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-SM-Teo-Chee-Hean-on-creating-honorary-citizenship-for-those-who-have-invested-in-Singapore-and-created-quality-jobs-for-Singaporeans
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-sm-teo-chee-hean-on-creating-honorary-citizenship-for-those-who-have-invested-in-singapore-and-created-quality-jobs-for-singaporeans/
 
 ---
 

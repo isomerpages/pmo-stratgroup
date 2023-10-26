@@ -2,7 +2,7 @@
 layout: post
 title: Public voting for Jubilee baby gift items begins today
 date: 2014-04-16
-permalink: /media-centre/press-releases/public-voting-for-the-jubilee-baby-gift-items
+permalink: /media-centre/press-releases/public-voting-for-the-jubilee-baby-gift-items/
 ---
 Singaporeans have given about 6,500 suggestions on possible items that can go into the Jubilee Baby Gift. These were collected from various platforms, namely The Jubilee BabyGift microsite, feedback booths, focus group sessions, and REACH’s online platforms from 1 – 15 April. Baby-related items as well as commemorative gifts comprised 70% of all suggestions. The breakdown of the types of suggestions received can be found in Annex A.
 

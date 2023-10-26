@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by SM Teo Chee Hean on rationale for reduction in childcare leave when child turns seven years old'
 date: 2019-09-03T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-SM-Teo-Chee-Hean-on-rationale-for-reduction-in-childcare-leave-when-child-turns-seven-years-old
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-sm-teo-chee-hean-on-rationale-for-reduction-in-childcare-leave-when-child-turns-seven-years-old/
 
 ---
 

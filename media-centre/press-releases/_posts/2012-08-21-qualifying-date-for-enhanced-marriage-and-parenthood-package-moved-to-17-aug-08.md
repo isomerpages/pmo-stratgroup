@@ -2,7 +2,7 @@
 layout: post
 title:  "Qualifying date for enhanced Marriage and Parenthood Package moved to 17 Aug 08 to benefit more Singaporean babies"
 date:   2012-08-21
-permalink: "/media-centre/press-releases/qualifying-date-for-enhanced-marriage-and-parenthood-package-moved-to-17-aug-08"
+permalink: /media-centre/press-releases/qualifying-date-for-enhanced-marriage-and-parenthood-package-moved-to-17-aug-08/
 ---
 
 The Government has decided to extend the qualifying date for the Baby Bonus and other measures in the enhanced Marriage and Parenthood (M&P) Package to **17 Aug 2008,** the date of Prime Minister Lee’s announcement at the National Day Rally. This move is made in response to appeals from expectant mothers and fathers whose babies are due before 1 Jan 2009. While the expectant parents understand that the relevant Government agencies need time to put in place the necessary legislative and administrative changes to implement the new measures and policies, they have requested for the Government to make special provisions for them so that they can also benefit from the enhanced M&P Package.

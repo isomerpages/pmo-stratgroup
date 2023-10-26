@@ -2,7 +2,7 @@
 layout: post
 title: 'Working visit to the People''s Republic of China by Deputy Prime Minister and Coordinating Minister for National Security Wong Kan Seng'
 date: 2011-04-14T00:00:00.000Z
-permalink: '/media-centre/press-releases/working-visit-to-the-people''s-republic-of-china-by-dpm-wong-kan-seng'
+permalink: /media-centre/press-releases/working-visit-to-the-people''s-republic-of-china-by-dpm-wong-kan-seng/
 
 ---
 

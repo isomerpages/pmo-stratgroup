@@ -2,7 +2,7 @@
 layout: post
 title: 'National Statement of Singapore by Minister for the Environment and Water Resources, Masagos Zulkifli, at the UNFCCC COP-21 High Level Segment, 7 December 2015, Paris, France'
 date: 2015-12-07T00:00:00.000Z
-permalink: /media-centre/speeches/national-statement-of-singapore-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-unfccc-cop-21-high-level-segment-7-december-2015-paris-france
+permalink: /media-centre/speeches/national-statement-of-singapore-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-unfccc-cop-21-high-level-segment-7-december-2015-paris-france/
 
 ---
 

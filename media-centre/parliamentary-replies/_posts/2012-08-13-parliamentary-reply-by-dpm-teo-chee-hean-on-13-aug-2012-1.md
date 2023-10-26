@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Teo Chee Hean on number of SCs over the age of 21 years who are resident in Singapore'
 date: 2012-08-13T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-13-aug-2012-1
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-13-aug-2012-1/
 
 ---
 

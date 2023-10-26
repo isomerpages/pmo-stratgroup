@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by DPM Wong Kan Seng at the Singapore Day 2009 Dinner'
 date: 2009-04-05T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2009-dinner
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-day-2009-dinner/
 
 ---
 

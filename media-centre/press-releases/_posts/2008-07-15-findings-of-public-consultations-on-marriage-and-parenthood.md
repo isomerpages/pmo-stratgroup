@@ -2,7 +2,7 @@
 layout: post
 title: 'Findings of Public Consultations on Marriage and Parenthood'
 date: 2008-07-15T00:00:00.000Z
-permalink: /media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood
+permalink: /media-centre/press-releases/findings-of-public-consultations-on-marriage-and-parenthood/
 
 ---
 
@@ -129,43 +129,43 @@ Email: adeline_kwok@pmo.gov.sg
 </table>
 
 
-![slide1](/images/Press%20Release%20images/slide1.jpg)
+![slide1](/images/press%20release%20images/slide1.jpg)
 
-![slide2](/images/Press%20Release%20images/slide2.jpg)
+![slide2](/images/press%20release%20images/slide2.jpg)
 
-![slide3](/images/Press%20Release%20images/slide3.jpg)
+![slide3](/images/press%20release%20images/slide3.jpg)
 
-![slide4](/images/Press%20Release%20images/slide4.jpg)
+![slide4](/images/press%20release%20images/slide4.jpg)
 
-![slide5](/images/Press%20Release%20images/slide5.jpg)
+![slide5](/images/press%20release%20images/slide5.jpg)
 
-![slide5](/images/Press%20Release%20images/slide5.jpg)
+![slide5](/images/press%20release%20images/slide5.jpg)
 
-![slide6](/images/Press%20Release%20images/slide6.jpg)
+![slide6](/images/press%20release%20images/slide6.jpg)
 
-![slide7](/images/Press%20Release%20images/slide7.jpg)
+![slide7](/images/press%20release%20images/slide7.jpg)
 
-![slide8](/images/Press%20Release%20images/slide8.jpg)
+![slide8](/images/press%20release%20images/slide8.jpg)
 
-![slide9](/images/Press%20Release%20images/slide9.jpg)
+![slide9](/images/press%20release%20images/slide9.jpg)
 
-![slide10](/images/Press%20Release%20images/slide10.jpg)
+![slide10](/images/press%20release%20images/slide10.jpg)
 
-![slide11](/images/Press%20Release%20images/slide11.jpg)
+![slide11](/images/press%20release%20images/slide11.jpg)
 
-![slide12](/images/Press%20Release%20images/slide12.jpg)
+![slide12](/images/press%20release%20images/slide12.jpg)
 
-![slide13](/images/Press%20Release%20images/slide13.jpg)
+![slide13](/images/press%20release%20images/slide13.jpg)
 
-![slide14](/images/Press%20Release%20images/slide14.jpg)
+![slide14](/images/press%20release%20images/slide14.jpg)
 
-![slide15](/images/Press%20Release%20images/slide15.jpg)
+![slide15](/images/press%20release%20images/slide15.jpg)
 
-![slide16](/images/Press%20Release%20images/slide16.jpg)
+![slide16](/images/press%20release%20images/slide16.jpg)
 
-![slide17](/images/Press%20Release%20images/slide17.jpg)
+![slide17](/images/press%20release%20images/slide17.jpg)
 
-![slide18](/images/Press%20Release%20images/slide18.jpg)
+![slide18](/images/press%20release%20images/slide18.jpg)
 
 
 #### **MARRIAGE AND PARENTHOOD STUDY 2007**
@@ -227,7 +227,7 @@ Ministry of Community Development, Youth and Sports
 Marriage remains desirable 
 (Source: Marriage and Parenthood Studies 2004 and 2007)
 
-![chart1](/images/Press%20Release%20images/chart1.png)
+![chart1](/images/press%20release%20images/chart1.png)
 
 <table class="table-h">  
   <tr>    
@@ -266,9 +266,9 @@ Marriage remains desirable
 **Home ownership closely associated with marriage
 (Source: Marriage and Parenthood Study 2007)**
 
-![chart2](/images/Press%20Release%20images/chart2.png)
-![chart3](/images/Press%20Release%20images/chart3.png)
-![chart4](/images/Press%20Release%20images/chart4.png)
+![chart2](/images/press%20release%20images/chart2.png)
+![chart3](/images/press%20release%20images/chart3.png)
+![chart4](/images/press%20release%20images/chart4.png)
 
 <table class="table-h">
   <tr>    
@@ -423,8 +423,8 @@ Marriage remains desirable
 
 **Diagram 5 (For Married Respondents)**
 
-![chart5](/images/Press%20Release%20images/chart5.png)
-![chart6](/images/Press%20Release%20images/chart%206.png)
+![chart5](/images/press%20release%20images/chart5.png)
+![chart6](/images/press%20release%20images/chart%206.png)
 
 **Parenthood viewed as a shared responsibility**
 **(Source: Marriage and Parenthood Studies 2004 and 2007)**
@@ -457,12 +457,12 @@ Marriage remains desirable
 <sub> *Figures have been rounded up.
   
 **Diagram 7 (For Married Women)**  
-![chart7](/images/Press%20Release%20images/chart7.png)
+![chart7](/images/press%20release%20images/chart7.png)
 
 **Parents want reliable, affordable, accessible and quality child care
 (Source: Marriage and Parenthood Study 2007)**
 
-![chart8](/images/Press%20Release%20images/chart8.png)
+![chart8](/images/press%20release%20images/chart8.png)
 
 **Impact of marriage and parenthood measures
 (Source: Marriage and Parenthood Study 2007)**

@@ -3,7 +3,7 @@ layout: post
 title: Singapore G1 attracts more than 20,000 participants in republic’s largest
   known green walkathon
 date: 2012-09-02
-permalink: /media-centre/press-releases/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon
+permalink: /media-centre/press-releases/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon/
 ---
 _DPM Teo Chee Hean launches “Our Green Home” nationwide roving climate change exhibition_
 

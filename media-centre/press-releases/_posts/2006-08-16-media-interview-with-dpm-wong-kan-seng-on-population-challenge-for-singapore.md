@@ -2,7 +2,7 @@
 layout: post
 title: 'Interview with DPM Wong Kan Seng, Minister-in-Charge of Population issues'
 date: 2006-08-16T00:00:00.000Z
-permalink: /media-centre/press-releases/media-interview-with-dpm-wong-kan-seng-on-population-challenge-for-singapore
+permalink: /media-centre/press-releases/media-interview-with-dpm-wong-kan-seng-on-population-challenge-for-singapore/
 
 ---
 

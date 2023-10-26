@@ -2,7 +2,7 @@
 layout: post
 title: 'Singapore’s National Statement by Senior Minister S Jayakumar at the UNFCCC Conference of the Parties (COP-16) High Level Segment, Cancun, 8 December 2010'
 date: 2010-12-08T00:00:00.000Z
-permalink: '/media-centre/speeches/singapore''s-national-statement-by-senior-minister-s-jayakumar-at-the-unfccc-conference-of-the-parties-(cop-16)-high-level-segment-cancun-8-december-2010'
+permalink: /media-centre/speeches/singapore''s-national-statement-by-senior-minister-s-jayakumar-at-the-unfccc-conference-of-the-parties-(cop-16)-high-level-segment-cancun-8-december-2010/
 
 ---
 

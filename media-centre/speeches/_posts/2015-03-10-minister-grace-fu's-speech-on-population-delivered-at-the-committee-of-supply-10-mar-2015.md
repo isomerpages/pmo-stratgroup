@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Grace Fu on population, at the Committee of Supply'
 date: 2015-03-10T00:00:00.000Z
-permalink: '/media-centre/speeches/minister-grace-fu''s-speech-on-population-delivered-at-the-committee-of-supply-10-mar-2015'
+permalink: /media-centre/speeches/minister-grace-fu''s-speech-on-population-delivered-at-the-committee-of-supply-10-mar-2015/
 
 ---
 

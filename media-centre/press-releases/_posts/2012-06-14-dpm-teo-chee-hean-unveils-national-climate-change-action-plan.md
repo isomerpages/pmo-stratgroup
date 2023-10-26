@@ -2,7 +2,7 @@
 layout: post
 title: DPM Teo Chee Hean unveils national climate change action plan
 date: 2012-06-14
-permalink: /media-centre/press-releases/dpm-teo-chee-hean-unveils-national-climate-change-action-plan
+permalink: /media-centre/press-releases/dpm-teo-chee-hean-unveils-national-climate-change-action-plan/
 ---
 **Singapore, 14June 2012-** Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC) launched the National Climate Change Strategy 2012 (NCCS-2012) document at the National Climate Change Youth Conference (NCCYC) 2012 today.
 

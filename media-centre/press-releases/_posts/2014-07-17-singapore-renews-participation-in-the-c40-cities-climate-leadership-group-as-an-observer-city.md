@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore renews participation in the C40 Cities Climate Leadership Group as an Observer City"
 date:   2014-07-17
-permalink: "/media-centre/press-releases/singapore-renews-participation-in-the-c40-cities-climate-leadership-group-as-an-observer-city"
+permalink: /media-centre/press-releases/singapore-renews-participation-in-the-c40-cities-climate-leadership-group-as-an-observer-city/
 ---
 
 **Singapore, 17 July 2014 -** Singapore has signed a Memorandum of Understanding (MOU) with the C40<sup>1</sup> Cities Climate Leadership Group (C40) today to renew its participation in C40 as an Observer City. 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Josephine Teo on rationale for not providing childcare leave to parents on a per child basis'
 date: 2019-10-07T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-Minister-Josephine-Teo-on-rationale-for-not-providing-childcare-leave-to-parents-on-a-per-child-basis
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-rationale-for-not-providing-childcare-leave-to-parents-on-a-per-child-basis/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Keynote address by DPM Wong Kan Seng at the Singapore Perspectives 2011 Conference'
 date: 2011-01-17T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-perspectives-2011-conference
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-singapore-perspectives-2011-conference/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Foresight
 date: 2019-07-01T00:00:00.000Z
-permalink: /media-centre/publications/foresight
+permalink: /media-centre/publications/foresight/
 
 ---
 
@@ -12,7 +12,7 @@ Foresight is a biennial publication by the [Centre for Strategic Futures](https:
 
 Download:
 
-* [Foresight 2019 (10mb, pdf)](/files/media-centre/publications/CSF_Foresight_2019.pdf)
+* [Foresight 2019 (10mb, pdf)](/files/media-centre/publications/csf_foresight_2019.pdf)
 * [Foresight 2017 (11.9mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/foresight-2012.pdf)
 * [Foresight 2015 (4.6mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/foresight-2015.pdf)
 * [Foresight 2014 (3.9mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/foresight-2014.pdf)

@@ -2,7 +2,7 @@
 layout: post
 title: 'Remarks by Minister for Foreign Affairs, Dr Vivian Balakrishnan, at the Committee of Paris Session at COP-21, 12 December 2015, Paris, France'
 date: 2015-12-12T00:00:00.000Z
-permalink: /media-centre/speeches/remarks-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-committee-of-paris-session-at-cop-21-12-december-2015-paris-france
+permalink: /media-centre/speeches/remarks-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-committee-of-paris-session-at-cop-21-12-december-2015-paris-france/
 
 ---
 

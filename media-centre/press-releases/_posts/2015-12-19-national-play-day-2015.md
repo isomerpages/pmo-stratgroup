@@ -2,7 +2,7 @@
 layout: post
 title:  "National Play Day 2015"
 date:   2015-12-19
-permalink: "/media-centre/press-releases/2national-play-day-2015"
+permalink: /media-centre/press-releases/2national-play-day-2015/
 ---
 
 **SINGAPORE BOOK OF RECORDS: NEW RECORD SET FOR "LARGEST MASS STROLLER WALK"**

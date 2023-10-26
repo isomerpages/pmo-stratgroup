@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by DPM Teo Chee Hean at the National Citizenship Ceremony 2015 on 2 Aug 2015'
 date: 2015-08-02T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-at-the-national-citizenship-ceremony-2015-on-2-aug-2015
+permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-at-the-national-citizenship-ceremony-2015-on-2-aug-2015/
 
 ---
 

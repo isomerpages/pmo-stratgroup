@@ -2,7 +2,7 @@
 layout: post
 title: 'Marriage and Parenthood Booklet'
 date: 2020-10-09T00:00:00.000Z
-permalink: /media-centre/publications/marriage-and-parenthood-booklet
+permalink: /media-centre/publications/marriage-and-parenthood-booklet/
 
 ---
 

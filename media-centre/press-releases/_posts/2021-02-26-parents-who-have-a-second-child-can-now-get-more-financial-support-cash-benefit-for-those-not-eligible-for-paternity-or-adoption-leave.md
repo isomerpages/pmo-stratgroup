@@ -2,7 +2,7 @@
 layout: post
 title:  "Parents who have a Second Child can now get More Financial Support; Cash benefit for those not eligible for paternity or adoption leave"
 date:   2021-02-26
-permalink: "/media/press-release/parents-who-have-a-second-child-can-now-get-more-financial-support-cash-benefit-for-those-not-eligible-for-paternity-or-adoption-leave"
+permalink: /media/press-release/parents-who-have-a-second-child-can-now-get-more-financial-support-cash-benefit-for-those-not-eligible-for-paternity-or-adoption-leave/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean, on Climate Change at the Committee of Supply Debate, 1 March 2012'
 date: 2012-03-01T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-deputy-prime-minister-mr-teo-chee-hean-coordinating-minister-for-national-security-and-minister-for-home-affairs-on-climate-change
+permalink: /media-centre/speeches/speech-by-deputy-prime-minister-mr-teo-chee-hean-coordinating-minister-for-national-security-and-minister-for-home-affairs-on-climate-change/
 
 ---
 

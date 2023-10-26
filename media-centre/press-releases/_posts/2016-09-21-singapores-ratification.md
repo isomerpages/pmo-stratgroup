@@ -2,7 +2,7 @@
 layout: post
 title:  "Singapore's ratification of the Paris Agreement"
 date:   2016-09-21
-permalink: "/media-centre/press-releases/singapores-ratification"
+permalink: /media-centre/press-releases/singapores-ratification/
 ---
 Minister for Foreign Affairs Dr Vivian Balakrishnan deposited Singapore’s instrument of ratification of the Paris Agreement during the High-level Event on the Entry into Force of the Agreement at the United Nations Headquarters in New York on 21 September 2016. The event was organised by United Nations Secretary-General Ban Ki-moon.
 

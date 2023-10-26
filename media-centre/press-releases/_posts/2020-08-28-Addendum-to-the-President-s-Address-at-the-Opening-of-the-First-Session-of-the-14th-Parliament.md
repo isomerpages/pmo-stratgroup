@@ -2,7 +2,7 @@
 layout: post
 title:  "Addendum to the President’s Address at the Opening of the First Session of the 14th Parliament"
 date:   2020-08-28
-permalink: "/media-centre/press-releases/Addendum-to-the-President-s-Address-at-the-Opening-of-the-First-Session-of-the-14th-Parliament"
+permalink: /media-centre/press-releases/addendum-to-the-president-s-address-at-the-opening-of-the-first-session-of-the-14th-parliament/
 ---
 
 PRIME MINISTER’S OFFICE

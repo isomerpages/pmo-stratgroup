@@ -3,7 +3,7 @@ layout: post
 title: 5,000 overseas Singaporeans pay tribute to our founding Prime Minister Mr
   Lee Kuan Yew at Singapore Day 2015
 date: 2015-04-11
-permalink: /media-centre/press-releases/5-000-overseas-singaporeans-pay-tribute-to-our-founding-prime-minister-mr-lee-kuan-yew-at-singapore-day-2015
+permalink: /media-centre/press-releases/5-000-overseas-singaporeans-pay-tribute-to-our-founding-prime-minister-mr-lee-kuan-yew-at-singapore-day-2015/
 ---
 On 11 April, Deputy Prime Minister Teo Chee Hean and Minister in the Prime Minister's Office Grace Fu joined about 5,000 Singaporeans in Century Park, Shanghai for Singapore Day 2015. The event was an emotional reunion for Singaporeans in China who paid tribute to the late Mr Lee Kuan Yew and his contributions to Singapore. It was also an occasion for our overseas Singaporean to mark our nation's achievements over the past 50 years and look forward to the future.
 

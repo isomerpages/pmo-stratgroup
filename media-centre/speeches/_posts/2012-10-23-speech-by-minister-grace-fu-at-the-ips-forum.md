@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Grace Fu at the IPS Forum'
 date: 2012-10-23T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-ips-forum
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-ips-forum/
 
 ---
 

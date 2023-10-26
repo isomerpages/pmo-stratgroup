@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on Childcare Leave for Parents with Multiple Children'
 date: 2021-02-02T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-childcare-leave-for-parents-with-multiple-children
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-childcare-leave-for-parents-with-multiple-children/
 
 ---
 

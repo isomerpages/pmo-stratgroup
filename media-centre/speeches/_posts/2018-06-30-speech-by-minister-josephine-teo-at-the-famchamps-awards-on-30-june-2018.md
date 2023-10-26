@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Josephine Teo at the FamChamps Awards on 30 June 2018'
 date: 2018-06-30T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-josephine-teo-at-the-famchamps-awards-on-30-june-2018
+permalink: /media-centre/speeches/speech-by-minister-josephine-teo-at-the-famchamps-awards-on-30-june-2018/
 
 ---
 

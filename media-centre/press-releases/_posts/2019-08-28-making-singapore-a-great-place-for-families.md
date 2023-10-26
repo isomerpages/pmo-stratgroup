@@ -2,7 +2,7 @@
 layout: post
 title:  "Making Singapore A Great Place For Families"
 date:   2019-08-28
-permalink: "/media-centre/press-releases/making-singapore-a-great-place-for-families"
+permalink: /media-centre/press-releases/making-singapore-a-great-place-for-families/
 ---
 
 Singaporeans planning to get married and have children can look forward to more support in preschool, housing, and healthcare. The enhancements were announced today by Mrs Josephine Teo (Minister for Manpower & Second Minister for Home Affairs, who also oversees Population matters), together with Mr Desmond Lee (Minister for Social and Family Development & Second Minister for National Development), and Dr Amy Khor (Senior Minister of State, Ministry of Health & Ministry of the Environment and Water Resources). 
@@ -51,6 +51,6 @@ Please refer to ECDA’s and MOH’s press releases for more details of their re
 
 
 
-**Annex: [Infographic - Making Singapore A Great Place For Families](/files/media-centre/press-releases/Infographic%20Making%20Singapore%20A%20Great%20Place%20For%20Families%20Aug%202019.pdf)**
+**Annex: [Infographic - Making Singapore A Great Place For Families](/files/media-centre/press-releases/infographic%20making%20singapore%20a%20great%20place%20for%20families%20aug%202019.pdf)**
 
 

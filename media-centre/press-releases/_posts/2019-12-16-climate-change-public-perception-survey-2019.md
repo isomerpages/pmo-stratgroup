@@ -2,7 +2,7 @@
 layout: post
 title:  "Climate Change Public Perception Survey 2019"
 date:   2019-12-16
-permalink: "/media-centre/press-releases/climate-change-public-perception-survey-2019"
+permalink: /media-centre/press-releases/climate-change-public-perception-survey-2019/
 ---
 
 **_More Singaporeans aware of climate change and are prepared to do more_**

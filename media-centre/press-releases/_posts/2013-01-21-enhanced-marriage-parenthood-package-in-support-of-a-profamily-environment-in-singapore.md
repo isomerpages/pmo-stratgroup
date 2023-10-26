@@ -2,7 +2,7 @@
 layout: post
 title:  "Enhanced Marriage & Parenthood package in support of a profamily environment in Singapore"
 date:   2013-01-21
-permalink: "/media-centre/press-releases/enhanced-marriage-parenthood-package-in-support-of-a-profamily-environment-in-singapore"
+permalink: /media-centre/press-releases/enhanced-marriage-parenthood-package-in-support-of-a-profamily-environment-in-singapore/
 ---
 
 The Government recognises the importance of families in Singapore and is committed to helping Singaporeans achieve their marriage and parenthood aspirations. Deputy Prime Minister Teo Chee Hean, Coordinating Minister for National Security and Minister-in-charge of population issues, announced the enhanced Marriage & Parenthood Package today. The enhanced package aims to provide more comprehensive support for Singaporeans in getting married and starting their families.

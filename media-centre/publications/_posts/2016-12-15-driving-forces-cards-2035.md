@@ -2,7 +2,7 @@
 layout: post
 title: 'Driving Forces Cards 2035'
 date: 2016-12-15T00:00:00.000Z
-permalink: /media-centre/publications/driving-forces-cards-2035
+permalink: /media-centre/publications/driving-forces-cards-2035/
 
 ---
 
@@ -13,4 +13,4 @@ Driving Forces 2035 is a deck of cards produced by the [Centre for Strategic Fut
 
 Download:
 
-* [Driving Forces Cards 2035](/images/PublicationImages/driving-forces-cards-2035.pdf)
+* [Driving Forces Cards 2035](/images/publicationimages/driving-forces-cards-2035.pdf)

@@ -2,7 +2,7 @@
 layout: post
 title:  "More Marriages and Birth in 2014"
 date:   2015-02-16
-permalink: "/media-centre/press-releases/more-marriages-and-birth-in-2014"
+permalink: /media-centre/press-releases/more-marriages-and-birth-in-2014/
 ---
 
 2014 has seen a rise of 10% in the number of marriages involving at least one citizen. There were about 24,000 such marriages in 2014 - the highest number since 1997.

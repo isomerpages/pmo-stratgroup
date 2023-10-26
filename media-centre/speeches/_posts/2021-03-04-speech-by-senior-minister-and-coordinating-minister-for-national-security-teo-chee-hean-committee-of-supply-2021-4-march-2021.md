@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2021, 4 March 2021'
 subtitle: '4 Mar 2021'
-permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2021-4-march-2021
+permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2021-4-march-2021/
 
 ---
 

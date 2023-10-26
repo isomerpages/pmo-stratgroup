@@ -2,7 +2,7 @@
 layout: post
 title:  "Population in Brief 2013"
 date:   2013-09-26
-permalink: "/media-centre/press-releases/population-in-brief-2013"
+permalink: /media-centre/press-releases/population-in-brief-2013/
 ---
 
 _SLOWEST POPULATION GROWTH IN NINE YEARS_

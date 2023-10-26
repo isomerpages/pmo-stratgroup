@@ -2,7 +2,7 @@
 layout: post
 title:  "Comments by Mr Teo Chee Hean, Deputy Prime Minister and Chairman of the Inter-Ministerial Committee on Climate Change, on the adoption of the climate agreement at COP-21 in Paris"
 date:   2015-12-13
-permalink: "/media-centre/press-releases/comments-by-mr-teo-chee-hean-deputy-prime-minister-and-chairman-of-the-inter-ministerial-committee-on-climate-change-on-the-adoption-of-the-climate-agreement-at-cop-21-in-paris"
+permalink: /media-centre/press-releases/comments-by-mr-teo-chee-hean-deputy-prime-minister-and-chairman-of-the-inter-ministerial-committee-on-climate-change-on-the-adoption-of-the-climate-agreement-at-cop-21-in-paris/
 ---
 
 "Singapore welcomes the adoption of the historic Paris climate agreement. It is a fair and comprehensive agreement, where all parties will take action to tackle this key issue of climate change that affects the future of the global community. The agreement shows how with goodwill, commitment and willingness to look beyond individual concerns, cooperation among all countries is possible for the global larger, long-term good.

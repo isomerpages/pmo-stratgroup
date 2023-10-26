@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on Population Trends, New Citizens and Infrastructure Planning'
 date: 2020-10-14T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-Population-Trends-New-Citizens-and-Infrastructure-Planning
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-population-trends-new-citizens-and-infrastructure-planning/
 
 ---
 

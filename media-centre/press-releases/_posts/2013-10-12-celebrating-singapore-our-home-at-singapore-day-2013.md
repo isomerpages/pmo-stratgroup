@@ -2,7 +2,7 @@
 layout: post
 title: Celebrating Singapore, Our Home at Singapore Day 2013
 date: 2013-10-12
-permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2013
+permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2013/
 ---
 Deputy Prime Minister Teo Chee Hean and Minister in the Prime Minister’s Office Grace Fu joined 6,200 Singaporeans living, working and studying in Australia at The Royal Botanic Gardens, Sydney for Singapore Day 2013 to “Celebrate Singapore, Our Home”<sup>1</sup> today.
 

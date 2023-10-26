@@ -2,7 +2,7 @@
 layout: post
 title: 'Singaporeans in Shanghai re-live their connection to home at Singapore Day 2011'
 date: 2011-04-16T00:00:00.000Z
-permalink: /media-centre/press-releases/Singaporeans-in-shanghai-re-live-their-connection-to-home-at-singapore-day-2011
+permalink: /media-centre/press-releases/singaporeans-in-shanghai-re-live-their-connection-to-home-at-singapore-day-2011/
 
 ---
 

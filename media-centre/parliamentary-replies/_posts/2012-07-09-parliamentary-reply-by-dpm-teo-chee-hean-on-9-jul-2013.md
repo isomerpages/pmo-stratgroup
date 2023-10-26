@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Teo Chee Hean on number of Singaporean citizens, PRs and Non-residents according to age groups'
 date: 2012-07-09T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jul-2013
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jul-2013/
 
 ---
 

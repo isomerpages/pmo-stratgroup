@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Teo Chee Hean on breakdown of current and projected population size'
 date: 2017-04-04T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-4-apr-2017
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-4-apr-2017/
 
 ---
 

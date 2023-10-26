@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Minister Grace Fu at the Women in Leadership Summit'
 date: 2015-01-29T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-women-in-leadership-summit-on-29-jan-2015
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-women-in-leadership-summit-on-29-jan-2015/
 
 ---
 

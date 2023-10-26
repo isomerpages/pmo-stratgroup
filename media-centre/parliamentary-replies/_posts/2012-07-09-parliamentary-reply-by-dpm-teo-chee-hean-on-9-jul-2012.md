@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by DPM Teo Chee Hean on birth and singlehood rates'
 date: 2012-07-09T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jul-2012
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-9-jul-2012/
 
 ---
 
@@ -32,6 +32,6 @@ The proportion of single Singaporeans has been rising. Among Singaporean men age
 
 Chart 2: Proportion of singles among citizens aged 30-39 (%)  
 
-![GraphHood](/images/GraphHood.jpg)  
+![GraphHood](/images/graphhood.jpg)  
 
 Source: Department of Statistics

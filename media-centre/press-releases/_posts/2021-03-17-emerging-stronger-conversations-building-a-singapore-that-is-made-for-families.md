@@ -2,7 +2,7 @@
 layout: post
 title:  "Emerging Stronger Conversations - Building a Singapore that is Made For Families"
 date:   2021-03-17
-permalink: "/media/press-release/emerging-stronger-conversations-building-a-singapore-that-is-made-for-families"
+permalink: /media/press-release/emerging-stronger-conversations-building-a-singapore-that-is-made-for-families/
 ---
 
 

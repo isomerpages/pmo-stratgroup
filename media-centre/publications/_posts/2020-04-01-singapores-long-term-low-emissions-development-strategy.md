@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Singapore''s Long-Term Low-Emissions Development Strategy'
-permalink: /media/publications/singapores-long-term-low-emissions-development-strategy
+permalink: /media/publications/singapores-long-term-low-emissions-development-strategy/
 
 ---
 

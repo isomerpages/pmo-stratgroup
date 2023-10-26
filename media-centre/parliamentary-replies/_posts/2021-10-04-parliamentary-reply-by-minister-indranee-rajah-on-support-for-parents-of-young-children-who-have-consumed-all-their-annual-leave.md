@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on support for parents of young children who have consumed all their annual leave'
 date: 2021-10-04T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-support-for-parents-of-young-children-who-have-consumed-all-their-annual-leave
+permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-support-for-parents-of-young-children-who-have-consumed-all-their-annual-leave/
 
 ---
 

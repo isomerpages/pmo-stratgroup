@@ -2,7 +2,7 @@
 layout: post
 title:  "Wanted: Videos to Inspire Climate Change Action"
 date:   2014-03-24
-permalink: "/media-centre/press-releases/wanted-videos-to-inspire-climate-change-action"
+permalink: /media-centre/press-releases/wanted-videos-to-inspire-climate-change-action/
 ---
 
 _The National Climate Change Secretariat (NCCS) is inviting students and members of the public to submit short videos aimed at inspiring climate change action in this year’s National Climate Change Competition._

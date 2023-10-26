@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Josephine Teo on the Adjournment Motion on Rational Immigration Policy'
 date: 2020-03-26T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-the-Adjournment-Motion-on-Rational-Immigration-Policy
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-the-adjournment-motion-on-rational-immigration-policy/
 
 ---
 

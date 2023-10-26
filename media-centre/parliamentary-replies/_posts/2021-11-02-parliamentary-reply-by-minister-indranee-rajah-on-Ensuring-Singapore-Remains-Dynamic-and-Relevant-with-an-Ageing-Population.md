@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on Ensuring Singapore Remains Dynamic and Relevant with an Ageing Population'
 date: 2021-11-02T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-ensuring-Singapore-remains-dynamic-and-relevant-with-an-ageing-population
+permalink: /media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-ensuring-singapore-remains-dynamic-and-relevant-with-an-ageing-population/
 
 ---
 

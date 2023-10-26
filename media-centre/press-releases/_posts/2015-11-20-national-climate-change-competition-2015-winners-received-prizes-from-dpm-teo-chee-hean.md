@@ -2,7 +2,7 @@
 layout: post
 title:  "National Climate Change Competition 2015: Winners received prizes from DPM Teo Chee Hean"
 date:   2015-11-20
-permalink: "/media-centre/national-climate-change-competition-2015-winners-received-prizes-from-dpm-teo-chee-hean"
+permalink: /media-centre/national-climate-change-competition-2015-winners-received-prizes-from-dpm-teo-chee-hean/
 ---
 
 **Singapore, 20 November 2015 -** The winners of the National Climate Change Competition (NCCC) 2015 received their prizes this afternoon from Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, and Chairman of the Inter-Ministerial Committee on Climate Change.

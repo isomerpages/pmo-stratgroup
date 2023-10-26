@@ -3,7 +3,7 @@ layout: post
 title: $3,000 Baby Support Grant Helps Singaporeans Start Families in the midst
   of Pandemic Concerns
 date: 2020-10-09
-permalink: /media-centre/press-releases/3000-Baby-Support-Grant-Helps-Singaporeans-Start-Families-in-the-midst-of-Pandemic-Concerns
+permalink: /media-centre/press-releases/3000-baby-support-grant-helps-singaporeans-start-families-in-the-midst-of-pandemic-concerns/
 ---
 To ease couples’ financial concerns about having a child in the midst of the COVID-19 pandemic and recession, the Government will provide a **one-off Baby Support Grant (BSG) of $3,000 to supplement the existing Baby Bonus Cash Gift (BBCG), for children born from 1 October 2020 to 30 September 2022**. The BSG adds to the Marriage and Parenthood (M&P) Package, to further help couples defray child-raising costs during these extraordinary times.
 
@@ -34,7 +34,7 @@ The Government encourages more employers, companies and community groups to supp
 Minister Indranee Rajah, Minister in the Prime Minister’s Office, National Population and Talent Division, said: “This pandemic has not been easy on Singaporeans who are planning to get married and start their families. The Government will spare no effort to help couples meet their marriage and parenthood aspirations. We also hope that more businesses and community groups will play their part to support couples juggle work and family, provide affordable goods and services for young families, and ultimately, create a Singapore that is made for families.”  
 
 Download:  
-[Examples of companies joining the Government in providing support to families](/files/media-centre/press-releases/Examples-of-businesses-showing-support-for-families-2.pdf)
+[Examples of companies joining the Government in providing support to families](/files/media-centre/press-releases/examples-of-businesses-showing-support-for-families-2.pdf)
 
 *For more information on Made For Families, visit [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg)  
 For more information on Baby Bonus Parenting Resources portal, visit [https://familiesforlife.sg/Parenting/Pages/Home.aspx](https://familiesforlife.sg/Parenting/Pages/Home.aspx)*

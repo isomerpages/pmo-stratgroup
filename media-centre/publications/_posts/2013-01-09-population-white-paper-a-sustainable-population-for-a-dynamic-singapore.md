@@ -2,7 +2,7 @@
 layout: post
 title: 'Population White Paper: A Sustainable Population for a Dynamic Singapore'
 date: 2013-01-09T00:00:00.000Z
-permalink: /media-centre/population-white-paper-a-sustainable-population-for-a-dynamic-singapore
+permalink: /media-centre/population-white-paper-a-sustainable-population-for-a-dynamic-singapore/
 
 ---
 

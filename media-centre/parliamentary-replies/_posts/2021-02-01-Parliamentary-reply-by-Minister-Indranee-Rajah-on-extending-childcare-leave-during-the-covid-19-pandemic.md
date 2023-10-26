@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah on extending childcare leave during the COVID-19 pandemic'
 date: 2021-02-01T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-extending-childcare-leave-during-the-COVID-19-pandemic
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-extending-childcare-leave-during-the-covid-19-pandemic/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Parliamentary reply by Minister Indranee Rajah towards Population Trends and Policies'
 date: 2021-07-05T00:00:00.000Z
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-towards-population-trends-and-policies
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-towards-population-trends-and-policies/
 
 ---
 

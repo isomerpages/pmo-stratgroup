@@ -1,7 +1,7 @@
 ---
 title: Speech by Minister Indranee Rajah on Population at the Committee of
   Supply Debate 2022
-permalink: /media-centre/speeches/speech-by-minister-indranee-rajah-on-population-at-cos-2022
+permalink: /media-centre/speeches/speech-by-minister-indranee-rajah-on-population-at-cos-2022/
 date: 2022-03-02
 layout: post
 description: ""
@@ -155,4 +155,4 @@ We will press on to build a more inclusive and brighter future for Singaporeans.
 
 We will also continue to review our population strategies to ensure that they remain relevant to our needs. Together we will build a more resilient population, and keep Singaporeans at the heart of our population strategies.
 
-  * Infographic: [Comprehensive support for Singaporeans to start and raise families](/files/media-centre/press-releases/Infographic-comprehensive-support-to-start-and-raise-families.pdf)
+  * Infographic: [Comprehensive support for Singaporeans to start and raise families](/files/media-centre/press-releases/infographic-comprehensive-support-to-start-and-raise-families.pdf)

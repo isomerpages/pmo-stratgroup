@@ -2,7 +2,7 @@
 layout: post
 title: Celebrating Singapore, Our Home at Singapore Day 2014
 date: 2014-03-30
-permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2014
+permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2014/
 ---
 On 29th March, Prime Minister Lee Hsien Loong, Deputy Prime Minister Teo Chee Hean and Minister in the Prime Minister’s Office Grace Fu joined over 9,000 Singaporeans in Victoria Park, London for Singapore Day 2014. The event was a reunion for Singaporeans living, working and studying in the United Kingdom and Europe to come together and “Celebrate Singapore, Our Home”.
 

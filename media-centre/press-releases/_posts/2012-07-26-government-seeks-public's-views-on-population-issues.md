@@ -2,7 +2,7 @@
 layout: post
 title: "Government seeks public's views on population issues"
 date:  2012-07-26
-permalink: "/media-centre/press-releases/government-seeks-publics-views-on-population-issues"
+permalink: /media-centre/press-releases/government-seeks-publics-views-on-population-issues/
 ---
 
 As part of its ongoing public engagement on population issues, the National Population and Talent Division (NPTD) is releasing an Issues Paper to: 

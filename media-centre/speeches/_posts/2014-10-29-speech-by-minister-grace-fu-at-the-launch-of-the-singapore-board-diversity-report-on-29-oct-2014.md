@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister Grace Fu at the launch of the Singapore Board
   Diversity Report
 date: 2014-10-29T00:00:00.000Z
-permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-the-singapore-board-diversity-report-on-29-oct-2014
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-the-singapore-board-diversity-report-on-29-oct-2014/
 ---
 **“Champions needed to spur diversity in leadership”**
 
