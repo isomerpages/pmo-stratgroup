@@ -181,7 +181,7 @@ Our vision requires conviction and choice. It will take all of our collective ef
 
 <sub><sup>5</sup> Regarding adoption leave, the Government will fund 8 weeks and employers will fund 4 weeks, for the first two children. The Government will fund the full 12 weeks for the third and subsequent children. This is similar to the arrangement for Maternity Leave. </sub>
 
-[Summary of support measures for marriage and parenthood - Infographic (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2016-infographic.pdf)
-[Details of key initiatives to support Singaporean families - Factsheet (342kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2016-factsheet.pdf)
+[Summary of support measures for marriage and parenthood - Infographic (1mb, pdf)](/images/Speeches/cos-2016-infographic.pdf)
+[Details of key initiatives to support Singaporean families - Factsheet (342kb, pdf)](/images/Speeches/cos-2016-factsheet.pdf)
 
 

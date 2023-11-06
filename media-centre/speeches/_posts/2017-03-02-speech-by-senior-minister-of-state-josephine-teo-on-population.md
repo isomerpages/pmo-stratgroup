@@ -157,8 +157,8 @@ Thank you, Madam Chair.
 
 <sub><sup>2</sup> Examples of such courses include PA’s “Caregiving for Infants” and a confinement nanny training programme that is jointly conducted by KKH and WINGS. (WINGS is a non-profit organisation focused on promoting active ageing for women.)</sub>
 
-[Factsheet](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2017-factsheet.pdf)
+[Factsheet](/images/Speeches/cos-2017-factsheet.pdf)
 
-[Infographic](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2017-infographic.pdf)
+[Infographic](/images/Speeches/cos-2017-infographic.pdf)
 
 

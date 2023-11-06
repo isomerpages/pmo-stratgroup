@@ -18,7 +18,7 @@ Singapore’s total fertility rate (TFR)<sup>2</sup> has been on a general decli
 **Singapore’s total fertility rate has been declining**  
 Chart 1: Resident total fertility rate, 1975-2011
 
-![Resident-total-fertility-rate-1975-2011](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/resident-total-fertility-rate-1975-2011.png)
+![Resident-total-fertility-rate-1975-2011](/images/Press%20Release%20images/resident-total-fertility-rate-1975-2011.png)
 
 The declining trend in TFR is a serious and complex issue, and can be attributed to the following key factors:
 a. More people are staying single or getting married later, and
@@ -29,7 +29,7 @@ The proportion of singles has increased across all age groups between 2000 and 2
 **More Singaporeans are staying single**    
 Chart 2: Proportion of citizen singles by age group and sex
 
-![Proportion-of-citizen-singles-by-age-group-and-sex](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-citizen-singles-by-age-group-and-sex.png)
+![Proportion-of-citizen-singles-by-age-group-and-sex](/images/Press%20Release%20images/proportion-of-citizen-singles-by-age-group-and-sex.png)
 
 **Singaporeans are marrying and having their first child at a later age**  
 Table 3: Median age of citizens at first marriage, and median age of citizen mothers at first birth  
@@ -75,30 +75,30 @@ Later marriages lead to a delay in family formation and tend to result in famili
 **Women who marry later tend to have fewer children**    
 Chart 4: Average number of children born to ever-married citizen females among the 1965 - 1970 birth cohorts at age 40 years, by age at first marriage
 
-![Women-who-marry-later-tned-to-have-fewer-children](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/women-who-marry-later-tned-to-have-fewer-children.png)
+![Women-who-marry-later-tned-to-have-fewer-children](/images/Press%20Release%20images/women-who-marry-later-tned-to-have-fewer-children.png)
 
 **Married couples are having fewer children**  
 Chart 5: Distribution of citizen ever-married females by age group and number of children born
 
-![married-couples-are-having-fewer-children](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/married-couples-are-having-fewer-children.png)
+![married-couples-are-having-fewer-children](/images/Press%20Release%20images/married-couples-are-having-fewer-children.png)
 
 The decline in birth rates is observed across all ethnic groups. Chinese TFR has remained the lowest among the three main ethnic groups (see Chart 6).
 
 **Fertility rates have declined across all ethnic groups**    
 Chart 6: Resident TFR by ethnic group of mother
 
-![fertility-rates-have-declined-across-all-ethnic-groups](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/fertility-rates-have-declined-across-all-ethnic-groups.png)
+![fertility-rates-have-declined-across-all-ethnic-groups](/images/Press%20Release%20images/fertility-rates-have-declined-across-all-ethnic-groups.png)
 
 In line with the increasingly globalised nature of Singapore society, a significant proportion of marriages are between citizens and non-citizens (see Chart 7). As a result, the share of citizen births to citizen/non-citizen parents has increased in recent years. In 2011, 31.1% of citizen births had a non-citizen parent at the time of birth, as compared to 24.8% in 2000 (see Chart 8).
 
 **More Singaporeans are marrying and starting families with non-Singaporeans**  
 Chart 7: Proportion of citizen/non-citizen marriages among marriages involving at least one citizen
 
-![Proportion-of-citizen-non-citizen-marriages-among-marriages-involving-at-least-one-citizen](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-citizen-non-citizen-marriages-among-marriages-involving-at-least-one-citizen.png)
+![Proportion-of-citizen-non-citizen-marriages-among-marriages-involving-at-least-one-citizen](/images/Press%20Release%20images/proportion-of-citizen-non-citizen-marriages-among-marriages-involving-at-least-one-citizen.png)
 
 Chart 8: Share of citizen births to citizen/non-citizen couples, as a percentage of total citizen births
 
-![share-of-citizen-births-to-citizen-non-citizen-couples,-as-a-percentage-of-total-citizen-births](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/share-of-citizen-births-to-citizen-non-citizen-couples--as-a-percentage-of-total-citizen-births.png)
+![share-of-citizen-births-to-citizen-non-citizen-couples,-as-a-percentage-of-total-citizen-births](/images/Press%20Release%20images/share-of-citizen-births-to-citizen-non-citizen-couples--as-a-percentage-of-total-citizen-births.png)
 
 **Measures to support Marriage and Parenthood**  
  
@@ -112,7 +112,7 @@ Since implementation in 2001, the families of some 350,000 children have benefit
 
 **Singapore’s Marriage and Parenthood Package**
 
-![Singapore’s-Marriage-and-Parenthood-Package](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/singapore-s-marriage-and-parenthood-package.png)
+![Singapore’s-Marriage-and-Parenthood-Package](/images/Press%20Release%20images/singapore-s-marriage-and-parenthood-package.png)
 
 
 **PART II**  
@@ -123,12 +123,12 @@ Most developed societies have TFRs below the replacement rate. Singapore has exp
 **Fertility rates in developed East Asian societies have been on the decline**
 Chart 9: TFR comparison of selected developed societies in East Asia and Singapore
 
-![TFR-comparison-of-selected-developed-societies-in-East-Asia-and-Singapore](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/tfr-comparison-of-selected-developed-societies-in-east-asia-and-singapore.png)
+![TFR-comparison-of-selected-developed-societies-in-East-Asia-and-Singapore](/images/Press%20Release%20images/tfr-comparison-of-selected-developed-societies-in-east-asia-and-singapore.png)
 
 **A rising proportion in developed East Asian societies are staying single**
 Chart 10: Proportion of singles aged 30-34 by sex, selected East Asian developed societies<sup>4</sup>
 
-![Proportion-of-singles-aged-30-34-by-sex,-selected-East-Asian-developed-societies](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-singles-aged-30-34-by-sex--selected-east-asian-developed-societies.png)
+![Proportion-of-singles-aged-30-34-by-sex,-selected-East-Asian-developed-societies](/images/Press%20Release%20images/proportion-of-singles-aged-30-34-by-sex--selected-east-asian-developed-societies.png)
 
 While many developed countries continue to grapple with low birth rates, a few countries have seen an improvement in their fertility rates in recent years and have TFRs closer to the replacement rate (see Chart 11). For example, Sweden and Denmark have TFRs of 1.90 and 1.76 respectively. In these countries, a greater proportion of women have children, and have their first child at an earlier age (see Chart 12).
 
@@ -136,12 +136,12 @@ While many developed countries continue to grapple with low birth rates, a few c
 Chart 11: International TFR comparison of selected developed countries in Europe,
 US, and Australia
 
-![International-TFR-comparison-of-selected-developed-countries-in-Europe,-US,-and-Australia](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/international-tfr-comparison-of-selected-developed-countries-in-europe--us--and-australia.png)
+![International-TFR-comparison-of-selected-developed-countries-in-Europe,-US,-and-Australia](/images/Press%20Release%20images/international-tfr-comparison-of-selected-developed-countries-in-europe--us--and-australia.png)
 
 **Women have children at a younger age in countries with higher fertility rates**  
 Chart 12: Average age at first birth and TFR in selected countries<sup>6</sup>
 
-![Average-age-at-first-birth-and-TFR-in-selected-countries](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/average-age-at-first-birth-and-tfr-in-selected-countries.png)
+![Average-age-at-first-birth-and-TFR-in-selected-countries](/images/Press%20Release%20images/average-age-at-first-birth-and-tfr-in-selected-countries.png)
 
 This can be partly attributed to the social and cultural contexts in these countries. For instance, some provide substantial support for mothers with children, and their workplace culture tends to be more supportive of parenting needs. However, the main difference is that these societies have more children born outside of marriage, ranging from 30% to more than 50%, compared to 1.5%-2.0% in East Asian societies.<sup>7</sup> Out-of-wedlock births would be a significant departure from Singapore’s societal norms, and are likely to lead to major changes in the make-up of our society and give rise to other social issues.
 
@@ -179,7 +179,7 @@ We will need to develop an approach best suited to our circumstances, cultural n
  
 The Government is reviewing policies and measures to support citizens in getting married and having children. As part of the public engagement leading to the White Paper on Population, we welcome suggestions on how to improve Singapore’s birth rate, and how different stakeholders can play a part in promoting marriage and parenthood and fostering a supportive environment for family life. (We welcome you to submit your suggestions through the REACH portal at: [https://www.reach.gov.sg/Feedback.aspx](https://www.reach.gov.sg/Feedback.aspx).
 
-Download annex [here.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/ocassional-paper-marriage-and-parenthood-trends-annex.pdf)
+Download annex [here.](/images/Press%20Release%20images/PDFs/ocassional-paper-marriage-and-parenthood-trends-annex.pdf)
 
 <sub><sup>1</sup> Citizen data has been used for this Occasional Paper, except Total Fertility Rate (TFR), which is based on resident data for international comparison.</sub>  
 <sub><sup>2</sup> TFR is the average number of children that would be born to a hypothetical woman over her lifetime if she experiences the exact same age-specific fertility as current cohorts of women of child-bearing age (i.e. women aged 15 - 49). Age-specific fertility refers to the average number of children born to women of specific age groups, e.g. women aged 30 - 34.</sub>  
