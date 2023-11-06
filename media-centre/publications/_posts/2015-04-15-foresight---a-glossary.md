@@ -14,6 +14,6 @@ Foresight: A Glossary is a guide to the concepts, tools and methodologies common
 
 
 
-[Foresight - A Glossary (3.8mb, pdf)](/images/PublicationImages/PDFs/csf-csc_foresight--a-glossary.pdf)
+[Foresight - A Glossary (3.8mb, pdf)](/images/publicationimages/pdfs/csf-csc_foresight--a-glossary.pdf)
 
 

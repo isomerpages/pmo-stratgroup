@@ -12,5 +12,5 @@ The [Centre for The Strategic Futures](https://www.csf.gov.sg) (CSF) produced th
 
 Download:
 
-[Future Deck (5.7mb, pdf)](/images/PublicationImages/future-deck.pdf)
+[Future Deck (5.7mb, pdf)](/images/publicationimages/future-deck.pdf)
 

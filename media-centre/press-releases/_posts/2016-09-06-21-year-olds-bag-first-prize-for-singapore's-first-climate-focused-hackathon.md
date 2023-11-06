@@ -38,7 +38,7 @@ Mr Desmond Lee, Senior Minister of State for Home Affairs and National Developme
 The winning ideas will be on exhibit at Marina Bay Sands Level 3 from 7 to 9 September 2016 and at the Green Living Expo from 9 to 11 September 2016.
 
 Enclosed:
-[AnnexA](/images/Press%20Release%20images/PDFs/hackathon_annexa.pdf)
+[AnnexA](/images/press%20release%20images/pdfs/hackathon_annexa.pdf)
 
 Jointly issued by: Building and Construction Authority, JTC Corporation and National Climate Change Secretariat, Strategy Group
 

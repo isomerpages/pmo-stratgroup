@@ -17,7 +17,7 @@ Mr Chairman, I thank the honourable Members who have spoken on the issues of Sin
 
 Our resident total fertility rate reached a new low of 1.16 <sup>1</sup> last year, in spite of efforts to promote marriage and parenthood. One cause of this is that married women are having fewer children. They also marry later. The average number of children born to ever-married citizen females aged 40-49 fell from 2.76 in 1990 to 2.22 in 2000, and to 2.08 in 2010. While the TFR of ever-married women has declined, they still have around two children per couple.
 
-The other contributing factor that has the greatest impact on our low TFR, is that more Singaporeans are remaining single. [Table 1: Proportion of Single Citizens](/images/Speeches/cos-2011-table-1.pdf) In 2010, 62.0% of females aged between 25 and 29 were single, up from 45.5% in 2000. For males of the same age group, 78.5% were single in 2010, up from 66.4% in 2000. Singlehood rates for those aged 30 to 34 have also increased significantly.
+The other contributing factor that has the greatest impact on our low TFR, is that more Singaporeans are remaining single. [Table 1: Proportion of Single Citizens](/images/speeches/cos-2011-table-1.pdf) In 2010, 62.0% of females aged between 25 and 29 were single, up from 45.5% in 2000. For males of the same age group, 78.5% were single in 2010, up from 66.4% in 2000. Singlehood rates for those aged 30 to 34 have also increased significantly.
 
 #### FACILITATING DATING OPPORTUNITIES FOR SINGAPOREANS
 

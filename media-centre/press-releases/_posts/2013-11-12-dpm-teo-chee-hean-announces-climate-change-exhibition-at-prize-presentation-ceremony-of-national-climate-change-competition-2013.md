@@ -11,7 +11,7 @@ The theme for the NCCC 2013 is "Be the Change. It Starts with You." It recognise
 
 The NCCC 2013 attracted 214 entries from over 700 students from primary schools to tertiary institutions. The winning videos were selected based on their creativity, originality and how well they conveyed the message of climate change.
 
-A Viewers' Choice contest was conducted separately on the National Climate Change Secretariat's (NCCS) Climate Change SG Facebook [www.facebook.com/climatechangeSG](https://www.facebook.com/ClimateChangeSG/). Members of the public were invited to cast their votes for their favourite video. The contest attracted over 900 voters, and Save Us by Yio Chu Kang Secondary School emerged as the most popular video. The list of winning videos in each of the categories is at [Annex A.](/images/Press%20Release%20images/PDFs/nccc2013_media-release_annex2.pdf)
+A Viewers' Choice contest was conducted separately on the National Climate Change Secretariat's (NCCS) Climate Change SG Facebook [www.facebook.com/climatechangeSG](https://www.facebook.com/ClimateChangeSG/). Members of the public were invited to cast their votes for their favourite video. The contest attracted over 900 voters, and Save Us by Yio Chu Kang Secondary School emerged as the most popular video. The list of winning videos in each of the categories is at [Annex A.](/images/press%20release%20images/pdfs/nccc2013_media-release_annex2.pdf)
 
 DPM Teo also unveiled plans by the NCCS, Science Centre Singapore (SCS) and Meteorological Service Singapore (MSS) to revamp the Climate Change Exhibition at the Science Centre Singapore. The Climate Change Exhibition was first launched in May 2008.
 
@@ -19,7 +19,7 @@ Aimed at generating a deeper understanding of the challenges of climate change a
 
 In his speech at the event, DPM Teo highlighted the growth opportunities for Singaporeans in areas such as climate science and the clean tech sector. He said, "As Singapore positions itself as a green growth hub, there will be exciting new options for Singaporeans to pursue studies and careers in these fields. You can be at the fore-front of climate change action, and play a part to develop solutions that benefit Singapore, and the rest of the world."
 
-More details on the climate change exhibition are at [Annex B.](/images/Press%20Release%20images/PDFs/nccc2013_press_release_annex_b.pdf)
+More details on the climate change exhibition are at [Annex B.](/images/press%20release%20images/pdfs/nccc2013_press_release_annex_b.pdf)
 
 Issued by the [National Climate Change Secretariat](https://www.nccs.gov.sg)
 

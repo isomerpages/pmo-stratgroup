@@ -56,12 +56,12 @@ Singapore Day is part of the OSU’s suite of programmes and initiatives to enga
 **ANNEX B**
 
 **PHOTOS OF SINGAPORE DAY 2012**
-![prospect+park](/images/Press%20Release%20images/prospect-park.jpg)
+![prospect+park](/images/press%20release%20images/prospect-park.jpg)
 
 Singapore Day 2012 attracted Singaporeans to Prospect Park in Brooklyn, New York, for a slice of home and to celebrate all things Singaporean.
-![singaporean+attendee](/images/Press%20Release%20images/singaporean-attendee.jpg)
+![singaporean+attendee](/images/press%20release%20images/singaporean-attendee.jpg)
 
 Deputy Prime Minister and Minister-in-charge of the National Population and Talent Division Teo Chee Hean sharing a light-hearted moment with a Singaporean attendee at Singapore Day 2012
-![family](/images/Press%20Release%20images/family032b845b617a6d73a304ff0000443480.png)
+![family](/images/press%20release%20images/family032b845b617a6d73a304ff0000443480.png)
 
 Singaporeans at Singapore Day 2012 enjoying a mouth-watering range of local hawker favourites such as black pepper crab, satay, chicken rice and roti prata.

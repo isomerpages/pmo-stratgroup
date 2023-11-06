@@ -11,4 +11,4 @@ Download:
 
 [Marriage and Parenthood Booklet 2020 (4mb, pdf)](https://www.go.gov.sg/mpbooklet)
 
-[Marriage and Parenthood Booklet 2016 (3mb, pdf)](/images/PublicationImages/m-p-booklet.pdf)
+[Marriage and Parenthood Booklet 2016 (3mb, pdf)](/images/publicationimages/m-p-booklet.pdf)

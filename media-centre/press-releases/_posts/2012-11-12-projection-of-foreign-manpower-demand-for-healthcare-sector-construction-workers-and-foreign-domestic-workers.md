@@ -21,7 +21,7 @@ Foreign Domestic Workers (FDWs) provide care-giving support for families with el
 
 The construction workload is expected to increase as the Government ramps up infrastructure development such as the expansion of our rail network, launching more Build-To-Order housing projects, creating more social and educational facilities, and building more nursing homes and hospitals to cater to the ageing population. The Government has introduced measures to promote productivity in the built environment sector through the Construction Productivity Roadmap. Manpower policies have also been tightened to encourage more reliance on productivity improvements. Even with these measures, we expect demand for construction workers to remain strong in the next 2-3 years, from 250,000 in 2011 to about 280,000 in the next 2-3 years. With the projected productivity improvements, demand for construction Work Permit holders should be within the range of 250,000 to 300,000 by 2030.
 
-The Occasional Paper on “Projection of Foreign Manpower Demand for Healthcare Sector, Construction Workers and Foreign Domestic Workers” is available for download [here](/images/Press%20Release%20images/PDFs/occasional-paper-projection-of-foreign-manpower-demand-healthcare-construction-foreign-domestic-workers.pdf).
+The Occasional Paper on “Projection of Foreign Manpower Demand for Healthcare Sector, Construction Workers and Foreign Domestic Workers” is available for download [here](/images/press%20release%20images/pdfs/occasional-paper-projection-of-foreign-manpower-demand-healthcare-construction-foreign-domestic-workers.pdf).
 
 – END –
 

@@ -11,7 +11,7 @@ permalink: /media-centre/press-releases/article/details/key-findings-from-marria
 
 **Introduction**
 
-The 2016 Marriage and Parenthood (M&P) Survey was commissioned by the National Population and Talent Division, Strategy Group, Prime Minister’s Office, to understand public attitudes and perceptions toward marriage and parenthood. Similar surveys were conducted in 2004, 2007 and 2012. A total of 2,940 single (never-married) and 2,861 married Singapore residents, aged 21 to 45 years old, were surveyed from August to December 2016 (refer to [Annex A](/images/Press%20Release%20images/PDFs/mp-survey-2016-annex-a.pdf) for the profile of respondents).
+The 2016 Marriage and Parenthood (M&P) Survey was commissioned by the National Population and Talent Division, Strategy Group, Prime Minister’s Office, to understand public attitudes and perceptions toward marriage and parenthood. Similar surveys were conducted in 2004, 2007 and 2012. A total of 2,940 single (never-married) and 2,861 married Singapore residents, aged 21 to 45 years old, were surveyed from August to December 2016 (refer to [Annex A](/images/press%20release%20images/pdfs/mp-survey-2016-annex-a.pdf) for the profile of respondents).
 
 **KEY FINDINGS ON SINGLE RESPONDENTS**
 
@@ -19,21 +19,21 @@ _**Marriage aspirations remain strong**_
 83% of single Millennials (aged 21-35) indicated they intend to marry, comparable to 86% in 2012.
 
 _**However, many are not proactive in dating**_  
-Of the single respondents surveyed, 59% were not currently dating seriously (i.e. dating with a view toward marriage), and 41% had never dated seriously before. This trend is similar to 2012 ([Annex B,](/images/Press%20Release%20images/PDFs/mp-survey-2016-annex-b.pdf) Chart 1).
+Of the single respondents surveyed, 59% were not currently dating seriously (i.e. dating with a view toward marriage), and 41% had never dated seriously before. This trend is similar to 2012 ([Annex B,](/images/press%20release%20images/pdfs/mp-survey-2016-annex-b.pdf) Chart 1).
 
-Among those not dating seriously, 42% said that they prefer to leave dating to chance ([Annex B,](/images/Press%20Release%20images/PDFs/mp-survey-2016-annex-b2.pdf) Chart 2).
+Among those not dating seriously, 42% said that they prefer to leave dating to chance ([Annex B,](/images/press%20release%20images/pdfs/mp-survey-2016-annex-b2.pdf) Chart 2).
 
 _**Friends and colleagues are most likely to bring singles together**_
 Over 70% of singles who were/had been in serious relationships indicated that they had met their partner through friends, at school, or the workplace.
 
 The survey also revealed that single respondents were most comfortable with meeting a partner through friends (86%), recreational/social activities (85%) or through colleagues (79%).
 
-Online channels and dating apps have grown in acceptance. Around 43% were comfortable with meeting a partner through online dating websites or apps, more than double from 19% in 2012. Among singles who were dating/had dated seriously, 13% met their partner through online channels, almost double from 7% in 2012 ([Annex B,](/images/Press%20Release%20images/PDFs/mp-survey-2016-annex-b2.pdf) Charts 3A and 3B).
+Online channels and dating apps have grown in acceptance. Around 43% were comfortable with meeting a partner through online dating websites or apps, more than double from 19% in 2012. Among singles who were dating/had dated seriously, 13% met their partner through online channels, almost double from 7% in 2012 ([Annex B,](/images/press%20release%20images/pdfs/mp-survey-2016-annex-b2.pdf) Charts 3A and 3B).
 
 **KEY FINDINGS ON MARRIED RESPONDENTS**
 
 Most married respondents prefer 2 or more children
-Parenthood aspirations remain strong. When asked about their ideal number of children, a vast majority (92%) indicated preference to have 2 or more children, comparable to 91% in 2012 ([Annex B,](/images/Press%20Release%20images/PDFs/mp-survey-2016-annex-b2.pdf) Table 4).
+Parenthood aspirations remain strong. When asked about their ideal number of children, a vast majority (92%) indicated preference to have 2 or more children, comparable to 91% in 2012 ([Annex B,](/images/press%20release%20images/pdfs/mp-survey-2016-annex-b2.pdf) Table 4).
 
 Respondents who indicated that they were unlikely to have children/more children cited both practical concerns (e.g. financial cost, lack of good caregiving arrangements) and difficulties in managing work and family demands among the top reasons (Annex B, Table 5).
 

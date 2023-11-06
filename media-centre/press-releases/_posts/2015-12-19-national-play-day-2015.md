@@ -19,5 +19,5 @@ MP Tin Pei Ling, who took part as a Special Guest at the inaugural Stroller Walk
 
 **ANNEX A**. 
 
-![anneximage](/images/Press%20Release%20images/PDFs/annexImage.jpg)
+![anneximage](/images/press%20release%20images/pdfs/anneximage.jpg)
 

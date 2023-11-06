@@ -24,7 +24,7 @@ There are also plans to organise complementary outreach and enrichment programme
 **National Climate Change Competition 2014**   
 Winners of the National Climate Change Competition (NCCC) 2014 were also announced at an award ceremony held in conjunction with the launch of the exhibition. Organised by NCCS as part of its outreach to raise awareness and to encourage action on climate change, the competition attracted more than 240 entries from 847 participants. Featuring short three-minute videos based on the theme #change4future, this year's competition also included entries from members of the public in the new Open Category. The winning videos were selected based on their creativity, originality and how well they conveyed the message of climate change.
 
-The complete list of winners and information on the competition can be found in [Annex A.](/images/Press%20Release%20images/PDFs/20141114_annex_a.pdf)
+The complete list of winners and information on the competition can be found in [Annex A.](/images/press%20release%20images/pdfs/20141114_annex_a.pdf)
 
 "The videos reflect the growing awareness among young Singaporeans on how climate change can affect us and what we can do as individuals to reduce our impact on the climate. We hope their videos will inspire Singaporeans to make the change for a more sustainable future by adopting a greener lifestyle", said Mr Yuen Sai Kuan, Director of 3P Network Division, National Climate Change Secretariat.
 
