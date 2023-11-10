@@ -245,6 +245,6 @@ Minister, you had a dialogue with Singaporeans overseas earlier. What issues do 
 
 **PHOTOS OF SINGAPORE DAY**
 
-(pls refer to [powerpoint slides](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/singapor.ppt))
+(Please refer to [powerpoint slides](/images/press%20release%20images/pdfs/singapor.ppt))
 
 <sub><sup>1</sup>Please refer to Annexes B, C and D for DPM Teo Chee Hean’s and Minister Grace Fu’s comments at Singapore Day.</sub>

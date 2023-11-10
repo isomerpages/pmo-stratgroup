@@ -12,7 +12,7 @@ sections:
         emerging issues over the medium to long-term. It partners public
         agencies to strengthen whole-of-government effort on key cross-cutting
         issues, such as population and climate change.
-      background: /images/SG-homepage.jpg
+      background: /images/sg-homepage.jpg
       button: Read More
       url: /who-we-are/
   - infopic:
@@ -43,7 +43,7 @@ sections:
       description: Learn how our fellow citizens and businesses have progressed over
         the past two years.
       url: https://www.go.gov.sg/SPOR
-      image: /images/SPOR 2022 Banner.png
+      image: /images/spor 2022 banner.png
       alt: alt text
       button: Read More
   - resources:

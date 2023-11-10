@@ -6,6 +6,7 @@ title: Speech by Senior Minister of State Josephine Teo at the 2nd Multipartite
 date: 2016-10-10T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-2nd-multipartite-regional-meeting-on-financial-security-of-older-women-in-the-east-and-southeast-asia-10-oct-2016/
 ---
+
 Partners from the Tsao Foundation and Citi Foundation,
 
 Ladies and Gentlemen,
@@ -36,7 +37,7 @@ That is why I fully support the Tsao Foundation’s tagline ‘Longevity is oppo
 
 However, longevity without financial adequacy would limit opportunities. That is why building up towards retirement adequacy is so important.
 
-**Ensuring Retirement Adequacy through Savings** 
+**Ensuring Retirement Adequacy through Savings**
 
 In Singapore, our comprehensive social security savings scheme, the Central Provident Fund (CPF), is primarily accumulated via employer and employee contributions. While the disparity in average net CPF balances between men and women has narrowed over the years<sup>5</sup>, we can do more to help our current cohort of older women prepare for retirement.
 
@@ -44,7 +45,7 @@ One measure is the CPF Lifelong Income for the Elderly scheme, or CPF Life, an a
 
 For women who are homemakers and have little in their CPF, we have made it easier for Singaporeans to transfer their CPF savings to their spouses.
 
-Apart from building up contributions to savings, we introduced the Silver Housing Bonus in 2013 to help seniors supplement their retirement incomes through right-sizing their homes. The Government supports the efforts of such home-owners by providing additional top ups to their CPF Retirement Account.<sup>7</sup> 
+Apart from building up contributions to savings, we introduced the Silver Housing Bonus in 2013 to help seniors supplement their retirement incomes through right-sizing their homes. The Government supports the efforts of such home-owners by providing additional top ups to their CPF Retirement Account.<sup>7</sup>
 
 For lower-income seniors who were not able to accumulate much savings during their working lives, we introduced the Silver Support Scheme in 2015. This provides a quarterly cash supplement to the bottom 20 per cent of elderly Singaporeans. They will automatically receive their cash supplement, as there is no need to apply. This scheme will benefit more than 140,000 elderly Singaporeans in 2016.
 
@@ -56,7 +57,7 @@ Beyond learning for interest, we also provide appropriate employment training an
 
 In 2007, the Workfare Income Supplement (WIS) scheme was introduced as a permanent feature of Singapore's social security system. WIS rewards regular work and individual effort by providing cash and CPF payouts to help with expenditure needs and retirement savings of older lower-wage workers. The WIS is complemented by the Workfare Training Support (WTS) scheme, which helps older lower-wage workers upgrade their skills and attain better employability and earning potential.
 
-I am happy to share that our efforts in creating a more elder-friendly working environment has paid off. More seniors have been able to remain in or return to the workforce. Last year, more than 40 per cent of seniors aged 65 to 69 were still working, compared with just 24 per cent a decade ago.<sup>9</sup> 
+I am happy to share that our efforts in creating a more elder-friendly working environment has paid off. More seniors have been able to remain in or return to the workforce. Last year, more than 40 per cent of seniors aged 65 to 69 were still working, compared with just 24 per cent a decade ago.<sup>9</sup>
 
 **Contributions from Our Grassroots and Community Organisations**
 
@@ -70,7 +71,7 @@ I am glad to see more such efforts emerging, such as the Tsao Foundation’s “
 
 I hope that on-going exchanges between community organisations, researchers and policymakers, such as through today’s forum, will continue and spur innovative new efforts to enhance the financial security of older women.
 
-**Closing Remarks** 
+**Closing Remarks**
 
 Let me conclude. Longevity provides opportunities we don’t want to miss. To fully realise the benefits of longevity, we need innovative and supportive policies, as well as active ground-up initiatives from employers and community organisations, to strengthen the financial security of older women. I hope the discussions and actions arising from this meeting will make a contribution to improving the lives of older women all over the world.
 
@@ -78,7 +79,7 @@ I thank Tsao Foundation, Citi Foundation and the Regional Network partners from 
 
 Thank you.
 
-<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. [https://raw.githubusercontent.com/isomerpages/isomerpages-stratgroup/master/images/PublicationImages/population-in-brief-2016.pdf](https://raw.githubusercontent.com/isomerpages/isomerpages-stratgroup/master/images/PublicationImages/population-in-brief-2016.pdf) </sub>
+<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. [/images/PublicationImages/population-in-brief-2016.pdf](/images/publicationimages/population-in-brief-2016.pdf) </sub>
 
 <sub><sup>2</sup> "Singapore’s Silver Age" by Feng Zengkun. NPTD Population SG, Strategy Group, Prime Minister’s Office, 3 August 2016. </sub>
 

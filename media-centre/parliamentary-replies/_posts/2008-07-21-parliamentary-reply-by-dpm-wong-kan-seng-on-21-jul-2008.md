@@ -80,6 +80,6 @@ As a society, Singaporeans must want to encourage and support marriage and paren
 
 <sub>[3]</sub> TFR in 2006 for Portugal and Italy was 1.35, Greece was 1.39 and Spain was 1.38.
 
-<sub>Handout 1 -  [Statistical Trends](https://github.com/isomerpages/isomerpages-stratgroup/raw/staging/images/parliamentary%20files/20080721-parliamentary-reply-dpm-wong-statistical-trends-handout.pdf).
+<sub>Handout 1 -  [Statistical Trends](/images/parliamentary%20files/20080721-parliamentary-reply-dpm-wong-statistical-trends-handout.pdf).
 
-<sub>Handout 2 - [Comparison of M&P Benefits and Taxes](https://github.com/isomerpages/isomerpages-stratgroup/raw/staging/images/parliamentary%20files/20080721-parliamentary-reply-dpm-wong-comparison-marriage-and-parenthood-benefits-and-taxes-handout.pdf).
+<sub>Handout 2 - [Comparison of M&P Benefits and Taxes](/images/parliamentary%20files/20080721-parliamentary-reply-dpm-wong-comparison-marriage-and-parenthood-benefits-and-taxes-handout.pdf).

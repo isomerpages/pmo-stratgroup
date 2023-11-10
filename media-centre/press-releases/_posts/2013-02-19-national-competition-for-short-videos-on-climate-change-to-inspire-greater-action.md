@@ -60,5 +60,5 @@ The winning teams of the Technology Project Challenge category of NCCC 2012 also
 
 Congratulating the winners, Mr Niam said, “I am impressed by our youths’ energy and enthusiasm to develop their ideas into prototypes to address climate change. The ideas utilise technology in different ways to achieve greater energy efficiency, reduce emissions and mitigate climate change.”
 
-A factsheet of the winners of the Technology Project Challenge, descriptions of their projects and the prizes is at the [Annex.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/nccc2013_media-release_annex.pdf)
+A factsheet of the winners of the Technology Project Challenge, descriptions of their projects and the prizes is at the [Annex.](/images/press%20release%20images/pdfs/nccc2013_media-release_annex.pdf)
 
