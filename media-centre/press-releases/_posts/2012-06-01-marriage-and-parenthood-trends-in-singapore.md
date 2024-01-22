@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Marriage and Parenthood Trends in Singapore"
-date:   2012-06-01
+title: Marriage and Parenthood Trends in Singapore
+date: 2012-06-01
 permalink: /media-centre/press-releases/marriage-and-parenthood-trends-in-singapore/
+variant: markdown
 ---
-
 Introduction
 
 This paper discusses marriage and parenthood trends in Singapore and efforts to address our falling birth rates.<sup>1</sup>
@@ -35,7 +35,7 @@ Chart 2: Proportion of citizen singles by age group and sex
 Table 3: Median age of citizens at first marriage, and median age of citizen mothers at first birth  
  
  <table class="table-h">
-  <tr>
+  <tbody><tr>
     <th> </th>
     <th>2000</th>
     <th>2010</th>
@@ -65,7 +65,7 @@ Table 3: Median age of citizens at first marriage, and median age of citizen mot
     <td>29.8</td>
     <td>29.8</td>
   </tr>
-</table>  
+</tbody></table>  
 
 
 Source: DOS, ICA
@@ -104,7 +104,7 @@ Chart 8: Share of citizen births to citizen/non-citizen couples, as a percentage
  
 Encouraging marriage and parenthood is a priority for the Government. The Government provides a broad range of measures to support Singaporeans’ aspirations of getting married and having children.
 1. To help singles find their life partner, the Social Development Network reaches out to around 100,000 singles each year to provide them with more social interaction opportunities.
-2. There are housing schemes to help couples set up home. The Housing & Development Board has significantly increased the supply of Build-to-Order (BTO) flats, and priority is given to first-time applicants in purchasing their flats. Young couples can also apply for CPF Housing Grants (such as the Family Grant and the Additional CPF Housing Grant) to help them finance the purchase of public housing.
+2. There are housing schemes to help couples set up home. The Housing &amp; Development Board has significantly increased the supply of Build-to-Order (BTO) flats, and priority is given to first-time applicants in purchasing their flats. Young couples can also apply for CPF Housing Grants (such as the Family Grant and the Additional CPF Housing Grant) to help them finance the purchase of public housing.
 3. To help parents defray the costs of raising children, there is the Baby Bonus Scheme, comprising a cash gift and the Child Development Account (CDA) with matching co-savings from the Government. Subsidised education and healthcare, as well as significant tax rebates and tax reliefs also help to ease child-raising costs.
 4. In the area of work-life support, mothers have maternity leave of 16 weeks. To facilitate shared parental responsibilities in looking after children, each parent has paid child care leave of 6 days per year for children up to age 7, and an additional 6 days of unpaid infant care leave per year for children up to age 2.
 5. To provide parents with child care options, the Government has focused on improving the quality, affordability and accessibility of child care services. Parents can qualify for child care subsidies and tap on the savings in their child’s CDA to pay child care fees. To improve the quality of child care, the Government funds scholarships and teaching awards to attract more teachers into the child care sector. Efforts have also been stepped up to build new centres in housing estates with high demand.
@@ -157,7 +157,7 @@ B. Leave provisions, part-time and flexible-work options. Many developed societi
 **Leave provision for parents**  
 Chart 13: Total leave provisions for both parents for each child (in full-wage equivalent weeks)
 
-![Leave-provision-for-parents](https://github.com/isomerpages/isomerpages-stratgroup/raw/93b4ed71314a31532770f2a0fb02cf41703a0631/images/press%20release%20images/leave-provision-for-parents.png)
+![](/images/press%20release%20images/Total_leave_provisions_for_both_parents_for_each_child.png)
 
 II. Shared parental responsibility
 Some countries have policies to encourage both parents to share
@@ -184,7 +184,7 @@ Download annex [here.](/images/press%20release%20images/pdfs/ocassional-paper-ma
 <sub><sup>1</sup> Citizen data has been used for this Occasional Paper, except Total Fertility Rate (TFR), which is based on resident data for international comparison.</sub>  
 <sub><sup>2</sup> TFR is the average number of children that would be born to a hypothetical woman over her lifetime if she experiences the exact same age-specific fertility as current cohorts of women of child-bearing age (i.e. women aged 15 - 49). Age-specific fertility refers to the average number of children born to women of specific age groups, e.g. women aged 30 - 34.</sub>  
 <sub><sup>3</sup> Source: Asian demography: The flight from marriage (The Economist, 20 Aug 2011).</sub>  
-<sub><sup>4</sup> Data as of 2000 & 2005 for Japan and South Korea, as of 2001 & 2006 for Hong Kong, and as of 2000 & 2010 for Singapore.</sub>   
+<sub><sup>4</sup> Data as of 2000 &amp; 2005 for Japan and South Korea, as of 2001 &amp; 2006 for Hong Kong, and as of 2000 &amp; 2010 for Singapore.</sub>   
 <sub><sup>5</sup> Data as of 2011. Source: national statistical offices.</sub>  
 <sub><sup>6</sup> TFR data as of 2011 for France, Italy, Denmark, Sweden, Norway, Japan and Singapore, and as of 2010 for US, Germany, Finland and South Korea. </sub>  
 <sub><sup>7</sup> Data as at 2009. Source: OECD family database (2011).</sub>  
@@ -193,8 +193,7 @@ Download annex [here.](/images/press%20release%20images/pdfs/ocassional-paper-ma
 E.g. in Finland, there is no minimum age, while in the Netherlands and Ireland, access to child care services is provided to children aged 4 and above. For Sweden, access is provided for parents who are working or studying.
 Source: OECD report on Early Childhood Education and Care, “Starting Strong II” (2006).</sub>  
 <sub><sup>10</sup> Based on OECD methodology, full-wage equivalent leave refers to the number of weeks of leave available if leave were paid at 100%. E.g. 10 weeks of leave at 80% of wage would be 8 weeks of full-wage equivalent leave. Singapore provides 33 weeks of full-wage equivalent leave in total. (For comparability with OECD country data on leave provisions, 5 days of leave is taken as 1 week.) Source: OECD Family database – Key characteristics of parental leave systems.</sub>  
-<sub><sup>11</sup> Japan’s Ministry of Health, Labour and Welfare website, (2010). OECD “Babies & Bosses” (2007).</sub>  
+<sub><sup>11</sup> Japan’s Ministry of Health, Labour and Welfare website, (2010). OECD “Babies &amp; Bosses” (2007).</sub>  
 <sub><sup>12</sup> UK’s Advisory, Conciliation and Arbitration Service website (2011).</sub>  
 <sub><sup>13</sup> International Review of Leave Policies and Related Research (2011).OECD Family Database – Key Characteristics of parental leave (2007).</sub>  
-<sub><sup>14</sup> OECD Family Database–Family cash benefits (2011)</sub>  
-
+<sub><sup>14</sup> OECD Family Database–Family cash benefits (2011)</sub>
