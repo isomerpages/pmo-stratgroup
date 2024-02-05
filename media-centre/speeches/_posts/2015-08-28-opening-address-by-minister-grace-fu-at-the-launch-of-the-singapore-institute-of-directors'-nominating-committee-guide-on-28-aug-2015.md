@@ -4,6 +4,7 @@ title: Opening Address by Minister Grace Fu at the launch of the Singapore
   Institute of Directors' Nominating Committee Guide on 28 Aug 2015
 date: 2015-08-28T00:00:00.000Z
 permalink: /media-centre/speeches/opening-address-by-minister-grace-fu-at-the-launch-of-the-singapore-institute-of-directors'-nominating-committee-guide-on-28-aug-2015/
+variant: markdown
 ---
 _**Promoting Gender Diversity on Boards**_
 
@@ -40,7 +41,7 @@ Companies need to make a conscious effort to design and formalise leadership sel
 
 _Second, implement family-friendly work practices that benefit both men and women._ Employers understand the importance of talent attraction and retention. And those who are able to help their employees better manage their work and family commitments will get the best out of employees. Men and women now aspire to have meaningful careers and fulfilling family lives. Businesses should therefore focus on building a performance-based culture which emphasises outcomes over physical presence in the office. This benefits both men and women, as more men seek to play a greater role at home, just as women are stepping up to take on more work responsibilities.
 
-One such company that understands the value of family-friendly work practices is KPMG Singapore.  In addition to having flexible work arrangements, they have initiated “Mums & Pops @ KPMG”, a focus group that seeks to understand the needs of working parents in the company and champions ideas to promote work-life harmony.  Ms Yvonne Chiu, Audit Partner at KPMG Singapore and Partner-in-Charge of “Mums & Pops” said, “Our people are at the heart of our policies and supporting them in their professional and personal growth is a key driver of our talent attraction and retention efforts.”<sup>10</sup>
+One such company that understands the value of family-friendly work practices is KPMG Singapore.  In addition to having flexible work arrangements, they have initiated “Mums &amp; Pops @ KPMG”, a focus group that seeks to understand the needs of working parents in the company and champions ideas to promote work-life harmony.  Ms Yvonne Chiu, Audit Partner at KPMG Singapore and Partner-in-Charge of “Mums &amp; Pops” said, “Our people are at the heart of our policies and supporting them in their professional and personal growth is a key driver of our talent attraction and retention efforts.”<sup>10</sup>
 
 The Government supports working parents through parental leave provisions. We have just announced an increase in Government-paid paternity leave from 1 to 2 weeks in the recent Jubilee Package. We are also continuing to make significant improvements to the accessibility, affordability and quality of pre-school.  Through the Work-Life Grant, Government provides funding support to encourage more employers to implement flexible work arrangements.
 
@@ -77,11 +78,11 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 <sub><sup>11</sup> DeAmicis, C. and Carson, B. (21 Aug, 2014). “Eight charts that put tech companies’ diversity stats into perspective”.
 [https://gigaom.com/2014/08/21/eight-charts-that-put-tech-companies-diversity-stats-into-perspective/](https://gigaom.com/2014/08/21/eight-charts-that-put-tech-companies-diversity-stats-into-perspective/)</sub>
 
-<sub><sup>12</sup> Microsoft (2015). Our Global Diversity & Inclusion.
+<sub><sup>12</sup> Microsoft (2015). Our Global Diversity &amp; Inclusion.
 [https://www.microsoft.com/en-us/diversity/business-of-inclusion/default.aspx](https://www.microsoft.com/en-us/diversity/business-of-inclusion/default.aspx)</sub>
 
-<sub><sup>13</sup> McKinsey & Company (2014). “Realizing the power of talented women”. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women) </sub>
+<sub><sup>13</sup> McKinsey &amp; Company (2014). “Realizing the power of talented women”. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women) </sub>
 
 <sub><sup>14</sup> USA Today (12 March, 2015). “Hillary Clinton drops in on eBay women’s summit.” [http://www.usatoday.com/story/tech/2015/03/11/hillary-clinton-ebay-womens-initiative-network-summit/70174034/](http://www.usatoday.com/story/tech/2015/03/11/hillary-clinton-ebay-womens-initiative-network-summit/70174034/)</sub>
 
-<sub><sup>15</sup> eBay Inc. (31 July, 2014). “Building a Stronger, Better, More Diverse eBay”. [http://blog.ebay.com/building-stronger-better-diverse-ebay/](http://blog.ebay.com/building-stronger-better-diverse-ebay/)</sub>
+<sub><sup>15</sup> eBay Inc. (31 July, 2014). [“Building a Stronger, Better, More Diverse eBay”.](https://www.ebayinc.com/stories/news/building-stronger-better-more-diverse-ebay/)</sub>
