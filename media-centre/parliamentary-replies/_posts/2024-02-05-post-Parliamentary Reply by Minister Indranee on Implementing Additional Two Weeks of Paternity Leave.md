@@ -8,9 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong> 
+<p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong>
 </p>
-<p><strong>WRITTEN REPLY</strong> 
+<p><strong>WRITTEN REPLY</strong>
 </p>
 <p><strong>MONDAY, 5 FEBRUARY 2024</strong>
 </p>
@@ -21,7 +21,7 @@ encourage firms to implement the additional two weeks of paternity leave
 that are given on a voluntary basis by employers; and (b) how does the
 Government plan to monitor and ensure compliance with this policy once
 it becomes mandatory.</p>
-<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong> 
+<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
 <p>Paternal involvement in child raising at an early stage is increasingly
 being recognised as important for the well-being of the child and the family.
