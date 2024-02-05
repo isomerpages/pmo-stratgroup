@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "58-member Citizens’ Panel convenes to create new solutions for work-life harmony"
-date:   2019-09-28
+title: 58-member Citizens’ Panel convenes to create new solutions for work-life
+  harmony
+date: 2019-09-28
 permalink: /media-centre/press-releases/58-members-citizens-panel-convenes-to-create-new-solutions-for-work-life-harmony/
+variant: markdown
 ---
-
 58 Singaporeans from all walks of life came together for the first time today to form the Citizens’ Panel on Work-Life Harmony. The Panel will meet between September and November 2019 to propose new ways to strengthen work-life harmony in Singapore, including a more supportive societal and workplace culture. Employers, employees, the self-employed and retirees have volunteered to join the Panel to design solutions that would better enable Singaporeans to work in a manner that matches their personal goals for a fulfilling life.
 
 First announced by Deputy Prime Minister and Minister for Finance Mr Heng Swee Keat in June 2019, the Citizens’ Panel on Work-Life Harmony is part of the SG Together movement for the Government to partner Singaporeans to co-create and co-deliver solutions across a wide range of policy areas.  The Panel is also part of a series of engagements with Singaporeans led by Manpower Minister Mrs Josephine Teo, who also assists Senior Minister Mr Teo Chee Hean on Population matters, to help make starting families more achievable, enjoyable, and celebrated.
@@ -17,7 +18,7 @@ Mrs Josephine Teo, Senior Parliamentary Secretary for Education and Manpower, Ms
 
 Minister Josephine Teo said: “I am glad to see Singaporeans from all walks of life coming together, and wanting to make a difference in an issue that's close to all our hearts. The Citizens’ Panel on Work-Life Harmony will discuss ways to forge a new societal consensus on workplace culture and social norms to help Singaporeans achieve a more fulfilling life. The Panel is also a new way of how the Government is partnering Singaporeans to co-create and co-deliver solutions, for Singaporeans. I look forward to us collectively finding a way forward for Work-Life Harmony in Singapore.”
 
-Singaporeans who are not part of the Panel can continue to share their views and ideas on the topic through the suggestion box at http://heybaby.sg/PlayAPart. More information about the Panel can be found at [http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony](http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony).
+Singaporeans who are not part of the Panel can continue to share their views and ideas on the topic through the suggestion box at http://heybaby.sg/PlayAPart.
 
 Please refer to **Annex A** for more information about the Panel.
 
