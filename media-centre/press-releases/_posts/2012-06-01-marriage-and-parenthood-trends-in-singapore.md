@@ -177,7 +177,7 @@ other countries which have shown success. However, even if we apply the same
 practices, we may not get the same outcomes.
 We will need to develop an approach best suited to our circumstances, cultural norms and socio-economic conditions.
  
-The Government is reviewing policies and measures to support citizens in getting married and having children. As part of the public engagement leading to the White Paper on Population, we welcome suggestions on how to improve Singapore’s birth rate, and how different stakeholders can play a part in promoting marriage and parenthood and fostering a supportive environment for family life. (We welcome you to submit your suggestions through the REACH portal at: [https://www.reach.gov.sg/Feedback.aspx](https://www.reach.gov.sg/Feedback.aspx).
+The Government is reviewing policies and measures to support citizens in getting married and having children. As part of the public engagement leading to the White Paper on Population, we welcome suggestions on how to improve Singapore’s birth rate, and how different stakeholders can play a part in promoting marriage and parenthood and fostering a supportive environment for family life. (We welcome you to submit your suggestions through the REACH portal.)
 
 Download annex [here.](/images/press%20release%20images/pdfs/ocassional-paper-marriage-and-parenthood-trends-annex.pdf)
 

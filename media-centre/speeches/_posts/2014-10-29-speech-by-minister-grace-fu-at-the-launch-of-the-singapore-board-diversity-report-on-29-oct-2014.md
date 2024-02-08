@@ -4,6 +4,7 @@ title: Speech by Minister Grace Fu at the launch of the Singapore Board
   Diversity Report
 date: 2014-10-29T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-the-singapore-board-diversity-report-on-29-oct-2014/
+variant: markdown
 ---
 **“Champions needed to spur diversity in leadership”**
 
@@ -57,7 +58,7 @@ Achieving greater diversity at all levels of the company requires a concerted ef
 
 Some companies have designed HR policies to facilitate re-entry into the workforce, such as programmes to help former employees refresh their skills and get back up to speed. There was a very interesting article on Financial Times about how women were going back to the alumni to attract women who have left the company to return. They are taking a very serious look on how they could get more women into the management level and I was deeply encouraged by what I read and guess what, at the very end of this article on the Financial Times, it says they are aiming to reach the target of 25 per cent as set by the UK government. Some targets, some quotas seem to be allowing management to focus their attention on this issue. Others have developed an eco-system of family-friendlymeasures, such as encouraging a flexible-working culture focused on performance outcomes, rather than physical presence in the office, and having thoughtful and pro-family touches like lactation rooms for mothers.
 
-One company that has done well in this area is the Singapore office of Proctor and Gamble, which allows staff to have flexible schedules around their core operating hours, and allows most employees to work from home once a week.<sup>12</sup> The flexi-work scheme has led to a productivity increase. P&G won a **“Best company for mums” award** by NTUC last year. In a business environment where competition for talent is fierce, such accolades help companies to stand out and attract the talent they need. 
+One company that has done well in this area is the Singapore office of Proctor and Gamble, which allows staff to have flexible schedules around their core operating hours, and allows most employees to work from home once a week.<sup>12</sup> The flexi-work scheme has led to a productivity increase. P&amp;G won a **“Best company for mums” award** by NTUC last year. In a business environment where competition for talent is fierce, such accolades help companies to stand out and attract the talent they need. 
 
 **Conclusion**
 
@@ -83,10 +84,10 @@ While we have made some progress over the years, we should do more to ensure gre
 
 <sub><sup>8</sup> Data from the 2014 Diversity Task Force report, for female representation in senior management level of SGX-listed companies, excluding executive directors. The report noted that females are wellrepresented in senior management positions relating to HR, administration, legal, compliance and regulatory, as well as finance (30-61% of positions). But they were poorly represented in strategy/planning, operations, technology and sales (11-18%) which may be why there is a smallerpipeline of female candidates considered for board director positions, as the type of skills sought by boards tend to be from the male-dominated functions. </sub>
 
-<sub><sup>9</sup> The global average proportion of women in senior management roles was 24% according to a report by Forbes Insight and Grant Thornton’s International Business Report 2013, which surveyed 13,000 business leaders in 44 economies. [https://www.grantthornton.global/globalassets/1.-member-firms/global/insights/pdf-cover-images/ibr2013_wib_report_final.pdf](https://www.grantthornton.global/globalassets/1.-member-firms/global/insights/pdf-cover-/images/ibr2013_wib_report_final.pdf) </sub>
+<sub><sup>9</sup> The global average proportion of women in senior management roles was 24% according to a report by Forbes Insight and Grant Thornton’s International Business Report 2013, which surveyed 13,000 business leaders in 44 economies. </sub>
 
 <sub><sup>10</sup> For instance, the proportion of women on boards is 18.2% in Australia, 16.6% in the EU on average, 16.9% in the US and 20.7% in the UK. Singapore also lags behind Hong Kong (9.6%) and Indonesia (11.6%), though we are ahead of Japan (2.0%) and South Korea (1.9%) in the proportion of women on boards. Data as cited in the Singapore Board Diversity Report 2014. </sub>
 
 <sub><sup>11</sup> A study by the Diversity Task Force published earlier this year found that 89% of SGX-listed companies used personal networks to recruit new directors.</sub>
 
-<sub><sup>12</sup> P&G is a US-based MNC, ranked as the 40th largest global company and one of the 100 most innovative companies in the world by Forbes in 2014. 45% of its board members (five out of 11) are female. Info on the Singapore based office from “Flexibility in the workplace”, a report that showcases companies that won the “Best Companies for Mums” 2013 award by NTUC.</sub>
+<sub><sup>12</sup> P&amp;G is a US-based MNC, ranked as the 40th largest global company and one of the 100 most innovative companies in the world by Forbes in 2014. 45% of its board members (five out of 11) are female. Info on the Singapore based office from “Flexibility in the workplace”, a report that showcases companies that won the “Best Companies for Mums” 2013 award by NTUC.</sub>
