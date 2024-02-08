@@ -3,6 +3,7 @@ layout: post
 title: DPM Teo Chee Hean's Speech on Population at the 2012 Committee of Supply
 date: 2012-03-01T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-dpm-teo-chee-hean-on-population/
+variant: markdown
 ---
 **Preamble**
 
@@ -58,7 +59,7 @@ Let me now touch on the broader population challenges we face, and what these me
 
 We will soon have to confront the twin effects of our low fertility and our ageing population. 2012 is a demographic turning point. Our first cohort of post-war Baby Boomers, that is those born between 1947 and 1965, will start turning 65 years old from this year. Live births in Singapore peaked at around 62,500 in 1958. From now till 2030, Singapore will experience an unprecedented age shift, as over 900,000 Baby Boomers, more than a quarter of the current citizen population, retire from the workforce and enter their silver years. At current birth rates and without immigration, more than 1 in 4 citizens will be aged 65 and over in 2030. The median age of our citizens will rise to 47 from 39 today.
 
-Today, there are currently about 7 citizens in the working-ages from 15 to 64 years, to each citizen aged 65 and above. (See [Chart 1](/images/speeches/charts-201203011.pdf)). By 2030, the number of elderly citizens will triple to 900,000, but they will be supported by a smaller base of working-age citizens. (See [Chart 2](/images/speeches/charts-201203012.pdf)). This is a result of the declining trend in our birth rates which have been below the replacement level over the last 35 years. By 2030, there will only be 2.3 working-age citizens to each citizen aged 65 and above. (See [Chart 3](/master/images/speeches/charts-201203013.pdf)). You can see the difference between where we are today and in 2030, if birth rates remain as they are and there is no immigration.
+Today, there are currently about 7 citizens in the working-ages from 15 to 64 years, to each citizen aged 65 and above. (See [Chart 1](/images/speeches/charts-201203011.pdf)). By 2030, the number of elderly citizens will triple to 900,000, but they will be supported by a smaller base of working-age citizens. (See [Chart 2](/images/speeches/charts-201203012.pdf)). This is a result of the declining trend in our birth rates which have been below the replacement level over the last 35 years. By 2030, there will only be 2.3 working-age citizens to each citizen aged 65 and above. (See [Chart 3](/images/speeches/charts-201203013.pdf)). You can see the difference between where we are today and in 2030, if birth rates remain as they are and there is no immigration.
 
 As more citizens retire and with fewer entering the working-age band, the number of citizens of working-age will start to shrink. Today, for every citizen retiring, say at 65 years old, we have about 2.2 entering the working-age band, that is, the working-age citizen population is still growing. (See [Chart 4](/images/speeches/charts-201203014.pdf)). Within the next decade, this situation will start to reverse, and the pool of working-age citizens will stop growing, and then start to shrink. By 2030, for every citizen retiring, we will only have about 0.6 citizens entering the working-age pool.<sup>1</sup>(See [Chart 5](/images/speeches/charts-201203015.pdf)). Without immigration, we will face a shrinking workforce and the prospect of a shrinking economy. This challenging situation is compounded by the need to support a significantly larger elderly population at the same time.
 
@@ -96,4 +97,4 @@ We will incorporate the inputs in a White Paper on Population that we intend to 
 
 <sub><sup>2</sup>The Japanese Statistics Bureau </sub>
 
-<sub><sup>3</sup>Japan’s National Institute of Population and Social Security Research</sub>
+<sub><sup>3</sup>Japan’s National Institute of Population and Social Security Research</sub></sub></sub>
