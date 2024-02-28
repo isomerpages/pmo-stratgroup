@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2024</strong>
+<p><strong>Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply Debate 2024</strong>
 </p>
 <p><strong><em>Progress Towards a Greener and More Sustainable Future</em></strong>
 </p>
