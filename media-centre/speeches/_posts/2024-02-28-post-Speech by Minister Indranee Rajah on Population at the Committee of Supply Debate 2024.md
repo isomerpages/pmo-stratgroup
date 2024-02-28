@@ -411,5 +411,5 @@ and raising families, so that we may forge a strong Singaporean citizenry.</p>
 <p>For this to happen, we need everyone to do their part. While some of the
 bolder changes and mindset shifts may require more time, I call on everyone
 – individuals, families, employers, and communities, to contribute towards
-shaping a Singapore that is Made for Families so that we can secure our
+shaping a Singapore that is Made For Families so that we can secure our
 future and thrive for years to come.</p>
