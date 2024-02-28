@@ -191,10 +191,11 @@ access to the IEA’s expertise and facilitates capacity building.</p>
 <p>The third area is transport. As an aviation and maritime hub, Singapore
 can play a major role in developing the infrastructure and standards for
 green aviation and shipping.</p>
-<p>The CAAS recently launched the Singapore Sustainable Air Hub Blueprint,
-which takes a balanced approach on the need for sustainability and competitiveness
-for our aviation sector. This will help catalyse the development of sustainable
-aviation globally and facilitate the industry’s progress towards decarbonisation.</p>
+<p>The Civil Aviation Authority of Singapore (CAAS) recently launched the
+Singapore Sustainable Air Hub Blueprint, which takes a balanced approach
+on the need for sustainability and competitiveness for our aviation sector.
+This will help catalyse the development of sustainable aviation globally
+and facilitate the industry’s progress towards decarbonisation.</p>
 <p>We are also making progress on green shipping. In December 2023, we signed
 a memorandum of cooperation with Japan to establish the Singapore-Japan
 Green and Digital Shipping corridor. This complements similar partnerships
