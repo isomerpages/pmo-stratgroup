@@ -21,7 +21,7 @@ debates.</p>
 <p><strong>The Imperative for Climate Action</strong>
 </p>
 <p>Amid heightened geopolitical and economic turbulence, the world is currently
-on a pathway to 2.1- 2.8°C of global warming by 2100.</p>
+on a pathway to 2.1 - 2.8°C of global warming by 2100.</p>
 <p>The Ministry of Sustainability and the Environment (MSE) has been working
 to improve our understanding of the consequences of such a pathway. Today,
 we have a clearer projection. But it is a projection, because we are talking
