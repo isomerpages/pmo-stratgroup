@@ -28,6 +28,6 @@ old, and around 23% were from those 36 years old and above. Figures for
 2023 are still being finalised.</p>
 <p></p>
 <p>The information is published annually in the Immigration &amp; Checkpoint
-Authority Report on the Registration on Births and Deaths, which contains
-key demographic statistics, including total live births by age of mother.
-The Report is available on ICA’s website.</p>
+Authority's (ICA) Report on the Registration on Births and Deaths, which
+contains key demographic statistics, including total live births by age
+of mother. The Report is available on ICA’s website.</p>
