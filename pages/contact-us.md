@@ -1,7 +1,6 @@
 ---
 layout: contact_us
 permalink: /contact-us/
-breadcrumb: 'Contact Us'
 title: 'Contact Us'
 locations:
     - title: 'Strategy Group, Prime Minister’s Office  National Climate Change Secretariat and National Population and Talent Division'
