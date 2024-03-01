@@ -64,7 +64,7 @@ in families as this is an existential issue for us.</p>
 <p>Also, our efforts to raise fertility will take time to show results. A
 carefully managed immigration policy is hence an important supporting measure
 to moderate the impact of low birth rates and an ageing population on our
-society and families.</p>
+society and economy.</p>
 <p>So let me now elaborate on our population strategies, the trade-offs we
 face, and the whole-of-society effort needed.</p>
 <p><strong>Implications of Our Population Challenges</strong>
@@ -284,10 +284,10 @@ may also tap on BCA’s Accessibility Fund to co-fund the construction costs
 of such features, as well as lactation pods. BCA has actively promoted
 the Fund via press releases, social media posts, industry seminars and
 targeted engagements. They will continue to reach out to building owners
-to encourage adoption.But ultimately, it will require a whole-of-society
-effort to build the family-friendly workplace culture that Members have
-called for. All of us have a role to play, whether as parents, employers
-or co-workers.</p>
+to encourage adoption.</p>
+<p>But ultimately, it will require a whole-of-society effort to build the
+family-friendly workplace culture that Members have called for. All of
+us have a role to play, whether as parents, employers or co-workers.</p>
 <p>We want parents to be able to tap on workplace flexibilities without fear
 of stigma. Every small act counts, from exercising patience when a colleague’s
 child interrupts a work call, to being understanding when a co-worker takes
