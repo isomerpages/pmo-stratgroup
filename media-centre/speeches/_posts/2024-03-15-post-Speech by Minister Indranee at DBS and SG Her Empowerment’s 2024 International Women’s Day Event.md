@@ -154,24 +154,25 @@ are core tenets, and where you can make sure that meeting various work-life
 needs is ingrained in your company culture. This includes putting in place
 fair and merit-based appraisals. It is also important to create a supportive
 workplace environment, so that employees can have confidence that they
-can have support when required. I understand that this was the case for <strong>Ms Jacqueline Tan</strong>,
-a Managing Director under DBS’ Credit Risk Management Group. In 2018, Jacqueline
-wanted to have more time with her two young boys and mother, who suffered
-a stroke some years back. She raised it to her managers, who were empathic
-and encouraging, and they gave her the assurance to be able to take a sabbatical,
-and recommended her for a new role within DBS when she was ready to return,
-recognising that she still has a lot to contribute.</p>
-<p><strong>Line managers</strong>, these are really important. They are in
-charge of overseeing their team’s day-to-day work and they are key to creating
-a workplace norm where there is mutual understanding, and where employee’s
-needs and circumstances can be recognised and supported even as you make
-sure you meet your company’s goals. They can work with their teams to implement
-supportive practices in a way that makes sense for their work. For example,
-having a system for covering arrangements will help employees support each
-other and at the same time, allows the responsibilities to be fulfilled
-and for the employees to have a peace of mind. &nbsp;&nbsp;&nbsp;</p>
-<p><strong>Co-workers</strong> too play a crucial role. It makes a big difference
-when work colleagues are supportive. &nbsp;In the case of <strong>Ms Roshni Shivaramakrishnan</strong>,
+can have support when required. I understand that this was the case for
+Ms Jacqueline Tan, a Managing Director under DBS’ Credit Risk Management
+Group. In 2018, Jacqueline wanted to have more time with her two young
+boys and mother, who suffered a stroke some years back. She raised it to
+her managers, who were empathic and encouraging, and they gave her the
+assurance to be able to take a sabbatical, and recommended her for a new
+role within DBS when she was ready to return, recognising that she still
+has a lot to contribute.</p>
+<p>Line managers, these are really important. They are in charge of overseeing
+their team’s day-to-day work and they are key to creating a workplace norm
+where there is mutual understanding, and where employee’s needs and circumstances
+can be recognised and supported even as you make sure you meet your company’s
+goals. They can work with their teams to implement supportive practices
+in a way that makes sense for their work. For example, having a system
+for covering arrangements will help employees support each other and at
+the same time, allows the responsibilities to be fulfilled and for the
+employees to have a peace of mind. &nbsp;&nbsp;&nbsp;</p>
+<p>Co-workers too play a crucial role. It makes a big difference when work
+colleagues are supportive. &nbsp;In the case of Ms Roshni Shivaramakrishnan,
 an Assistant Vice President in the Consumer Banking Group, she is a mother
 of one and will be welcoming a second bundle of joy in May. She has already
 worked out her maternity and return-to-work plans with her manager and
@@ -208,12 +209,11 @@ for paternity leave is only just over 50%. There is room to improve the
 take up and utilisation.</p>
 <p>I am happy to note that DBS has gone a step further and taken the initiative
 to implement the additional leave for your employees. One of them who has
-benefitted, is Mr <strong>Nicholas Tan</strong>, a Senior Associate and&nbsp;Project
-Management Specialist under DBS’ Risk Management Group.&nbsp; He welcomed
-his first child earlier in January this year. With the additional paternity
-leave and strong support from his manager, he will be able to be there
-for his wife both emotionally and physically, and&nbsp; bond with their
-newborn.</p>
+benefitted, is Mr Nicholas Tan, a Senior Associate and&nbsp;Project Management
+Specialist under DBS’ Risk Management Group.&nbsp; He welcomed his first
+child earlier in January this year. With the additional paternity leave
+and strong support from his manager, he will be able to be there for his
+wife both emotionally and physically, and&nbsp; bond with their newborn.</p>
 <p>I encourage other companies to follow DBS’ footsteps and adjust their
 Human Resource (HR) practices to support their employees. We are also going
 to mandate the additional paternity leave as soon as possible. We are also
