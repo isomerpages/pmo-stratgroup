@@ -12,7 +12,6 @@ variant: tiptap
 <p>Mr Piyush Gupta, Group CEO, DBS</p>
 <p>Distinguished Guests</p>
 <p>Ladies and Gentlemen</p>
-<p>&nbsp;</p>
 <p><strong>Inspiring All to Lift Each Other Higher</strong>
 </p>
 <p>A big thank you for inviting me to join this joint event by SHE and DBS
