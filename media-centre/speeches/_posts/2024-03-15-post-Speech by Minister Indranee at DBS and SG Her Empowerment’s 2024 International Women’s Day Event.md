@@ -148,20 +148,19 @@ mothers and women who are caregivers in particular.</p>
 shoulder and which are family-friendly make a big difference<strong>.</strong> There
 are myriad ways in which workplaces can be family-friendly and supportive
 of women.</p>
-<p>As leaders of the organisation <strong>managers and senior executives, </strong>you
-set the tone in establishing a company culture where mutual respect and
-empathy are core tenets, and where you can make sure that meeting various
-work-life needs is ingrained in your company culture. This includes putting
-in place fair and merit-based appraisals. It is also important to create
-a supportive workplace environment, so that employees can have confidence
-that they can have support when required. I understand that this was the
-case for <strong>Ms Jacqueline Tan</strong>, a Managing Director under DBS’
-Credit Risk Management Group. In 2018, Jacqueline wanted to have more time
-with her two young boys and mother, who suffered a stroke some years back.
-She raised it to her managers, who were empathic and encouraging, and they
-gave her the assurance to be able to take a sabbatical, and recommended
-her for a new role within DBS when she was ready to return, recognising
-that she still has a lot to contribute.</p>
+<p>As leaders of the organisation managers and senior executives, you set
+the tone in establishing a company culture where mutual respect and empathy
+are core tenets, and where you can make sure that meeting various work-life
+needs is ingrained in your company culture. This includes putting in place
+fair and merit-based appraisals. It is also important to create a supportive
+workplace environment, so that employees can have confidence that they
+can have support when required. I understand that this was the case for <strong>Ms Jacqueline Tan</strong>,
+a Managing Director under DBS’ Credit Risk Management Group. In 2018, Jacqueline
+wanted to have more time with her two young boys and mother, who suffered
+a stroke some years back. She raised it to her managers, who were empathic
+and encouraging, and they gave her the assurance to be able to take a sabbatical,
+and recommended her for a new role within DBS when she was ready to return,
+recognising that she still has a lot to contribute.</p>
 <p><strong>Line managers</strong>, these are really important. They are in
 charge of overseeing their team’s day-to-day work and they are key to creating
 a workplace norm where there is mutual understanding, and where employee’s
