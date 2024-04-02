@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong>
 </p>
-<p><strong>ORAL REPLY</strong>&nbsp;</p>
+<p><strong>WRITTEN REPLY</strong>&nbsp;</p>
 <p><strong>TUESDAY, 2 APRIL 2024</strong>
 </p>
 <p></p>
