@@ -8,8 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Good morning. Thank you very much for inviting me to join you here on
-this 20<sup>th</sup> Speech Day.</p>
+<p>Good morning. Ms Magdalen Soh, Mr Seah Moon Ming, parents, students. Thank
+you very much for inviting me to join you here on this 20<sup>th</sup> Speech
+Day.</p>
 <p>NUS High School was founded almost 20 years ago in 2005. At that time,
 it was a bold step into the unknown, a new kind of school focused on developing
 deep capabilities in math and science. It was an experiment. We did not
