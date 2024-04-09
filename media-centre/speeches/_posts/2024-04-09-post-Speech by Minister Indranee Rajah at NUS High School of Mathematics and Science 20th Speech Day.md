@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Good morning. Ms Magdalen Soh, Mr Seah Moon Ming, parents, students. Thank
+<p>Good morning. Ms Magdalen Soh, Mr Seah Moon Ming, Parents, Students. Thank
 you very much for inviting me to join you here on this 20<sup>th</sup> Speech
 Day.</p>
 <p>NUS High School was founded almost 20 years ago in 2005. At that time,
