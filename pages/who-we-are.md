@@ -2,6 +2,7 @@
 title: Who We Are
 permalink: /who-we-are/
 breadcrumb: Who We Are
+variant: markdown
 ---
 ### **About Us**
 
@@ -17,4 +18,4 @@ Strategy Group leads and organises the Public Service to develop and implement t
 #### Organisational Structure ####
 Strategy Group is led by the Head of Civil Service/Permanent Secretary (Strategy) and a Deputy Secretary. 
 
-![](/images/website-org-chart-final.png)
+![](/images/org_chart_16_apr.png)
