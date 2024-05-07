@@ -30,7 +30,7 @@ on the “de jure” population concept, or place of “usual residence”. Our
 methodology for reporting Singapore Citizen (SC) and Permanent Resident
 (PR) data therefore excludes those who have only a registered foreign address,
 or SCs and PRs who have been overseas continuously for 12 months or more.
-This is explained in the Population In Brief publication.</p>
+This is explained in the Population in Brief publication.</p>
 <p>This group of SCs and PRs includes overseas students, professionals working
 abroad, and those who are residing overseas for family reasons. Over the
 past decade, these SCs and PRs have made up between 2-3% and 8-9% of the
