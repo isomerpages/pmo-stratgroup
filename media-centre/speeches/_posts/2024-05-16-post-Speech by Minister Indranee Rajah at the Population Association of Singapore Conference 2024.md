@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>PAS President, Professor Jean Yeung&nbsp;</p>
+<p>PAS President, Professor Jean Yeung</p>
 <p>PAS Governing Committee Members</p>
 <p>Co-Directors of the NUS Centre for Family and Population Research</p>
 <p>Distinguished speakers</p>
