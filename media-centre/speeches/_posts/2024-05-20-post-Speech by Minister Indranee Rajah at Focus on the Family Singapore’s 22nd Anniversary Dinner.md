@@ -17,7 +17,7 @@ Focus on the Family Singapore’s 22<sup>nd</sup> anniversary, and the 10<sup>th
 of FamChamps. I am heartened by Focus Singapore’s steadfast dedication
 over the years towards building strong families and I am honoured to be
 here. A big congratulations on yet another milestone achieved!</p>
-<p><strong>&nbsp;Onward for Family: For Generations</strong>
+<p><strong>Onward for Family: For Generations</strong>
 </p>
 <p>The theme for tonight’s dinner “Onward for Family: For Generations”, is
 a wonderful theme. It calls on all of us to continue to make family a priority,
@@ -33,7 +33,7 @@ to inherit.</p>
 are often our first line of support. They enable us to build a successful
 nation where Singaporeans can live fulfilling lives, have good incomes
 and careers.</p>
-<p>&nbsp;<strong>Shifting Mindsets and Priorities</strong>
+<p><strong>Shifting Mindsets and Priorities</strong>
 </p>
 <p>The Government remains committed to help Singaporeans achieve their personal
 and family aspirations. But the journey that lies ahead is a tough one.
