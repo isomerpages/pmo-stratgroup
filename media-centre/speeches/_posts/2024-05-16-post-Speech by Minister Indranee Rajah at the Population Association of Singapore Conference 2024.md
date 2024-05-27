@@ -34,7 +34,7 @@ maintaining the right mix of citizens, residents and non-residents to meet
 our current needs, and the needs of our future generations of Singaporeans.
 Singapore’s key resource is its people, and having a sustainable population
 is key to realising our larger vision of Singapore being a thriving people,
-a dynamic economy, and an inclusive society, and a resilient nation.</p>
+a dynamic economy, an inclusive society, and a resilient nation.</p>
 <p><strong>Our Population Challenges</strong>
 </p>
 <p>However, we face unprecedented shifts even as we work towards this vision.</p>
@@ -134,7 +134,7 @@ These have been progressively enhanced over the years.</p>
 <p>One key area we are keen to address is the growing importance of work-life
 harmony in Singapore. In our 2021 Marriage &amp; Parenthood Survey, we
 found that difficulties in managing work and family commitments was a key
-concern affecting thedecisions on starting a family.</p>
+concern affecting the decisions on starting a family.</p>
 <p>A recent study that both Prof Jean Yeung and Dr Senhu Wang from CFPR were
 involved in, also showed that Singaporeans valued mutual support with their
 partners to pursue both professional and personal goals. This was a factor
