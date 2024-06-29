@@ -8,8 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Opening Remarks By Ms Indranee Rajah, Minister In The Prime Minister’s Office At Voices Of Hope: Navigating Infertility Together On 29 June 2024</strong>
-</p>
 <p>Good morning, everyone. It is such a pleasure to be here and to see so
 many friends of Fertility Support SG (FSS). I was very excited when I was
 asked to attend this event because it is something that I have long felt
