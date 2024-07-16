@@ -6,7 +6,7 @@ description: Driving whole-of-government strategic planning by identifying key
 permalink: /
 sections:
   - hero:
-      title: <font size=10>Welcome to Strategy Group</font>
+      title: <font size="10">Welcome to Strategy Group</font>
       subtitle: The Strategy Group in the Prime Minister's Office drives
         whole-of-government strategic planning by identifying key priorities and
         emerging issues over the medium to long-term. It partners public
@@ -51,5 +51,6 @@ sections:
       subtitle: Media Centre
       button: More Media
       url: media-centre/
-notification: "\n\n\n"
+notification: ""
+image: /images/isomer-logo.svg
 ---
