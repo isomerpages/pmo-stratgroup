@@ -1,12 +1,12 @@
 logo: /images/agency-logo.gif
 links:
-    - title: 'Who We Are'
-      url: /who-we-are/
-    - title: 'Media Centre'
-      resource_room: true
-    - title: Careers
-      url: /careers/
-    - title: FAQ
-      url: /faq/
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Media Centre
+    resource_room: true
+  - title: Careers
+    url: /careers/
+  - title: FAQ
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
