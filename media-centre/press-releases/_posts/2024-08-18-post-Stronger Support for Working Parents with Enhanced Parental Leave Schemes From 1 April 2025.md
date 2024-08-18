@@ -46,7 +46,7 @@ The key features of the new SPL scheme are as follows:
 
 <p style="margin-left: 40px">
 
-(iii) All 10 weeks of SPL will be paid by the Government, up to the prevailing cap of $2,500 per week ($10,000 a month).</p>
+(iii) All 10 weeks of SPL will be paid by the Government, up to the prevailing cap of $2,500 per week (~$10,000 a month).</p>
 
 <b>Working parents with irregular employment arrangements (e.g. short-term contract workers) can also enjoy parental leave benefits under the new Shared Parental Leave Benefit (SPB) scheme.</b> Eligible parents will be able to claim reimbursement from the Government for time taken off work to care for their infants<sup>1</sup>. Parents eligible for SPB will similarly have the flexibility to share the 6-week entitlement with their spouses from 1 April 2025, or 10-week entitlement from 1 April 2026.
 
