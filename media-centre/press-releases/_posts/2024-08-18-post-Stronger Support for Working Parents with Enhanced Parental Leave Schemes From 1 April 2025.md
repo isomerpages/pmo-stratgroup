@@ -16,7 +16,7 @@ Eligible working parents with Singapore Citizen (SC) children born on or after 1
 
 Currently, eligible working fathers are entitled to two weeks of GPPL and may take an additional two weeks of GPPL, if their employers allow them to do so. Employers who grant the additional paternity leave on a voluntary basis will be reimbursed by the Government.
 
-<b>From 1 April 2025, the additional two weeks of voluntary GPPL will be made mandatory. Eligible working fathers with SC children born on or after 1 April 2025 will be entitled to four weeks of GPPL.</b> We encourage fathers to fully utilise their paternity leave to care for their newborn and to support their wives.
+<b>From 1 April 2025, the additional two weeks of voluntary GPPL will be made mandatory. Eligible working fathers with SC children born on or after 1 April 2025 will be entitled to four weeks of GPPL.</b> We encourage fathers to fully utilise their paternity leave to care for their newborns and to support their wives.
 
 <u><b>New Shared Parental Leave (SPL)</b></u>
 
@@ -46,7 +46,7 @@ The key features of the new SPL scheme are as follows:
 
 <p style="margin-left: 40px">
 
-(iii) All 10 weeks of SPL will be paid by the Government, up to the prevailing cap of $2,500 per week (up to ~$10,000 a month).</p>
+(iii) All 10 weeks of SPL will be paid by the Government, up to the prevailing cap of $2,500 per week ($10,000 a month).</p>
 
 <b>Working parents with irregular employment arrangements (e.g. short-term contract workers) can also enjoy parental leave benefits under the new Shared Parental Leave Benefit (SPB) scheme.</b> Eligible parents will be able to claim reimbursement from the Government for time taken off work to care for their infants<sup>1</sup>. Parents eligible for SPB will similarly have the flexibility to share the 6-week entitlement with their spouses from 1 April 2025, or 10-week entitlement from 1 April 2026.
 
@@ -66,7 +66,9 @@ Employers can tap on existing grants and resources to strengthen HR and manpower
 
 More details on the marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg/)
 
-![Summary of Parental Leave Schemes](/images/press%20release%20images/Summary_of_Parental_Leave_Schemes.jpg)Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of FAQs.
+![Summary of Parental Leave Schemes](/images/press%20release%20images/Summary_of_Parental_Leave_Schemes.jpg)
+
+Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of FAQs.
 
 <sup>1</sup> _More details on the reimbursement process for the new SPB scheme will be released closer to the implementation date._
 
