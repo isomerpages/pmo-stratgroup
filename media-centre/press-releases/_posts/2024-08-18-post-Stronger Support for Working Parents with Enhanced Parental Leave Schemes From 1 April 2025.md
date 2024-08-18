@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+*30 weeks of paid leave in total for parents to spend time with their newborns*
+
 As announced by Prime Minister Lawrence Wong at the 2024 National Day Rally, the Government will be enhancing paid parental leave to provide parents more time to care for and bond with their babies. This is part of the Government’s effort to provide stronger caregiving support for parents during their child’s infancy stage, when their care needs are the greatest. These enhancements are in response to parents’ feedback on the need for longer parental leave and their desire for greater shared parental responsibility. We have also taken on board inputs from Tripartite Partners.
 
 Eligible working parents with Singapore Citizen (SC) children born on or after 1 April 2025 will benefit from (i) enhancements to the existing Government-Paid Paternity Leave (GPPL), and (ii) a new Shared Parental Leave (SPL) scheme.
