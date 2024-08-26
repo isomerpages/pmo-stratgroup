@@ -76,4 +76,4 @@ Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of 
 
 <sup>2</sup> _This notice period requirement will apply to GPML, GPPL, new SPL and Adoption Leave._
 
-<sup>3</sup> _30 weeks consist of 16 weeks of GPPL, 4 weeks of GPPL, and 10 weeks of SPL._
+<sup>3</sup> _30 weeks consist of 16 weeks of GPML, 4 weeks of GPPL, and 10 weeks of SPL._
