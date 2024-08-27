@@ -79,7 +79,7 @@ I wish all of you a very fruitful Forum. Thank you.
 
 <sub><sup>3</sup> Hope, C. and Schaefer, K. “Economic impacts of carbon dioxide and methane released from thawing permafrost”. Nature Climate Change (2015). DOI: 10.1038/nclimate2807</sub>
 
-<sub><sup>4</sup> Emmerson, C. and Lahn, G.  Arctic Opening: Opportunity and Risk in the High North (Lloyd’s of London/Chatham House, 2012).  Accessed at: [http://library.arcticportal.org/1671/1/Arctic_Opening%2C_opportunity_and_risks_in_the_High_North.pdf](http://library.arcticportal.org/1671/1/Arctic_Opening%2C_opportunity_and_risks_in_the_High_North.pdf) </sub>
+<sub><sup>4</sup> Emmerson, C. and Lahn, G.  Arctic Opening: Opportunity and Risk in the High North (Lloyd’s of London/Chatham House, 2012). </sub>
 
 <sub><sup>5</sup> Farré, A.B., et al.  “Commercial Arctic Shipping Through the Northeast Passage: Routes, Resources, Governance, Technology, and Infrastructure.” Polar Geography 37:4, 298-324 (2014). DOI: 10.1080/1088937X.2014.965769</sub>
 
