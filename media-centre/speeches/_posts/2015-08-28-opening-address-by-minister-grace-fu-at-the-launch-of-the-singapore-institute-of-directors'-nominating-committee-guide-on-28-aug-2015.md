@@ -78,7 +78,7 @@ I am glad to see that we are taking steps in the right direction.  Let us contin
 <sub><sup>11</sup> DeAmicis, C. and Carson, B. (21 Aug, 2014). “Eight charts that put tech companies’ diversity stats into perspective”. [http://www.powherny.org/2014/08/25/eight-charts-that-put-tech-companies-diversity-stats-into-perspective/](http://www.powherny.org/2014/08/25/eight-charts-that-put-tech-companies-diversity-stats-into--that-put-tech-companies-diversity-stats-into-perspective/)</sub>
 
 <sub><sup>12</sup> Microsoft (2015). Our Global Diversity &amp; Inclusion.
-[https://www.microsoft.com/en-us/diversity/business-of-inclusion/default.aspx](https://www.microsoft.com/en-us/diversity/business-of-inclusion/default.aspx)</sub>
+</sub>
 
 <sub><sup>13</sup> McKinsey &amp; Company (2014). “Realizing the power of talented women”. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/realizing-the-power-of-talented-women) </sub>
 
