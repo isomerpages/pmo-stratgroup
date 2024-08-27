@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'DPM Wong Kan Seng''s Speech on Population at the 2011 Committee of Supply'
+title: DPM Wong Kan Seng's Speech on Population at the 2011 Committee of Supply
 date: 2011-03-02T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-on-population/
-
+variant: markdown
 ---
-
-
 #### **“ADDRESSING SINGAPORE’S POPULATION CHALLENGE”** 
 
 #### PREAMBLE
@@ -17,19 +15,19 @@ Mr Chairman, I thank the honourable Members who have spoken on the issues of Sin
 
 Our resident total fertility rate reached a new low of 1.16 <sup>1</sup> last year, in spite of efforts to promote marriage and parenthood. One cause of this is that married women are having fewer children. They also marry later. The average number of children born to ever-married citizen females aged 40-49 fell from 2.76 in 1990 to 2.22 in 2000, and to 2.08 in 2010. While the TFR of ever-married women has declined, they still have around two children per couple.
 
-The other contributing factor that has the greatest impact on our low TFR, is that more Singaporeans are remaining single. [Table 1: Proportion of Single Citizens](/images/speeches/cos-2011-table-1.pdf) In 2010, 62.0% of females aged between 25 and 29 were single, up from 45.5% in 2000. For males of the same age group, 78.5% were single in 2010, up from 66.4% in 2000. Singlehood rates for those aged 30 to 34 have also increased significantly.
+The other contributing factor that has the greatest impact on our low TFR, is that more Singaporeans are remaining single. [Table 1: Proportion of Single Citizens](https://www.population.gov.sg/images/speeches/cos-2011-table-1.pdf) In 2010, 62.0% of females aged between 25 and 29 were single, up from 45.5% in 2000. For males of the same age group, 78.5% were single in 2010, up from 66.4% in 2000. Singlehood rates for those aged 30 to 34 have also increased significantly.
 
 #### FACILITATING DATING OPPORTUNITIES FOR SINGAPOREANS
 
 Some Members suggested that the key to raising our fertility rates lies in reducing our singlehood rates. I totally agree. But getting married is a very personal decision. I know from perception surveys that Singaporean women do want to get married, and so do the Singaporean men. They are waiting to find the right partner. What the Government can do is to facilitate the process by providing opportunities for singles to socialise. This is done 4 through the Social Development Network and accredited private dating agencies. Dr Vivian Balakrishnan will elaborate more about SDN’s programmes when he speaks at the COS debate on his ministry.
 
-Mr Zaqy and Mr Ong Ah Heng at his budget speech suggested providing more financial assistance for couples to have children. The Government has indeed invested sizeable resources to support Singaporeans in having children. Since the Marriage and Parenthood (M&P) package was introduced in 2001, the Government has enhanced the package twice, once in 2004, and again in 2008. Members can note the details in the table I handed out. With the 2008 enhancements, we now have a broad-based package of support measures, including increased maternity and childcare leave, increased Baby Bonus cash gift and co-savings, and increased childcare subsidies. We should allow more time to assess the impact of these measures, before considering further adjustments. NPTD will consider Mr Zaqy’s suggestion on how to present the package more intuitively, so that Singaporeans can understand and appreciate the various measures that apply to them. 
+Mr Zaqy and Mr Ong Ah Heng at his budget speech suggested providing more financial assistance for couples to have children. The Government has indeed invested sizeable resources to support Singaporeans in having children. Since the Marriage and Parenthood (M&amp;P) package was introduced in 2001, the Government has enhanced the package twice, once in 2004, and again in 2008. Members can note the details in the table I handed out. With the 2008 enhancements, we now have a broad-based package of support measures, including increased maternity and childcare leave, increased Baby Bonus cash gift and co-savings, and increased childcare subsidies. We should allow more time to assess the impact of these measures, before considering further adjustments. NPTD will consider Mr Zaqy’s suggestion on how to present the package more intuitively, so that Singaporeans can understand and appreciate the various measures that apply to them. 
 
 Mr Zaqy and Mr Sadasivan said that the cost of HDB flats could have deterred couples from getting married. While that may be the reason some give for not getting married, let me assure the House that the Government is committed to keeping new 6 flats affordable, through generous subsidies. Mr Mah Bow Tan will say more about this when he speaks at MND’s COS.
 
 On the issue of facilitating work-life practices and work-life balance, Mr Sadasivan is well aware that there is the Tripartite Committee on Work-Life Strategy which drives the implementation of worklife strategies across industries. Companies can tap on the Work-Life-Works! Fund to defray the costs of introducing work-life measures, for example, for purchasing laptops and implementing infrastructure to support telecommuting. Companies are best placed to determine how best to address employee needs, to attract and retain talent. Mr Gan Kim Yong will say more about worklife harmony during the COS debate on MOM.
 
-With regard to parental leave, the Government introduced paid childcare leave in 2004 to support both fathers and mothers in their parenting duties. In 2008, we extended paid childcare leave to six days for each parent, until the child turns seven. We have also introduced six days of unpaid infantcare leave a year, until the child turns two. That is a total of 42 days paid leave and 12 days of unpaid leave per parent. In 2009, a year after the introduction of the 2008 M&P package, 30% of fathers took more than three days of paid childcare leave, as compared to 46% of mothers. MOM’s survey also shows that 48% of companies voluntarily provide paternity leave in 2010 on top of the legislated childcare leave. For now, I think we have done enough to encourage shared parental 8 responsibility through childcare leave. Married couples should decide between themselves how to share their parenting responsibilities.
+With regard to parental leave, the Government introduced paid childcare leave in 2004 to support both fathers and mothers in their parenting duties. In 2008, we extended paid childcare leave to six days for each parent, until the child turns seven. We have also introduced six days of unpaid infantcare leave a year, until the child turns two. That is a total of 42 days paid leave and 12 days of unpaid leave per parent. In 2009, a year after the introduction of the 2008 M&amp;P package, 30% of fathers took more than three days of paid childcare leave, as compared to 46% of mothers. MOM’s survey also shows that 48% of companies voluntarily provide paternity leave in 2010 on top of the legislated childcare leave. For now, I think we have done enough to encourage shared parental 8 responsibility through childcare leave. Married couples should decide between themselves how to share their parenting responsibilities.
 
 Mr Zaqy suggested that there could be a tipping point in subsidies beyond which Singaporeans will change their minds about having babies. But marriage and parenthood cannot just be about tangible costs and benefits. I hope married couples would not just take a transactional approach in deciding whether to have children. While having children means having to make sacrifices in the short term, there is immeasurable joy to seeing them grow up and be good citizens. There needs to be a mindset change among our population if we were to tackle the issue of low TFR. Or, as Mr Zaqy said, Singaporeans need to overcome their 9 psychological barriers to get married and have children. What the Government can and will do is to ensure that Singapore is a good place to raise children. The Government will also provide some funding support to help them do this, as we have done. But couples must bear some responsibilities for being parents too. 
 
@@ -54,3 +52,4 @@ Mr Chairman, NPTD takes a Whole-of-Government approach in tackling the populatio
 <sub><sup>1</sup> Preliminary TFR estimate for 2010<sub>
 
 
+</sub></sub>
