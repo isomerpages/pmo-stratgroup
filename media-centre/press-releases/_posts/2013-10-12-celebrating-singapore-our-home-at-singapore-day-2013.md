@@ -3,6 +3,7 @@ layout: post
 title: Celebrating Singapore, Our Home at Singapore Day 2013
 date: 2013-10-12
 permalink: /media-centre/press-releases/celebrating-singapore-our-home-at-singapore-day-2013/
+variant: markdown
 ---
 Deputy Prime Minister Teo Chee Hean and Minister in the Prime Minister’s Office Grace Fu joined 6,200 Singaporeans living, working and studying in Australia at The Royal Botanic Gardens, Sydney for Singapore Day 2013 to “Celebrate Singapore, Our Home”<sup>1</sup> today.
 
@@ -36,7 +37,7 @@ _Hawkers_
 
 “I am very happy to be a part of Singapore Day 2013. It all started when my father was first invited to participate in the event two years ago. He was really excited about meeting and interacting with Singaporeans overseas. His dedication to Singapore Day was inspiring. It meant a lot for him to be able to bring our Nasi Lemak and a taste of home to our fellow Singaporeans overseas, putting smiles on their faces as they satisfy their cravings for local hawker food. My father is no longer with us but I am here today to be in his place. Like him, I am glad to have been given the opportunity to be a part of this.” - Abdul Malik Hassan, owner of Selera Rasa Nasi Lemak, a third-time participant at Singapore Day
 
-<Photo of DPM with Mr Malik can be found in Annex E (powerpoint slides)>
+
 
 “I really enjoyed chatting with the Singaporeans here, who told me about how much they missed local food!” -- Abdus Salam S/O Akber Ali (Abdhus Salam Indian Rojak), a third-time participant at Singapore Day
 
@@ -62,7 +63,7 @@ Email: [jenny_foo@nptd.gov.sg](mailto:jenny_foo@nptd.gov.sg)
 
 Annexes
 
-a) _Annex A:_ Fact Sheet on Overseas Singaporean Unit & its Programmes
+a) _Annex A:_ Fact Sheet on Overseas Singaporean Unit &amp; its Programmes
 
 b) _Annex B:_ DPM Teo Chee Hean’s welcome remarks at Singapore Day 2013
 
@@ -132,7 +133,7 @@ OSU Facebook is at [https://www.facebook.com/singaporeglobalnetwork/](https://ww
 
 **ANNEX B**
 
-< Checked against delivery > 
+&lt; Checked against delivery &gt; 
 
 **WELCOME REMARKS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND MINISTER IN-CHARGE OF NATIONAL POPULATION AND TALENT DIVISION AT SINGAPORE DAY 2013, 12 OCTOBER 2013, THE DOMAIN, ROYAL BOTANIC GARDENS, SYDNEY, AUSTRALIA**
 
@@ -245,6 +246,6 @@ Minister, you had a dialogue with Singaporeans overseas earlier. What issues do 
 
 **PHOTOS OF SINGAPORE DAY**
 
-(Please refer to [powerpoint slides](/images/press%20release%20images/pdfs/singapor.ppt))
+(Please refer to [powerpoint slides](https://www.population.gov.sg/images/press%20release%20images/pdfs/singapor.ppt))
 
 <sub><sup>1</sup>Please refer to Annexes B, C and D for DPM Teo Chee Hean’s and Minister Grace Fu’s comments at Singapore Day.</sub>
