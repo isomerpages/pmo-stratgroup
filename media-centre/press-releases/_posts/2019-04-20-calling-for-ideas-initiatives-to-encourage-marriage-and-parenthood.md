@@ -14,7 +14,7 @@ There are several areas and ways in which Singaporeans and community groups can 
 
 A pipeline of engagements is being lined up monthly. Together with community partners, NPTD will be engaging Singaporeans through the following channels in the upcoming months:
 
-_1. Heybaby.sg/PlayAPart_
+_1. Hey Baby SG Website_
 
 A dedicated section in the Heybaby.sg website has been created for Singaporeans to share their views on marriage and parenthood matters. At this site, they can submit suggestions, as well as get information on upcoming events, consultations and ground-up initiatives by community partners, which they can participate in.
 
