@@ -14,7 +14,7 @@ variant: tiptap
 will consider raising the age ceiling for childcare leave provisions until
 the child is 12 years of age, considering the wider adoption of home-based
 learning in primary schools.</p>
-<p><strong>Ms Indranee Rajah (for the Prime Minister): </strong>
+<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
 <p>Today, each working parent is entitled to six days of paid childcare leave
 per year, when their youngest Singaporean child is below seven years old.
