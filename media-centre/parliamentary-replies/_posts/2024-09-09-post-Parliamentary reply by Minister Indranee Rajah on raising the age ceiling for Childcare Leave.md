@@ -8,6 +8,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong>
+</p>
+<p><strong>WRITTEN REPLY</strong>&nbsp;</p>
+<p><strong>MONDAY, 9 SEPTEMBER 2024</strong>
+</p>
 <p><strong>Ms Joan Pereira:</strong>
 </p>
 <p>To ask the Prime Minister and Minister for Finance whether the Ministry
