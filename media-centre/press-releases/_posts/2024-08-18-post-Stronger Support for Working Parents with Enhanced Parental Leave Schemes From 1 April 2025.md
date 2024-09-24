@@ -4,7 +4,8 @@ title: Stronger Support for Working Parents with Enhanced Parental Leave Schemes
 permalink: /stronger-support-for-working-parents-with-enhanced-parental-leave-schemes-from-1-april-2025/
 date: 2024-08-18
 layout: post
-description: ""
+description: Stronger Support for Working Parents with Enhanced Parental Leave
+  Schemes From 1 April 2025
 image: ""
 variant: markdown
 ---
@@ -70,7 +71,7 @@ More details on the marriage and parenthood support measures can be found at [ww
 
 ![Summary of Parental Leave Schemes](/images/press%20release%20images/Summary_of_Parental_Leave_Schemes.jpg)
 
-Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of FAQs.
+[Click here for a list of FAQs](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf)
 
 <sup>1</sup> _More details on the reimbursement process for the new SPB scheme will be released closer to the implementation date._
 
