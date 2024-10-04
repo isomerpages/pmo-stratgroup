@@ -5,6 +5,7 @@ title: Speech by Deputy Prime Minister, Coordinating Minister for National
   Summit, 23 February 2012, at Capella Singapore
 date: 2012-02-23T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean-at-the-world-oceans-summit-23-february-2012-at-capella-singapore/
+variant: markdown
 ---
 His Excellency, Mr Olafur Ragnar Grimsson   
 President, Republic of Iceland  
@@ -104,7 +105,7 @@ I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 <sub><sup>1</sup> International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
 </sub>
 
-<sub><sup>2</sup> Global Marine Oil Pollution Information Gateway [http://oils.gpa.unep.org](http://oils.gpa.unep.org/) </sub>
+<sub><sup>2</sup> Global Marine Oil Pollution Information Gateway.</sub>
 
 <sub><sup>3</sup> Biliana Cicin-Sain et al, “Oceans at Rio+20: How Well are we Doing in Meeting the Commitments from the 1992 Earth Summit and the 2002 World Summit on Sustainable Development?”, University of Delaware and Global Ocean Forum, September 2011 (Oceans at Rio+20) </sub> 
 
