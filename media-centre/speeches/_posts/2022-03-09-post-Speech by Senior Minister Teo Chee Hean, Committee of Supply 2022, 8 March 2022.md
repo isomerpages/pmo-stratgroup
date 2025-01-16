@@ -4,8 +4,8 @@ permalink: /media-centre/speeches/speech-by-senior-minister-teo-chee-hean-commit
 date: 2022-03-09
 layout: post
 description: ""
+variant: markdown
 ---
-
 **SPEECH BY SENIOR MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY TEO CHEE HEAN 
 COMMITTEE OF SUPPLY 2022, 8 MARCH 2022**
 
@@ -91,4 +91,4 @@ Mr Chairman, all of us have a part to play. We can and we should make this decis
 
 Thank you, Mr Chairman. 
 
-*For more information on the Joint Segment on Sustainability at the Committee of Supply debates 2022, please visit: [https://www.mse.gov.sg/news/committee-of-supply/](https://www.mse.gov.sg/news/committee-of-supply/).*
+*For more information on the Joint Segment on Sustainability at the Committee of Supply debates 2022, please visit: [https://www.mse.gov.sg/latest-news/](https://www.mse.gov.sg/latest-news/)*

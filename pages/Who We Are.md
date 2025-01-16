@@ -3,6 +3,7 @@ title: Who We Are
 permalink: /who-we-are/
 breadcrumb: Who We Are
 variant: markdown
+description: who we are
 ---
 ### **About Us**
 

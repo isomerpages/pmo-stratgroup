@@ -1,11 +1,10 @@
 ---
-title: 'Privacy Statement'
+title: Privacy Statement
 permalink: /privacy/
 breadcrumb: Privacy
-
+variant: tiptap
+description: privacy statement
 ---
-
-
 ### **Government Agency Privacy Statement**
 
 1. This is a Government of Singapore website.
@@ -23,6 +22,6 @@ breadcrumb: Privacy
 
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. Please contact <sg_feedback@pmo.gov.sg> if you:  
+7. Please contact  if you:  
   a. have any enquires or feedback on our data protection policies and procedures,  
   b. need more information on or access to data which you have provided to us in the past.
