@@ -91,4 +91,4 @@ Mr Chairman, all of us have a part to play. We can and we should make this decis
 
 Thank you, Mr Chairman. 
 
-*For more information on the Joint Segment on Sustainability at the Committee of Supply debates 2022, please visit: [https://www.mse.gov.sg/latest-news/](https://www.mse.gov.sg/latest-news/)https://www.mse.gov.sg/latest-news/*
+*For more information on the Joint Segment on Sustainability at the Committee of Supply debates 2022, please visit: [https://www.mse.gov.sg/latest-news/](https://www.mse.gov.sg/latest-news/)*
