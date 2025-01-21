@@ -49,8 +49,8 @@ sections:
   - resources:
       title: Latest News
       subtitle: Media Centre
-      button: More Media
-      url: media-centre/
+      id: resources
+      button: More media
 notification: ""
 image: /images/isomer-logo.svg
 ---
