@@ -1,5 +1,6 @@
 ---
-title: Speech by Minister Indranee Rajah for Parliamentary Motion on Supporting Singaporeans in Starting and Raising Families
+title: Speech by Minister Indranee Rajah for Parliamentary Motion on Supporting
+  Singaporeans in Starting and Raising Families
 permalink: /speech-by-minister-indranee-for-motion-on-supporting-singaporeans-in-starting-and-raising-families/
 date: 2025-02-05
 layout: post
@@ -444,8 +445,10 @@ we have undertaken major reforms.</p>
 <p>All in all, factoring in our investments in the early childhood sector
 and upcoming parental leave enhancements, we expect marriage and parenthood
 initiatives to cost the Government close to $7 billion in FY2026, up from
-over $4 billion in 2020. This is over and above our subsidies for general
-and higher education, as well as our housing subsidies.</p>
+over $4 billion in 2020. Most of that increase is for the early childhood
+sector and the upcoming parental leave enhancements. This is over and above
+our subsidies for general and higher education, as well as our housing
+subsidies.</p>
 <p>So Sir, I support the original Motion. The original motion is “That this
 House calls for the continued review and updating of policies to better
 support families, as well as the marriage and parenthood aspirations of
