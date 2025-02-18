@@ -10,8 +10,9 @@ variant: tiptap
 <p><em>Parents will receive up to $16,000 of additional support for each third and subsequent Singaporean child</em>
 </p>
 <p></p>
-<p>1. Prime Minister and Minister for Finance Lawrence Wong announced in
-the Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;Prime Minister and Minister for Finance Lawrence Wong announced in
+the Budget 2025 Statement that that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
 provide more support for couples with three or more children. This initiative
 builds on the Government’s commitment in the 2023 Forward Singapore report
 to support Singaporeans in fulfilling their parenthood aspirations, and
@@ -146,10 +147,10 @@ Details about our M&amp;P Package can be found at <a href="https://www.madeforfa
 </p>
 <p></p>
 <hr>
-<p><sup>1</sup> Families who are eligible for the LFS will also receive the
-one-off CLC and/or Edusave/PSEA top-ups.</p>
+<p><sup>1</sup>  <em>Families who are eligible for the LFS will also receive the one-off CLC and/or Edusave/PSEA top-ups.</em>
+</p>
 <hr>
-<p><sup>2 </sup>The MGN will be increased from $4,000 to $5,000 for babies
-born from 1 April 2025.</p>
-<p><sup>3</sup> Eligibility will be determined as of 1 March each year, and
-the LFLC will be subsequently disbursed in April of the same year.</p>
+<p><sup>2 </sup><em>The MGN will be increased from $4,000 to $5,000 for babies born from 1 April 2025.</em>
+</p>
+<p><sup>3</sup>  <em>Eligibility will be determined as of 1 March each year, and the LFLC will be subsequently disbursed in April of the same year.</em>
+</p>
