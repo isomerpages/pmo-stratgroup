@@ -11,11 +11,11 @@ variant: tiptap
 </p>
 <p></p>
 <p>Prime Minister and Minister for Finance Lawrence Wong announced in the
-Budget 2025 Statement that the Government will introduce a Large Families
-Scheme (LFS) to provide more support for couples with three or more children.
-This initiative builds on the Government’s commitment in the 2023 Forward
-Singapore report to support Singaporeans in fulfilling their parenthood
-aspirations, and create a conducive environment for families to thrive.</p>
+Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
+provide more support for couples with three or more children. This initiative
+builds on the Government’s commitment in the 2023 Forward Singapore report
+to support Singaporeans in fulfilling their parenthood aspirations, and
+create a conducive environment for families to thrive.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Under the LFS, parents with a third or subsequent Singapore Citizen (SC)
