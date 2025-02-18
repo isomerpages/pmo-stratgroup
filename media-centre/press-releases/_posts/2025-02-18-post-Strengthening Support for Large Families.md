@@ -10,8 +10,8 @@ variant: tiptap
 <p><em>Parents will receive up to $16,000 of additional support for each third and subsequent Singaporean child</em>
 </p>
 <p></p>
-<p>Prime Minister and Minister for Finance Lawrence Wong announced in the
-Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
+<p>1. Prime Minister and Minister for Finance Lawrence Wong announced in
+the Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
 provide more support for couples with three or more children. This initiative
 builds on the Government’s commitment in the 2023 Forward Singapore report
 to support Singaporeans in fulfilling their parenthood aspirations, and
@@ -88,7 +88,7 @@ invite more merchants to come onboard.</p>
 A summary of the various LFS support measures and disbursement timelines
 can be found in<a href="/files/media-centre/press-releases/ANNEX_B___Eligibility_Criteria_and_Disbursement_Timeline.pdf" rel="noopener noreferrer nofollow" target="_blank"> <u>Annex B</u></a>.
 A list of Frequently Asked Questions (FAQs) can be found in <a href="/files/media-centre/press-releases/ANNEX_C___FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex C</u>.</a> More
-details on the LFS can be found at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/LFS</a>.</p>
+details on the LFS can be found at <a href="https://www.life.gov.sg/family-parenting/benefits-support/large-families-scheme" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/LFS</a>.</p>
 <p></p>
 <p><em><u>Comprehensive support for Singaporeans’ marriage and parenthood aspirations</u></em>
 </p>
@@ -124,7 +124,7 @@ As part of Budget 2025, the Government will also provide the following
 support measures, <strong>to help all families with children manage their child-raising costs</strong>:​</p>
 <p></p>
 <p>a) <strong>$500 in one-off Child LifeSG Credits (CLC) for each SC child aged 0 to 12</strong> (born
-from 1 January 2013 to 31 December 2025), regardless of birth order<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>.<strong> </strong>Similar
+from 1 January 2013 to 31 December 2025), regardless of birth order<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>.<strong> </strong>Similar
 to the LFLC, families can use the CLC<strong> </strong>at a wide range
 of merchants to defray their household expenses. The CLC will be disbursed
 in July 2025 for those aged 1 to 12 this year, and in April 2026 for those
@@ -141,8 +141,7 @@ top-ups will be disbursed in July 2025.</p>
 The Government is committed to helping families grow and thrive. We will
 continue to review our policies to better support parents, and work with
 the community, businesses and employers to build a Singapore Made For Families.
-Details about our M&amp;P Package can be found at <a rel="noopener noreferrer nofollow" target="_blank">www.madeforfamilies.gov.sg</a>
-<a href="http://www.madeforfamilies.gov.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
+Details about our M&amp;P Package can be found at <a href="https://www.madeforfamilies.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.madeforfamilies.gov.sg.</a>
 </p>
 <p></p>
 <hr>
@@ -150,9 +149,9 @@ Details about our M&amp;P Package can be found at <a rel="noopener noreferrer no
 who are eligible for the LFS will also receive the one-off CLC and/or Edusave/PSEA
 top-ups.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a> The
 MGN will be increased from $4,000 to $5,000 for babies born from 1 April
 2025.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Eligibility
+<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[3]</a> Eligibility
 will be determined as of 1 March each year, and the LFLC will be subsequently
 disbursed in April of the same year.</p>
