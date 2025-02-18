@@ -141,7 +141,7 @@ top-ups will be disbursed in July 2025.</p>
 The Government is committed to helping families grow and thrive. We will
 continue to review our policies to better support parents, and work with
 the community, businesses and employers to build a Singapore Made For Families.
-Details about our M&amp;P Package can be found at <a href="https://www.madeforfamilies.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.madeforfamilies.gov.sg.</a>
+Details about our M&amp;P Package can be found at <a href="https://www.madeforfamilies.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.madeforfamilies.gov.sg</a>
 </p>
 <p></p>
 <hr>
