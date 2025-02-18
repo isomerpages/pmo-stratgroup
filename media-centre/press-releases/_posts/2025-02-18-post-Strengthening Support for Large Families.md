@@ -41,12 +41,13 @@ fees and healthcare costs incurred by the child or his/her siblings.</p>
 will be credited into the mother’s MediSave account and can be used to
 offset her pregnancy and delivery expenses, as well as for approved dependants’
 medical bills and hospitalisation fees. The LFMG is in addition to the
-Medisave Grant for Newborns<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> provided to all SC children at birth.</p>
+Medisave Grant for Newborns<sup>1 </sup>provided to all SC children at
+birth.</p>
 <p><strong><u>(New) </u></strong><u>Large Family LifeSG Credits (LFLC)</u>
 </p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To provide sustained support for large families during their children’s
-early years, parents will receive <strong>$1,000 annually in LFLC for each third and subsequent SC child, in the years that the child turns one to six.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a></strong>
+early years, parents will receive <strong>$1,000 annually in LFLC for each third and subsequent SC child, in the years that the child turns one to six.<sup>2</sup></strong>
 </p>
 <p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Existing large families with at least one child aged six or below (i.e. born between 1 January 2019 and 17 February 2025) will also receive the $1,000 annually in LFLC for each third and subsequent SC child, until the child turns six.</strong>
@@ -124,7 +125,7 @@ As part of Budget 2025, the Government will also provide the following
 support measures, <strong>to help all families with children manage their child-raising costs</strong>:​</p>
 <p></p>
 <p>a) <strong>$500 in one-off Child LifeSG Credits (CLC) for each SC child aged 0 to 12</strong> (born
-from 1 January 2013 to 31 December 2025), regardless of birth order<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>.<strong> </strong>Similar
+from 1 January 2013 to 31 December 2025), regardless of birth order.<sup>3</sup><strong> </strong>Similar
 to the LFLC, families can use the CLC<strong> </strong>at a wide range
 of merchants to defray their household expenses. The CLC will be disbursed
 in July 2025 for those aged 1 to 12 this year, and in April 2026 for those
@@ -145,13 +146,10 @@ Details about our M&amp;P Package can be found at <a href="https://www.madeforfa
 </p>
 <p></p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Families
-who are eligible for the LFS will also receive the one-off CLC and/or Edusave/PSEA
-top-ups.</p>
+<p><sup>1</sup> Families who are eligible for the LFS will also receive the
+one-off CLC and/or Edusave/PSEA top-ups.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a> The
-MGN will be increased from $4,000 to $5,000 for babies born from 1 April
-2025.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[3]</a> Eligibility
-will be determined as of 1 March each year, and the LFLC will be subsequently
-disbursed in April of the same year.</p>
+<p><sup>2 </sup>The MGN will be increased from $4,000 to $5,000 for babies
+born from 1 April 2025.</p>
+<p><sup>3</sup> Eligibility will be determined as of 1 March each year, and
+the LFLC will be subsequently disbursed in April of the same year.</p>
