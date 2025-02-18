@@ -149,7 +149,6 @@ Details about our M&amp;P Package can be found at <a href="https://www.madeforfa
 <hr>
 <p><sup>1</sup>  <em>Families who are eligible for the LFS will also receive the one-off CLC and/or Edusave/PSEA top-ups.</em>
 </p>
-<hr>
 <p><sup>2 </sup><em>The MGN will be increased from $4,000 to $5,000 for babies born from 1 April 2025.</em>
 </p>
 <p><sup>3</sup>  <em>Eligibility will be determined as of 1 March each year, and the LFLC will be subsequently disbursed in April of the same year.</em>
