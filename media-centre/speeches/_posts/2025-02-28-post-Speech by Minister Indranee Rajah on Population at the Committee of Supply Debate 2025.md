@@ -59,7 +59,7 @@ the Baby Bonus Cash Gift and contributions to the Child Development Account
 or CDA. We have reviewed and will be expanding the uses of CDA to better
 support parents. MSF will share more at their COS. In 2024, we launched
 the Tripartite Guidelines on Flexible Work Arrangement Requests. The enhanced
-Government-Paid Paternity Leave and new Shared Parental Leave or SPL, announced
+Government-Paid Paternity Leave and new Shared Parental Leave (SPL), announced
 by PM last year will start from 1 April this year. This month in Budget
 2025, PM announced the new Large Families Scheme.</p>
 <p></p>
@@ -115,8 +115,8 @@ considered and must strike a balance between the needs of different caregivers
 and the operational impact on employers.</p>
 <p></p>
 <p>More broadly, however, we do need employers to embrace more family-friendly
-workplace practices. For instance, Flexible Work Arrangements (or FWAs)
-are an important form of support for parents with young children, and other
+workplace practices. For instance, Flexible Work Arrangements (FWAs) are
+an important form of support for parents with young children, and other
 workers with caregiving responsibilities. When implemented well, FWAs enable
 employees to balance their responsibilities both at work, and at home.
 With the implementation of the Tripartite Guidelines on FWA Requests from
