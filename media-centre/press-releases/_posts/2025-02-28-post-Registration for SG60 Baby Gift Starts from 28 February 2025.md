@@ -32,7 +32,7 @@ born between 1 January 2025 and 31 December 2025 will be eligible for the
 SG60 Baby Gift.</p>
 <p>&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To receive the Gift, parents
 will first need to complete the birth registration of their child. Thereafter,
-parents can register for the SG60 Baby Gift at <a href="go.gov.sg/SG60BabyGift" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/SG60BabyGift</a>. <strong>Registration opens on 28 February 2025 and closes on 28 February 2026.</strong>
+parents can register for the SG60 Baby Gift at <a href="Https://go.gov.sg/SG60BabyGift" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/SG60BabyGift</a>. <strong>Registration opens on 28 February 2025 and closes on 28 February 2026.</strong>
 </p>
 <p><em>Receiving the SG60 Baby Gift</em>
 </p>
