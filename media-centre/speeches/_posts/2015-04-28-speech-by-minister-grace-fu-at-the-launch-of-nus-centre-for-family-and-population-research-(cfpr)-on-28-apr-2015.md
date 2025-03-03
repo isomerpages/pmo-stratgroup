@@ -79,6 +79,6 @@ Thank you very much and congratulations.
 
 <sub><sup>4</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews. </sub>
 
-<sub><sup>5</sup> The Economist (31 May 2014), retrieved from [[The incredible shrinking country](https://www.economist.com/asia/2014/05/31/the-incredible-shrinking-country)]</sub> 
+<sub><sup>5</sup> The Economist (31 May 2014), retrieved from https://www.economist.com/asia/2014/05/31/the-incredible-shrinking-country</sub> 
 
 <sub><sup>6</sup> Figures as at 2013.  Source: Population in Brief, 2014 </sub>
