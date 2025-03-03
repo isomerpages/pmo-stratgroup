@@ -4,6 +4,7 @@ title: Speech by Minister Grace Fu, at the launch of NUS Centre for Family and
   Population Research (CFPR)
 date: 2015-04-28T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015/
+variant: markdown
 ---
 **New Centre to further understanding and discourse on Singapore’s demographic challenges**
 
@@ -78,6 +79,6 @@ Thank you very much and congratulations.
 
 <sub><sup>4</sup> Efinancialcareers (2014), Finance professionals in Asia fear “slacker” tag if they ask about work-life balance at interviews. </sub>
 
-<sub><sup>5</sup> The Economist (31 May 2014), retrieved from [http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country](http://www.economist.com/news/asia/21603076-first-timeproper-debate-starting-about-immigration-incredible-shrinking-country) </sub> 
+<sub><sup>5</sup> The Economist (31 May 2014), retrieved from [[The incredible shrinking country](https://www.economist.com/asia/2014/05/31/the-incredible-shrinking-country)]</sub> 
 
 <sub><sup>6</sup> Figures as at 2013.  Source: Population in Brief, 2014 </sub>
