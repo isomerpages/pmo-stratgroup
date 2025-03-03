@@ -68,7 +68,7 @@ to help parents improve their work-life harmony, and how we can help singles
 find their life partners earlier.</p>
 <p>Please refer to Annex B for a summary of the overall Marriage &amp; Parenthood
 Package following these enhancements. More information can be found at
-[www.heybaby.sg]</p>
+www.heybaby.sg.</p>
 <p>NATIONAL POPULATION AND TALENT DIVISION
 <br>25 AUGUST 2015</p>
 <p><strong>ANNEX A</strong>
