@@ -6,7 +6,7 @@ date: 2015-04-28T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-launch-of-nus-centre-for-family-and-population-research-(cfpr)-on-28-apr-2015/
 variant: markdown
 ---
-**New Centre to further understanding and discourse on Singapore’s demographic challenges**
+**New Centre to further understanding and discourse on Singapore’s demographic challenges **
 
 Professor Tan Chorh Chuan  
 President, National University of Singapore
