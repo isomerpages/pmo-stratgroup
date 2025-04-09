@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong>
 </p>
-<p><strong>ORAL REPLY</strong>&nbsp;</p>
+<p><strong>WRITTEN REPLY</strong>&nbsp;</p>
 <p><strong>TUESDAY, 8 APRIL 2025</strong>
 </p>
 <p><strong>Ms Ng Ling Ling:</strong>
@@ -27,32 +27,28 @@ as successful for reversing the downward trend in total fertility rate.</p>
 were a developing country with few resources, insufficient housing and
 amenities, and a population with much lower levels of education. Mindsets
 and attitudes to family formation too were different.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-In the half-century that has since passed, Singapore has changed tremendously.
+<p>In the half-century that has since passed, Singapore has changed tremendously.
 Individual priorities and societal norms surrounding marriage and parenthood
 have also shifted, in line with global trends across advanced societies
 around the world. As such, using an approach like the “Stop at Two” campaign,
 which was developed for circumstances and views prevalent more than 50
 years ago, may not be the most effective to change mindsets and attitudes
 in the current day.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Addressing our declining fertility is a national priority. Yet, we also
+<p>Addressing our declining fertility is a national priority. Yet, we also
 understand that marriage and parenthood are deeply personal decisions.
 Young couples have many considerations in deciding whether to marry and
 have children. Hence, we are focusing on understanding their viewpoint
 and are working to address their concerns over starting and raising families.
 We are also working to foster a more conducive and enabling environment
 in which Singaporeans feel secure and supported in having children.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-In the Forward Singapore report, we have stated our commitment for Singapore
+<p>In the Forward Singapore report, we have stated our commitment for Singapore
 to be the best place for Singaporeans to start, grow and nurture their
 families. Since then, we have progressively enhanced our policies to address
 key areas of concerns, for example, through enhancements to the Baby Bonus
 Scheme, introduction of the new Shared Parental Leave scheme, the Tripartite
 Guidelines on Flexible Work Arrangement Requests, as well as the new Large
 Families Scheme.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-To shift mindsets and culture, we have also started the Made For Families
+<p>To shift mindsets and culture, we have also started the Made For Families
 movement, which is an ongoing effort to rally employers, organisations,
 community groups, and individuals to create a Singapore where families
 can thrive. The Made For Families movement also includes public communications
