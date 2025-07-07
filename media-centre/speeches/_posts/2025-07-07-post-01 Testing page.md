@@ -61,4 +61,5 @@ variant: tiptap
 </details>
 </div>
 <hr>
-<p></p>
+<p><a href="/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
