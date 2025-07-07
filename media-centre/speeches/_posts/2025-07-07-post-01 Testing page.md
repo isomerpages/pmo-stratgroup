@@ -60,4 +60,5 @@ variant: tiptap
 </div>
 </details>
 </div>
+<hr>
 <p></p>
