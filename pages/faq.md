@@ -16,4 +16,4 @@ You can apply via [Careers@Gov](https://www.careers.gov.sg/) after looking throu
 
 #### **I'm interested in doing my internship in Strategy Group. How do I apply?**
 
-You can visit [Careers@Gov](https://www.careers.gov.sg/faqs/internships) for more information on joining the Public Service as an intern.
+You can visit [Careers@Gov](https://www.careers.gov.sg/) for more information on joining the Public Service as an intern.
