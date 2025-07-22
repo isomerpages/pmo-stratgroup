@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>President of YWCA, Ms Sim Hwee Hoon</p>
-<p>Distinguished Guests</p>
-<p>Ladies and Gentlemen</p>
+<p>President of YWCA, Ms Sim Hwee Hoon
+<br>Distinguished Guests
+<br>Ladies and Gentlemen</p>
 <p></p>
 <p>A very good afternoon to all. It is my honour to join you today at this
 very special occasion – the official launch of the YWCA’s Hopemaker Movement
