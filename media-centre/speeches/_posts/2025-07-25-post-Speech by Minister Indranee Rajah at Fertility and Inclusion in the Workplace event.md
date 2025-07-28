@@ -63,8 +63,6 @@ Fay felt more at ease and better able to cope with the physical, emotional
 and financial stress that comes with treatment.</p>
 <p>This is a happy example, but we really hope to see more of such exemplary
 employer support.</p>
-<p><sup>1</sup><em>Source: SingHealth Website (<a href="https://www.singhealth.com.sg/symptoms-treatments/male-infertility" rel="noopener noreferrer nofollow" target="_blank">https://www.singhealth.com.sg/symptoms-treatments/male-infertility</a>), Accessed 1 Jul 2025</em>
-</p>
 <p><strong>Support for Fertility Health</strong>
 </p>
 <p>On the Government’s end, we provide healthcare subsidies and support to
@@ -122,3 +120,5 @@ aspirations.</p>
 <p>Let us work together to make Singapore a great place to work, and a great
 place for families.</p>
 <p>Thank you.</p>
+<p><sup>1</sup><em>Source: SingHealth Website (<a href="https://www.singhealth.com.sg/symptoms-treatments/male-infertility" rel="noopener noreferrer nofollow" target="_blank">https://www.singhealth.com.sg/symptoms-treatments/male-infertility</a>), Accessed 1 Jul 2025</em>
+</p>
