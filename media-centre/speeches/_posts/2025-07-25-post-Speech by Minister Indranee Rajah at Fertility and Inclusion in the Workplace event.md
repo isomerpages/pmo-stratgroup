@@ -8,8 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Distinguished business leaders, HR professionals, and community partners</p>
-<p>Members of Fertility Support Singapore</p>
+<p>Distinguished business leaders, HR professionals, and community partners
+<br>Members of Fertility Support Singapore</p>
 <p>Good evening. Thank you for inviting me to this forum on fertility support
 in the workplace.</p>
 <p>Today is World IVF Day, a day dedicated to raising awareness about the
