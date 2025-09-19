@@ -10,8 +10,8 @@ variant: tiptap
 ---
 <p>PRIME MINISTER'S OFFICE (STRATEGY GROUP)</p>
 <p>ADDENDUM TO THE PRESIDENT'S ADDRESS</p>
-<p>MR GAN KIM YONG</p>
-<p>DEPUTY PRIME MINISTER AND MINISTER-IN-CHARGE OF STRATEGY GROUP</p>
+<p>MR GAN KIM YONG
+<br>DEPUTY PRIME MINISTER AND MINISTER-IN-CHARGE OF STRATEGY GROUP</p>
 <p>The Strategy Group will continue to lead the Public Service to develop
 and implement strategic priorities and tackle long-term national challenges,
 to build a better Singapore for all.</p>
