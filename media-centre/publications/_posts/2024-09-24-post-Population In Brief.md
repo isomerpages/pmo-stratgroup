@@ -10,6 +10,7 @@ variant: markdown
 Population in Brief is an annual publication that provides key updates and trends on Singapore's population landscape.
 
 Download:
+- [Population in Brief 2025 (1mb, pdf)](/files/UPDATED_Embargoed_till_29_Sep_3pm_Population_In_Brief_2025.pdf)
 - [Population in Brief 2024 (1mb, pdf)](/files/media-centre/publications/Population_in_Brief_2024.pdf)
 - [Population in Brief 2023 (1mb, pdf)](/files/media-centre/publications/population-in-brief-2023.pdf)
 - [Population in Brief 2022 (1mb, pdf)](/files/media-centre/publications/population-in-brief-2022.pdf)
