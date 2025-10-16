@@ -32,9 +32,9 @@ number of citizenships in line with the stronger applicant pool, based
 on factors such as assimilability, contributions, and links to Singapore
 such as having Singaporean family members.&nbsp;</p>
 <p>Our immigration policy is also reviewed regularly to account for changes
-to demographic trends. For instance, if our TFR declines further or other
-demographic trends shift significantly – we will have to review and adjust
-our intake accordingly.</p>
+to demographic trends. For instance, if our Total Fertility Rate declines
+further or other demographic trends shift significantly – we will have
+to review and adjust our intake accordingly.</p>
 <p>Regardless, we will continue to maintain a measured pace of immigration
 and be careful to grant PR or citizenship to those who can contribute,
 integrate well, and are committed to sinking their roots here, so that
