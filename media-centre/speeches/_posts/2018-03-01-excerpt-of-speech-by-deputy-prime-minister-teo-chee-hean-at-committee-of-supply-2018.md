@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Excerpt of Speech by Deputy Prime Minister, Teo Chee Hean, at Committee of Supply 2018'
+title: Excerpt of Speech by Deputy Prime Minister, Teo Chee Hean, at Committee
+  of Supply 2018
 date: 2018-03-01T00:00:00.000Z
 permalink: /media-centre/speeches/excerpt-of-speech-by-deputy-prime-minister-teo-chee-hean-at-committee-of-supply-2018/
-
+variant: markdown
 ---
-
-
 **Strengthening our Institutions and Helping Our People Succeed** 
 
 The PMO-Strategy Group is working closely with our agencies and other central agencies such as the Ministry of Finance and the Public Service Division to adopt a systems approach to planning and coordination. This includes areas such as scenario planning, budget, manpower, population, land, security, climate change and new opportunities in the Digital and Future Economy. We have formed the Smart Nation and Digital Government Group last May to accelerate our Smart Nation efforts. 
@@ -21,5 +20,4 @@ We will help our people and our companies make adjustments for the future, and c
 
 We will continue to strengthen our institutions to operate in a more integrated way. The recently passed Public Sector (Governance) Act strengthens our corporate governance and accountability. 
 
-For full speech, please go to: [https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean--coordinating-minister-for-national-security-and-minister-in-charge-of-the-civil-service-at-committee-of-supply-2018](https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean--coordinating-minister-for-national-security-and-minister-in-charge-of-the-civil-service-at-committee-of-supply-2018)
-
+For full speech, please go to: [https://www.psd.gov.sg/newsroom/dpm-teo-chee-hean-committee-of-supply-2018/](https://www.psd.gov.sg/newsroom/dpm-teo-chee-hean-committee-of-supply-2018/)
