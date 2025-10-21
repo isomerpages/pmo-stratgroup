@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Speech by Deputy Prime Minister, Teo Chee Hean, at Commitee of Supply Debate, 2 March 2017'
+title: Speech by Deputy Prime Minister, Teo Chee Hean, at Commitee of Supply
+  Debate, 2 March 2017
 date: 2017-03-02T00:00:00.000Z
 permalink: /media-centre/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-debate-2-march-2017/
-
+variant: markdown
 ---
-
-
 **A Well-Coordinated, Technology-Enabled, and Future-Ready Public Service**
 
 Thank you Madam Chairperson.  
@@ -34,7 +33,7 @@ Two years ago, I announced the formation of the PMO-Strategy Group. Last year, P
 
 As part of the consolidation and strengthening of the core centre-of-government functions, we merged the National Population and Talent Division and the National Climate Change Secretariat into the Strategy Group.
 
-As Mr Seah pointed out, there are cross-cutting issues which have longer term impact.  Population is certainly one of them. It frames the work of many ministries – covering areas such as the economy, healthcare, workforce, infrastructure and defence planning, as Mr Seah pointed out. Most importantly, we will also continue to strengthen the Singapore Family, with Marriage & Parenthood measures to support couples to own homes and have children. SMS Josephine Teo will update members on these plans later.
+As Mr Seah pointed out, there are cross-cutting issues which have longer term impact.  Population is certainly one of them. It frames the work of many ministries – covering areas such as the economy, healthcare, workforce, infrastructure and defence planning, as Mr Seah pointed out. Most importantly, we will also continue to strengthen the Singapore Family, with Marriage &amp; Parenthood measures to support couples to own homes and have children. SMS Josephine Teo will update members on these plans later.
 
 Climate change is another cross-cutting issue with long-term implications that will be even more keenly felt by future generations. Coordinated actions by all countries are needed to help reduce greenhouse gas emissions.
 
@@ -46,7 +45,7 @@ The Minister for Finance has announced in the Budget Speech that Government aim 
 
 The carbon tax revenue will not be earmarked for specific purposes to retain flexibility. In fact, the way Mr Kok described the carbon tax in British Columbia made it seemed like a “panacea” to address all our fiscal needs.  If that were indeed the case, the Minister for Finance will be delighted.  But we are not earmarking the taxed amounts for specific purposes, but government funds will support measures such as enhancing energy efficiency incentives and training workers in energy management. These will help our companies use less energy, save costs and reduce their emissions.
 
-Industry consultations on the carbon tax have already begun and will be expanded. We will begin public consultations this month. The Ministry of the Environment and Water Resources (MEWR) will further enhance the Energy Conservation Act this year to include energy measurement & reporting, and energy management requirements. MEWR and the Ministry of Transport will also make adjustments to enhance the Carbon Emissions-based Vehicle Scheme and include other pollutants.
+Industry consultations on the carbon tax have already begun and will be expanded. We will begin public consultations this month. The Ministry of the Environment and Water Resources (MEWR) will further enhance the Energy Conservation Act this year to include energy measurement &amp; reporting, and energy management requirements. MEWR and the Ministry of Transport will also make adjustments to enhance the Carbon Emissions-based Vehicle Scheme and include other pollutants.
 
 Our companies, particularly those with an established track record in clean energy and energy efficiency, are in a good position to seize green growth opportunities in the region and beyond as countries, including Singapore, take steps to reduce carbon emissions.
 
@@ -136,5 +135,4 @@ Thank you.
 
 <sub><sup>1</sup> Emissions intensity refers to GHG emissions per dollar of GDP</sub>
 
-Source: [Public Service Division](https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-2017)
-
+Source: [Public Service Division](https://www.psd.gov.sg/newsroom/dpm-teo-chee-hean-at-commitee-of-supply-2017/)
