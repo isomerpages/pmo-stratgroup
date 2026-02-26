@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
 </p>
-<p><strong>WRITTEN REPLY </strong>
+<p><strong>WRITTEN REPLY</strong>
 </p>
 <p><strong>THURSDAY, 26 FEBRUARY 2026</strong>
 </p>
