@@ -41,9 +41,10 @@ This is an existential challenge.</p>
 <p>What does a TFR of 0.87 mean? Let me try to illustrate.</p>
 <p>Assuming our TFR stays at 0.87 – based on a simplistic calculation, for
 every 100 residents today, we will have just 44 children, and a mere 19
-grandchildren.<sup>2</sup> Over time, it will be practically impossible
-to reverse the trend, because we will have fewer and fewer women who can
-bear children.</p>
+grandchildren.<sup>2</sup>
+</p>
+<p>Over time, it will be practically impossible to reverse the trend, because
+we will have fewer and fewer women who can bear children.</p>
 <p>PM said we have not given up, and he emphasised we will not give up. Let
 me add – we cannot give up.</p>
 <p>Low birth rates and an ageing population will profoundly reshape our nation,
@@ -57,13 +58,14 @@ early part of the 2040s.</p>
 decades. A smaller working-age base will have to support a rapidly growing
 elderly population; familial support networks will weaken as family sizes
 shrink. Each family member in the younger generation will have to carry
-a heavier load.At the macro level, a declining population means less vitality
-in our city and our economy. Our economic growth, and correspondingly,
-our income growth will slow. At the same time, our healthcare and social
-spending will have to increase to support our growing population of seniors.
-This tremendous strain will be felt at the national level, but also by
-individual households. And with fewer citizens, it will become increasingly
-difficult to meet our national security and national defence needs.</p>
+a heavier <a href="http://load.At" rel="noopener noreferrer nofollow" target="_blank">load.At</a> the
+macro level, a declining population means less vitality in our city and
+our economy. Our economic growth, and correspondingly, our income growth
+will slow. At the same time, our healthcare and social spending will have
+to increase to support our growing population of seniors. This tremendous
+strain will be felt at the national level, but also by individual households.
+And with fewer citizens, it will become increasingly difficult to meet
+our national security and national defence needs.</p>
 <p>This raises the deeper question of what Singapore will be 50 or 100 years
 from now – will we remain vibrant, liveable and relevant?</p>
 <p><strong><u>Supporting Singaporeans’ Marriage &amp; Parenthood Aspirations</u></strong>
@@ -295,9 +297,8 @@ this effort, and welcome all debate and fresh ideas on how to do so.</p>
 <p>Our path ahead will not be straightforward. But I am confident in our
 ability to adapt and thrive. Together, we will build a vibrant and resilient
 Singapore for present and future generations.</p>
-<p></p>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><sup>1</sup> Based on preliminary data on resident births in 2025.</p>
 <p><sup>2</sup> This theoretical scenario assumes a TFR (i.e. the average
 number of children a woman would have over her childbearing years) of 0.87
