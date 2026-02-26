@@ -43,7 +43,8 @@ for the Gift and will be subsequently provided with collection details.</p>
 attend the community events or who register for the SG60 Baby Gift after
 15 March 2025 will receive the Gift via home delivery. <strong>Home delivery will start from mid-May 2025.</strong>
 </p>
-<p></p>
+<p>&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For queries related to the
+SG60 Baby Gift, please email <a href="SG60_Baby_Gift@pmo.gov.sg" rel="noopener nofollow" target="_blank">SG60_Baby_Gift@pmo.gov.sg</a>.</p>
 <p></p>
 <p></p>
 <p>Click<a href="/files/media-centre/press-releases/Annex_B_SG60_BabyGift.pdf" rel="noopener noreferrer nofollow" target="_blank"> here </a>to
