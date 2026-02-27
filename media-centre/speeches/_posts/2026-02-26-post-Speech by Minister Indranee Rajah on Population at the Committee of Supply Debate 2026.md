@@ -70,8 +70,8 @@ work and family demands are the most common reasons cited by married respondents
 when considering whether to have children. But there are other factors
 at play too.</p>
 <p>To unpack this further, I engaged various groups of Singaporeans at different
-life stages to hear their thoughts on this issue. Today, and today I would
-like to share with you what I learnt from them.</p>
+life stages to hear their thoughts on this issue. And today, I would like
+to share with you what I learnt from them.</p>
 <p><strong><u>First, there are the singles</u></strong>. The Millennials
 and Gen Zs shared that dating, and marriage often took a backseat to their
 many other interests and goals. Some wanted to establish themselves in
@@ -87,7 +87,7 @@ feared that having children meant trading off their careers and other life
 goals. Others were concerned about the financial, emotional and mental
 demands of parenthood. And some women were anxious about how they would
 cope with the physical and emotional changes that come with pregnancy.</p>
-<p><strong><u>Next, there were the married, want children but have fertility issues.</u></strong> On
+<p><strong><u>Next, there were the married, who want children but have fertility issues.</u></strong> On
 the flip side, these were married couples who very much wanted children
 but were unable to conceive. They spoke candidly about the challenges encountered
 in their fertility journey, including only realising the problem very late,
@@ -109,7 +109,7 @@ They cannot be addressed by policy measures alone. What we need is a Marriage
 and Parenthood Reset – by which I mean a reset across society on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>How marriage and parenthood are viewed and supported;</p>
+<p>First, how marriage and parenthood are viewed and supported;</p>
 </li>
 <li>
 <p>Second, how workplaces can evolve to better align work and family; and</p>
@@ -225,11 +225,11 @@ for employees. MOM is also reviewing how we can better support job fractionalisa
 under the Tripartite Workgroup on Senior Employment. Having more fractionalised
 jobs will be helpful to parents seeking part-time work.</p>
 <p>Another important area spoken about is<strong> fertility health</strong>,
-as highlighted by several Members earlier. Later marriages and births are
-becoming more common. In 2024, the median age of mothers at first birth
-was around 32 years old. As both male and female fertility declines with
-age, more couples may face fertility challenges. Today, about 1 in 6 people
-globally experience infertility<sup>.1</sup>
+as highlighted by several Members earlier, including Ms Kuah Boon Theng.
+Later marriages and births are becoming more common. In 2024, the median
+age of mothers at first birth was around 32 years old. As both male and
+female fertility declines with age, more couples may face fertility challenges.
+Today, about 1 in 6 people globally experience infertility<sup>.1</sup>
 </p>
 <p>Many don’t know where to seek help or are fearful of stigma attached to
 doing so.</p>
@@ -254,7 +254,7 @@ Support SG<sup>3</sup>, which <strong>Ms Cassandra Lee </strong>highlighted.</p>
 </ul>
 <p>On <strong>Ms Valerie Lee’s </strong>suggestion on support through miscarriages,
 psychosocial support like counselling is available in public healthcare
-institutions. And We agree that more can be done, and will study her suggestions
+institutions, but we agree that more can be done, and will study her suggestions
 to see how we can better support those who experienced miscarriages. On <strong>Ms Elysa Chen’s </strong>suggestion
 to enhance postpartum support for parents, there are ongoing initiatives
 at the public maternity hospitals and polyclinics to provide perinatal
