@@ -36,8 +36,8 @@ is a significant drop from the TFR of 0.97 the year before, and much lower
 than the TFR of 1.24 just a decade ago.</p>
 <p>At the same time, our population is ageing faster than ever, with the
 baby boomer generation now in their 60s and beyond. Last year, 1 in 5 citizens
-was aged 65 and above, compared to 1 in 8 in 2015, just ten years ago.
-This is an existential challenge.</p>
+was aged 65 and above, compared to 1 in 8 in 2015, just ten years ago.</p>
+<p>This is an existential challenge.</p>
 <p>What does a TFR of 0.87 mean? Let me try to illustrate.</p>
 <p>Assuming our TFR stays at 0.87 – based on a simplistic calculation, for
 every 100 residents today, we will have just 44 children, and a mere 19
