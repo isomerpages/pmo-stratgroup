@@ -107,7 +107,7 @@ learning and other pursuits, at different stages of life.</p>
 We have taken a few important steps to prepare for an ageing society, but
 there is more to be done as our demographics continue to change. More people
 are expected to live longer, even past the age of 100. Today, Singapore
-is home to about 1,800 centenarians, up from about just 700 in 2010. So,
+is home to about 1,500 centenarians, up from about just 700 in 2010. So,
 we need to redesign societies that allow people to remain active, purposeful
 and connected throughout longer lives.
 <br>
