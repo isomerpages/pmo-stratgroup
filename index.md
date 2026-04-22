@@ -34,7 +34,7 @@ sections:
         and households, and provides benchmark data for other demographic,
         economic and social statistics. Census 2020 data is now available on
         DOS’s website.
-      url: https://www.singstat.gov.sg/whats-new/visualising-data
+      url: https://www.singstat.gov.sg/infographics/census-2020
       image: /images/census-web-banner-for-pmo.png
       alt: alt text
       button: Census 2020
