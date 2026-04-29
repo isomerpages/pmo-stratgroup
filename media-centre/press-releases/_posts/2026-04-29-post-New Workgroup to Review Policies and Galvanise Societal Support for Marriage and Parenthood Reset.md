@@ -78,9 +78,8 @@ aims to release a full report with consolidated findings early next year
 though it may also make early recommendations where appropriate prior to
 the issuance of the full report.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workgroup_Image__Press_Release_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M_P_Workgroup_Image.png">
 </div>
 <p>Please download the high-res photos <a href="https://drive.google.com/drive/folders/16Oi_FWZ1P3jRZvsZYSb_SU10poIhUFi1?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
