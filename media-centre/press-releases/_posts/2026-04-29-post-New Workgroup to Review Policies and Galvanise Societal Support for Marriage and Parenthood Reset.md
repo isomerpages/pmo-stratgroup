@@ -79,10 +79,8 @@ though it may also make early recommendations where appropriate prior to
 the issuance of the full report.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M_P_Workgroup_Image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workgroup__Press_Release_.png">
 </div>
-<p>Please download the high-res photos <a href="https://drive.google.com/drive/folders/16Oi_FWZ1P3jRZvsZYSb_SU10poIhUFi1?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>ANNEX</strong>
 </p>
 <p><strong><u>Statements from Workgroup Members</u></strong>
