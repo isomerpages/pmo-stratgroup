@@ -15,10 +15,7 @@ such as population and climate change. The Strategy Group expanded in August
 National Climate Change Secretariat (NCCS).</p>
 <h4>Mission Statement</h4>
 <p>Strategy Group leads and organises the Public Service to develop and implement
-the Government's strategic priorities.
-<br>
-</p>
-<h4>Organisational Structure</h4>
+the Government's strategic priorities.</p>
 <h4>Organisational Structure</h4>
 <p>Strategy Group is led by the Head of Civil Service/Permanent Secretary
 (Strategy) and a Deputy Secretary.</p>
