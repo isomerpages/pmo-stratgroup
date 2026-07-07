@@ -34,7 +34,7 @@ falling ill exceeds the current GPCL entitlements.
 <br>As employers only claim reimbursement for those who take more than three
 days of GPCL, we only have data for this group of parents. In 2023, the
 proportion of eligible working mothers and fathers who took more than three
-days of GPCL﻿ was 58% and 53% respectively. Of this group, the vast majority
+days of GPCL﻿ was 59% and 53% respectively. Of this group, the vast majority
 of mothers and fathers took all six days of GPCL each. Data for 2024 is
 not yet available.
 <br>
