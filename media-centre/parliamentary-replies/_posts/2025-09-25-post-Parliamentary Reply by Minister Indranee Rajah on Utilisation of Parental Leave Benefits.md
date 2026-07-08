@@ -26,7 +26,7 @@ Maternity Leave (GPML) between 2016 and 2023 remain high, ranging between
 74% and 79%. More than half of fathers took Government-Paid Paternity Leave
 (GPPL), with the proportion increasing from 47% in 2016 to 56% in 2023.</p>
 <p>The take-up rate of childcare leave by mothers has remained stable from
-56% in 2016 to 58% in 2023. The take-up rate of childcare leave by fathers
+56% in 2016 to 59% in 2023. The take-up rate of childcare leave by fathers
 has increased slightly from 49% in 2016 to 53% in 2023.</p>
 <p>The take-up rate for the new Shared Parental Leave (SPL) is not available
 yet as this has only just been implemented in April this year.&nbsp;</p>
