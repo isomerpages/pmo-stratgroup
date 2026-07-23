@@ -20,9 +20,9 @@ sections:
       description: Learn how our fellow citizens and businesses have progressed over
         the past two years.
       url: https://www.go.gov.sg/SPOR
-      image: /images/spor 2022 banner.png
+      image: /images/SPOR.jpg
       alt: alt text
-      button: SPOR 2022
+      button: SPOR 2024
   - resources:
       title: Latest News
       subtitle: Media Centre
