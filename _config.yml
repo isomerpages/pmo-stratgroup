@@ -1,0 +1,62 @@
+title: Strategy Group
+title-abbreviated: Strategy Group
+description: Driving whole-of-government strategic planning by identifying key
+  priorities and emerging issues over the medium to long-term
+url: https://www.strategygroup.gov.sg
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+future: true
+resources_name: media-centre
+paginate: 12
+paginate_path: /media-centre/page:num
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/favicon-stratgroup.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging.d2wkr7wvq8p5dt.amplifyapp.com/
+prod: https://master.d2wkr7wvq8p5dt.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+colors:
+  primary-color: "#A91e34"
+  secondary-color: "#004361"
+  media-colors:
+    - title: media-color-one
+      color: "#045C62"
+    - title: media-color-two
+      color: "#CF463F"
+    - title: media-color-three
+      color: "#71706F"
+    - title: media-color-four
+      color: "#B25C66"
+    - title: media-color-five
+      color: "#982649"
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
