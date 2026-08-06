@@ -28,14 +28,13 @@ aspirations.</p>
 our urgency to act. Last year, there were about 24,700 registered marriages,
 a 6.2% drop from 2024. Singapore recorded about 26,100 citizen births in
 2025, a 10.8% decrease from 29,200 in 2024.&nbsp;</p>
-<p>&nbsp;Hence, the Workgroup’s focus is to see how we can better support
-Singaporeans across the whole Marriage and Parenthood journey. To that
-end, we are developing a long-term roadmap to strengthen support for marriage
-and parenthood, mobilise whole-of-society action, and support a broader
-societal reset.</p>
-<p>&nbsp;Ms Chen has insightfully identified some of the key issues that
-influence M&amp;P decisions which are – time, care, work, and housing.
-Let me share how we are approaching these.</p>
+<p>Hence, the Workgroup’s focus is to see how we can better support Singaporeans
+across the whole Marriage and Parenthood journey. To that end, we are developing
+a long-term roadmap to strengthen support for marriage and parenthood,
+mobilise whole-of-society action, and support a broader societal reset.</p>
+<p>Ms Chen has insightfully identified some of the key issues that influence
+M&amp;P decisions which are – time, care, work, and housing. Let me share
+how we are approaching these.</p>
 <p><strong><u>Work-Life</u></strong>
 <br>First, work-life. Ms Chen called for more leave days to address the scarcity
 of time and the challenges faced by parents in managing work and caregiving
@@ -43,10 +42,10 @@ commitments. Other Members in this House, on both sides of the House, &nbsp;and
 members of public have also called for more leave days, such as childcare
 leave for those with more children or older children to cover school closure
 days and exigencies.</p>
-<p>&nbsp;We recently enhanced our parental leave provisions such that working
-parents now have a total of 30 weeks of paid parental leave to care for
-and bond with their infants. We are actively working on how we can provide
-more protected time for working parents, while managing the impact on business
+<p>We recently enhanced our parental leave provisions such that working parents
+now have a total of 30 weeks of paid parental leave to care for and bond
+with their infants. We are actively working on how we can provide more
+protected time for working parents, while managing the impact on business
 operations. We are engaging Tripartite Partners on this.&nbsp;</p>
 <p>However, providing leave alone is not enough. Workplace culture and norms
 have a strong impact on how well-supported parents feel at work, and whether
@@ -54,28 +53,28 @@ they are able to utilise their statutory leave provisions. Line managers
 and supervisors in particular, can make all the difference as they are
 the ones who approve such leave. How they do so and whether well managed
 covering arrangements are in place can make a big difference.</p>
-<p>&nbsp;Flexible work arrangements or FWAs are a key form of support. We
-implemented the Tripartite Guidelines on FWA Requests in December 2024,
-and will continue to work with Tripartite Partners to foster work-life
-friendly practices, and support employers in implementing them well.</p>
+<p>Flexible work arrangements or FWAs are a key form of support. We implemented
+the Tripartite Guidelines on FWA Requests in December 2024, and will continue
+to work with Tripartite Partners to foster work-life friendly practices,
+and support employers in implementing them well.</p>
 <p>&nbsp;While many associate FWAs with working from home, it is also much
 broader than that. There is also flexi-time and flexi-load. A recent CNA
 article found that flexi-time and flexi-load may matter much more for parents
 as it gives them the space to manage their work schedules in ways that
 best meet their responsibilities at work and at home. We will continue
 to push for these flexible arrangements to support parents better.</p>
-<p>&nbsp;To Ms Chen’s point on job redesign and part-time work, employers
-can tap on the Productivity Solutions Grant to offset the costs of adopting
-FWAs, and the SkillsFuture Workforce Development Grant (Job Redesign+)
-to engage consultancy services to support enterprise job redesign. &nbsp;They
-can also benefit from FWA implementation resources and training by Tripartite
+<p>To Ms Chen’s point on job redesign and part-time work, employers can tap
+on the Productivity Solutions Grant to offset the costs of adopting FWAs,
+and the SkillsFuture Workforce Development Grant (Job Redesign+) to engage
+consultancy services to support enterprise job redesign. &nbsp;They can
+also benefit from FWA implementation resources and training by Tripartite
 Partners and the Institute of Human Resource Professionals or IHRP, to
 better implement work-life friendly practices. &nbsp;</p>
-<p>&nbsp;Ms Chen also highlighted the challenges parents face in returning
-to work after parental leave, or after taking a temporary career break
-to focus on caring for their children. We agree that this is an important
-area that needs to be tackled.</p>
-<p>&nbsp;We have been enhancing measures to support career transitions, employment
+<p>Ms Chen also highlighted the challenges parents face in returning to work
+after parental leave, or after taking a temporary career break to focus
+on caring for their children. We agree that this is an important area that
+needs to be tackled.</p>
+<p>We have been enhancing measures to support career transitions, employment
 facilitation and reskilling. Examples include:</p>
 <p>&nbsp;a.&nbsp;&nbsp; Skills and Workforce Development Agency’s HerCareer
 initiative for women jobseekers, and career advisory and skills training
@@ -100,10 +99,10 @@ for 3Gen flats, which are specifically designed for extended families who
 wish to live under one roof.</p>
 <p>&nbsp;b.&nbsp;&nbsp;&nbsp; Flat owners may also apply to combine two adjoining
 3-room or smaller flats under the Conversion of Adjoining Flats Scheme.</p>
-<p>&nbsp;We also recently enhanced the Third Child Priority Scheme, which
-gives priority in BTO and SBF exercises to eligible families with three
-or more children.</p>
-<p>&nbsp;We are exploring what more we can do and will study Ms Chen’s suggestions
+<p>We also recently enhanced the Third Child Priority Scheme, which gives
+priority in BTO and SBF exercises to eligible families with three or more
+children.</p>
+<p>We are exploring what more we can do and will study Ms Chen’s suggestions
 as part of the Workgroup.</p>
 <p><strong><u>Healthcare</u></strong>
 <br>Ms Chen also mentioned Elective Egg Freezing or EEF. Today, women can
@@ -121,22 +120,20 @@ care places has nearly tripled, while the number of full-day childcare
 places nearly doubled. At the end of last year, we achieved our commitment
 of ensuring that 80% of preschoolers can have a place in a government-supported
 preschool.</p>
-<p>&nbsp;</p>
-<p>b.&nbsp;&nbsp;&nbsp; We have also enhanced preschool affordability for
-all. The industry median childcare fee before means-tested subsidies has
-fallen to $680 last year, compared to $760 in 2021.</p>
-<p>&nbsp;Applicants who are not working due to extenuating circumstances
-and need full-day childcare, can apply for special approval to receive
-subsidy support equivalent to what a working applicant can receive.</p>
+<p>&nbsp;b.&nbsp;&nbsp;&nbsp; We have also enhanced preschool affordability
+for all. The industry median childcare fee before means-tested subsidies
+has fallen to $680 last year, compared to $760 in 2021.</p>
+<p>Applicants who are not working due to extenuating circumstances and need
+full-day childcare, can apply for special approval to receive subsidy support
+equivalent to what a working applicant can receive.</p>
 <p>&nbsp;We will do more to support parents in caregiving, and will take
 Ms Chen’ suggestions into account.</p>
 <p>&nbsp;On ECDA’s infant childminding pilot, feedback from parents and childminders
 so far has been positive. The pilot concludes next year. We will review
 the learnings from the pilot in considering additional moves, and will
 bear Ms Chen’s suggestions in mind. &nbsp;</p>
-<p><strong><u>&nbsp;Supporting M&amp;P as a Shared National Effort</u></strong>
-</p>
-<p>Over and above policy moves, support for M&amp;P must be a whole of society
+<p><strong><u>Supporting M&amp;P as a Shared National Effort</u></strong>
+<br>Over and above policy moves, support for M&amp;P must be a whole of society
 effort. The Workgroup is looking at how we can bring on board all segments
 of society to participate in this.</p>
 <p>I am heartened that various groups will put forth their suggestions to
@@ -150,6 +147,5 @@ and help shape a Singapore where families are not only supported, but can
 truly flourish.
 <br>
 <br>Thank you.
-<br>
 <br>
 </p>
