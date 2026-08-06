@@ -16,7 +16,7 @@ sections:
       button: Who We Are
       url: /who-we-are/
   - infopic:
-      subtitle: Singapore Public Sector Outcomes Review 2022
+      subtitle: Singapore Public Sector Outcomes Review 2024
       description: Learn how our fellow citizens and businesses have progressed over
         the past two years.
       url: https://www.go.gov.sg/SPOR
