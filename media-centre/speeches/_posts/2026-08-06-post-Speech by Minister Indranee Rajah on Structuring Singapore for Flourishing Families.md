@@ -8,10 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
-<br><strong>ORAL REPLY<br>WEDNESDAY, 5 August 2026</strong>
-<br>
-<br>Mr Speaker, Sir, I thank Ms Elysa Chen for her Adjournment Motion on this
+<p>Mr Speaker, Sir, I thank Ms Elysa Chen for her Adjournment Motion on this
 important topic. Indeed, many of her observations are consistent with feedback
 we have received regarding marriage and parenthood.&nbsp;</p>
 <p><strong><u>Introduction</u></strong>
