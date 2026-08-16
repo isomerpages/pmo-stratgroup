@@ -82,8 +82,8 @@ the ones who will take the Singapore story forward.</p>
 <p>However, family formation is on a downward trend both globally and in
 Singapore.</p>
 <p>Last year, our Total Fertility Rate fell to 0.87, the lowest to date.
-In 2025, there were fewer than 30,000 live births<sup>1</sup> recorded for
-the first time in the past 60 years, and that is an 11.4% drop from 2024.</p>
+In 2025, there were fewer than 30,000 live births recorded for the first
+time in the past 60 years, and that is an 11.4% drop from 2024.</p>
 <p>At the same time, marriages have been declining. Last year, there were
 about 24,700 registered marriages, a 6.2% drop from 2024. With fewer marriages
 over the last few years, we are likely to see fewer births this year.</p>
@@ -130,6 +130,3 @@ are supported and cherished. Everyone has a role to play in this.</p>
 <p>So let’s heed the call of this year’s National Day theme. Together, let
 us go beyond, and build a Singapore where families can truly flourish.
 Majulah Singapura! Thank you very much.</p>
-<p></p>
-<p><sup>1</sup> This figure comprises resident (including citizen) and non-resident
-births.</p>
