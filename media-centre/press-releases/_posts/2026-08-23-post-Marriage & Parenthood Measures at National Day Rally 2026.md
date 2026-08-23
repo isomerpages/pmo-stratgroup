@@ -343,8 +343,7 @@ Package.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_194819.png">
 </div>
-<p>
-<br><em>*$16,000 reduction reflects the discontinuation of the Large Families Scheme which currently comprises the additional $5,000 CDA First Step Grant, $5,000 Large Family MediSave Grant (LFMG), and $6,000 Large Family LifeSG Credits (LFLC) ($1,000 disbursed annually over 6 years), for each third and subsequent child. The LFLC will be replaced by the Child Credits and extended to all birth orders. Large families will continue to receive additional support for healthcare expenses and we are reviewing how the LFMG can be repositioned to achieve this.</em>
+<p><em>*$16,000 reduction reflects the discontinuation of the Large Families Scheme which currently comprises the additional $5,000 CDA First Step Grant, $5,000 Large Family MediSave Grant (LFMG), and $6,000 Large Family LifeSG Credits (LFLC) ($1,000 disbursed annually over 6 years), for each third and subsequent child. The LFLC will be replaced by the Child Credits and extended to all birth orders. Large families will continue to receive additional support for healthcare expenses and we are reviewing how the LFMG can be repositioned to achieve this.</em>
 <br>
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 While the new Package will replace the Large Families Scheme, large families
