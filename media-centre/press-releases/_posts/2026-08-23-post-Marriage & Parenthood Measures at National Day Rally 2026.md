@@ -46,7 +46,7 @@ each working parent when their youngest child is aged 0 to 6, and 2 days
 of ECL when their youngest child is aged 7 to 12.</p>
 </li>
 </ul>
-<p>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The Government will also reimburse employers for the full duration of all child-related leave schemes <a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><u>[1] </u></a>, up to the reimbursement cap</strong>.
+<p>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The Government will also reimburse employers for the full duration of all child-related leave schemes<sup>[1]</sup>, up to the reimbursement cap</strong>.
 This will significantly reduce the cost borne by employers and support
 them in building work-life friendly workplaces where parents can take leave
 with greater confidence. Employees are encouraged to discuss leave plans
@@ -79,7 +79,6 @@ every Singapore Citizen child. It comprises:</p>
 with the higher expenses incurred at birth and in the child’s first year.</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>$32,000 Child Credits</strong> in cash, with $2,000 disbursed annually
@@ -197,19 +196,6 @@ work-life support, fertility and maternity health, relationship formation,
 and education.”</p>
 <p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The Workgroup will release a fuller set of recommendations in early 2027.</p>
-<p>&nbsp;– End –</p>
-<p>&nbsp;<strong>For media queries, please contact:</strong>
-</p>
-<p>Jeslyn Goh (Ms), Communications and Engagement Directorate,
-<br>Strategy Group, Prime Minister’s Office
-<br>Contact: 9728 3452 (HP) <a href="mailto:jeslyn_goh@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jeslyn_goh@pmo.gov.sg</u></a> (Email)</p>
-<p>Ng Liyan (Ms), Communications and Engagement Division
-<br>Ministry of Social and Family Development
-<br>Contact: 9151 1462 (HP) <a href="mailto:NG_Liyan@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>NG_Liyan@msf.gov.sg</u></a> (Email)</p>
-<p>&nbsp;Chan Yee Chun (Ms), Communications and Engagement Division
-<br>Ministry of Social and Family Development
-<br>Contact: 9739 4215 (HP) <a href="mailto:Chan_Yee_Chun@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Chan_Yee_Chun@msf.gov.sg</u></a> (Email)</p>
-<p></p>
 <hr>
 <p><a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> Child-related
 leave schemes comprise Government-Paid Maternity Leave (GPML), Government-Paid
@@ -304,8 +290,8 @@ raising their children.</p>
 Child Support Package, together with the continuation of existing support,
 will provide every eligible Singapore Citizen (SC) child with around $70,000,
 from birth to age 17, regardless of birth order. The Package replaces the
-financial support currently provided through the Baby Bonus Scheme<a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><u><sup>2</sup></u></a>and
-Large Families Scheme<a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><u><sup>3</sup></u></a>.</p>
+financial support currently provided through the Baby Bonus Scheme<sup>[2]</sup> and
+Large Families Scheme<sup>[3]</sup>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_201834.png">
@@ -331,12 +317,11 @@ First Step Grant, $5,000 Large Family MediSave Grant paid into the mother’s
 MediSave Account, and $6,000 Large Family LifeSG Credits ($1,000 disbursed
 annually over 6 years), for each third and subsequent child.
 <br>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The package provides the same support
-for every child regardless of birth order. To do this, the current Baby
-Bonus Scheme and Large Families Scheme components which differentiate by
-birth order will be repositioned or removed. Notwithstanding this, all
-birth orders (BOs) will receive more support under the SG Child Support
-Package.
+<br>The package provides the same support for every child regardless of birth
+order. To do this, the current Baby Bonus Scheme and Large Families Scheme
+components which differentiate by birth order will be repositioned or removed.
+Notwithstanding this, all birth orders (BOs) will receive more support
+under the SG Child Support Package.
 <br>
 <br>
 </p>
@@ -394,8 +379,8 @@ transport and housing. Details will be released at a later date. &nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Each eligible child will receive the same support of up to $62,000<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[4]</a>, regardless of
-birth order.</p>
+<p>Each eligible child will receive the same support of up to $62,000<sup>[4]</sup>,
+regardless of birth order.</p>
 <p>&nbsp;</p>
 <p>Large families will continue to receive additional support on top of the
 Package, in areas where they are likely to face a sharper increase in costs.</p>
@@ -502,7 +487,7 @@ year, will therefore cease, with no disbursements in 2027.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CDA and PSEA co-matching<a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u></a></strong>
+<p><strong>CDA and PSEA co-matching<sup>[5]</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,8 +534,8 @@ $5,000 co-matching cap from 1 Oct 2027.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Children born on or after 1 Jan 2015</u> will
-have their CDAs extended to the end of the year they turn age 16.</p>
+<p>·&nbsp;<u>Children born on or after 1 Jan 2015</u> will have their CDAs
+extended to the end of the year they turn age 16.</p>
 <p>&nbsp;</p>
 <p>·&nbsp;<u>Children born before 1 Jan 2015 </u>will continue to retain
 their PSEAs, as their CDAs would have closed by then.</p>
@@ -627,12 +612,11 @@ and education is maintained throughout the transition.</p>
 </p>
 <p>&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today,
 full preschool subsidies are only available to families where the main
-subsidy applicant is working<a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><u>[6]</u></a>.
-To ensure that all families can benefit from affordable preschool regardless
-of their employment circumstances, the Government will eventually extend
-full childcare and infant care subsidies to families with SC children regardless
-of the applicant’s working status. More details will be announced in early
-2027.</p>
+subsidy applicant is working<sup>[6]</sup>. To ensure that all families
+can benefit from affordable preschool regardless of their employment circumstances,
+the Government will eventually extend full childcare and infant care subsidies
+to families with SC children regardless of the applicant’s working status.
+More details will be announced in early 2027.</p>
 <p><strong>&nbsp;Continued Expansion of Government-Supported Preschool</strong>
 </p>
 <p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
@@ -648,4 +632,4 @@ ready.</p>
 <p><a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[6]</u></a> Working
 main applicant refers to the mother (or single father for divorced, separation
 or widowed cases) who works at least 56 hours per month. This includes
-full-time, part-time and freelance work arrangem</p>
+full-time, part-time and freelance work arrangements.</p>
