@@ -197,16 +197,29 @@ and education.”</p>
 <p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The Workgroup will release a fuller set of recommendations in early 2027.</p>
 <hr>
-<p><a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> Child-related
-leave schemes comprise Government-Paid Maternity Leave (GPML), Government-Paid
-Paternity Leave (GPPL), Government-Paid Adoption Leave (GPAL), Shared Parental
-Leave (SPL), Childcare Leave (CCL), Extended Childcare Leave (ECL), and
-Unpaid Infant Care Leave. The Government currently does not reimburse the
-first 8 weeks of the 16-week GPML (for the 1<sup>st</sup> and 2<sup>nd</sup> child
-orders), the first 4 weeks of the 12-week GPAL (for the 1<sup>st</sup> and
-2<sup>nd</sup> child orders), and the first 3 days of the 6-day CCL. The
-Government already reimburses for the full duration of GPPL, SPL and ECL.
-<br><strong><br>Annex A</strong>
+<p><sup>[1]</sup> Child-related leave schemes comprise Government-Paid Maternity
+Leave (GPML), Government-Paid Paternity Leave (GPPL), Government-Paid Adoption
+Leave (GPAL), Shared Parental Leave (SPL), Childcare Leave (CCL), Extended
+Childcare Leave (ECL), and Unpaid Infant Care Leave. The Government currently
+does not reimburse the first 8 weeks of the 16-week GPML (for the 1<sup>st</sup> and
+2<sup>nd</sup> child orders), the first 4 weeks of the 12-week GPAL (for
+the 1<sup>st</sup> and 2<sup>nd</sup> child orders), and the first 3 days
+of the 6-day CCL. The Government already reimburses for the full duration
+of GPPL, SPL and ECL.
+<br><strong><br></strong>– End –</p>
+<p>&nbsp;<strong>For media queries, please contact:</strong>
+</p>
+<p>Jeslyn Goh (Ms), Communications and Engagement Directorate,
+<br>Strategy Group, Prime Minister’s Office
+<br>Contact: 9728 3452 (HP) <a href="mailto:jeslyn_goh@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeslyn_goh@pmo.gov.sg</a> (Email)</p>
+<p>Ng Liyan (Ms), Communications and Engagement Division
+<br>Ministry of Social and Family Development
+<br>Contact: 9151 1462 (HP) <a href="mailto:NG_Liyan@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Liyan@msf.gov.sg</a> (Email)</p>
+<p>Chan Yee Chun (Ms), Communications and Engagement Division
+<br>Ministry of Social and Family Development
+<br>Contact: 9739 4215 (HP) <a href="mailto:Chan_Yee_Chun@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_Yee_Chun@msf.gov.sg</a> (Email)</p>
+<p>&nbsp;
+<br><strong>Annex A</strong>
 <br>
 <br><strong><u>Enhancements to Child-Related Leave Provisions</u></strong>
 </p>
@@ -216,7 +229,6 @@ Government already reimburses for the full duration of GPPL, SPL and ECL.
 is aged 6 years and below has 6 days of CCL a year. A working parent whose
 youngest SC child is aged 7 to 12 has 2 days of Extended Childcare Leave
 (ECL) a year.
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -303,26 +315,25 @@ below illustrates what each eligible SC child will receive under the SG
 Child Support Package compared with the current support provided through
 the Baby Bonus Scheme and Large Families Scheme, by birth order.
 <br>
-<br>[2] The Baby Bonus Scheme comprises a Baby Bonus Cash Gift (BBCG) disbursed
-from age 0 to 6.5, and Child Development Account (CDA) monies ringfenced
-for uses such as preschool and healthcare. All children receive a $5,000
-CDA First Step Grant at birth. Parents who save into the CDA receive Government
-co-matching up to a cap. Children of higher birth orders (BO) receive higher
-BBCG and have higher co-matching caps. BO1 and BO2 children receive $11,000
-in BBCG; and BO3 and higher children $13,000. The CDA co-matching caps
-are: BO1 - $4,000; BO2 - $7,000; BO3 and BO4 - $9,000; BO5 and higher -
-$15,000.</p>
-<p>&nbsp;[3] The Large Families Scheme comprises an additional $5,000 CDA
-First Step Grant, $5,000 Large Family MediSave Grant paid into the mother’s
-MediSave Account, and $6,000 Large Family LifeSG Credits ($1,000 disbursed
-annually over 6 years), for each third and subsequent child.
+<br><sup>[2]</sup> The Baby Bonus Scheme comprises a Baby Bonus Cash Gift (BBCG)
+disbursed from age 0 to 6.5, and Child Development Account (CDA) monies
+ringfenced for uses such as preschool and healthcare. All children receive
+a $5,000 CDA First Step Grant at birth. Parents who save into the CDA receive
+Government co-matching up to a cap. Children of higher birth orders (BO)
+receive higher BBCG and have higher co-matching caps. BO1 and BO2 children
+receive $11,000 in BBCG; and BO3 and higher children $13,000. The CDA co-matching
+caps are: BO1 - $4,000; BO2 - $7,000; BO3 and BO4 - $9,000; BO5 and higher
+- $15,000.</p>
+<p><sup>&nbsp;[3]</sup> The Large Families Scheme comprises an additional
+$5,000 CDA First Step Grant, $5,000 Large Family MediSave Grant paid into
+the mother’s MediSave Account, and $6,000 Large Family LifeSG Credits ($1,000
+disbursed annually over 6 years), for each third and subsequent child.
 <br>
 <br>The package provides the same support for every child regardless of birth
 order. To do this, the current Baby Bonus Scheme and Large Families Scheme
 components which differentiate by birth order will be repositioned or removed.
 Notwithstanding this, all birth orders (BOs) will receive more support
 under the SG Child Support Package.
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -381,9 +392,9 @@ transport and housing. Details will be released at a later date. &nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Each eligible child will receive the same support of up to $62,000<sup>[4]</sup>,
 regardless of birth order.</p>
-<p>&nbsp;</p>
-<p>Large families will continue to receive additional support on top of the
-Package, in areas where they are likely to face a sharper increase in costs.</p>
+<p>&nbsp;Large families will continue to receive additional support on top
+of the Package, in areas where they are likely to face a sharper increase
+in costs.</p>
 </td>
 </tr>
 <tr>
@@ -414,15 +425,11 @@ and less dependent on parents’ ability to save into the CDA.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[4]</a> In
-addition to the $62,000, every SC child also receives a $5,000 Medisave
-Grant for Newborns at birth and annual Edusave top-ups which add up to
-around $2,500 across primary and secondary school. Together, these provide
-around $70,000 of direct financial support for every SC child.
+<p><sup> [4]</sup> In addition to the $62,000, every SC child also receives
+a $5,000 Medisave Grant for Newborns at birth and annual Edusave top-ups
+which add up to around $2,500 across primary and secondary school. Together,
+these provide around $70,000 of direct financial support for every SC child.
 <br>
 <br><strong>Implementation and Transition Arrangements</strong>
 </p>
@@ -467,21 +474,19 @@ to bring their total amount of support to $10,000, if applicable.</p>
 <td rowspan="1" colspan="1">
 <p>· <u>2026 Child Credits</u>: Children turning 1 to 16 in 2026 will receive
 their 2026 Child Credits of $2,000 by 30 Apr 2027.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>2027 Child Credits</u>: Children
-whose birthdays fall between January and April will receive their 2027
-Child Credits of $2,000 by 30 Apr 2027, while those whose birthdays fall
-between May and December will receive their Child Credits on their birthdays.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;<u>2028 and future Child Credits</u>: Children will receive
-their Child Credits of $2,000 annually on their birthdays until the year
-they turn 16.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;The Child Credits represent an enhancement of the current Large
-Family LifeSG Credits (LFLC), with a larger total quantum of $32,000 disbursed
-over a longer period, and extended to all birth orders instead of only
-to the third and subsequent child. The LFLC, currently paid in April each
-year, will therefore cease, with no disbursements in 2027.</p>
+<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>2027 Child Credits</u>:
+Children whose birthdays fall between January and April will receive their
+2027 Child Credits of $2,000 by 30 Apr 2027, while those whose birthdays
+fall between May and December will receive their Child Credits on their
+birthdays.</p>
+<p>&nbsp;·&nbsp;&nbsp;<u>2028 and future Child Credits</u>: Children will
+receive their Child Credits of $2,000 annually on their birthdays until
+the year they turn 16.</p>
+<p>&nbsp;·&nbsp;The Child Credits represent an enhancement of the current
+Large Family LifeSG Credits (LFLC), with a larger total quantum of $32,000
+disbursed over a longer period, and extended to all birth orders instead
+of only to the third and subsequent child. The LFLC, currently paid in
+April each year, will therefore cease, with no disbursements in 2027.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -497,20 +502,16 @@ year, will therefore cease, with no disbursements in 2027.</p>
 <p>·&nbsp;&nbsp;<u>Children born on or after 1 Apr 2027</u> will receive $5,000
 CDA First Step Grant (FSG) and be eligible for the CDA Government co-matching
 contributions up to the uniform cap of $5,000.</p>
-<p><em>&nbsp;</em>
-</p>
-<p>·&nbsp;The additional CDA FSG of $5,000 under the previous Large Families
-Scheme will be discontinued from 1 Apr 2027.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;<u>For children born between 1 Jan 2015 and 31 Mar 2027</u> (i.e.,
+<p><em>&nbsp;</em>·&nbsp;The additional CDA FSG of $5,000 under the previous
+Large Families Scheme will be discontinued from 1 Apr 2027.</p>
+<p>&nbsp;·&nbsp;<u>For children born between 1 Jan 2015 and 31 Mar 2027</u> (i.e.,
 turning 1 to 12 in 2027, or born in 2027 before start of uniform cap):</p>
 <p>o&nbsp;&nbsp; Their existing CDA co-matching caps will be retained until
 30 Sep 2027 to give families time to save more in the CDAs to receive the
 Government co-matching contributions.</p>
 <p>o&nbsp;&nbsp; Their CDA Government co-matching cap will be adjusted to
 the uniform cap of $5,000 from 1 Oct 2027.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;<u>For children born between 1 Jan 2009 and 31 Dec 2014</u> (i.e.,
+<p>&nbsp;·&nbsp;&nbsp;<u>For children born between 1 Jan 2009 and 31 Dec 2014</u> (i.e.,
 turning 13 to 18 in 2027), their eligibility for PSEA co-matching, if applicable,
 remains unchanged (i.e. they may receive co-matching on PSEA until the
 day before their 18<sup>th</sup> birthday):</p>
@@ -518,8 +519,8 @@ day before their 18<sup>th</sup> birthday):</p>
 30 Sep 2027.</p>
 <p>o&nbsp;&nbsp; Their PSEA co-matching cap will be adjusted to the uniform
 $5,000 co-matching cap from 1 Oct 2027.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;PSEA co-matching will cease for new PSEAs opened from 1 Jan 2028.</p>
+<p>&nbsp;·&nbsp;PSEA co-matching will cease for new PSEAs opened from 1 Jan
+2028.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -536,8 +537,7 @@ $5,000 co-matching cap from 1 Oct 2027.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;<u>Children born on or after 1 Jan 2015</u> will have their CDAs
 extended to the end of the year they turn age 16.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;<u>Children born before 1 Jan 2015 </u>will continue to retain
+<p>&nbsp;· <u>Children born before 1 Jan 2015 </u>will continue to retain
 their PSEAs, as their CDAs would have closed by then.</p>
 <p>&nbsp;</p>
 </td>
@@ -555,19 +555,17 @@ their PSEAs, as their CDAs would have closed by then.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;<u>Children turning 17 in 2026</u> will receive the $10,000
 top-up in Jun 2027.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;<u>Children turning 17 from 2027</u> will receive the $10,000 top-up
-in Jun of the year they turn 17.</p>
-<p>&nbsp;</p>
+<p>&nbsp;·&nbsp;<u>Children turning 17 from 2027</u> will receive the $10,000
+top-up in Jun of the year they turn 17.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p><a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u></a> The
-PSEA allows parents to continue receiving dollar-for-dollar Government
-co-matching contributions before the child turns 18, if they have not met
-the CDA co-matching cap before the CDA closes.</p>
+<p> <sup>[5]</sup>The PSEA allows parents to continue receiving dollar-for-dollar
+Government co-matching contributions before the child turns 18, if they
+have not met the CDA co-matching cap before the CDA closes.</p>
 <p></p>
 <p><strong>Annex C</strong>
 <br>
@@ -597,7 +595,6 @@ care fees will be reduced to $300 per month before means-testing.</p>
 <p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These
 fees will be less than half of today’s fees. Lower-income families will
 continue to pay even lower means-tested fees.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_202925.png">
 </div>
@@ -629,7 +626,6 @@ Government will also ramp up the number of infant care spaces available
 and expand the infant educator workforce. More details will be shared when
 ready.</p>
 <hr>
-<p><a href="https://cms.isomer.gov.sg/sites/pmo-nptd/resourceRoom/media-centre/resourceCategory/press-releases/editPage/2026-08-23-post-Marriage%20%26%20Parenthood%20Measures%20at%20National%20Day%20Rally%202026.md#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[6]</u></a> Working
-main applicant refers to the mother (or single father for divorced, separation
-or widowed cases) who works at least 56 hours per month. This includes
-full-time, part-time and freelance work arrangements.</p>
+<p><sup>[6]</sup>Working main applicant refers to the mother (or single father
+for divorced, separation or widowed cases) who works at least 56 hours
+per month. This includes full-time, part-time and freelance work arrangements.</p>
