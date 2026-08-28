@@ -117,14 +117,14 @@ their relationship; and families as well.</p>
 <p>Singaporeans love their food, so F&amp;B places are really where they
 hang out. You are very important social connectors. You provide places
 where people can meet, build relationships and where families can thrive.
-All<a rel="noopener noreferrer nofollow" target="_blank"> </a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TL1]</a>&nbsp;of
-this would not be possible without your teams. So I just want to encourage
-all of you—whether you run restaurants or other places where people come
-together—to think about how to make them more family-friendly. In my focus
-group discussions, many families tell me that there are not enough places
-that are family-friendly and cater to young children, or sometimes also
-to persons with disabilities and the elderly. If you want the entire family
-to come out together, then the restaurants or food courts must be family-friendly.</p>
+All of this would not be possible without your teams. So I just want to
+encourage all of you—whether you run restaurants or other places where
+people come together—to think about how to make them more family-friendly.
+In my focus group discussions, many families tell me that there are not
+enough places that are family-friendly and cater to young children, or
+sometimes also to persons with disabilities and the elderly. If you want
+the entire family to come out together, then the restaurants or food courts
+must be family-friendly.</p>
 <p><strong>The Marriage and Parenthood Reset</strong>
 </p>
 <p>And this connects to a larger national issue.</p>
