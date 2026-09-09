@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p><strong>WRITTEN REPLY</strong>
 </p>
-<p><strong>TUESDAY, 8 August 2026</strong>
+<p><strong>TUESDAY, 8 September 2026</strong>
 </p>
 <p><strong>Ms Yeo Wan Ling</strong>
 </p>
