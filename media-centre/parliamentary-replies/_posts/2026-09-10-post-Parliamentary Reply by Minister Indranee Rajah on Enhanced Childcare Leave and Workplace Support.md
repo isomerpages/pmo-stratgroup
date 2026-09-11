@@ -43,7 +43,8 @@ family values, whether the Ministry will consider publishing a clear set
 of criteria that employers must meet to be accredited and eligible to display
 the mark, including expectations relating to family-friendly workplace
 practices and norms in the workplace.</p>
-<p><strong>Ms Indranee Rajah (for the Prime Minister)</strong>:</p>
+<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
+</p>
 <p>Mr Speaker, may I have your permission to answer the Parliamentary Questions
 filed by Mr Andre Low, Ms Poh Li San, Mr Lee Hong Chuang and Ms Cassandra
 Lee in today’s Order Paper together.</p>
