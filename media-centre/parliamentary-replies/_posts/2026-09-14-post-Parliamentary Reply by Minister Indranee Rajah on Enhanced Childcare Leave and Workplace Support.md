@@ -42,17 +42,17 @@ for Families” mark enables companies to identify themselves as championing
 family values, whether the Ministry will consider publishing a clear set
 of criteria that employers must meet to be accredited and eligible to display
 the mark, including expectations relating to family-friendly workplace
-practices and norms in the workplac</p>
-<p><strong>Ms Indranee Rajah (for the Prime Minister)</strong>
+practices and norms in the workplace.</p>
+<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
 <p>Mr Speaker, may I have your permission to answer the Parliamentary Questions
 filed by Mr Andre Low, Ms Poh Li San, Mr Lee Hong Chuang and Ms Cassandra
-Lee in today’s Order Paper together.As announced by the Prime Minister
-at the National Day Rally, the Government will enhance child-related leave,
-financial support, caregiving and housing measures to provide greater confidence
-and assurance to Singaporeans in starting and raising families. These enhancements
-are the first set of recommendations from the Marriage and Parenthood (M&amp;P)
-Reset Workgroup.</p>
+Lee in today’s Order Paper together.</p>
+<p>As announced by the Prime Minister at the National Day Rally, the Government
+will enhance child-related leave, financial support, caregiving and housing
+measures to provide greater confidence and assurance to Singaporeans in
+starting and raising families. These enhancements are the first set of
+recommendations from the Marriage and Parenthood (M&amp;P) Reset Workgroup.</p>
 <p>Parents have asked when the Childcare Leave (CCL) enhancements will take
 effect. This will take some time. Legislative amendments are required,
 and we are working with our tripartite partners on the implementation details.
@@ -70,16 +70,17 @@ to recognise and accept that leave for caregiving needs, such as parental
 leave, is now part and parcel of normal HR policy and for them to plan
 and design their workplace norms and practices around this. This would
 include job redesign, flexible work arrangements, short-term covering arrangements
-and where appropriate, AI and automation.All employees, not only parents
-with children, but also singles and married persons without children will
-benefit from improved workplace culture and norms that help them to better
-balance work and personal responsibilities, including caregiving needs.
-To this end, we are working with employers, tripartite partners and other
-stakeholders to foster work-life friendly practices and will study Ms Cassandra
-Lee’s suggestion for an accreditation mark to recognise work-life friendly
-workplaces. Specific to CCL, we track CCL take-up rates among parents,
-which are based on employer claims, and publish them annually in MSF’s
-Family Trends Report. We will also identify barriers companies face in
-facilitating leave-taking to develop practical solutions that are tailored
-to the needs of different sectors and firms to address these.</p>
+and where appropriate, AI and automation.</p>
+<p>All employees, not only parents with children, but also singles and married
+persons without children will benefit from improved workplace culture and
+norms that help them to better balance work and personal responsibilities,
+including caregiving needs. To this end, we are working with employers,
+tripartite partners and other stakeholders to foster work-life friendly
+practices and will study Ms Cassandra Lee’s suggestion for an accreditation
+mark to recognise work-life friendly workplaces. Specific to CCL, we track
+CCL take-up rates among parents, which are based on employer claims, and
+publish them annually in MSF’s Family Trends Report. We will also identify
+barriers companies face in facilitating leave-taking to develop practical
+solutions that are tailored to the needs of different sectors and firms
+to address these.</p>
 <p>The Workgroup will share its full set of recommendations in early 2027.</p>
